@@ -1,13 +1,22 @@
 ---
-Ticker: LNF
-Bolsa: TSX (Toronto Stock Exchange)
-Web: https://www.lflgroup.ca/English/investors/
-Tesis Daniel Smoak: https://drive.google.com/file/d/1WiXJhKH5a5F2ObTRGJQvaCijC17pVKAh/view?usp=sharing
-Tesis Value Investors Club (BrotherCostanza): https://www.valueinvestorsclub.com/idea/LEONS_FURNITURE_LTD/2942996063
-Tesis Arte de Invertir: https://www.youtube.com/watch?v=Vhg-Ep74BBc&t=2205s
 title: Leon's Furniture Ltd - LNF
 date: 2024-08-23
 ---
+<table style="width:100%">
+  <tr>
+    <th>Bolsa</th>
+    <td>TSX (Toronto Stock Exchange)</td>
+  </tr>
+  <tr>
+    <th>Ticker</th>
+    <td>LNF</td>
+  </tr>
+  <tr>
+    <th>Web</th>
+    <td><a href="https://www.lflgroup.ca/English/investors/" target="_blank">LFL Group - Investor Relations</a></td>
+  </tr>
+</table>
+
 ## Resumen
 
 Leon's Furniture es el *retailer* más grande de Canadá, con más de 100 años de historia. Es el líder del mercado, generando ingresos y *cash flow* de forma consistente cada año desde 2002. Actualmente cotiza a PER 15 (NTM), cuando una compañía comparable como Sleep Country se ha adquirido a PER 17. **Sin embargo, lo realmente atractivo de esta compañía es su intención de hacer un *spin out* de todas sus propiedades inmobiliarias para que sean gestionadas en forma de REIT. Toda la parte de *real estate* está recogida a precio de coste en sus libros, cuando dichas propiedades fueron compradas hace décadas. La creación del REIT forzaría la valoración de todo el *real estate* a precio de mercado, desbloqueando su valor real.** 
@@ -75,6 +84,12 @@ $$
 En un escenario aún más conservador, se podría supone que todas las propiedades se encuentran en London (Ontario), la zona cuyo alquiler por pie cuadrado es más baja, de 9,57$/sq ft., y obtendríamos un precio por acción de 10-13 dólares frente a los 2,77 dólares por acción que suponen en el precio actual. En realidad, sus propiedades están repartidas por todo el país, por lo que esta aproximación es directamente imposible.
 ## Directiva
 
+## Referencias
 
+- [Tesis Daniel Smoak](https://drive.google.com/file/d/1WiXJhKH5a5F2ObTRGJQvaCijC17pVKAh/view?usp=sharing)
+- [Tesis Value Investors Club (BrotherCostanza)](https://www.valueinvestorsclub.com/idea/LEONS_FURNITURE_LTD/2942996063)
+- [Tesis Arte de Invertir](https://www.youtube.com/watch?v=Vhg-Ep74BBc&t=2205s)
+- [Greystone CM on Leon's Furniture](https://www.greystonevalue.com/_files/ugd/47fd79_bec1ec9abe1146d19c27c1a121a062e0.pdf)
+- [Leons Furniture (LNF CN) by Canadian Value Stocks (Newsletter)](https://canadianvaluestocks.substack.com/p/leons-furniture?utm_source=post-email-title&publication_id=1091190&post_id=151340985&utm_campaign=email-post-title&isFreemail=true&r=2l3vu6&triedRedirect=true&utm_medium=email)
 
 
