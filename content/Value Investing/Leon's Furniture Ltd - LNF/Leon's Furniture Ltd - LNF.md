@@ -2,7 +2,7 @@
 title: Leon's Furniture Ltd - LNF
 date: 2024-08-23
 ---
-<table style="width:100%">
+<table style="width:75%">
   <tr>
     <th>Bolsa</th>
     <td>TSX (Toronto Stock Exchange)</td>
