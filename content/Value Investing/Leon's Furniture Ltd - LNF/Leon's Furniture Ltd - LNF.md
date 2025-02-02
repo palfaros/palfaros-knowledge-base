@@ -30,6 +30,12 @@ Esta empresa cotiza en la bolsa de Toronto: TSE (*Toronto Stock Exchange*). Por 
 
 ## Historia
 
+Leon's Furniture es una empresa minorista (*retailer*) de venta de muebles con 110 años de historia. Actualmente, es el *retailer* más grande de Canadá. Es la empresa líder en venta de muebles (*furniture*), venta de electrodomésticos (*appliances*) y es la segunda en venta de colchones (*mattresses*). La empresa es propiedad de la familia Leon, manteniendo la propiedad y el control desde su fundación en 1909 por Ablan Leon. La familia ha hecho crecer el negocio de forma extraordinaria, pasando de una única tienda en una esquina en Welland (Ontario) en 1909 a una cadena de 302 tiendas repartidas por el país que generan 2.500 millones de dólares (USD) al año en ventas.
+
+La mayor parte de las tiendas (202) son propiedad del grupo, siendo el resto franquicias. Las franquicias han permitido la entrada de Leon's en poblaciones más pequeñas con áreas de operación de gran calidad en la que otros *retailers* no habían tenido éxito.
+
+En 2013, el grupo decidió comprar su máximo competidor: [The Brick](https://www.thebrick.com/).  Desde entonces, las ventas se han triplicado. La adquisición permitió escalar el negocio significativamente, crecimiento de los ingresos (*top-line growth*) y diversificación geográfica.
+
 - [Leon's through the years](https://www.theglobeandmail.com/report-on-business/leons-through-the-years/article5212852/)
 - [1979 Annual Report](https://digital.library.mcgill.ca/images/hrcorpreports/pdfs/6/632899.pdf)
 - [Leon’s Furniture: Half A Billion And Growing](https://www.furninfo.com/furniture-world-archives/3759)
