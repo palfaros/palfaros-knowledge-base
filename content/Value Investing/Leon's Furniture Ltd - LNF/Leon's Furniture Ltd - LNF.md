@@ -34,7 +34,9 @@ Leon's Furniture es una empresa minorista (*retailer*) de venta de muebles con 1
 
 La mayor parte de las tiendas (202) son propiedad del grupo, siendo el resto franquicias. Las franquicias han permitido la entrada de Leon's en poblaciones más pequeñas con áreas de operación de gran calidad en la que otros *retailers* no habían tenido éxito.
 
-![[LNF_Ablan_Leon.jpeg]]
+<div style="text-align: center;">
+	<img src="LNF_Ablan_Leon.jpeg" alt="Texto alternativo" width="400">
+</div>
 
 Ablan Leon, fundador de Leon, comenzó su vida empresarial como vendedor puerta a puerta, vendiendo ropa desde una maleta. Para 1909, había ahorrado lo suficiente para abrir una pequeña tienda de productos generales, donde vendía ropa, zapatos y otros artículos similares. Más tarde, amplió su negocio hacia muebles, colchones y electrodomésticos.
 
