@@ -34,11 +34,31 @@ Leon's Furniture es una empresa minorista (*retailer*) de venta de muebles con 1
 
 La mayor parte de las tiendas (202) son propiedad del grupo, siendo el resto franquicias. Las franquicias han permitido la entrada de Leon's en poblaciones más pequeñas con áreas de operación de gran calidad en la que otros *retailers* no habían tenido éxito.
 
-<div style="text-align: center;">
-	<img src="LNF_Ablan_Leon.jpeg" alt="Texto alternativo" width="400">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+	<img src="LNF_Ablan_Leon.jpeg" alt="Ablan Leon portrait" style="max-width: 100%; height: auto;" width="500">
 </div>
 
 Ablan Leon, fundador de Leon, comenzó su vida empresarial como vendedor puerta a puerta, vendiendo ropa desde una maleta. Para 1909, había ahorrado lo suficiente para abrir una pequeña tienda de productos generales, donde vendía ropa, zapatos y otros artículos similares. Más tarde, amplió su negocio hacia muebles, colchones y electrodomésticos.
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+	<img src="LNF_Ablan_Leon_2.avif" alt="Ablan Leon in his first store" style="max-width: 100%; height: auto;" width="500"> 
+</div>
+
+Ablan, que había emigrado a Canadá en busca de una vida mejor, construyó una leal base de clientes de clase trabajadora gracias a los préstamos que él mismo concedía a otros inmigrantes que acababan de llegar al país.
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+	<img src="LNF_Truck_First_Store.avif" alt="Leon's first store address" style="max-width: 100%; height: auto;" width="500"> 
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+	<img src="LNF_Trucks.avif" alt="Leon's truck" style="max-width: 100%; height: auto;" width="500"> 
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+	<img src="LNF_First_Store.avif" alt="Leon's first store" style="max-width: 100%; height: auto;" width="500"> 
+</div>
+
+La empresa A. Leon Co. Ltd. abrió la primera tienda en Welland (Ontario). Welland era la ciudad más grande en el Canal Welland, por lo que era una ciudad próspera. Comenzó como una tienda genérica pero, cuando el fundador de la compañía descubrió que el margen de beneficio era mayor en los colchones, decidió diversificarse.
 
 En 2013, el grupo decidió comprar su máximo competidor: [The Brick](https://www.thebrick.com/).  Desde entonces, las ventas se han triplicado. La adquisición permitió escalar el negocio significativamente, crecimiento de los ingresos (*top-line growth*) y diversificación geográfica.
 
