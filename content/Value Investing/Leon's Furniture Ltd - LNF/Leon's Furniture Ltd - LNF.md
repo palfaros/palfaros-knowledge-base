@@ -76,7 +76,7 @@ A lo largo de la década de los 60, Leon's abrió tiendas en todo el sur de Onta
 	<img src="LNF_First_Big_Box_Store.avif" alt="Leon's first big box store" style="max-width: 100%; height: auto;" width="500"> 
 </div>
 
-En 1969 la compañía salió a bolsa en el *Toronto Stock Exchange (TSE)*, donde sigue cotizando a día de hoy. El nuevo capital les permitió iniciar la construcción su primera gran tienda (*big box*) en Weston, Ontario, que abrió en 1973.
+En 1969 la compañía salió a bolsa en el *Toronto Stock Exchange (TSE)*, donde sigue cotizando a día de hoy. El nuevo capital les permitió iniciar la construcción su primera gran superficie (*big box*) en Weston (Ontario) que abrió en 1973.
 
 En 2013, el grupo decidió comprar su máximo competidor: [The Brick](https://www.thebrick.com/).  Desde entonces, las ventas se han triplicado. La adquisición permitió escalar el negocio significativamente, crecimiento de los ingresos (*top-line growth*) y diversificación geográfica.
 
