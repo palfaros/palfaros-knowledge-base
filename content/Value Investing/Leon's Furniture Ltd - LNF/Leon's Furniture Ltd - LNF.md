@@ -92,6 +92,10 @@ En 2004 la compañía contaba con más de 2000 empleados y 49 tiendas repartidas
 
 En 2013, el grupo decidió comprar su máximo competidor: [The Brick](https://www.thebrick.com/).  Desde entonces, las ventas se han triplicado. La adquisición permitió escalar el negocio significativamente, crecimiento de los ingresos (*top-line growth*) y diversificación geográfica.
 
+Un punto negativo en el exitoso negocio familiar de Leon’s Furniture Ltd. ha sido la disputa legal que surgió tras el fallecimiento de Tom Leon Jr en 2016. Su viuda, Anita Leon, demandó a sus cuñados Terry, Robert y Kevin Leon, acusándolos de apropiarse de acciones familiares que, según ella, pertenecían a la herencia de su esposo. La disputa, que involucró un complejo fideicomiso establecido en 1998 para optimizar impuestos y preservar el control familiar de la empresa, dividió a la familia y llevó el conflicto a los tribunales.
+
+La información anterior se ha extraído de las siguientes referencias, que se pueden consultar para obtener más detalles:
+
 - [Leon's through the years](https://www.theglobeandmail.com/report-on-business/leons-through-the-years/article5212852/)
 - [1979 Annual Report](https://digital.library.mcgill.ca/images/hrcorpreports/pdfs/6/632899.pdf)
 - [Leon’s Furniture: Half A Billion And Growing](https://www.furninfo.com/furniture-world-archives/3759)
