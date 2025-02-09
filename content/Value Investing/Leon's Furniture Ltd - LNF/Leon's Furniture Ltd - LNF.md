@@ -104,7 +104,18 @@ En 2002, Terry Leon, hijo de Tom Leon Sr y nieto de Ablan Leon, se convirtió en
 
 En 2004 la compañía contaba con más de 2000 empleados y 49 tiendas repartidas por 9 de las 10 provincias de Canadá.
 
-En 2013, el grupo decidió comprar su máximo competidor: [The Brick](https://www.thebrick.com/).  Desde entonces, las ventas se han triplicado. La adquisición permitió escalar el negocio significativamente, crecimiento de los ingresos (*top-line growth*) y diversificación geográfica.
+En 2013, el grupo decidió comprar su máximo competidor, [The Brick](https://www.thebrick.com/), por [700 millones de dólares](https://www.lexpert.ca/big-deals/leons-completes-700m-acquisition-of-the-brick/347756).  Desde entonces, las ventas se han triplicado. La adquisición permitió escalar el negocio significativamente, crecimiento de los ingresos (*top-line growth*) y diversificación geográfica.
+
+En 2016 el grupo adquirió 8 grandes tiendas pertenecientes a la difunta Sears Canada. Este movimiento permitió al grupo la apertura de su primera tienda en la provincia de British Columbia.
+
+En la actualidad, Leon's Furniture Ltd es la empresa matriz de LFL Group y cuenta con las siguientes subsidiarias:
+- [The Brick](https://www.thebrick.com/) Adquirida en 2013 por 700 millones de dólares
+- [Appliance Canada](https://www.appliancecanada.com/): Adquirida en [2008](https://www.mccarthy.ca/en/work/cases/leons-furniture-limited-acquires-appliance-canada-ltd).
+- [Midnorthern Appliance](https://www.midnorthern.com/): Adquirida por The Brick en [2002](https://www.theglobeandmail.com/report-on-business/brick-warehouse-acquiring-midnorthern-division/article1023014/). Forma parte del grupo desde la compra de The Brick en 2013.
+- [Trans Global Service](https://transglobalservice.com/): División de instalación y reparaciones de electrodomésticos. Fundada en 1980
+- [Trans Global Insurance](https://transglobalinsurance.ca/): División aseguradora fundada en 2007.
+- [Furniture.ca](https://www.furniture.ca/): Tienda de muebles con venta exclusivamente *online*.
+- [King & State Warranty](https://www.kingandstate.com/1): División para extensión de garantías sobre electrodomésticos.
 
 Un punto negativo en el exitoso negocio familiar de Leon’s Furniture Ltd. ha sido la disputa legal que surgió tras el fallecimiento de Tom Leon Jr en 2016. Su viuda, Anita Leon, demandó a sus cuñados Terry, Robert y Kevin Leon, acusándolos de apropiarse de acciones familiares que, según ella, pertenecían a la herencia de su esposo. La disputa, que involucró un complejo fideicomiso establecido en 1998 para optimizar impuestos y preservar el control familiar de la empresa, dividió a la familia y llevó el conflicto a los tribunales.
 
