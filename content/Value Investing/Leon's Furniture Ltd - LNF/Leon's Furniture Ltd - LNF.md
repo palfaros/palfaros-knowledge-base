@@ -115,7 +115,7 @@ En la actualidad, Leon's Furniture Ltd es la empresa matriz de LFL Group y cuent
 - [Trans Global Service](https://transglobalservice.com/): División de instalación y reparaciones de electrodomésticos. Fundada en 1980
 - [Trans Global Insurance](https://transglobalinsurance.ca/): División aseguradora fundada en 2007.
 - [Furniture.ca](https://www.furniture.ca/): Tienda de muebles con venta exclusivamente *online*.
-- [King & State Warranty](https://www.kingandstate.com/1): División para extensión de garantías sobre electrodomésticos.
+- [King & State Warranty](https://www.kingandstate.com/): División para extensión de garantías sobre electrodomésticos.
 
 Un punto negativo en el exitoso negocio familiar de Leon’s Furniture Ltd. ha sido la disputa legal que surgió tras el fallecimiento de Tom Leon Jr en 2016. Su viuda, Anita Leon, demandó a sus cuñados Terry, Robert y Kevin Leon, acusándolos de apropiarse de acciones familiares que, según ella, pertenecían a la herencia de su esposo. La disputa, que involucró un complejo fideicomiso establecido en 1998 para optimizar impuestos y preservar el control familiar de la empresa, dividió a la familia y llevó el conflicto a los tribunales.
 
