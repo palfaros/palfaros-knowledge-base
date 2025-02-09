@@ -40,13 +40,19 @@ Ablan Leon, fundador de Leon, comenzó su vida empresarial como vendedor puerta 
 	<img src="LNF_Ablan_Leon.jpeg" alt="Ablan Leon portrait" style="max-width: 100%; height: auto;" width="500">
 </div>
 
-Ablan, que había emigrado a Canadá en busca de una vida mejor, construyó una leal base de clientes de clase trabajadora gracias a los préstamos que él mismo concedía a otros inmigrantes que acababan de llegar al país.
+Ablan, que había emigrado desde Líbano y había pasado por América del Sur y Estados Unidos, era un vendedor nato. En Canadá fue capaz de construir una leal base de clientes de clase trabajadora gracias a los préstamos que él mismo concedía a otros inmigrantes que acababan de llegar al país y tenían dificultades en el acceso al crédito. Este es el origen de la tradición de integridad, servicio a la comunidad y compasión que acompañan al grupo desde su fundación hasta la actualidad.
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 	<img src="LNF_Ablan_Leon_2.avif" alt="Ablan Leon in his first store" style="max-width: 100%; height: auto;" width="500"> 
 </div>
 
-La empresa A. Leon Co. Ltd. abrió la primera tienda en Welland (Ontario). Welland era la ciudad más grande en el Canal Welland, por lo que era una ciudad próspera. Comenzó como una tienda genérica pero, cuando el fundador de la compañía descubrió que el margen de beneficio era mayor en los colchones, decidió diversificarse.
+La empresa A. Leon Co. Ltd. abrió la primera tienda en Welland (Ontario), en un distrito de clase trabajadora. Welland era la ciudad más grande en el Canal Welland que conectaba los lagos Ontario y Erie, por lo que era una ubicación próspera. Comenzó como una tienda textil en la que vendía, entre otras cosas, pantalones, zapatos y ropa de cama. 
+
+Una vez establecido el negocio, volvió al Líbano para pedir matrimonio a su futura mujer, Lena. El matrimonio tuvo 11 hijos que crecieron trabajando en la tienda, limpiando el polvo, los suelos y las ventanas del escaparate.
+
+Cuando el hijo mayor de Alban y Lena decidió casarse, sus padres pensaron que un colchón sería un buen regalo de bodas. El colchón fue entregado en la tienda, pero no cabía dentro, así que decidieron colocarlo en una de las paredes exteriores. Un cliente lo vio y quiso comprarlo, aunque no era un producto de la tienda. Alban era consciente de que había tiempo suficiente antes de la boda como para comprar otro colchón, así que lo vendió por unos dólares de beneficio. El margen de beneficio era muy superior al que conseguía con el textil, así que decidió diversificarse hacia la venta de colchones.
+
+
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 	<img src="LNF_Truck_First_Store.avif" alt="Leon's first store address" style="max-width: 100%; height: auto;" width="500"> 
@@ -60,7 +66,11 @@ La empresa A. Leon Co. Ltd. abrió la primera tienda en Welland (Ontario). Wella
 	<img src="LNF_First_Store.avif" alt="Leon's first store" style="max-width: 100%; height: auto;" width="500"> 
 </div>
 
-Ablan Leon murió en 1942. Sus hijos e hijas se hicieron cargo de la empresa, convirtiéndose en un negocio familiar. Sus hijos consiguieron expandir el negocio. En 1956, cambiaron los letreros de las tiendas por Leon's.
+Ablan Leon murió en 1942. Sus hijos e hijas se hicieron cargo de la empresa, convirtiéndose en un negocio familiar. Tom Leon era el nuevo presidente de la compañía. Trabajaron juntos, ampliando tanto la tienda como la variedad de productos que vendían. 
+
+Tom se casó en 1949, incorporando a 7 Leon nuevos a la familia, entre ellos Terry Leon, el siguiente CEO de la compañía. Estos 7 hijos han dado lugar a 19 nietos, que a su vez están llamados a continuar el negocio familiar. 
+
+Durante los años 50, Tom y sus hermanos expandieron el negocio hacia el sur de Ontario. En 1956, cambiaron los letreros de las tiendas por Leon's. Su siguiente objetivo fue Toronto, la capital de la provincia de Ontario. Toronto era y es un entorno altamente competitivo. Los hermanos llevaron a cabo un movimiento estratégico inteligente. Decidieron comprar un negocio minorista (*retailer*) ya existente y con buena reputación. Pasado un tiempo, sus tiendas abrieron bajo el nombre Leon's. Las tiendas con este nombre se convirtieron en sinónimo de alto valor en una enorme selección de marcas.
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 	<img src="LNF_Leon's_signs.avif" alt="Leon's new signs" style="max-width: 100%; height: auto;" width="500"> 
@@ -77,6 +87,8 @@ En 1969 la compañía salió a bolsa en el *Toronto Stock Exchange (TSE)*, donde
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 	<img src="LNF_First_Big_Box_Store.avif" alt="Leon's first big box store" style="max-width: 100%; height: auto;" width="500"> 
 </div>
+
+En 2004 la compañía contaba con más de 2000 empleados y 49 tiendas repartidas por 9 de las 10 provincias de Canadá.
 
 En 2013, el grupo decidió comprar su máximo competidor: [The Brick](https://www.thebrick.com/).  Desde entonces, las ventas se han triplicado. La adquisición permitió escalar el negocio significativamente, crecimiento de los ingresos (*top-line growth*) y diversificación geográfica.
 
