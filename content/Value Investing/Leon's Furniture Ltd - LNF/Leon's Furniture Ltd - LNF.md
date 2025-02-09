@@ -34,17 +34,19 @@ Leon's Furniture es una empresa minorista (*retailer*) de venta de muebles con 1
 
 La mayor parte de las tiendas (202) son propiedad del grupo, siendo el resto franquicias. Las franquicias han permitido la entrada de Leon's en poblaciones más pequeñas con áreas de operación de gran calidad en la que otros *retailers* no habían tenido éxito.
 
+Ablan Leon, fundador de Leon, comenzó su vida empresarial como vendedor puerta a puerta, vendiendo ropa que llevaba en una maleta. Para 1909, había ahorrado lo suficiente para abrir una pequeña tienda de productos generales, donde vendía ropa, zapatos y otros artículos similares. Más tarde, amplió su negocio hacia muebles, colchones y electrodomésticos.
+
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 	<img src="LNF_Ablan_Leon.jpeg" alt="Ablan Leon portrait" style="max-width: 100%; height: auto;" width="500">
 </div>
 
-Ablan Leon, fundador de Leon, comenzó su vida empresarial como vendedor puerta a puerta, vendiendo ropa desde una maleta. Para 1909, había ahorrado lo suficiente para abrir una pequeña tienda de productos generales, donde vendía ropa, zapatos y otros artículos similares. Más tarde, amplió su negocio hacia muebles, colchones y electrodomésticos.
+Ablan, que había emigrado a Canadá en busca de una vida mejor, construyó una leal base de clientes de clase trabajadora gracias a los préstamos que él mismo concedía a otros inmigrantes que acababan de llegar al país.
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 	<img src="LNF_Ablan_Leon_2.avif" alt="Ablan Leon in his first store" style="max-width: 100%; height: auto;" width="500"> 
 </div>
 
-Ablan, que había emigrado a Canadá en busca de una vida mejor, construyó una leal base de clientes de clase trabajadora gracias a los préstamos que él mismo concedía a otros inmigrantes que acababan de llegar al país.
+La empresa A. Leon Co. Ltd. abrió la primera tienda en Welland (Ontario). Welland era la ciudad más grande en el Canal Welland, por lo que era una ciudad próspera. Comenzó como una tienda genérica pero, cuando el fundador de la compañía descubrió que el margen de beneficio era mayor en los colchones, decidió diversificarse.
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 	<img src="LNF_Truck_First_Store.avif" alt="Leon's first store address" style="max-width: 100%; height: auto;" width="500"> 
@@ -58,25 +60,23 @@ Ablan, que había emigrado a Canadá en busca de una vida mejor, construyó una 
 	<img src="LNF_First_Store.avif" alt="Leon's first store" style="max-width: 100%; height: auto;" width="500"> 
 </div>
 
-La empresa A. Leon Co. Ltd. abrió la primera tienda en Welland (Ontario). Welland era la ciudad más grande en el Canal Welland, por lo que era una ciudad próspera. Comenzó como una tienda genérica pero, cuando el fundador de la compañía descubrió que el margen de beneficio era mayor en los colchones, decidió diversificarse.
+Ablan Leon murió en 1942. Sus hijos e hijas se hicieron cargo de la empresa, convirtiéndose en un negocio familiar. Sus hijos consiguieron expandir el negocio. En 1956, cambiaron los letreros de las tiendas por Leon's.
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 	<img src="LNF_Leon's_signs.avif" alt="Leon's new signs" style="max-width: 100%; height: auto;" width="500"> 
 </div>
 
-Ablan Leon murió en 1942. Sus hijos e hijas se hicieron cargo de la empresa, convirtiéndose en un negocio familiar. Sus hijos consiguieron expandir el negocio. En 1956, cambiaron los letreros de las tiendas por Leon's.
+A lo largo de la década de los 60, Leon's abrió tiendas en todo el sur de Ontario.
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 	<img src="LNF_Stores_1960s.avif" alt="Leon's new stores in the 1960s" style="max-width: 100%; height: auto;" width="500"> 
 </div>
 
-A lo largo de la década de los 60, Leon's abrió tiendas en todo el sur de Ontario.
+En 1969 la compañía salió a bolsa en el *Toronto Stock Exchange (TSE)*, donde sigue cotizando a día de hoy. El nuevo capital les permitió iniciar la construcción su primera gran superficie (*big box*) en Weston (Ontario) que abrió en 1973.
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 	<img src="LNF_First_Big_Box_Store.avif" alt="Leon's first big box store" style="max-width: 100%; height: auto;" width="500"> 
 </div>
-
-En 1969 la compañía salió a bolsa en el *Toronto Stock Exchange (TSE)*, donde sigue cotizando a día de hoy. El nuevo capital les permitió iniciar la construcción su primera gran superficie (*big box*) en Weston (Ontario) que abrió en 1973.
 
 En 2013, el grupo decidió comprar su máximo competidor: [The Brick](https://www.thebrick.com/).  Desde entonces, las ventas se han triplicado. La adquisición permitió escalar el negocio significativamente, crecimiento de los ingresos (*top-line growth*) y diversificación geográfica.
 
