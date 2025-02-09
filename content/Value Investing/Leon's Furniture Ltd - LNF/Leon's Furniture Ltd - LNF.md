@@ -70,19 +70,19 @@ Ablan Leon murió en 1942. Sus hijos e hijas se hicieron cargo de la empresa, co
 
 Tom se casó en 1949, incorporando a 7 Leon nuevos a la familia, entre ellos Terry Leon, el siguiente CEO de la compañía. Estos 7 hijos han dado lugar a 19 nietos, que a su vez están llamados a continuar el negocio familiar. 
 
-Durante los años 50, Tom y sus hermanos expandieron el negocio hacia el sur de Ontario. En 1956, cambiaron los letreros de las tiendas por Leon's. Su siguiente objetivo fue Toronto, la capital de la provincia de Ontario. Toronto era y es un entorno altamente competitivo. Los hermanos llevaron a cabo un movimiento estratégico inteligente. Decidieron comprar un negocio minorista (*retailer*) ya existente y con buena reputación. Pasado un tiempo, sus tiendas abrieron bajo el nombre Leon's. Las tiendas con este nombre se convirtieron en sinónimo de alto valor en una enorme selección de marcas.
-
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-	<img src="LNF_Leon's_signs.avif" alt="Leon's new signs" style="max-width: 100%; height: auto;" width="500"> 
-</div>
-
-A lo largo de la década de los 60, Leon's abrió tiendas en todo el sur de Ontario.
+Durante los años 50, Tom y sus hermanos expandieron el negocio hacia el sur de Ontario. Su siguiente objetivo fue Toronto, la capital de la provincia de Ontario. Toronto era y es un entorno altamente competitivo. Los hermanos llevaron a cabo un movimiento estratégico inteligente. Decidieron comprar un negocio minorista (*retailer*) ya existente y con buena reputación. 
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 	<img src="LNF_Stores_1960s.avif" alt="Leon's new stores in the 1960s" style="max-width: 100%; height: auto;" width="500"> 
 </div>
 
-En 1969 la compañía salió a bolsa en el *Toronto Stock Exchange (TSE)*, donde sigue cotizando a día de hoy. El nuevo capital les permitió iniciar la construcción su primera gran superficie (*big box*) en Weston (Ontario) que abrió en 1973.
+En 1956, cambiaron los letreros de las tiendas por Leon's. Las tiendas con este nombre se convirtieron en sinónimo de alto valor en una enorme selección de marcas.
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+	<img src="LNF_Leon's_signs.avif" alt="Leon's new signs" style="max-width: 100%; height: auto;" width="500"> 
+</div>
+
+En 1969, la compañía salió a bolsa en el *Toronto Stock Exchange (TSE)*, donde sigue cotizando a día de hoy. El nuevo capital les permitió iniciar la construcción su primera gran superficie (*big box*) en Weston (Ontario) que abrió en 1973.
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 	<img src="LNF_First_Big_Box_Store.avif" alt="Leon's first big box store" style="max-width: 100%; height: auto;" width="500"> 
