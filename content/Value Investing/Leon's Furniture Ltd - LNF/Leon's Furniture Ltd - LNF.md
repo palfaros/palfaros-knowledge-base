@@ -82,10 +82,24 @@ En 1956, cambiaron los letreros de las tiendas por Leon's. Las tiendas con este 
 	<img src="LNF_Leon's_signs.avif" alt="Leon's new signs" style="max-width: 100%; height: auto;" width="500"> 
 </div>
 
-En 1969, la compañía salió a bolsa en el *Toronto Stock Exchange (TSE)*, donde sigue cotizando a día de hoy. El nuevo capital les permitió iniciar la construcción su primera gran superficie (*big box*) en Weston (Ontario) que abrió en 1973.
+En 1969, la compañía salió a bolsa en el *Toronto Stock Exchange (TSE)*, donde sigue cotizando a día de hoy. La familia sigue manteniendo en propiedad la mayoría de acciones de la compañía a día de hoy.
+
+El nuevo capital les permitió iniciar la construcción su primera gran almacén-exhibición (*big box*) en Weston (Ontario) que abrió en 1973. Se trataba de un enorme edificio de 150,000 pies cuadrados que se convirtió en el principal ejemplo del modelo de venta al por menor tipo *big box* en el país. La empresa se hizo famosa por su publicidad televisiva llamativa, rápida, divertida y llena de creatividad, lo que le permitió revolucionar el sector minorista. Gracias a este enfoque innovador, Leon’s experimentó un éxito extraordinario y comenzó a construir grandes salas de exhibición en todo Canadá.
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 	<img src="LNF_First_Big_Box_Store.avif" alt="Leon's first big box store" style="max-width: 100%; height: auto;" width="500"> 
+</div>
+
+A principios de los años 80, se dieron cuenta de que había una necesidad de salas de exhibición en pueblos más pequeños. El negocio se estaba consolidando y los operadores independientes más pequeños tenían cada vez más dificultades para competir con los minoristas más grandes. Muchos clientes de Leon’s recorrían grandes distancias para comprar en sus grandes ubicaciones metropolitanas. Obviamente, estaban pidiendo tiendas de Leon’s en sus áreas locales. Así nació el concepto de las franquicias de Leon’s.
+
+Hubo muchos solicitantes, pero solo unos pocos minoristas emprendedores demostraron tener los atributos del candidato ideal: una sólida reputación por su servicio, integridad, dedicación y un impulso por sobresalir que coincidía con el de la empresa matriz. Estos aventureros han prosperado, y la división de franquicias ha crecido drásticamente a lo largo de los años.
+
+Las ventas crecieron de forma consistente a lo largo de los años. Por ejemplo, en 1996 eran de 289 millones de dólares y solo  4 años más tarde, en el año 2000, casi se habían duplicado, llegando hasta los 524 millones.
+
+En 2002, Terry Leon, hijo de Tom Leon Sr y nieto de Ablan Leon, se convirtió en CEO y Presidente del grupo.
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+	<img src="LNF_Terry_Leon.webp" alt="Terry Leon" style="max-width: 100%; height: auto;" width="500"> 
 </div>
 
 En 2004 la compañía contaba con más de 2000 empleados y 49 tiendas repartidas por 9 de las 10 provincias de Canadá.
