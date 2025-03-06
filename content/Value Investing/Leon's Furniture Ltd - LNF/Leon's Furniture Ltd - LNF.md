@@ -109,7 +109,7 @@ En 2013, el grupo decidió comprar su máximo competidor, [The Brick](https://ww
 En 2016 el grupo adquirió 8 grandes tiendas pertenecientes a la difunta Sears Canada. Este movimiento permitió al grupo la apertura de su primera tienda en la provincia de British Columbia.
 
 En la actualidad, Leon's Furniture Ltd es la empresa matriz de LFL Group y cuenta con las siguientes subsidiarias:
-- [The Brick](https://www.thebrick.com/) Adquirida en 2013 por 700 millones de dólares
+- [The Brick](https://www.thebrick.com/) Adquirida en 2013 por 700 millones de dólares. En este [enlace](https://www.newswire.ca/news-releases/the-brick-ltd-reports-2012-income-of-663-million-before-finance-costs-related-to-debentures-redeemed-and-income-taxes---a-258-increase-over-2011-512109171.html)se pueden consultar los resultados de The Brick a 31 de diciembre de 2012.
 - [Appliance Canada](https://www.appliancecanada.com/): Adquirida en [2008](https://www.mccarthy.ca/en/work/cases/leons-furniture-limited-acquires-appliance-canada-ltd).
 - [Midnorthern Appliance](https://www.midnorthern.com/): Adquirida por The Brick en [2002](https://www.theglobeandmail.com/report-on-business/brick-warehouse-acquiring-midnorthern-division/article1023014/). Forma parte del grupo desde la compra de The Brick en 2013.
 - [Trans Global Service](https://transglobalservice.com/): División de instalación y reparaciones de electrodomésticos. Fundada en 1980
@@ -127,6 +127,8 @@ La información anterior se ha extraído de las siguientes referencias, que se p
 - [Leon vs Leon: Inside the brutal feud tearing apart the furniture dynasty](https://financialpost.com/news/retail-marketing/leon-vs-leon-inside-the-brutal-battle-tearing-apart-canadas-furniture-family)
 
 ## Venta de muebles
+
+
 
 ## Real Estate
 
