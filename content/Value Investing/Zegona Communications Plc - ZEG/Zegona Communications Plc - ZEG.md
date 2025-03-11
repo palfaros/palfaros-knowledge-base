@@ -17,6 +17,9 @@ date: 2025-03-06
   </tr>
 </table>
 
+## Resumen
+
+Zegona Communications Plc (ZEG), listada en la bolsa de Londres (LSE) es un vehículo de inversión con propósito especial que está llevando a cabo una estrategia de *leveraged buyout* (LBO) sobre la filial en España del grupo Vodafone (Vodafone Group Plc): Vodafone España. El leverage buy out (o LBO) consiste en la adquisición de una compañía utilizando un elevado nivel de deuda (*acquisition debt* o deuda de adquisición), reduciendo con ello el compromiso de recursos propios (*equity*) por parte del comprador. **Al reducir el *equity* invertido, las tasas de retorno de la inversión son mucho más altas en términos porcentuales**.
 ## Horos
 
 Vamos a ver ahora el caso de Segona, que es una compañía que entra como primera posición del fondo internacional y también en el ibérico con un peso del 5,3%. Segona es una compañía británica, un vehículo inversor especializado en compañías de telecomunicaciones cuyo objetivo es comprarlas, reestructurarlas y venderlas. La compañía tiene bastante experiencia en el mercado español; en su momento invirtió en la asturiana Telecable, que luego se integró y vendió a Euskaltel. Segona se convirtió en accionista, luego siguió comprando acciones de Euskaltel y posteriormente vendió Euskaltel a MásMóvil, que ahora forma parte del conglomerado MásOrange tras su fusión.
