@@ -20,6 +20,14 @@ date: 2025-03-06
 ## Resumen
 
 Zegona Communications Plc (ZEG), listada en la bolsa de Londres (LSE) es un vehículo de inversión con propósito especial que está llevando a cabo una estrategia de *leveraged buyout* (LBO) sobre la filial en España del grupo Vodafone (Vodafone Group Plc): Vodafone España. El leverage buy out (o LBO) consiste en la adquisición de una compañía utilizando un elevado nivel de deuda (*acquisition debt* o deuda de adquisición), reduciendo con ello el compromiso de recursos propios (*equity*) por parte del comprador. **Al reducir el *equity* invertido, las tasas de retorno de la inversión son mucho más altas en términos porcentuales**.
+
+La estrategia de *leveraged buyout* (LBO) sobre Vodafone España es particularmente interesante por los siguientes motivos:
+- **Gestón creíble con éxitos repetidos**. Los fundadores de Zegona son ejecutivos experimentados (*seasoned*) del sector de las telecomunicaciones que ya han sido capaces de generar retornos atractivos a sus accionistas en 2 ventas (*exits*) anteriores dentro del mercado de telecomunicaciones de España. También han nombrado como CEO de Vodafone España a una destacada figura (*all-star*) que fue clave en su venta más reciente. Dado que gran parte de la creación de valor en un LBO depende de la ejecución, contar con un equipo que ya ha logrado esto no una, sino dos veces, en el mismo país y sector, genera mucha confianza.
+- **Estructura de capital única, atractiva y malinterpretada**
+- **Venta de activos rentables para reducir deuda**
+- **Valoración inicial atractiva**
+- **Potencial de *multi-bagger***. La combinación de reducción de deuda (*deleveraging*), monetización de las netcos y mejora de la rentabilidad operativa de la compañía (*opco*=*operating company*) tiene un potencial (*upside*) de revalorización de las acciones de la compañía del 300% o superior.
+
 ## Horos
 
 Vamos a ver ahora el caso de Segona, que es una compañía que entra como primera posición del fondo internacional y también en el ibérico con un peso del 5,3%. Segona es una compañía británica, un vehículo inversor especializado en compañías de telecomunicaciones cuyo objetivo es comprarlas, reestructurarlas y venderlas. La compañía tiene bastante experiencia en el mercado español; en su momento invirtió en la asturiana Telecable, que luego se integró y vendió a Euskaltel. Segona se convirtió en accionista, luego siguió comprando acciones de Euskaltel y posteriormente vendió Euskaltel a MásMóvil, que ahora forma parte del conglomerado MásOrange tras su fusión.
