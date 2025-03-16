@@ -28,6 +28,15 @@ La estrategia de *leveraged buyout* (LBO) sobre Vodafone España es particularme
 - **Valoración inicial atractiva**. Vodafone Group Plc estaba muy endeudada (o apalancada), por lo que estaba interesada en desprenderse de su segmento español, no esencial en su negocio, a bajo precio. Zegona compró Vodafone España a un múltiplo entre 3.9x EBITDAaL (según Zegona) y 5.3x EBITDA (según Vodafone Group Plc). En cualquier caso, incluso a un múltiplo 5x, esta valoración es la más baja pagada por una gran teleco española en los últimos 10 años.  Teniendo en cuenta la cantidad de apalancamiento (*leverage*) involucrado en la operación, cualquier pequeño aumento del múltiplo (*re-rating*) tiene un enorme potencial (*upside*). Aunque el precio actual de 5,75 £/acción implica un precio superior al  precio de adquisición de 1,50 £/acción, todavía estamos pagando un múltiplo bajo, especialmente si tratamos correctamente las acciones preferentes como deuda.
 - **Potencial de *multi-bagger***. La combinación de reducción de deuda (*deleveraging*), monetización de las netcos y mejora de la rentabilidad operativa de la compañía (*opco*=*operating company*) tiene un potencial (*upside*) de revalorización de las acciones de la compañía del 300% o superior.
 
+## Historia
+
+Zegona fue fundada en 2015 por dos antiguos ejecutivos de *Virgin Media*, Eamonn O'Hare y Robert Samuelson. que desempeñaron un papel fundamental en la transformación de la compañía y en su posterior venta a *Liberty Global* por 25.000 millones de dólares. Zegona se consituye con la intención de seguir una estrategia de Comprar-Arreglar-Vender utilizando apalancamiento (*Buy-Fix-Flip*/*LBO*) teniendo como objetivo compañías europeas del sector de las telecomunicaciones (*TMT: Technology, Media, and Telecommunications*).
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+	<img src="ZEG_Founders_Eamonn_O'Hare_Robert_Samuelson.jpg" alt="Zegona Founders Eamonn O'Hare and Robert Samuelson" style="max-width: 100%; height: auto;" width="500">
+</div>
+
+
 ## Horos
 
 Vamos a ver ahora el caso de Segona, que es una compañía que entra como primera posición del fondo internacional y también en el ibérico con un peso del 5,3%. Segona es una compañía británica, un vehículo inversor especializado en compañías de telecomunicaciones cuyo objetivo es comprarlas, reestructurarlas y venderlas. La compañía tiene bastante experiencia en el mercado español; en su momento invirtió en la asturiana Telecable, que luego se integró y vendió a Euskaltel. Segona se convirtió en accionista, luego siguió comprando acciones de Euskaltel y posteriormente vendió Euskaltel a MásMóvil, que ahora forma parte del conglomerado MásOrange tras su fusión.
