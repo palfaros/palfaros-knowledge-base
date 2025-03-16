@@ -36,7 +36,15 @@ Zegona fue fundada en 2015 por dos antiguos ejecutivos de *Virgin Media*, Eamonn
 	<img src="ZEG_Founders_Eamonn_O'Hare_Robert_Samuelson.jpg" alt="Zegona Founders Eamonn O'Hare and Robert Samuelson" style="max-width: 100%; height: auto;" width="500">
 </div>
 
+En agosto de 2015 [Zegona compró la compañía de cable asturiana Telecable por 640 millones de euros](https://www.lavanguardia.com/economia/20150727/54433622293/zegona-compra-telecable.html). En mayo de 2017 [Telecable fue vendida a Euskaltel por 701 millones de euros](https://www.expansion.com/empresas/tecnologia/2017/05/16/591a95cd468aebbe0c8b45b6.html) combinando efectivo y acciones de forma que, como consecuencia de esta venta, Zegona se convirtió en propietaria del 15% de Euskaltel. Posteriormente, Zegona incrementó su posición hasta el 21% llegando a ser el máximo accionista de la compañía, con dos asientos en el consejo.
 
+Zegona implementó cambios importante en Euskaltel. Los cambios más importantes fueron nombrar CEO a José Miguel García, antiguo CEO de Jazztel y actual CEO de Vodafone España, asociarse con *Virgin Media* y una reducción del 40% en los costes operativos de la empresa (20% del *cash flow*) desde 2018 hasta la primera mitad de 2020.
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+	<img src="ZEG_Jose_Miguel_Garcia_CEO.jpg" alt="Zegona Founders CEO José Miguel Garcia" style="max-width: 100%; height: auto;" width="500">
+</div>
+
+En 2021, [Euskaltel fue vendida al operador español MásMóvil por 3.500 millones de euros](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/21-03-29-zeg-masmovil-euskaltel-offer.pdf). En total, Zegona generó un rendimiento del 87% sobre el capital invertido a través de estas transacciones. Tras esta venta, Zegona devolvió el capital a sus accionistas mediante una oferta de recompra y la directiva comenzó a buscar su próximo objetivo. Este nuevo objetivo terminó siendo Vodafone España.
 ## Horos
 
 Vamos a ver ahora el caso de Segona, que es una compañía que entra como primera posición del fondo internacional y también en el ibérico con un peso del 5,3%. Segona es una compañía británica, un vehículo inversor especializado en compañías de telecomunicaciones cuyo objetivo es comprarlas, reestructurarlas y venderlas. La compañía tiene bastante experiencia en el mercado español; en su momento invirtió en la asturiana Telecable, que luego se integró y vendió a Euskaltel. Segona se convirtió en accionista, luego siguió comprando acciones de Euskaltel y posteriormente vendió Euskaltel a MásMóvil, que ahora forma parte del conglomerado MásOrange tras su fusión.
