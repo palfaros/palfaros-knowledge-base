@@ -116,6 +116,8 @@ Pero claro, de aquí a junio, que se van a vender las participaciones en las emp
 
 - [Tesis Raging Bull Investments](https://ragingbullinvestments.substack.com/p/an-old-school-leveraged-buyout)
 - [Tesis Cocoa Beans Podcast (I)](https://cocoabeanspodcast.substack.com/p/zegona-communications-plc-parte-i)
-- [Tesis Horos Asset Management](https://youtu.be/IgzS84KtpBs)
+- [Tesis Gabriel Castro (Singular Asset Management)](https://youtu.be/rKvkxRLAvr0?t=3713)
+- [Tesis Horos Asset Management (Q4 2024)](https://cdn.horosam.com/wp-content/uploads/sites/67/2025/01/Carta-a-los-Inversores-4T24.pdf)
+- [Tesis Horos Asset Management (Vídeo)](https://youtu.be/IgzS84KtpBs)
 - [Tesis Daniel Tello (Azagala Capital)](https://youtu.be/8swbESGwxJA?t=2742)
 - [Tesis Alluvial Capital Management](https://alluvialcapital.com/wp-content/uploads/2024/10/Alluvial-Capital-Management-Q3-2024-Letter-to-Partners.pdf)
