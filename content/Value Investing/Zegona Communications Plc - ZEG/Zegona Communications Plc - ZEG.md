@@ -28,6 +28,8 @@ La estrategia de *leveraged buyout* (LBO) sobre Vodafone España es particularme
 - **Valoración inicial atractiva**. Vodafone Group Plc estaba muy endeudada (o apalancada), por lo que estaba interesada en desprenderse de su segmento español, no esencial en su negocio, a bajo precio. Zegona compró Vodafone España a un múltiplo entre 3.9x EBITDAaL (según Zegona) y 5.3x EBITDA (según Vodafone Group Plc). En cualquier caso, incluso a un múltiplo 5x, esta valoración es la más baja pagada por una gran teleco española en los últimos 10 años.  Teniendo en cuenta la cantidad de apalancamiento (*leverage*) involucrado en la operación, cualquier pequeño aumento del múltiplo (*re-rating*) tiene un enorme potencial (*upside*). Aunque el precio actual de 5,75 £/acción implica un precio superior al  precio de adquisición de 1,50 £/acción, todavía estamos pagando un múltiplo bajo, especialmente si tratamos correctamente las acciones preferentes como deuda.
 - **Potencial de *multi-bagger***. La combinación de reducción de deuda (*deleveraging*), monetización de las netcos y mejora de la rentabilidad operativa de la compañía (*opco*=*operating company*) tiene un potencial (*upside*) de revalorización de las acciones de la compañía del 300% o superior.
 
+Según *Horos Asset Management* (febrero 2025): *"A pesar de que la compañía ha subido más de un 80% en bolsa desde mayo, creemos que el potencial sigue siendo enorme, superior al 70%."*
+
 ## Historia
 
 Zegona fue fundada en 2015 por dos antiguos ejecutivos de *Virgin Media*, Eamonn O'Hare y Robert Samuelson. que desempeñaron un papel fundamental en la transformación de la compañía y en su posterior venta a *Liberty Global* por 25.000 millones de dólares. Zegona se consituye con la intención de seguir una estrategia de Comprar-Arreglar-Vender utilizando apalancamiento (*Buy-Fix-Flip*/*LBO*) teniendo como objetivo compañías europeas del sector de las telecomunicaciones (*TMT: Technology, Media, and Telecommunications*).
@@ -48,18 +50,13 @@ En 2021, [Euskaltel fue vendida al operador español MásMóvil por 3.500 millon
 
 ## Financiación de la adquisición de Vodafone
 
-En [octubre de 2023](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/2023/23-10-31-zegona-acquistion-of-vodafone-spain.pdf), Zegona llegó a un acuerdo para comprar Vodafone España por 5.000 millones de euros. 
-## Horos
+En [octubre de 2023](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/2023/23-10-31-zegona-acquistion-of-vodafone-spain.pdf), Zegona llegó a un acuerdo para comprar Vodafone España por 5.000 millones de euros. En el acuerdo se indica que la financiación se estructuraba como una combinación de:
+- Nueva deuda: 4200 millones de euros junto 500 millones en forma de crédito *revolving*.
+- Financiación por parte de Vodafone Group: 900 millones de euros
+- Ampliación de capital (*equity raise*): Hasta 600 millones
 
-Vamos a ver ahora el caso de Segona, que es una compañía que entra como primera posición del fondo internacional y también en el ibérico con un peso del 5,3%. Segona es una compañía británica, un vehículo inversor especializado en compañías de telecomunicaciones cuyo objetivo es comprarlas, reestructurarlas y venderlas. La compañía tiene bastante experiencia en el mercado español; en su momento invirtió en la asturiana Telecable, que luego se integró y vendió a Euskaltel. Segona se convirtió en accionista, luego siguió comprando acciones de Euskaltel y posteriormente vendió Euskaltel a MásMóvil, que ahora forma parte del conglomerado MásOrange tras su fusión.
+![[23-10-31-acquisition-funding.png]]
 
-En mayo de 2024, tres años después, Segona vuelve a la carga y cierra la adquisición de Vodafone España por 5.000 millones de euros. Esto se financió con fondos propios de 300 millones mediante una ampliación de capital, y con acciones preferentes que se emiten a Vodafone PLC, la matriz, por 900 millones de euros. El resto, algo menos de 4.000 millones, se financió con deuda. Dentro de esta compleja estructura accionarial, Vodafone PLC conserva esas preferentes, además del 75% de Segona, mientras que los inversores minoritarios se quedan con el 25%.
-
-Sin embargo, si se consiguen reembolsar esas preferentes a Vodafone a través de dividendos que reparta Vodafone España, esos 900 millones de euros permitirían que nuestra participación como accionistas minoritarios pasara del 25% al 100%, tomando así el control total de la compañía. Para poder generar esos dividendos, Segona está reestructurando el negocio de Vodafone España, una compañía que lleva años perdiendo cuota de mercado, con altos costes y fuertes inversiones mantenidas en el tiempo. Aunque esta reestructuración ya está dando frutos, la clave para generar grandes cantidades de caja será monetizando sus activos de fibra óptica.
-
-Para ello, se crearon dos empresas conjuntas: una con Telefónica y otra con MásOrange, donde cada una aporta su infraestructura de fibra óptica. Posteriormente, se buscará un inversor financiero que tome participación en esas empresas conjuntas, vendiéndole parte de la fibra óptica. Esto es clave porque las compañías de infraestructura de fibra óptica tienen flujos de caja muy estables y predecibles, y se valoran hasta tres o cuatro veces más que una compañía tradicional de telecomunicaciones. Mientras que una empresa de telecomunicaciones se valora entre cuatro y seis veces su EBITDA, una compañía de infraestructura de fibra puede alcanzar valoraciones de más de 15 veces su EBITDA.
-
-Cuando Segona venda parte de sus participaciones en estas empresas conjuntas, especialmente en la de MásOrange que es más grande, obtendrá suficiente dinero para pagar las preferentes a Vodafone, repartir dividendos a los accionistas minoritarios y reducir deuda. Al pagarle a Vodafone esos 900 millones de euros, Segona se quedará con el 100% de la compañía, lo que destapará un enorme valor que actualmente el mercado no está teniendo en cuenta. A pesar de que la compañía ha subido más de un 80% en bolsa desde mayo, se considera que el potencial sigue siendo enorme, muy superior al 70%.
 
 ## Azagala Capital
 
