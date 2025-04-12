@@ -24,7 +24,8 @@ Hay diferentes estilos de trading, como:
 El *edge* es una ventaja estadísticas repetible en el tiempo que te permite esperar retornos positivos en el tiempo. No se trata de ganar en todas las operaciones, sino en contar con un procedimiento sistemático que, ejecutado de manera consistente y sobre un número suficientemente grande de operaciones, proporciona rentabilidad.
 
 ![[Edge_random_path_sim.png]]
-El *edge* no debe confundirse con la suerte o resultados aleatorios. Se requiere una explicación lógica del *edge*, es decir, cuál es esa ventaja. 
+
+El *edge* no debe confundirse con la suerte o resultados aleatorios. Se requiere una explicación lógica del *edge*, es decir, cuál es esa ventaja.
 
 El *edge* existe donde los que participan en el mercado se ven forzados a actuar de manera irracional, de forma que buscan eliminar todo el riesgo posible, a costa de tener una estrategia menos óptima. En resumen, estos participantes simplemente buscan la certeza en los resultados. Cuando están desesperados por encontrar certeza pagan de más por su protección, creando ineficiencias que podemos aprovechar.
 
