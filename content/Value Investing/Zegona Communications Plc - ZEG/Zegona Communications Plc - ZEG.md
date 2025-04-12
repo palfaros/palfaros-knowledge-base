@@ -45,6 +45,10 @@ Zegona implementó cambios importante en Euskaltel. Los cambios más importantes
 </div>
 
 En 2021, [Euskaltel fue vendida al operador español MásMóvil por 3.500 millones de euros](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/21-03-29-zeg-masmovil-euskaltel-offer.pdf). En total, Zegona generó un rendimiento del 87% sobre el capital invertido a través de estas transacciones. Tras esta venta, Zegona devolvió el capital a sus accionistas mediante una oferta de recompra y la directiva comenzó a buscar su próximo objetivo. Este nuevo objetivo terminó siendo Vodafone España.
+
+## Financiación de la adquisición de Vodafone
+
+En [octubre de 2023](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/2023/23-10-31-zegona-acquistion-of-vodafone-spain.pdf), Zegona llegó a un acuerdo para comprar Vodafone España por 5.000 millones de euros. 
 ## Horos
 
 Vamos a ver ahora el caso de Segona, que es una compañía que entra como primera posición del fondo internacional y también en el ibérico con un peso del 5,3%. Segona es una compañía británica, un vehículo inversor especializado en compañías de telecomunicaciones cuyo objetivo es comprarlas, reestructurarlas y venderlas. La compañía tiene bastante experiencia en el mercado español; en su momento invirtió en la asturiana Telecable, que luego se integró y vendió a Euskaltel. Segona se convirtió en accionista, luego siguió comprando acciones de Euskaltel y posteriormente vendió Euskaltel a MásMóvil, que ahora forma parte del conglomerado MásOrange tras su fusión.
@@ -112,6 +116,8 @@ Pero claro, de aquí a junio, que se van a vender las participaciones en las emp
 
 - [Tesis Raging Bull Investments](https://ragingbullinvestments.substack.com/p/an-old-school-leveraged-buyout)
 - [Tesis Cocoa Beans Podcast (I)](https://cocoabeanspodcast.substack.com/p/zegona-communications-plc-parte-i)
-- [Tesis Horos Asset Management](https://youtu.be/IgzS84KtpBs)
+- [Tesis Gabriel Castro (Singular Asset Management)](https://youtu.be/rKvkxRLAvr0?t=3713)
+- [Tesis Horos Asset Management (Q4 2024)](https://cdn.horosam.com/wp-content/uploads/sites/67/2025/01/Carta-a-los-Inversores-4T24.pdf)
+- [Tesis Horos Asset Management (Vídeo)](https://youtu.be/IgzS84KtpBs)
 - [Tesis Daniel Tello (Azagala Capital)](https://youtu.be/8swbESGwxJA?t=2742)
 - [Tesis Alluvial Capital Management](https://alluvialcapital.com/wp-content/uploads/2024/10/Alluvial-Capital-Management-Q3-2024-Letter-to-Partners.pdf)
