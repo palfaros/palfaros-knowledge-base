@@ -1,6 +1,7 @@
 ---
 title: Trading
 date: 2025-04-12
+draft: true
 ---
 El **trading** es la actividad de **comprar y vender activos financieros** (como acciones, divisas, criptomonedas, materias primas, etc.) con el objetivo de **obtener beneficios a corto o medio plazo** aprovechando las variaciones de precio en los mercados.
 
