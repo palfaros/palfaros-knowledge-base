@@ -1,7 +1,7 @@
 ---
 title: Trading
 date: 2025-04-12
-draft: false
+draft: true
 ---
 ## Definición
 
