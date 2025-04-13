@@ -48,16 +48,29 @@ Zegona implementó cambios importante en Euskaltel. Los cambios más importantes
 
 En 2021, [Euskaltel fue vendida al operador español MásMóvil por 3.500 millones de euros](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/21-03-29-zeg-masmovil-euskaltel-offer.pdf). En total, Zegona generó un rendimiento del 87% sobre el capital invertido a través de estas transacciones. Tras esta venta, Zegona devolvió el capital a sus accionistas mediante una oferta de recompra y la directiva comenzó a buscar su próximo objetivo. Este nuevo objetivo terminó siendo Vodafone España.
 
-## Financiación de la adquisición de Vodafone
+## Adquisición de Vodafone
+
+### Financiación
 
 En [octubre de 2023](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/2023/23-10-31-zegona-acquistion-of-vodafone-spain.pdf), Zegona llegó a un acuerdo para comprar Vodafone España por 5.000 millones de euros (3,9x FY23 EBITDAal). En el acuerdo se indica que la financiación se estructuraba como una combinación de:
 - **Nueva deuda**: 4.200 millones de euros junto 500 millones en forma de crédito *revolving*. En el momento de firmar el acuerdo, Zegona ya tenía asegurado un paquete de financiación de €4.200 millones (esto incluye deuda bancaria y otras fuentes). Si la ampliación de capital alcanza los 600 millones de euros, se utilizará una parte de ellos para reducir la deuda neta hasta 3.700 millones de euros. Esto se corresponde con un apalancamiento o *leverage* de 2,9x EBIDTAal. Si la ampliación de capital se queda en 300 millones de euros, entonces la deuda neta se reducirá solamente hasta 3.900 millones de euros (3x EBITDAal).
 - **Financiación por parte de Vodafone Group**: 900 millones de euros. Estos 900 millones los proporcionará Vodafone Group (Vodafone financia a Zegona la compra de Vodafone España) en forma de acciones preferentes en el caso de que la ampliación de capital sea de 300 millones. Esta financiación se realizará de la siguiente forma: Vodafone Group Plc invierte 900 millones de euros en acciones preferentes de una sociedad nueva (EJLSHM Funding Limited) y esa sociedad es la que usa los 900 millones de euros para comprar acciones ordinarias de Zegona a 1.50 libras esterlinas.
-- **Ampliación de capital (*equity raise*)**: El objetivo es conseguir entre 300 y 600 millones de euros.
+- **Ampliación de capital (*equity raise*)**: El objetivo es conseguir entre 300 y 600 millones de euros. Si la ampliación de capital supera los 400 millones de euros, el 50% de la *equity* captada por encima de 400 millones de euros se pagarán a Vodafone Group Plc quien, a su vez, reducirá la parte correspondiente de las acciones preferentes compradas. Por tanto, si la ampliación de capital es de 600 millones de euros, 50%·(600-400)=100 millones de euros irán a Vodafone Group Plc, quien reducirá la financiación hasta 800 millones. Esta es la razón de que, tras una hipotética ampliación de capital de 600 millones, la deuda neta sea de 4.200-(600-100)=3.700 millones de euros.
 
 ![[23-10-31-acquisition-funding.png]]
 ![[23-10-31-acquisition-funding-notes.png]]
-En las notas se indica
+![[23-10-31-acquisition-funding-vodafone-group.png]]
+
+La financiación por parte de Vodafone Group Plc merece un análisis más detallado:
+
+![[23-10-31-key-transaction-terms.png]]
+
+1. En primer lugar, se ha creado una sociedad intermedia, EJLSHM Funding Limited, denominada *Newco* en la documentación de Zegona.
+2. En segundo lugar, Vodafone Group Plc compra **acciones preferentes redimibles** de la *Newco* por valor de 900 millones de euros. La *Newco* dispone de 6 años para cancelar las preferentes.
+3. En tercer lugar, la *Newco* usa los 900 millones para comprar acciones de Zegona a 1,50 libras esterlinas en la ampliación de capital (*equity raise*). 
+4. Vodafone Group Plc posee indirectamente la mayor parte de las acciones de Zegona. Sin embargo, la *Newco* es controlada por Zegona y podrá cancelar las preferentes devolviendo los 900 millones de euros a Vodafone Group Plc.
+5. Zegona puede pagar un dividendo de 1,50 libras esterlinas por acción a todos los accionistas, de manera que la *Newco* obtenga 900 millones en dividendos y pueda cancelar las preferentes.
+6. Al redimir o cancelar las preferentes, las acciones de la *Newco* se cancelarán de la estructura de capital de Zegona. De esta forma, el resto de accionistas de Zegona pasarán automáticamente a ser propietarios del 100% de la compañía.
 ## Azagala Capital
 
 Temprano sí, bueno. Entonces vamos con la _special situation_, a ver si nos la puedes comentar.
