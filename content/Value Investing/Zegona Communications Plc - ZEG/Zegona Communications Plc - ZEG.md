@@ -50,6 +50,7 @@ En 2021, [Euskaltel fue vendida al operador español MásMóvil por 3.500 millon
 
 ## Adquisición de Vodafone
 
+La compra de Vodafone España se estructura como una operación de *reverse takeover* (RTO) o *reverse IPO*. Un **reverse takeover (RTO)** o **adquisición inversa** es una operación financiera en la que **una empresa privada adquiere una empresa pública** con el objetivo principal de **cotizar en bolsa sin pasar por una salida a bolsa (IPO) tradicional**.
 ### Financiación
 
 En [octubre de 2023](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/2023/23-10-31-zegona-acquistion-of-vodafone-spain.pdf), Zegona llegó a un acuerdo para comprar Vodafone España por 5.000 millones de euros (3,9x FY23 EBITDAal). En el acuerdo se indica que la financiación se estructuraba como una combinación de:
@@ -71,6 +72,8 @@ La financiación por parte de Vodafone Group Plc merece un análisis más detall
 4. Vodafone Group Plc posee indirectamente la mayor parte de las acciones de Zegona. Sin embargo, la *Newco* es controlada por Zegona y podrá cancelar las preferentes devolviendo los 900 millones de euros a Vodafone Group Plc.
 5. Zegona puede pagar un dividendo de 1,50 libras esterlinas por acción a todos los accionistas, de manera que la *Newco* obtenga 900 millones en dividendos y pueda cancelar las preferentes.
 6. Al redimir o cancelar las preferentes, las acciones de la *Newco* se cancelarán de la estructura de capital de Zegona. De esta forma, el resto de accionistas de Zegona pasarán automáticamente a ser propietarios del 100% de la compañía.
+
+
 ## Azagala Capital
 
 Temprano sí, bueno. Entonces vamos con la _special situation_, a ver si nos la puedes comentar.
