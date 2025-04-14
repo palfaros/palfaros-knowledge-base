@@ -51,6 +51,7 @@ En 2021, [Euskaltel fue vendida al operador español MásMóvil por 3.500 millon
 ## Adquisición de Vodafone
 
 La compra de Vodafone España se estructura como una operación de *reverse takeover* (RTO) o *reverse IPO*. Un **reverse takeover (RTO)** o **adquisición inversa** es una operación financiera en la que **una empresa privada adquiere una empresa pública** con el objetivo principal de **cotizar en bolsa sin pasar por una salida a bolsa (IPO) tradicional**.
+
 ### Financiación
 
 En [octubre de 2023](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/2023/23-10-31-zegona-acquistion-of-vodafone-spain.pdf), Zegona llegó a un acuerdo para comprar Vodafone España por 5.000 millones de euros (3,9x FY23 EBITDAal). En el acuerdo se indica que la financiación se estructuraba como una combinación de:
