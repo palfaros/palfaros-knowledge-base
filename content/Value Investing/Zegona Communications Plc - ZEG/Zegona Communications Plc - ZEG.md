@@ -59,13 +59,23 @@ En [octubre de 2023](https://www.zegona.com/~/media/Files/Z/Zegona/press-release
 - **Financiación por parte de Vodafone Group**: 900 millones de euros. Estos 900 millones los proporcionará Vodafone Group (Vodafone financia a Zegona la compra de Vodafone España) en forma de acciones preferentes en el caso de que la ampliación de capital sea de 300 millones. Esta financiación se realizará de la siguiente forma: Vodafone Group Plc invierte 900 millones de euros en acciones preferentes de una sociedad nueva (EJLSHM Funding Limited) y esa sociedad es la que usa los 900 millones de euros para comprar acciones ordinarias de Zegona a 1.50 libras esterlinas.
 - **Ampliación de capital (*equity raise*)**: El objetivo es conseguir entre 300 y 600 millones de euros. Si la ampliación de capital supera los 400 millones de euros, el 50% de la *equity* captada por encima de 400 millones de euros se pagarán a Vodafone Group Plc quien, a su vez, reducirá la parte correspondiente de las acciones preferentes compradas. Por tanto, si la ampliación de capital es de 600 millones de euros, 50%·(600-400)=100 millones de euros irán a Vodafone Group Plc, quien reducirá la financiación hasta 800 millones. Esta es la razón de que, tras una hipotética ampliación de capital de 600 millones, la deuda neta sea de 4.200-(600-100)=3.700 millones de euros.
 
-![[23-10-31-acquisition-funding.png]]
-![[23-10-31-acquisition-funding-notes.png]]
-![[23-10-31-acquisition-funding-vodafone-group.png]]
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+	<img src="23-10-31-acquisition-funding.png" alt="Press release 23-10-31 Acquisition Funding" style="max-width: 100%; height: auto;" width="800">
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+	<img src="23-10-31-acquisition-funding-notes.png" alt="Press release 23-10-31 Acquisition Funding Notes" style="max-width: 100%; height: auto;" width="800">
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+	<img src="23-10-31-acquisition-funding-vodafone-group.png" alt="Press release 23-10-31 Acquisition Funding Vodafone Group Financing" style="max-width: 100%; height: auto;" width="800">
+</div>
 
 La financiación por parte de Vodafone Group Plc merece un análisis más detallado:
 
-![[23-10-31-key-transaction-terms.png]]
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+	<img src="23-10-31-key-transaction-terms.png" alt="Press release 23-10-31 Key Transaction Terms" style="max-width: 100%; height: auto;" width="800">
+</div>
 
 1. En primer lugar, se ha creado una sociedad intermedia, EJLSHM Funding Limited, denominada *Newco* en la documentación de Zegona.
 2. En segundo lugar, Vodafone Group Plc compra **acciones preferentes redimibles** de la *Newco* por valor de 900 millones de euros. La *Newco* dispone de 6 años para cancelar las preferentes.
