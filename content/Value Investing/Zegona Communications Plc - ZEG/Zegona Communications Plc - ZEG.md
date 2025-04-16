@@ -100,6 +100,8 @@ En primer lugar, se distingue entre las acciones anteriores a la adquisición de
 	<img src="ZEG_Prospectus_Major_Shareholders.png" alt="Prospectus Major shareholders" style="max-width: 100%; height: auto;" width="800">
 </div>
 
+El consejo de Zegona, en la práctica, mantendrá el mismo número absoluto de acciones, por lo que reducirán enormemente su porcentaje, pasando de un 28% a un 0,25%. Esto es un aspecto negativo en relación al alineamiento de intereses entre directiva y accionistas. No obstante. existen fuertes bonificaciones para la directiva en caso de éxito con el objetivo de conseguir dicho alineamiento.
+
 En su [informe anual de 2023](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/2024/24-04-30-full-year-results-2023-report.pdf) se pueden encontrar más detalles sobre la operación
 
 Las [condiciones para la compra se alcanzaron el 14 de mayo de 2024](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/2024/24-05-14-conditions-to-acquisition-satisfied.pdf)
