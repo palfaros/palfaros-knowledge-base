@@ -84,7 +84,17 @@ La financiación por parte de Vodafone Group Plc merece un análisis más detall
 5. Zegona puede pagar un dividendo de 1,50 libras esterlinas por acción a todos los accionistas, de manera que la *Newco* obtenga 900 millones en dividendos y pueda cancelar las preferentes.
 6. Al redimir o cancelar las preferentes, las acciones de la *Newco* se cancelarán de la estructura de capital de Zegona. De esta forma, el resto de accionistas de Zegona pasarán automáticamente a ser propietarios del 100% de la compañía.
 
+Por otro lado, al tratarse de una operación de *reverse takeover* que cambia la naturaleza y el tamaño de la empresa (pasa de ser una empresa pequeña y sin operaciones a controlar un activo enorme), la bolsa de Londres (LSE) suspende temporalmente la cotización para proteger a los inversores. Necesitan presentar un *prospectus* con toda la información detallada y transparente sobre la operación. Una vez aprobado por la [*Financial Conduct Authority* (FCA)](https://data.fca.org.uk/#/homepage), Zegona podrá solicitar que sus acciones sean readmitidas a cotización.
 
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+	<img src="23-10-31-supension-of-listing.png" alt="Press release 23-10-31 Suspension of listing" style="max-width: 100%; height: auto;" width="800">
+</div>
+
+En su [informe anual de 2023](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/2024/24-04-30-full-year-results-2023-report.pdf) se pueden encontrar más detalles sobre la operación
+
+Las [condiciones para la compra se alcanzaron el 14 de mayo de 2024](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/2024/24-05-14-conditions-to-acquisition-satisfied.pdf)
+
+La [adquisición se completó el 31 de mayo de 2024](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/2024/vodafone-spain-completion-announcement-30-05-2024.pdf).
 ## Azagala Capital
 
 Temprano sí, bueno. Entonces vamos con la _special situation_, a ver si nos la puedes comentar.
