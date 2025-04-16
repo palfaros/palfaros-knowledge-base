@@ -102,6 +102,16 @@ En primer lugar, se distingue entre las acciones anteriores a la adquisición de
 
 El consejo de Zegona, en la práctica, mantendrá el mismo número absoluto de acciones, por lo que reducirán enormemente su porcentaje, pasando de un 28% a un 0,25%. Esto es un aspecto negativo en relación al alineamiento de intereses entre directiva y accionistas. No obstante. existen fuertes bonificaciones para la directiva en caso de éxito con el objetivo de conseguir dicho alineamiento.
 
+Por otro lado, aunque el CEO de Zegona seguirá siendo Eamonn O'Hare, la intención de Zegona es fichar a José Miguel García como CEO de Vodafone España (como así ocurrió al completar la adquisición).
+
+En segundo lugar, se muestran las cuentas de Zegona y Vodafone España de los últimos 3 períodos financieros. Zegona no tiene ingresos, como cabe esperar. Sus costes son, básicamente, los salarios de los directivos. Por su parte, Vodafone España arrastra pérdidas anuales de entre 100-300 millones. 
+
+En tercer lugar, se especifica el número de acciones que tendrá la compañía. El número de acciones nuevas (*New Zegona Shares*) que se emitirán es el siguiente:
+- 697.654.138 acciones emitidas a 1.5 libras esterlinas, de las cuales 174.413.535 serán normales y 523.240.603 son de subscripción condicional (las de EJLSHM Funding Limited)
+- 4.651.027 acciones emitidas posteriormente en la *PrimaryBid Offer*
+Estas acciones hay que sumarlas a las acciones ya existentes (*Existing Zegona Shares*): 6.172.424.
+**El total de acciones será la suma de las acciones existentes y las nuevas: 708.477.589.**
+
 En su [informe anual de 2023](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/2024/24-04-30-full-year-results-2023-report.pdf) se pueden encontrar más detalles sobre la operación
 
 Las [condiciones para la compra se alcanzaron el 14 de mayo de 2024](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/2024/24-05-14-conditions-to-acquisition-satisfied.pdf)
