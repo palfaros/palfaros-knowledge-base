@@ -60,21 +60,21 @@ En [octubre de 2023](https://www.zegona.com/~/media/Files/Z/Zegona/press-release
 - **Ampliación de capital (*equity raise*)**: El objetivo es conseguir entre 300 y 600 millones de euros. Si la ampliación de capital supera los 400 millones de euros, el 50% de la *equity* captada por encima de 400 millones de euros se pagarán a Vodafone Group Plc quien, a su vez, reducirá la parte correspondiente de las acciones preferentes compradas. Por tanto, si la ampliación de capital es de 600 millones de euros, 50%·(600-400)=100 millones de euros irán a Vodafone Group Plc, quien reducirá la financiación hasta 800 millones. Esta es la razón de que, tras una hipotética ampliación de capital de 600 millones, la deuda neta sea de 4.200-(600-100)=3.700 millones de euros.
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-	<img src="23-10-31-acquisition-funding.png" alt="Press release 23-10-31 Acquisition Funding" style="max-width: 100%; height: auto;" width="800">
+	<img src="ZEG_23-10-31-acquisition-funding.png" alt="Press release 23-10-31 Acquisition Funding" style="max-width: 100%; height: auto;" width="800">
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-	<img src="23-10-31-acquisition-funding-notes.png" alt="Press release 23-10-31 Acquisition Funding Notes" style="max-width: 100%; height: auto;" width="800">
+	<img src="ZEG_23-10-31-acquisition-funding-notes.png" alt="Press release 23-10-31 Acquisition Funding Notes" style="max-width: 100%; height: auto;" width="800">
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-	<img src="23-10-31-acquisition-funding-vodafone-group.png" alt="Press release 23-10-31 Acquisition Funding Vodafone Group Financing" style="max-width: 100%; height: auto;" width="800">
+	<img src="ZEG_23-10-31-acquisition-funding-vodafone-group.png" alt="Press release 23-10-31 Acquisition Funding Vodafone Group Financing" style="max-width: 100%; height: auto;" width="800">
 </div>
 
 La financiación por parte de Vodafone Group Plc merece un análisis más detallado:
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-	<img src="23-10-31-key-transaction-terms.png" alt="Press release 23-10-31 Key Transaction Terms" style="max-width: 100%; height: auto;" width="800">
+	<img src="ZEG_23-10-31-key-transaction-terms.png" alt="Press release 23-10-31 Key Transaction Terms" style="max-width: 100%; height: auto;" width="800">
 </div>
 
 1. En primer lugar, se ha creado una sociedad intermedia, EJLSHM Funding Limited, denominada *Newco* en la documentación de Zegona.
@@ -84,10 +84,20 @@ La financiación por parte de Vodafone Group Plc merece un análisis más detall
 5. Zegona puede pagar un dividendo de 1,50 libras esterlinas por acción a todos los accionistas, de manera que la *Newco* obtenga 900 millones en dividendos y pueda cancelar las preferentes.
 6. Al redimir o cancelar las preferentes, las acciones de la *Newco* se cancelarán de la estructura de capital de Zegona. De esta forma, el resto de accionistas de Zegona pasarán automáticamente a ser propietarios del 100% de la compañía.
 
-Por otro lado, al tratarse de una operación de *reverse takeover* que cambia la naturaleza y el tamaño de la empresa (pasa de ser una empresa pequeña y sin operaciones a controlar un activo enorme), la bolsa de Londres (LSE) suspende temporalmente la cotización para proteger a los inversores. Necesitan presentar un [*prospectus*](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/zegona-communications-plc-prospectus.pdf) con toda la información detallada y transparente sobre la operación. Una vez aprobado por la [*Financial Conduct Authority* (FCA)](https://data.fca.org.uk/#/homepage), Zegona podrá solicitar que sus acciones sean readmitidas a cotización.
+Por otro lado, al tratarse de una operación de *reverse takeover* que cambia la naturaleza y el tamaño de la empresa (pasa de ser una empresa pequeña y sin operaciones a controlar un activo enorme), la bolsa de Londres (LSE) suspende temporalmente la cotización para proteger a los inversores. Necesitan presentar un *prospectus* con toda la información detallada y transparente sobre la operación. Una vez aprobado por la [*Financial Conduct Authority* (FCA)](https://data.fca.org.uk/#/homepage), Zegona podrá solicitar que sus acciones sean readmitidas a cotización.
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-	<img src="23-10-31-supension-of-listing.png" alt="Press release 23-10-31 Suspension of listing" style="max-width: 100%; height: auto;" width="800">
+	<img src="ZEG_23-10-31-supension-of-listing.png" alt="Press release 23-10-31 Suspension of listing" style="max-width: 100%; height: auto;" width="800">
+</div>
+
+#### Prospectus
+
+El [*prospectus*](Necesitan presentar un [*prospectus*](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/zegona-communications-plc-prospectus.pdf) con toda la información detallada y transparente sobre la operación. ) contiene toda la información sobre la operación. Se trata de un documento de 250 páginas que permite que cualquier posible inversor pueda tomar una decisión informada. La primera parte, *PART I*, es un resumen (*summary*) de todos los apartados del documento. A continuación, se van a describir las secciones más destacadas de dicho resumen.
+
+En primer lugar, se distingue entre las acciones anteriores a la adquisición de Vodafone España (*Existing Zegona Shares*) y las nuevas acciones que se emitirán para dicha operación (*New Zegona Shares*). En la siguiente tabla se muestran los principales accionistas antes de la adquisición y el accionariado tras la operación.
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+	<img src="ZEG_Prospectus_Major_Shareholders.png" alt="Prospectus Major shareholders" style="max-width: 100%; height: auto;" width="800">
 </div>
 
 En su [informe anual de 2023](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/2024/24-04-30-full-year-results-2023-report.pdf) se pueden encontrar más detalles sobre la operación
