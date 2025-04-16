@@ -92,7 +92,7 @@ Por otro lado, al tratarse de una operación de *reverse takeover* que cambia la
 
 #### Prospectus
 
-El [*prospectus*](Necesitan presentar un [*prospectus*](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/zegona-communications-plc-prospectus.pdf) con toda la información detallada y transparente sobre la operación. ) contiene toda la información sobre la operación. Se trata de un documento de 250 páginas que permite que cualquier posible inversor pueda tomar una decisión informada. La primera parte, *PART I*, es un resumen (*summary*) de todos los apartados del documento. A continuación, se van a describir las secciones más destacadas de dicho resumen.
+El [*prospectus*](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/zegona-communications-plc-prospectus.pdf) con toda la información detallada y transparente sobre la operación. ) contiene toda la información sobre la operación. Se trata de un documento de 250 páginas que permite que cualquier posible inversor pueda tomar una decisión informada. La primera parte, *PART I*, es un resumen (*summary*) de todos los apartados del documento. A continuación, se van a describir las secciones más destacadas de dicho resumen.
 
 En primer lugar, se distingue entre las acciones anteriores a la adquisición de Vodafone España (*Existing Zegona Shares*) y las nuevas acciones que se emitirán para dicha operación (*New Zegona Shares*). En la siguiente tabla se muestran los principales accionistas antes de la adquisición y el accionariado tras la operación.
 
