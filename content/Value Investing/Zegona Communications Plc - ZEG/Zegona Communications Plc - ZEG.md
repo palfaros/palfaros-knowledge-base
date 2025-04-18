@@ -109,8 +109,38 @@ En segundo lugar, se muestran las cuentas de Zegona y Vodafone España de los ú
 En tercer lugar, se especifica el número de acciones que tendrá la compañía. El número de acciones nuevas (*New Zegona Shares*) que se emitirán es el siguiente:
 - 697.654.138 acciones emitidas a 1.5 libras esterlinas, de las cuales 174.413.535 serán normales y 523.240.603 son de subscripción condicional (las de EJLSHM Funding Limited)
 - 4.651.027 acciones emitidas posteriormente en la *PrimaryBid Offer*
+
+![[ZEG_Prospectus_New_Zegona_Shares.png]]
+
 Estas acciones hay que sumarlas a las acciones ya existentes (*Existing Zegona Shares*): 6.172.424.
+
+![[ZEG_Prospectus_Existing_Zegona_Shares.png]]
+
 **El total de acciones será la suma de las acciones existentes y las nuevas: 708.477.589.**
+
+En cuarto lugar, se especifican las condiciones del *equity raise* con las *New Zegona Shares*:
+- 174.413.535 acciones emitidas a 1,5 libras esterlinas (380% de prima sobre el precio a 22 de septiembre 2023, cuando se suspendió la cotización). Esto da lugar a 215 millones de libras.
+- 900 millones de euros en la subscripción condicional con la *Newco* firmada el 31 de octubre de 2023. La *Newco* acuerda comprar acciones al precio de 1,5 libras esterlinas (tipo de cambio: 1 GBP = 1,1467 EUR).
+- 8 millones de euros adicionales en una emisión adicional independiente denominada *PrimaryBid*.
+
+![[ZEG_Prospectus_Terms_Conditions_Offer_edited.png]]
+
+El apartado VII (*PART VII*) contiene los detalles sobre la transacción, entre los cuales interesa profundizar sobre la financiación. La deuda se divide en 3 préstamos:
+1. *Term Loan A*: 500 millones de euros. La duración de este préstamo es de 5 años, con amortizaciones semestrales de la siguiente forma: ningún pago en los años 1 y 2, 2 amortizaciones del 12,5% del préstamo en los años 3 y 4 (25%+25%=50%) y 2 amortizaciones del 25% del préstamo en el año 5 (50%). El tipo de interés será EURIBOR+3,25%. 
+2. *Corporate Bridge Facility*: 3.700 millones de euros. Es un préstamo temporal de hasta €3.700 millones, que actuará como puente financiero hasta que Zegona consiga refinanciarlo con deuda a más largo plazo y en mejores condiciones. La duración es de 12 meses, con 2 opciones de extensión de 6 meses, es decir, 24 meses como máximo. No hay amortizaciones, por lo que se paga todo al final, pero con varios prepagos obligatorios si dan ciertos eventos, entre los cuales destaca que los primeros 300 millones de euros dela ampliación de capital (*equity raise*) debe utilizarse para amortizar este préstamo. Por tanto, el principal restante sería de 3.400 millones de euros. El tipo de interés será EURIBOR+2,00%.
+3. *Revolving Credit Facility*: 500 millones de euros. Es una reserva de liquidez para necesidades futuras (si bajan ingresos, compras puntuales, pago de intereses, etc.). No se usa automáticamente, pero está disponible si la empresa lo necesita. Es más cara que otras fuentes de financiación (EURIBOR+2.75%), así que solo se usa si no hay otra opción mejor.
+
+![[ZEG_Prospectus_Financing_Arrangements_New_Facilities.png]]
+
+Por otro lado, también se incluyen las restricciones en cuanto al pago de dividendos (necesario para poder cancelar las acciones de la *Newco*). Se prohíbe el pago de dividendos salvo si se producen 3 eventos. Sin embargo, solo uno de ellos permitiría pagar el dividendo de 1,5 libras para que la *Newco* devuelva las preferentes: **ratio deuda/EBITDA por debajo de 2,25**.
+
+![[ZEG_Prospectus_Financing_Arrangements_Dividends_Payment.png]]
+
+Finalmente, se indican las características principales de las acciones preferentes que tendrá *Vodafone Group* sobre la *Newco*. No afectan a la financiación de la operación en sí, pero son fundamentales para entender cuánto tendrá que pagar la *Newco* para cancelarlas.
+
+![[ZEG_Prospectus_Financing_Arrangements_Key_Terms_Vodafone_Preference_Shares.png]]
+
+Las acciones preferentes deben reembolsarse en 6 años como máximo. Los intereses anuales devengados se pagarán en forma de dividendos al siguiente ritmo: 5% los años 1,2 y 3, 10% el año 4, 12,5% el año 5 y 15% el año 6. Por tanto, si Zegona quiere que la *Newco* cancele las preferentes el primer año, deberá añadir dichos intereses (5%·900=45 millones de euros) sobre el dividendo de 1,5 libras esterlinas. 
 
 En su [informe anual de 2023](https://data.fca.org.uk/artefacts/NSM/Portal/NI-000098002/reports/213800ASI1VZL2ED4S65-2023-12-31-T01.xhtml) se pueden encontrar más detalles sobre la operación
 
