@@ -112,11 +112,11 @@ En tercer lugar, se especifica el número de acciones que tendrá la compañía.
 Estas acciones hay que sumarlas a las acciones ya existentes (*Existing Zegona Shares*): 6.172.424.
 **El total de acciones será la suma de las acciones existentes y las nuevas: 708.477.589.**
 
-En su [informe anual de 2023](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/2024/24-04-30-full-year-results-2023-report.pdf) se pueden encontrar más detalles sobre la operación
+En su [informe anual de 2023](https://data.fca.org.uk/artefacts/NSM/Portal/NI-000098002/reports/213800ASI1VZL2ED4S65-2023-12-31-T01.xhtml) se pueden encontrar más detalles sobre la operación
 
-Las [condiciones para la compra se alcanzaron el 14 de mayo de 2024](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/2024/24-05-14-conditions-to-acquisition-satisfied.pdf)
+Las [condiciones para la compra se alcanzaron el 14 de mayo de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1820151&culture=en-GB&val=638805791190898907)
 
-La [adquisición se completó el 31 de mayo de 2024](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/2024/vodafone-spain-completion-announcement-30-05-2024.pdf).
+La [adquisición se completó el 31 de mayo de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1826662&culture=en-GB&val=638805791190888876).
 ## Azagala Capital
 
 Temprano sí, bueno. Entonces vamos con la _special situation_, a ver si nos la puedes comentar.
