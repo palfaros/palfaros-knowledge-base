@@ -19,7 +19,7 @@ date: 2025-03-06
 
 ## Resumen
 
-Zegona Communications Plc (ZEG), listada en la bolsa de Londres (LSE) es un vehículo de inversión con propósito especial que está llevando a cabo una estrategia de *leveraged buyout* (LBO) sobre la filial en España del grupo Vodafone (Vodafone Group Plc): Vodafone España. El leverage buy out (o LBO) consiste en la adquisición de una compañía utilizando un elevado nivel de deuda (*acquisition debt* o deuda de adquisición), reduciendo con ello el compromiso de recursos propios (*equity*) por parte del comprador. **Al reducir el *equity* invertido, las tasas de retorno de la inversión son mucho más altas en términos porcentuales**.
+Zegona Communications Plc (ZEG), listada en la bolsa de Londres (LSE) es un vehículo de inversión con propósito especial que está llevando a cabo una estrategia de *leveraged buyout* (LBO) sobre la filial en España del grupo Vodafone (Vodafone Group Plc): Vodafone España. El leverage buy out (o LBO) consiste en la adquisición de una compañía utilizando un elevado nivel de deuda (*acquisition debt* o deuda de adquisición), reduciendo con ello el compromiso de recursos propios (*equity*) por parte del comprador. **Al reducir el *equity* invertido, las tasas de retorno (ROE) son mucho más altas**.
 
 La estrategia de *leveraged buyout* (LBO) sobre Vodafone España es particularmente interesante por los siguientes motivos:
 - **Gestón creíble con éxitos repetidos**. Los fundadores de Zegona son ejecutivos experimentados (*seasoned*) del sector de las telecomunicaciones (*telecom space*) que ya han sido capaces de generar retornos atractivos a sus accionistas en 2 ventas (*exits*) anteriores dentro del mercado de telecomunicaciones de España. También han nombrado como CEO de Vodafone España a una destacada figura (*all-star*) que fue clave en su venta más reciente. Dado que gran parte de la creación de valor en un LBO depende de la ejecución, contar con un equipo que ya ha logrado esto no una, sino dos veces, en el mismo país y sector, genera mucha confianza.
@@ -90,8 +90,6 @@ Por otro lado, al tratarse de una operación de *reverse takeover* que cambia la
 	<img src="ZEG_23-10-31-supension-of-listing.png" alt="Press release 23-10-31 Suspension of listing" style="max-width: 100%; height: auto;" width="800">
 </div>
 
-#### Prospectus
-
 El [*prospectus*](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/zegona-communications-plc-prospectus.pdf) contiene toda la información sobre la operación. Se trata de un documento de 250 páginas que permite que cualquier posible inversor pueda tomar una decisión informada. La primera parte, *PART I*, es un resumen (*summary*) de todos los apartados del documento. A continuación, se van a describir las secciones más destacadas de dicho resumen.
 
 En primer lugar, se distingue entre las acciones anteriores a la adquisición de Vodafone España (*Existing Zegona Shares*) y las nuevas acciones que se emitirán para dicha operación (*New Zegona Shares*). En la siguiente tabla se muestran los principales accionistas antes de la adquisición y el accionariado tras la operación.
@@ -144,9 +142,14 @@ Las acciones preferentes deben reembolsarse en 6 años como máximo. Los interes
 
 En su [informe anual de 2023](https://data.fca.org.uk/artefacts/NSM/Portal/NI-000098002/reports/213800ASI1VZL2ED4S65-2023-12-31-T01.xhtml) se pueden encontrar más detalles sobre la operación
 
-Las [condiciones para la compra se alcanzaron el 14 de mayo de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1820151&culture=en-GB&val=638805791190898907)
+Las [condiciones para la compra se alcanzaron el 14 de mayo de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1820151&culture=en-GB&val=638805791190898907). La compañía anuncia que cuenta con la aprobación del Consejo de Ministros, al tratarse de una operación de inversión extranjera en España. Se comunica además que la finalización de la operación está prevista para el día 31 de mayo de 2024 y que se ha solicitado a la bolsa de Londres la readmisión de las 704.149.410 acciones (*New Zegona Shares*) resultantes de la misma.
 
-La [adquisición se completó el 31 de mayo de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1826662&culture=en-GB&val=638805791190888876).
+La [adquisición se completó el 31 de mayo de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1826662&culture=en-GB&val=638805791190888876). Este anuncio supone el final de la operación y en él se resumen las condiciones principales de la misma:
+- La operación se completa por 5.000 millones de euros, lo que supone un múltiplo inferior a 4 veces su EBITDAal de 2023. Se compara con la venta de Euskaltel, vendida a 10,2 veces EBITDAal y la valoración de MasMovil (8.7 veces EBITDAal) y Orange (7.2 veces EBITDAal)
+- 900 millones de euros, es decir, casi un 20% de la operación, los aporta *Vodafone Group*, es decir, el que vende se auto-paga parte de la operación.
+- 3.900 millones de deuda (500 millones del Loan A + 3700 millones del préstamo puente - 300 millones de la ampliación de capital), lo que supone un apalancamiento de 3 veces EBITDAal de 2023.
+- Vodafone España es un negocio atractivo y de escala, con un significativo potencial de generación de *cash flow*. Según las cuentas de 2023, sus ventas fueron de 3.900 millones de euros, su EBITDAal fue de 1.300 millones de euros y generó un *cash flow* de 400 millones de euros.
+- A partir del 1 de Junio de 2024, José Miguel García será el CEO de Vodafone España, antiguo CEO de Euskaltel y Jazztel durante diferentes períodos. Euskaltel, compañía en la que Zegona contaba con una participación importante, fue reestructurada y transformada con tal éxito que MasMovil la adquirió por 3.500 millones, generando un retorno del 87% para los accionistas de Zegona , En el caso de Jazztel fue capaz de multiplicar por 4 el tamaño de la compañía, que fue vendida posteriormente a Orange generando un retorno del 600%. Todo ello en 9 años (2006-2015).
 ## Azagala Capital
 
 Temprano sí, bueno. Entonces vamos con la _special situation_, a ver si nos la puedes comentar.
