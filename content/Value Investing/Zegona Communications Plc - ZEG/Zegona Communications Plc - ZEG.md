@@ -28,6 +28,24 @@ La estrategia de *leveraged buyout* (LBO) sobre Vodafone España es particularme
 - **Valoración inicial atractiva**. Vodafone Group Plc estaba muy endeudada (o apalancada), por lo que estaba interesada en desprenderse de su segmento español, no esencial en su negocio, a bajo precio. Zegona compró Vodafone España a un múltiplo entre 3.9x EBITDAaL (según Zegona) y 5.3x EBITDA (según Vodafone Group Plc). En cualquier caso, incluso a un múltiplo 5x, esta valoración es la más baja pagada por una gran teleco española en los últimos 10 años.  Teniendo en cuenta la cantidad de apalancamiento (*leverage*) involucrado en la operación, cualquier pequeño aumento del múltiplo (*re-rating*) tiene un enorme potencial (*upside*). Aunque el precio actual de 5,75 £/acción implica un precio superior al  precio de adquisición de 1,50 £/acción, todavía estamos pagando un múltiplo bajo, especialmente si tratamos correctamente las acciones preferentes como deuda.
 - **Potencial de *multi-bagger***. La combinación de reducción de deuda (*deleveraging*), monetización de las netcos y mejora de la rentabilidad operativa de la compañía (*opco*=*operating company*) tiene un potencial (*upside*) de revalorización de las acciones de la compañía del 300% o superior.
 
+En resumen, Zegona está ejecutando un LBO muy agresivo sobre Vodafone España, con:
+-  Un equipo gestor top.
+- Compra barata.
+- Posibilidad realista de reducir deuda masivamente.
+- Y una estructura financiera que puede generar un retorno enorme si se aprovecha bien.
+
+Existen 4 líneas de actuación que permitirían un incremento en la cotización:
+1. *Deleveraging* vía monetización de activos (mismo EV, menos deuda → más *equity*): Si venden activos (como la red de fibra) y usan ese dinero para amortizar deuda, al mismo tiempo que el el *Enterprise Value* (EV) se mantiene constante (o casi), el *equity* se lleva lo que pierde la deuda. Como consecuencia, el *market cap* aumenta y, si el número de acciones se mantiene constante, sube el precio por acción.
+2. Recompra de preferentes (misma EV, mismas deudas, menos acciones → más valor por acción): Si usan el dinero para redimir las acciones preferentes, al mismo tiempo que el *Enterprise Value* (EV) se mantiene constante (o casi), no cambia la deuda pero el número de acciones en circulación disminuiría fuertemente (hasta un 69%). Como consecuencia, el *market cap* se reparte entre menos acciones y sube el precio por acción.
+3. Mejora del EBITDAal (mejora operativa): Si consiguen mejorar márgenes, recortar costes, renegociar torres, etc., el EBITDAal subirá. A igual múltiplo, el EV tiene que subir. Si la deuda se mantiene constante, todo el incremento se traslada al *equity*. Como consecuencia, el *market cap* aumenta y, si el número de acciones se mantiene constante, sube el precio por acción.
+4. Re-rating del múltiplo (mercado paga más por cada € de EBITDA): Si el mercado empieza a valorar a Zegona por ejemplo, a 6x EBITDAaL en lugar de 3.9x, al mismo tiempo que el EBITDAal se mantiene constante, el *Enterprse Value* (EV) subirá. Si la deuda no sube, todo el incremento se traslada al *equity*. Como consecuencia, el *market cap* aumenta y, si el número de acciones se mantiene constante, sube el precio por acción.
+
+Sin embargo, monetizar activos no es gratis: se pierde el control sobre una fuente de EBITDA y se pasa a tener un gasto. El balance óptimo es:
+- Vender activos a múltiplos mucho más altos que el que está cotizando.
+- Usar el dinero para amortizar deuda cara o redimir preferentes
+- Evitar una caída fuerte del EBITDA neto (renegociando buenos *leases*, por ejemplo)
+- Acompañar todo esto de mejoras operativas internas para volver a subir el EBITDA desde la nueva base.
+
 Según *Horos Asset Management* (febrero 2025): *"A pesar de que la compañía ha subido más de un 80% en bolsa desde mayo, creemos que el potencial sigue siendo enorme, superior al 70%."*
 
 ## Historia
