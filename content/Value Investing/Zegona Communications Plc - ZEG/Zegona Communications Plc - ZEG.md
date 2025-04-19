@@ -147,9 +147,47 @@ Las [condiciones para la compra se alcanzaron el 14 de mayo de 2024](https://otp
 La [adquisición se completó el 31 de mayo de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1826662&culture=en-GB&val=638805791190888876). Este anuncio supone el final de la operación y en él se resumen las condiciones principales de la misma:
 - La operación se completa por 5.000 millones de euros, lo que supone un múltiplo inferior a 4 veces su EBITDAal de 2023. Se compara con la venta de Euskaltel, vendida a 10,2 veces EBITDAal y la valoración de MasMovil (8.7 veces EBITDAal) y Orange (7.2 veces EBITDAal)
 - 900 millones de euros, es decir, casi un 20% de la operación, los aporta *Vodafone Group*, es decir, el que vende se auto-paga parte de la operación.
-- 3.900 millones de deuda (500 millones del Loan A + 3700 millones del préstamo puente - 300 millones de la ampliación de capital), lo que supone un apalancamiento de 3 veces EBITDAal de 2023.
+- 3.900 millones de deuda (500 millones del Loan A + 3.700 millones del préstamo puente - 300 millones de la ampliación de capital), lo que supone un apalancamiento de 3 veces EBITDAal de 2023.
 - Vodafone España es un negocio atractivo y de escala, con un significativo potencial de generación de *cash flow*. Según las cuentas de 2023, sus ventas fueron de 3.900 millones de euros, su EBITDAal fue de 1.300 millones de euros y generó un *cash flow* de 400 millones de euros.
-- A partir del 1 de Junio de 2024, José Miguel García será el CEO de Vodafone España, antiguo CEO de Euskaltel y Jazztel durante diferentes períodos. Euskaltel, compañía en la que Zegona contaba con una participación importante, fue reestructurada y transformada con tal éxito que MasMovil la adquirió por 3.500 millones, generando un retorno del 87% para los accionistas de Zegona , En el caso de Jazztel fue capaz de multiplicar por 4 el tamaño de la compañía, que fue vendida posteriormente a Orange generando un retorno del 600%. Todo ello en 9 años (2006-2015).
+- A partir del 1 de junio de 2024, José Miguel García será el CEO de Vodafone España, antiguo CEO de Euskaltel y Jazztel durante diferentes períodos. Euskaltel, compañía en la que Zegona contaba con una participación importante, fue reestructurada y transformada con tal éxito que MasMovil la adquirió por 3.500 millones, generando un retorno del 87% para los accionistas de Zegona , En el caso de Jazztel fue capaz de multiplicar por 4 el tamaño de la compañía, que fue vendida posteriormente a Orange generando un retorno del 600%. Todo ello en 9 años (2006-2015).
+
+### Refinanciación de deuda I
+
+En [julio de 2024](https://data.fca.org.uk/artefacts/NSM/RNS/5263960.html) Zegona refinanció parte de su deuda. En concreto, la parte correspondiente al préstamo puente, es decir, los 3.400 millones de euros restantes tras usar los 300 millones de euros de la ampliación de capital para amortizar parte del mismo.
+
+![[ZEG_Debt_Refinance_I.png]]
+
+La deuda queda reestructurada de la siguiente forma:
+- *Term Loan A*: 500 millones de euros.
+- *6,75% Senior Secured Notes*: Son bonos denominados en euros por 1.300 millones de euros. Vencen en 2029.
+- *8,625% Senior Secured Notes*: Son bonos denominados en dólares por 900 millones de dólares, que equivale a 828 millones de euros (cambio de 0,92 EUR/USD a 12 de julio de 2024). Vencen en 2029.
+- *Euro Facility B*: Préstamo a 5 años por 920 millones de euros.
+- *Dollar Facility B*: Préstamo a 5 años por 400 millones de dólares, que equivale a 368 millones de euros (cambio de 0,92 EUR/USD a 12 de julio de 2024).
+
+La deuda total asciende a 3.916 millones de euros. Por tanto, se corresponde con la cantidad inicialmente adeudada con *Term Loan A* y *Corporate Bridge Facility* de 500+3.400=3.900 millones de euros.
+
+**El objetivo de esta refinanciación es conseguir una financiación estable y de largo plazo**.
+
+### Refinanciación de deuda II
+
+En [marzo de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1913563&culture=en-GB&val=638806880518731143) Zegona refinanció por segunda vez parte de su deuda. En concreto, el préstamo *Term Loan B*, que asciende a 1.290 millones de euros.
+
+![[ZEG_Debt_Refinancing_II.png]]
+
+Esta refinanciación tiene 2 partes:
+1. La parte en euros del *Term Loan B* (*Euro Facility B*) reduce su tipo de interés del 4,25% al 3% (125 puntos básicos menos) al mismo tiempo que su importe se extiende en 370 millones de euros, alcanzando los 1.290 millones de euros.
+2. Se cancela la parte en dólares del *Term Loan B* (*Dollar Facility B*) con esos 370 millones de euros.
+
+La deuda queda reestructurada de la siguiente forma:
+- *Term Loan A*: 500 millones de euros.
+- *6,75% Senior Secured Notes*: Son bonos denominados en euros por 1.300 millones de euros. Vencen en 2029.
+- *8,625% Senior Secured Notes*: Son bonos denominados en dólares por 900 millones de dólares, que equivale a 828 millones de euros (cambio de 0,92 EUR/USD a 12 de julio de 2024). Vencen en 2029.
+- *Term Loan B*: Préstamo a 5 años por 1.290 millones de euros a un interés anual del 3%.
+
+La cantidad total adeudada se mantiene, en principio, en los mismos 3.900 millones de euros.
+
+**El objetivo de esta refinanciación es reducir el tipo de interés en 125 puntos básicos para los préstamos por valor de 1.290 millones de euros**.
+
 ## Azagala Capital
 
 Temprano sí, bueno. Entonces vamos con la _special situation_, a ver si nos la puedes comentar.
