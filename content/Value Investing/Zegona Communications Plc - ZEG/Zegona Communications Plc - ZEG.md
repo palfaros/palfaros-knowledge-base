@@ -226,6 +226,7 @@ En el caso de Vodafone España, su adquisición por parte de Zegona supuso una r
 
 Como se puede comprobar, la nueva directiva de Vodafone España se compone de algunas de las personas que acompañaron a José Miguel García durante su etapa como CEO de Jazztel y Euskaltel. Por esta razón, es interesante analizar la exitosa inversión de Zegona en Euskaltel.
 
+Por otro lado, Zegona cuenta con *management incentive arrangements* para alinear los intereses de la directiva con los de los accionistas.
 ### [Caso de estudio - Euskaltel](https://www.zegona.com/~/media/Files/Z/Zegona/documents/21-11-01-ekt-case-study-slide.pdf)
 
 ![[ZEG_Case_Study_Euskaltel.png]]
@@ -241,6 +242,14 @@ Antes de convertirse en máximo accionista, Euskaltel no había sido capaz de in
 
 En marzo de 2021, MásMóvil anunció una oferta para comprar Euskaltel por 3.500 millones de euros. La compra por parte de MásMóvil supuso un retorno del 87% en 6 años (2015-2021) para los accionistas de Zegona. En total, Zegona devolvió 335 millones de libras esterlinas a sus accionistas una vez completada la operación. Cabe mencionar que la inversión se vio beneficiada por movimientos en el cambio de divisa EUR/GBP.
 
+### Esquema de incentivos para la directiva
+
+Zegona cuenta un sistema de *Management Shares* para incentivar a su equipo directivo. Si los accionistas normales ganan dinero (al menos un 5% anual compuesto), el equipo gestor se lleva un porcentaje del crecimiento del valor bursátil de la empresa: hasta el 15% del incremento en el valor bursátil de Zegona durante ciertos periodos.
+
+Este esquema se encuentra descrito en el apartado 8 del [*prospectus*](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/zegona-communications-plc-prospectus.pdf) de la operación y en las [páginas 31-33 del informe anual de 2023]([data.fca.org.uk/artefacts/NSM/Portal/NI-000098002/reports/213800ASI1VZL2ED4S65-2023-12-31-T01.xhtml](https://data.fca.org.uk/artefacts/NSM/Portal/NI-000098002/reports/213800ASI1VZL2ED4S65-2023-12-31-T01.xhtml)).
+#### *Preferred Return (umbral mínimo)*
+
+Antes de que el equipo gestor cobre algo, los accionistas normales deben haber recibido al menos un **5% anual compuesto** sobre su capital invertido. Si no se cumple ese retorno mínimo, **el equipo gestor no recibe nada**.
 ## Azagala Capital
 
 Temprano sí, bueno. Entonces vamos con la _special situation_, a ver si nos la puedes comentar.
