@@ -239,7 +239,7 @@ Antes de convertirse en máximo accionista, Euskaltel no había sido capaz de in
 - Reducción de costes: Desde 2018 hasta la primera mitad de 2020 la nueva directiva consiguió un ahorro de 40 millones de euros, invirtiendo en digitalización, venta *online* así como la unificación en la gestión de las 3 marcas regionales (Euskaltel en País Vasco, R en Galicia y Telecable en Asturias).
 - Expansión nacional: - Acuerdo con la marca *Virgin*, utilizada como oferta *premium* que coexistía con Euskaltel. Como resultado, pasaron de tener a 2,5 millones de hogares (*addresable premises*) en 2019, a más de 20 millones en 2021, es decir, se multiplicó por 8 el número de hogares.
 
-En marzo de 2021, MásMóvil anunció una oferta para comprar Euskaltel por 3.500 millones de euros. La compra por parte de MásMóvil supuso un retorno del 87% en 6 años (2015-2021) para los accionistas de Zegona. En total, Zegona devolvió 335 millones de libras esterlinas a sus accionistas en forma de dividendo una vez completada la operación. Cabe mencionar que la inversión se vio beneficiada por movimientos en el cambio de divisa EUR/GBP.
+En marzo de 2021, MásMóvil anunció una oferta para comprar Euskaltel por 3.500 millones de euros. La compra por parte de MásMóvil supuso un retorno del 87% en 6 años (2015-2021) para los accionistas de Zegona. En total, Zegona devolvió 335 millones de libras esterlinas a sus accionistas una vez completada la operación. Cabe mencionar que la inversión se vio beneficiada por movimientos en el cambio de divisa EUR/GBP.
 
 ## Azagala Capital
 
