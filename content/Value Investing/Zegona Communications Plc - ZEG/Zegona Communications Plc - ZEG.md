@@ -226,6 +226,11 @@ En el caso de Vodafone España, su adquisición por parte de Zegona supuso una r
 
 Como se puede comprobar, la nueva directiva de Vodafone España se compone de algunas de las personas que acompañaron a José Miguel García durante su etapa como CEO de Jazztel y Euskaltel. Por esta razón, es interesante analizar la exitosa inversión de Zegona en Euskaltel.
 
+### [Caso de estudio - Euskaltel](https://www.zegona.com/~/media/Files/Z/Zegona/documents/21-11-01-ekt-case-study-slide.pdf)
+
+En agosto de 2015, Zegona completó la adquisición de Telecable, operador líder en Asturias, por un *enterprise value* de 640 millones de euros. En mayo de 2017, tras varias mejoras operativas, Telecable fue adquirida por Euskaltel (compañía cotizada) por un *enterprise value* de 701 millones de euros. Zegona recibió una parte en *cash*, que repartió entre sus accionistas, y otra parte en acciones de Euskaltel (15% del accionariado y un puesto en el consejo de la compañía).
+
+En abril de 2019, Zegona incrementó su posición en Euskaltel hasta el 21%, levantando e invirtiendo más de 100 millones de euros y convirtiéndose en el máximo accionista.
 
 ## Azagala Capital
 
