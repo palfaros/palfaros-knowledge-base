@@ -169,6 +169,7 @@ La [adquisición se completó el 31 de mayo de 2024](https://otp.tools.investis.
 - Vodafone España es un negocio atractivo y de escala, con un significativo potencial de generación de *cash flow*. Según las cuentas de 2023, sus ventas fueron de 3.900 millones de euros, su EBITDAaL fue de 1.300 millones de euros y generó un *cash flow* de 400 millones de euros.
 - A partir del 1 de junio de 2024, José Miguel García será el CEO de Vodafone España, antiguo CEO de Euskaltel y Jazztel durante diferentes períodos. Euskaltel, compañía en la que Zegona contaba con una participación importante, fue reestructurada y transformada con tal éxito que MásMóvil la adquirió por 3.500 millones, generando un retorno del 87% para los accionistas de Zegona , En el caso de Jazztel fue capaz de multiplicar por 4 el tamaño de la compañía, que fue vendida posteriormente a Orange generando un retorno del 600%. Todo ello en 9 años (2006-2015).
 
+#### *PrimaryBid Offer*
 ### Refinanciación de deuda I
 
 En [julio de 2024](https://data.fca.org.uk/artefacts/NSM/RNS/5263960.html) Zegona refinanció parte de su deuda. En concreto, la parte correspondiente al préstamo puente, es decir, los 3.400 millones de euros restantes tras usar los 300 millones de euros de la ampliación de capital para amortizar parte del mismo.
