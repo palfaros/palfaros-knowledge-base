@@ -246,7 +246,7 @@ En marzo de 2021, MásMóvil anunció una oferta para comprar Euskaltel por 3.50
 
 Zegona cuenta un sistema de *Management Shares* para incentivar a su equipo directivo. Si los accionistas normales ganan dinero (al menos un 5% anual compuesto), el equipo gestor se lleva un porcentaje del crecimiento del valor bursátil de la empresa: hasta el 15% del incremento en el valor bursátil de Zegona durante ciertos periodos.
 
-Este esquema se encuentra descrito en el apartado 8 del [*prospectus*](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/zegona-communications-plc-prospectus.pdf) de la operación y en las [páginas 31-33 del informe anual de 2023](data.fca.org.uk/artefacts/NSM/Portal/NI-000098002/reports/213800ASI1VZL2ED4S65-2023-12-31-T01.xhtml](https://data.fca.org.uk/artefacts/NSM/Portal/NI-000098002/reports/213800ASI1VZL2ED4S65-2023-12-31-T01.xhtml)).
+Este esquema se encuentra descrito en el apartado 8 del [*prospectus*](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/zegona-communications-plc-prospectus.pdf) de la operación y en las [páginas 31-33 del informe anual de 2023](https://data.fca.org.uk/artefacts/NSM/Portal/NI-000098002/reports/213800ASI1VZL2ED4S65-2023-12-31-T01.xhtml).
 #### *Preferred Return (umbral mínimo)*
 
 Antes de que el equipo gestor cobre algo, los accionistas normales deben haber recibido al menos un **5% anual compuesto** sobre su capital invertido. Si no se cumple ese retorno mínimo, **el equipo gestor no recibe nada**.
