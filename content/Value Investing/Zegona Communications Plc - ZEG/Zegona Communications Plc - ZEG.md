@@ -206,6 +206,27 @@ La cantidad total adeudada se mantiene, en principio, en los mismos 3.900 millon
 
 **El objetivo de esta refinanciación es reducir el tipo de interés en 125 puntos básicos para los préstamos por valor de 1.290 millones de euros**.
 
+## Directiva
+
+La directiva de Zegona está formada por las siguientes personas:
+- Eamonn O'Hare (*Chairman* y CEO)
+- Robert Samuelson (*Chief Operating Officer*)
+- Ashley Martin (*Non-Executive Director*)
+- Richard Williams (*Non-Executive Director*)
+- Suzi Williams (*Non-Executive Director*)
+
+En el caso de Vodafone España, su adquisición por parte de Zegona supuso una reestructuración de su directiva, que paso de 11 a 7 personas:
+- José Miguel García (CEO): Antiguo CEO de Jazztel y Euskaltel.
+- Ángel Álvarez (*Director of the Consumer Business Unit*): Antiguo *Chief Commercial Officer* de Digi España.
+- José Ortiz Martínez (*Director of Legal and Regulation*): Antiguo *Legal Director* de Jazztel y Euskaltel.
+- Berta Álvarez Stuber (*Director of Human Resources*): Antigua *Human Resources Director* de Euskaltel.
+- Eloy Rodrigo Gil (*Finance Director*).
+- Jesús Suso (*Director of the Enterprise Business Unit*).
+- Julia Velasco (*Network Director*).
+
+Como se puede comprobar, la nueva directiva de Vodafone España se compone de algunas de las personas que acompañaron a José Miguel García durante su etapa como CEO de Jazztel y Euskaltel. Por esta razón, es interesante analizar la exitosa inversión de Zegona en Euskaltel.
+
+
 ## Azagala Capital
 
 Temprano sí, bueno. Entonces vamos con la _special situation_, a ver si nos la puedes comentar.
