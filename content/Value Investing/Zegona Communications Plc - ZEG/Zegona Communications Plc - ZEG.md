@@ -127,7 +127,6 @@ En tercer lugar, se especifica el número de acciones que tendrá la compañía.
 - 4.651.027 acciones emitidas posteriormente en la *PrimaryBid Offer*. Sin embargo, [la *PrimaryBid Offer* se lanzó el 13 de noviembre de 2023 y se completó el 15 de noviembre de 2023 con la emisión de 322.848 acciones nuevas (484.272 libras esterlinas)](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1733613&culture=en-GB&val=638808507176391193).
 
 ![[ZEG_Prospectus_New_Zegona_Shares.png]]
-
 ![[ZEG_PrimaryBid_Offer_Results.png]]
 
 Estas acciones hay que sumarlas a las acciones ya existentes (*Existing Zegona Shares*): 6.172.424.
