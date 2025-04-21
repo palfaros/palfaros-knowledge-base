@@ -124,7 +124,7 @@ En segundo lugar, se muestran las cuentas de Zegona y Vodafone España de los ú
 
 En tercer lugar, se especifica el número de acciones que tendrá la compañía. El número de acciones nuevas (*New Zegona Shares*) que se emitirán es el siguiente:
 - 697.654.138 acciones emitidas a 1.5 libras esterlinas, de las cuales 174.413.535 serán normales y 523.240.603 son de subscripción condicional (las de EJLSHM Funding Limited)
-- 4.651.027 acciones emitidas posteriormente en la *PrimaryBid Offer*. Sin embargo, [la *PrimaryBid Offer* se lanzó el 13 de noviembre de 2023 y se completó el 15 de noviembre de 2023 con la emisión de 322.848 acciones nuevas (484.272 libras esterlinas)](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1733613&culture=en-GB&val=638808507176391193).
+- 4.651.027 acciones emitidas posteriormente en la *PrimaryBid Offer*. Sin embargo, [la *PrimaryBid Offer* se lanzó el 13 de noviembre de 2023 y se completó el 15 de noviembre de 2023 con la emisión de 322.848 acciones nuevas](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1733613&culture=en-GB&val=638808507176391193).
 
 ![[ZEG_Prospectus_New_Zegona_Shares.png]]
 ![[ZEG_PrimaryBid_Offer_Results.png]]
@@ -138,7 +138,7 @@ Estas acciones hay que sumarlas a las acciones ya existentes (*Existing Zegona S
 En cuarto lugar, se especifican las condiciones del *equity raise* con las *New Zegona Shares*:
 - 174.413.535 acciones emitidas a 1,5 libras esterlinas (380% de prima sobre el precio a 22 de septiembre 2023, cuando se suspendió la cotización). Esto da lugar a 215 millones de libras.
 - 900 millones de euros en la subscripción condicional con la *Newco* firmada el 31 de octubre de 2023. La *Newco* acuerda comprar acciones al precio de 1,5 libras esterlinas (tipo de cambio: 1 GBP = 1,1467 EUR).
-- 8 millones de euros adicionales en una emisión adicional independiente denominada *PrimaryBid*. El resultado de la *PrimaryBid Offer* fue la captación de 500.000 libras esterlinas, muy por debajo de los 8 millones de euros que se buscaban.
+- 8 millones de euros adicionales en una emisión adicional independiente denominada *PrimaryBid*. El [resultado de la *PrimaryBid Offer*](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1733613&culture=en-GB&val=638808507176391193). fue la captación de 484.272 libras esterlinas, muy por debajo de los 8 millones de euros que se buscaban.
 
 ![[ZEG_Prospectus_Terms_Conditions_Offer_edited.png]]
 
