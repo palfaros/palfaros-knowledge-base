@@ -247,6 +247,8 @@ En marzo de 2021, MásMóvil anunció una oferta para comprar Euskaltel por 3.50
 
 Zegona cuenta un sistema de *Management Shares* para incentivar a su equipo directivo. Si los accionistas normales obtienen un retorno mínimo del 5% anual compuesto (*Preferred Return*) durante un período de cálculo (*Calculation Periods*) el equipo gestor se lleva un 15% del crecimiento del valor bursátil de la empresa en dicho período.
 
+Este esquema se encuentra descrito en el apartado 8 del [*prospectus*](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/zegona-communications-plc-prospectus.pdf) de la operación y en las [páginas 31-33 del informe anual de 2023](https://data.fca.org.uk/artefacts/NSM/Portal/NI-000098002/reports/213800ASI1VZL2ED4S65-2023-12-31-T01.xhtml).
+
 Los períodos de cálculo duran entre 3 y 5 años. El último período, de 3 años, terminó el 14 de octubre 2024, tras el que se ha iniciado uno nuevo (terminará, cómo mínimo, en 2027).
 
 La dirección puede cerrar el periodo voluntariamente entre el tercer y el quinto año, o este puede cerrarse automáticamente si hay:
@@ -260,8 +262,7 @@ Una vez redimidas, se inicia automáticamente un nuevo período de cálculo. Se 
 
 Por otro lado, los accionistas tienen la última palabra para ratificar un nuevo período de cálculo. Si el 75% o más de los accionistas votan en contra, las *Management Shares* se cancelan sin valor.
 
-Este esquema se encuentra descrito en el apartado 8 del [*prospectus*](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/zegona-communications-plc-prospectus.pdf) de la operación y en las [páginas 31-33 del informe anual de 2023](https://data.fca.org.uk/artefacts/NSM/Portal/NI-000098002/reports/213800ASI1VZL2ED4S65-2023-12-31-T01.xhtml).
-
+En el último período (14 de octubre de 2021 - 14 de octubre de 2024), el crecimiento en el valor bursátil ha sido de 1.500 millones de libras esterlinas, siendo su capitalización superior a 2.500 millones de libras esterlinas. De esta forma, el crecimiento anualizado para los accionistas durante esos 3 años ha sido ampliamente superior al 5%. Así,  [el día 15 de octubre de 2024 la directiva ejerció sus *Management Shares*](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1875387&culture=en-GB&val=638808662814088075), recibiendo el 15% de dicho incremento en forma de 55 millones de acciones de Zegona de nueva emisión. En concreto, el número de acciones emitidas es 55.060.495. De esta forma, **el total de acciones de la compañía pasa a ser 759.209.905**. La directiva se compromete a mantener las acciones sin vender durante 2 años (2026).
 
 ## Azagala Capital
 
