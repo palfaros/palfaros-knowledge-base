@@ -245,12 +245,24 @@ En marzo de 2021, MásMóvil anunció una oferta para comprar Euskaltel por 3.50
 
 ### Esquema de incentivos para la directiva
 
-Zegona cuenta un sistema de *Management Shares* para incentivar a su equipo directivo. Si los accionistas normales ganan dinero (al menos un 5% anual compuesto), el equipo gestor se lleva un porcentaje del crecimiento del valor bursátil de la empresa: hasta el 15% del incremento en el valor bursátil de Zegona durante ciertos periodos.
+Zegona cuenta un sistema de *Management Shares* para incentivar a su equipo directivo. Si los accionistas normales obtienen un retorno mínimo del 5% anual compuesto (*Preferred Return*) durante un período de cálculo (*Calculation Periods*) el equipo gestor se lleva un 15% del crecimiento del valor bursátil de la empresa en dicho período.
+
+Los períodos de cálculo duran entre 3 y 5 años. El último período, de 3 años, terminó el 14 de octubre 2024, tras el que se ha iniciado uno nuevo (terminará, cómo mínimo, en 2027).
+
+La dirección puede cerrar el periodo voluntariamente entre el tercer y el quinto año, o este puede cerrarse automáticamente si hay:
+- Disolución de la empresa.
+- Venta mayoritaria de activos.
+- OPA o cambio de control.
+
+Al cerrar un período, y si se ha cumplido el *Preferred Return* del 5% anual compuesto, la dirección puede redimir (ejercer) sus *Management Shares*. Así, la directiva recibe el 15% del aumento en el valor de Zegona, ya sea en efectivo o en acciones ordinarias. Esto puede llevar a que la dirección se convierta en accionista significativa, si el valor creado ha sido grande. Si no se ha alcanzado el retorno del 5%, no se paga nada a la dirección.
+
+Una vez redimidas, se inicia automáticamente un nuevo período de cálculo. Se vuelve a calcular el crecimiento desde un nuevo punto de partida (*Baseline*), que es el mayor entre el valor de mercado medio de 30 días (*30-day VWAP*) y el capital invertido neto por los accionistas en esa fecha.
+
+Por otro lado, los accionistas tienen la última palabra para ratificar un nuevo período de cálculo. Si el 75% o más de los accionistas votan en contra, las *Management Shares* se cancelan sin valor.
 
 Este esquema se encuentra descrito en el apartado 8 del [*prospectus*](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/zegona-communications-plc-prospectus.pdf) de la operación y en las [páginas 31-33 del informe anual de 2023](https://data.fca.org.uk/artefacts/NSM/Portal/NI-000098002/reports/213800ASI1VZL2ED4S65-2023-12-31-T01.xhtml).
-#### *Preferred Return (umbral mínimo)*
 
-Antes de que el equipo gestor cobre algo, los accionistas normales deben haber recibido al menos un **5% anual compuesto** sobre su capital invertido. Si no se cumple ese retorno mínimo, **el equipo gestor no recibe nada**.
+
 ## Azagala Capital
 
 Temprano sí, bueno. Entonces vamos con la _special situation_, a ver si nos la puedes comentar.
