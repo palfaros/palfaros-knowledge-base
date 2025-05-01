@@ -285,7 +285,7 @@ La estrategia de la directiva para conseguir rentabilizar la operación de la ad
 - Aumentar el EBITDA para que, manteniendo el múltiplo y sin incrementar la deuda, el correspondiente incremento del *Enterprise Value* se traslade al *market cap*.
 
 Se han definido dos líneas de actuación:
-- Monetización de activos para reducir la deuda y redimir las acciones preferentes (LBO).
+- Reducción de la deuda y cancelación de las acciones preferentes (LBO) mediante la monetización de activos.
 - Reestructuración del negocio (*turn around*).
 
 ## Azagala Capital
