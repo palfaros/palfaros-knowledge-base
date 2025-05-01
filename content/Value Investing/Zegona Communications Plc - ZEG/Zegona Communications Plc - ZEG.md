@@ -279,7 +279,14 @@ No se han registrado operaciones de venta hasta la fecha. Esto es un indicativo 
 
 ## Estrategia
 
-La 
+La estrategia de la directiva para conseguir rentabilizar la operación de la adquisición de Vodafone España combina los siguientes elementos:
+- Reducir la deuda para que, manteniendo el EBITDA y el múltiplo, el *market cap* se incremente.
+- Reducir el número de acciones en circulación para que, manteniendo el EBITDA y el múltiplo (y sin incrementar la deuda), el *market cap* se reparta entre un número inferior de acciones, de forma que el precio por acción se incremente.
+- Aumentar el EBITDA para que, manteniendo el múltiplo y sin incrementar la deuda, el correspondiente incremento del *Enterprise Value* se traslade al *market cap*.
+
+Se han definido dos líneas de actuación:
+- Monetización de activos para reducir la deuda y redimir las acciones preferentes (LBO).
+- Reestructuración del negocio (*turn around*).
 
 ## Azagala Capital
 
