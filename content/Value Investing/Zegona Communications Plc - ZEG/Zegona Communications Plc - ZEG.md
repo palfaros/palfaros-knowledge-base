@@ -275,7 +275,7 @@ La directiva de Zegona ha comprado acciones desde el anuncio de la adquisición 
 - El [12 de diciembre de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1893405&culture=en-GB&val=638817229037747012) Ashley Martin (*Non-Executive Director*) compró 13.332 acciones de la compañía ($ZEG) a un precio de 3,3 libras esterlinas por acción (42.075 libras esterlinas).
 - El [13 de enero de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1900344&culture=en-GB&val=638817229037677001) Richard Williams (*Non-Executive Director*) compró 12.363 acciones de la compañía ($ZEG) a un precio de 4,0392 libras esterlinas por acción (49.936.63 libras esterlinas).
 
-No se han registrado operaciones de venta hasta la fecha. Esto es un indicativo de la confianza de la directiva respecto a su plan estratégico, especialmente en el caso del José Miguel García, con más de 1,5 millones de euros de su patrimonio invertidos.
+No se han registrado operaciones de venta hasta la fecha. Esto es un indicativo de la confianza de la directiva respecto a su plan estratégico, especialmente en el caso de José Miguel García, con más de 1,5 millones de euros de su patrimonio invertidos.
 
 ## Estrategia
 
