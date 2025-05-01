@@ -265,6 +265,18 @@ Por otro lado, los accionistas tienen la última palabra para ratificar un nuevo
 
 En el último período (14 de octubre de 2021 - 14 de octubre de 2024), el crecimiento en el valor bursátil ha sido de 1.500 millones de libras esterlinas, siendo su capitalización superior a 2.500 millones de libras esterlinas. De esta forma, el crecimiento anualizado para los accionistas durante esos 3 años ha sido ampliamente superior al 5%. Así,  [el día 15 de octubre de 2024 la directiva ejerció sus *Management Shares*](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1875387&culture=en-GB&val=638808662814088075), recibiendo el 15% de dicho incremento en forma de 55 millones de acciones de Zegona de nueva emisión, lo que les convierte en propietarios del 7,5% de Zegona. En concreto, el número de acciones emitidas es 55.060.495. La directiva se compromete a mantener las acciones sin vender durante 2 años (2026). De esta forma, **el total de acciones de la compañía pasa a ser 759.209.905**. 
 
+### Compra y venta de acciones
+
+La directiva de Zegona ha comprado acciones desde el anuncio de la adquisición de Vodafone España:
+- El [17 de noviembre de 2023](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1734139&culture=en-GB&val=638817233299524711) Richard Williams (*Non-Executive Director*) compró 26.666 acciones de la compañía ($ZEG) a un precio de 1,5 libras esterlinas por acción (39.999 libras esterlinas).
+- El [17 de noviembre de 2023](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1734139&culture=en-GB&val=638817233299524711) Ashley Martin (*Non-Executive Director*) compró 13.332 acciones de la compañía ($ZEG) a un precio de 1,5 libras esterlinas por acción (19.998 libras esterlinas).
+- El [17 de julio de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1843321&culture=en-GB&val=638817230643284616) José Miguel García (CEO de Vodafone España) compró 485.500 acciones de la compañía ($ZEG) a un precio de 2,653 libras esterlinas por acción (1.288.031,50 libras esterlinas).
+- El [12 de noviembre de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1884062&culture=en-GB&val=638817229037796996) Richard Williams (*Non-Executive Director*) compró 82.141 acciones de la compañía ($ZEG) a un precio de 3,2 libras esterlinas por acción (174.076,80 libras esterlinas).
+- El [12 de diciembre de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1893405&culture=en-GB&val=638817229037747012) Ashley Martin (*Non-Executive Director*) compró 13.332 acciones de la compañía ($ZEG) a un precio de 3,3 libras esterlinas por acción (42.075 libras esterlinas).
+- El [13 de enero de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1900344&culture=en-GB&val=638817229037677001) Richard Williams (*Non-Executive Director*) compró 12.363 acciones de la compañía ($ZEG) a un precio de 4,0392 libras esterlinas por acción (49.936.63 libras esterlinas).
+
+No se han registrado operaciones de venta hasta la fecha. Esto es un indicativo de la confianza de la directiva respecto a su plan estratégico, especialmente en el caso del José Miguel García, con más de 1,5 millones de euros de su patrimonio invertidos.
+
 ## Estrategia
 
 La 
