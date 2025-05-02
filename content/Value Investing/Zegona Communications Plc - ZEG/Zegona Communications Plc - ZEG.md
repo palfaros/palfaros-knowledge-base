@@ -149,7 +149,7 @@ El apartado VII (*PART VII*) contiene los detalles sobre la transacción, entre 
 
 ![[ZEG_Prospectus_Financing_Arrangements_New_Facilities.png]]
 
-Por otro lado, también se incluyen un *covenant* financiero en cuanto al pago de dividendos (necesario para poder cancelar las acciones de la *Newco*). Se prohíbe el pago de dividendos salvo si se producen 3 eventos. Sin embargo, solo uno de ellos permitiría pagar el dividendo de 1,5 libras para que la *Newco* devuelva las preferentes: **ratio deuda/EBITDA por debajo de 2,25**.
+Por otro lado, también se incluyen un *covenant* financiero en cuanto al pago de dividendos (necesario para poder cancelar las acciones de la *Newco*). Se prohíbe el pago de dividendos salvo si se producen 3 eventos. Sin embargo, solo uno de ellos permitiría pagar el dividendo de 1,5 libras para que la *Newco* devuelva las preferentes: **ratio deuda/EBITDAaL por debajo de 2,25**.
 
 ![[ZEG_Prospectus_Financing_Arrangements_Dividends_Payment.png]]
 
