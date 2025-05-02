@@ -290,7 +290,39 @@ Se han definido dos líneas de actuación:
 
 ### Reducción de deuda y cancelación de preferentes
 
-Pendiente
+La primera línea de actuación es la cancelación de las preferentes de Vodafone España. Para ello, es necesario emitir un dividendo a todos los accionistas de Zegona, de forma que la *Newco* sea capaz de devolver los 900 millones (más intereses) a *Vodafone Group Plc*. 
+
+Sin embargo, es necesario recordar que existe un *covenant* financiero en la financiación de la adquisición que condiciona el pago de dividendos a un *leverage ratio* inferior a 2,25 veces. Esto supone que Zegona debe reducir la deuda de la compañía antes de repartir ese dividendo. 
+
+Por tanto, se debe calcular la cantidad de dinero (*cash*) que debe generar la compañía para realizar ambos pagos. 
+
+En primer lugar, podemos estimar el nivel de deuda que habilitaría el pago de dividendos a partir del importe de adquisición (5.000 millones de euros) y los múltiplos EV/EBITDAaL proporcionados por Zegona (3,9x EV/EBITDAaL) y *Vodafone Group* (5,3x EV/EBITDAaL) en el momento de adquisición:
+- Escenario optimista (2023 EV/EBITDAaL=3,9): El EBITDAaL sería de 5.000/3,9=1.282 millones de euros, es decir, unos 1.300 millones de euros. Por tanto, el nivel de deuda neta que se puede alcanzar es de 2,25·1.300=2.925 millones de euros. Como la deuda neta resultante de la operación es de 3.900 millones de euros, se deberían pagar unos 1.000 millones de euros de dicha deuda.
+- Escenario pesimista (2023 EV/EBITDAaL=5,3): El EBITDAaL sería de 5.000/3,9=943 millones de euros, es decir, unos 940 millones de euros. Por tanto, el nivel de deuda neta que se puede alcanzar es de 2,25·940=2.115 millones de euros. Como la deuda neta resultante de la operación es de 3.900 millones de euros, se deberían pagar unos 1.800 millones de euros de dicha deuda.
+
+El *cash* necesario para cumplir con el *covenant* financiero oscila en un rango entre 1.000 y 1.800 millones de euros.
+
+En segundo lugar, podemos estimar cuál debe ser el dividendo a repartir para que la *Newco* cancele las acciones preferentes con *Vodafone Group*. Se deben devolver los 900 millones de euros junto con los intereses de 1 año y medio (aproximadamente) del 5% anual, es decir, (5%+2,5%)·900 = 967 millones de euros (820 millones de libras esterlinas a marzo de 2025). Como la *Newco* dispone de 523.240.603 acciones, el dividendo debe ser de 820/523.240.603 = 1,57 libras esterlinas por acción. En principio, el dividendo debe repartirse a todos los accionistas, es decir, a las 759.209.905 acciones de circulación, de forma que el importe total del dividendo sería 1,57·759.209.905 = 1.191 millones de libras esterlinas (1.436 millones de euros a marzo de 2025).
+
+El *cash* necesario para repartir un dividendo suficiente que cubra las acciones preferentes será de 1.400 millones de euros. 
+
+En total, el *cash* necesario para cancelar las acciones preferentes será de entre 2.400 y 3.200 millones de euros.
+
+No obstante, gracias a la primera refinanciación de deuda, en la que se emitieron bonos, la compañía se ha visto obligada a publicar información trimestralmente sobre el estado de su deuda así como algunos KPIs de Vodafone España. En concreto. el [20 de diciembre de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1895429&culture=en-GB&val=638818205566645333) publicó la información correspondiente hasta el 30 de septiembre de 2024 y el [24 de febrero de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1911500&culture=en-GB&val=638818205566565334) hizo lo propio con la información hasta el 31 de diciembre de 2024.
+
+![[ZEG_KPIs_Sep_2024.png]]
+
+![[ZEG_KPIs_Dec_2024.png]]
+
+Estos documentos nos permiten obtener el EBITDAaL de Vodafone España en los últimos 9 meses de 2024. Si extrapolamos los datos al primer trimestre de 2024 mediante la media de los 3 trimestres, ya que este tipo de empresas tienen ingresos muy estables y predecibles, podemos obtener el EBITDAaL del año 2024:
+- Primer trimestre (*3m to March 24*): (299+318+320)/3 = 313 millones de euros
+- Segundo trimestre (*3m to Jun 24*): 299 millones de euros
+- Tercer trimestre (*3m to Sep 24*): 318 millones de euros
+- Cuarto trimestre (*3m to Dec 24*): 320 millones de euros
+- **Total: 1250 millones de euros**
+
+**Por tanto, parece que nos encontramos en el escenario optimista, de forma que la cantidad de *cash* a obtener para reducir la deuda y pagar el dividendo sería de entre 2.400 y 2.500 millones de euros.**
+
 ### Reestructuración del negocio
 
 Pendiente
