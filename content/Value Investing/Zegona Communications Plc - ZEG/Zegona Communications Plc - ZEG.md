@@ -25,7 +25,7 @@ La estrategia de *leveraged buyout* (LBO) sobre Vodafone España es particularme
 - **Gestón creíble con éxitos repetidos**. Los fundadores de Zegona son ejecutivos experimentados (*seasoned*) del sector de las telecomunicaciones (*telecom space*) que ya han sido capaces de generar retornos atractivos a sus accionistas en 2 ventas (*exits*) anteriores dentro del mercado de telecomunicaciones de España. También han nombrado como CEO de Vodafone España a una destacada figura (*all-star*) que fue clave en su venta más reciente. Dado que gran parte de la creación de valor en un LBO depende de la ejecución, contar con un equipo que ya ha logrado esto no una, sino dos veces, en el mismo país y sector, genera mucha confianza.
 - **Estructura de capital única, atractiva y malinterpretada**. Como en cualquier LBO, Zegona utilizó una gran cantidad de apalancamiento (*leverage*) para financiar la adquisición. De hecho, solo aproximadamente el 6% del precio de adquisición de 5.000 millones de euros, es decir, 300 millones, se financió con capital propio (*funded with equity*). El resto, 4.700 millones, se cubrió con deuda, incluyendo 900 millones de euros en financiación por parte del mismo vendedor o *vendor take-back financing* estructurada de una forma poco común e ingeniosa que añade un importante potencial de apalancamiento a la operación. Desde un punto de vista contable, esta financiación del vendedor parece haberse satisfecho mediante la emisión (*issuance*) de 900 millones de euros en acciones ordinarias (*common stock*). Se trata de acciones preferentes que representan aproximadamente el 69% del total de acciones ordinarias en circulación (*total commons outstanding*). Sin embargo, estas acciones son rescatables a la par (900 millones de euros) más los intereses acumulados (*accrued interest*), por lo que en la práctica se asemejan más a un instrumento de deuda/interés preferente (asumiendo que pueden ser rescatadas). Por tanto, Zegona puede "recomprar" el 69% de su actual capitalización bursátil contable de 2.400 millones de libras esterlinas (es decir, 1.670 millones de libras), por solo aproximadamente 750 millones de libras (900 millones de euros). Es como un *buyback* muy por debajo del precio de mercado. Esto permitirá una reducción de deuda muy acelerada.
 - **Venta de activos rentables para reducir deuda**. La reducción de deuda parece excelente pero, ¿cómo se logrará?. La respuesta está en la monetización de la red de fibra propiedad de Vodafone. Zegona, siguiendo una estrategia (*playbook*) cada vez más común en el sector de telecomunicaciones, ya ha realizado los primeros pasos para hacer un *spinf-off* de su red de fibra mediante la integración de estos activos en empresas conjuntas (*joint ventures*) con las dos principales telecos de España (Telefónica y MasOrange). Eventualmente (y esperemos que pronto), Zegona planea vender su participación en estas *netcos* a inversores en infraestructuras, lo que, dado el alto valor que alcanzan estos activos (el múltiplo al que se pagan), será altamente rentable y debería generar los fondos suficientes para una significativa reducción de deuda, incluida la redención o cancelación de las ya mencionadas acciones preferentes.
-- **Valoración inicial atractiva**. Vodafone Group Plc estaba muy endeudada (o apalancada), por lo que estaba interesada en desprenderse de su segmento español, no esencial en su negocio, a bajo precio. Zegona compró Vodafone España a un múltiplo entre 3.9x EBITDAaL ([según Zegona](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1826662&culture=en-GB&val=638805791190888876)) y 5.3x EBITDA ([según Vodafone Group Plc](https://www.vodafone.com/news/corporate-and-financial/sale-of-vodafone-spain)). En cualquier caso, incluso a un múltiplo 5x, esta valoración es la más baja pagada por una gran teleco española en los últimos 10 años.  Teniendo en cuenta la cantidad de apalancamiento (*leverage*) involucrado en la operación, cualquier pequeño aumento del múltiplo (*re-rating*) tiene un enorme potencial (*upside*). Aunque el precio actual de 5,75 £/acción implica un precio superior al  precio de adquisición de 1,50 £/acción, todavía estamos pagando un múltiplo bajo, especialmente si tratamos correctamente las acciones preferentes como deuda.
+- **Valoración inicial atractiva**. Vodafone Group Plc estaba muy endeudada (o apalancada), por lo que estaba interesada en desprenderse de su segmento español, no esencial en su negocio, a bajo precio. Zegona compró Vodafone España a un múltiplo entre 3.9x [[EBITDAaL]] ([según Zegona](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1826662&culture=en-GB&val=638805791190888876)) y 5.3x [[EBITDAaL]] ([según Vodafone Group Plc](https://www.vodafone.com/news/corporate-and-financial/sale-of-vodafone-spain)). En cualquier caso, incluso a un múltiplo 5x, esta valoración es la más baja pagada por una gran teleco española en los últimos 10 años.  Teniendo en cuenta la cantidad de apalancamiento (*leverage*) involucrado en la operación, cualquier pequeño aumento del múltiplo (*re-rating*) tiene un enorme potencial (*upside*). Aunque el precio actual de 5,75 £/acción implica un precio superior al  precio de adquisición de 1,50 £/acción, todavía estamos pagando un múltiplo bajo, especialmente si tratamos correctamente las acciones preferentes como deuda.
 - **Potencial de *multi-bagger***. La combinación de reducción de deuda (*deleveraging*), monetización de las netcos y mejora de la rentabilidad operativa de la compañía (*opco*=*operating company*) tiene un potencial (*upside*) de revalorización de las acciones de la compañía del 300% o superior.
 
 En resumen, Zegona está ejecutando un LBO muy agresivo sobre Vodafone España, con:
@@ -73,7 +73,7 @@ La compra de Vodafone España se estructura como una operación de *reverse take
 ### Financiación
 
 En [octubre de 2023](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/2023/23-10-31-zegona-acquistion-of-vodafone-spain.pdf), Zegona llegó a un acuerdo para comprar Vodafone España por 5.000 millones de euros (3,9x FY23 EBITDAaL). En el acuerdo se indica que la financiación se estructuraba como una combinación de:
-- **Nueva deuda**: 4.200 millones de euros junto 500 millones en forma de crédito *revolving*. En el momento de firmar el acuerdo, Zegona ya tenía asegurado un paquete de financiación de €4.200 millones (esto incluye deuda bancaria y otras fuentes). Si la ampliación de capital alcanza los 600 millones de euros, se utilizará una parte de ellos para reducir la deuda neta hasta 3.700 millones de euros. Esto se corresponde con un apalancamiento o *leverage* de 2,9x EBIDTAal. Si la ampliación de capital se queda en 300 millones de euros, entonces la deuda neta se reducirá solamente hasta 3.900 millones de euros (3x EBITDAaL).
+- **Nueva deuda**: 4.200 millones de euros junto 500 millones en forma de crédito *revolving*. En el momento de firmar el acuerdo, Zegona ya tenía asegurado un paquete de financiación de €4.200 millones (esto incluye deuda bancaria y otras fuentes). Si la ampliación de capital alcanza los 600 millones de euros, se utilizará una parte de ellos para reducir la deuda neta hasta 3.700 millones de euros. Esto se corresponde con un apalancamiento o *leverage* de 2,9x EBITDAal. Si la ampliación de capital se queda en 300 millones de euros, entonces la deuda neta se reducirá solamente hasta 3.900 millones de euros (3x EBITDAaL).
 - **Financiación por parte de Vodafone Group**: 900 millones de euros. Estos 900 millones los proporcionará Vodafone Group (Vodafone financia a Zegona la compra de Vodafone España) en forma de acciones preferentes en el caso de que la ampliación de capital sea de 300 millones. Esta financiación se realizará de la siguiente forma: Vodafone Group Plc invierte 900 millones de euros en acciones preferentes de una sociedad nueva (EJLSHM Funding Limited) y esa sociedad es la que usa los 900 millones de euros para comprar acciones ordinarias de Zegona a 1.50 libras esterlinas.
 - **Ampliación de capital (*equity raise*)**: El objetivo es conseguir entre 300 y 600 millones de euros. Si la ampliación de capital supera los 400 millones de euros, el 50% de la *equity* captada por encima de 400 millones de euros se pagarán a Vodafone Group Plc quien, a su vez, reducirá la parte correspondiente de las acciones preferentes compradas. Por tanto, si la ampliación de capital es de 600 millones de euros, 50%·(600-400)=100 millones de euros irán a Vodafone Group Plc, quien reducirá la financiación hasta 800 millones. Esta es la razón de que, tras una hipotética ampliación de capital de 600 millones, la deuda neta sea de 4.200-(600-100)=3.700 millones de euros.
 
@@ -280,31 +280,22 @@ No se han registrado operaciones de venta hasta la fecha. Esto es un indicativo 
 ## Estrategia
 
 La estrategia de la directiva para conseguir rentabilizar la operación de la adquisición de Vodafone España combina los siguientes elementos:
-- Reducir la deuda para que, manteniendo el EBITDA y el múltiplo, el *market cap* se incremente.
-- Reducir el número de acciones en circulación para que, manteniendo el EBITDA y el múltiplo (y sin incrementar la deuda), el *market cap* se reparta entre un número inferior de acciones, de forma que el precio por acción se incremente.
-- Aumentar el EBITDA para que, manteniendo el múltiplo y sin incrementar la deuda, el correspondiente incremento del *Enterprise Value* se traslade al *market cap*.
+- Reducir la deuda para que, manteniendo el EBITDAaL y el múltiplo, el *market cap* se incremente.
+- Reducir el número de acciones en circulación para que, manteniendo el EBITDAaL y el múltiplo (y sin incrementar la deuda), el *market cap* se reparta entre un número inferior de acciones, de forma que el precio por acción se incremente.
+- Aumentar el EBITDAaL para que, manteniendo el múltiplo y sin incrementar la deuda, el correspondiente incremento del *Enterprise Value* se traslade al *market cap*.
 
 Se han definido dos líneas de actuación:
 - Reducción de la deuda y cancelación de las acciones preferentes (LBO) mediante la monetización de activos.
 - Reestructuración del negocio (*turn around*).
 
+### Reducción de deuda y cancelación de preferentes
+
+Pendiente
+### Reestructuración del negocio
+
+Pendiente
 ## Azagala Capital
 
-Temprano sí, bueno. Entonces vamos con la _special situation_, a ver si nos la puedes comentar.
-
-Lo primero, agradecimientos.
-
-Segona Comunicaciones, que es como se llama la situación especial, es una compañía... no sé quién... no sé, me puedo dejar a alguien, pero está **Bess Inver**, que participó desde el principio de la compañía. Están nuestros amigos de **Oros**.
-
-Yo la conozco por Gabriel Castro, que fue el que me metió en la reunión. Me dijo: "Oye, mañana tengo una reunión y tienes que venir porque es el tipo de compañía que te gusta". Y cuando ya te conoces muy bien, perfecto. Ni cuestionas, perfecto.
-
-La llevan dos o tres gestores de primer nivel como **Dave Waters** y **Ranging Capital**.
-
-Luego me gustaría hacer una mención especial. Creo que se llama **Juan Fresneda**, no me quiero equivocar. Tiene un podcast que se llama **Coco Abin** y tiene un blog donde tiene una tesis de inversión.
-
-Al principio, cuando había menos visibilidad, me parece una maravilla sinceramente. O sea, desde aquí agradecerles a todos que compartan, porque esa es la manera. Para mí el valor no está en ser el primero que descubre una compañía; para mí tiene mucho valor no solo descubrirla e invertir en ella, sino además ser generoso y decir: "Pues señores, hemos invertido en esta compañía porque creo que es así, así y así".
-
-Y además, ese acto de generosidad te vuelve, porque cuanto más fácil de entender sea la infravaloración de una compañía, más gente habrá comprándola. Y al final esto funciona así: cuanto más gente compre una acción, más sube. Así de claro.
 
 Entonces, ¿qué es **Segona**?  
 **Segona** es un vehículo que se monta en Inglaterra, en formato _SPAC_, pero es un vehículo, una carcasa que se compra para invertir en el sector de telecomunicaciones europeas.
@@ -343,7 +334,7 @@ Pero claro, de aquí a junio, que se van a vender las participaciones en las emp
 
 - [Tesis Raging Bull Investments](https://ragingbullinvestments.substack.com/p/an-old-school-leveraged-buyout)
 - [Tesis Cocoa Beans Podcast (I)](https://cocoabeanspodcast.substack.com/p/zegona-communications-plc-parte-i)
-- [Tesis Gabriel Castro (Singular Asset Management)](https://youtu.be/rKvkxRLAvr0?t=3713)
+- [Tesis Gabriel Castro (Singular Asset Management)](https://youtu.be/rKvkxRLAvr0?t=4010)
 - [Tesis Horos Asset Management (Q4 2024)](https://cdn.horosam.com/wp-content/uploads/sites/67/2025/01/Carta-a-los-Inversores-4T24.pdf)
 - [Tesis Horos Asset Management (Vídeo)](https://youtu.be/IgzS84KtpBs)
 - [Tesis Daniel Tello (Azagala Capital)](https://youtu.be/8swbESGwxJA?t=2742)
