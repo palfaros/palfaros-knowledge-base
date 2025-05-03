@@ -349,12 +349,30 @@ En concreto, Vodafone España da acceso a 10,7 millones de hogares en España a 
 
 Por otro lado, Vodafone España llega a 18,3 millones de hogares adicionales utilizando redes de otros operadores como Telefónica, Orange y Adamo mediante acuerdos mayoristas. Esto es importante porque refuerza la idea de Zegona en cuanto a monetización de los activos de fibra.
 
-En las página 55 y 56 del [*prospectus*](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/zegona-communications-plc-prospectus.pdf) Zegona describe de forma explícita la estrategia de monetización de los activos de fibra.
+En las página 55 y 56 del [*prospectus*](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/zegona-communications-plc-prospectus.pdf) (noviembre de 2023) Zegona describe de forma explícita la estrategia de monetización de los activos de fibra.
 
 ![[ZEG_Implement_potential_fixed_line_Netco_transaction_(I).png]]
 ![[ZEG_Implement_potential_fixed_line_Netco_transaction_(II).png]]
 
+Vodafone España tiene una red fija extensa con acceso a más de 28 millones de hogares en toda España (lo que representa aproximadamente el 95 % de los hogares, empresas y otras ubicaciones del país). Zegona ve una oportunidad potencial para monetizar la red propia de Vodafone España en el futuro. Dicha oportunidad podría adoptar las siguientes formas:
+1. Venta a un inversor en infraestructuras. Por ejemplo, KKR o Pontegadea
+2. Una fusión con otro operador de red español existente, por ejemplo Telefónica o MasOrange.
 
+Para que la red sea más atractiva para inversores, probablemente sería necesario actualizar la red de fibra de Vodafone para que sea completamente FTTH. Zegona estima este coste entre 600 y 700 millones de euros (75€ por hogar actualizado y 150€ por cliente migrado de HFC a FTTH).
+
+Una vez actualizada, esa red valdría mucho más en forma de *Netco* frente a seguir dentro de Vodafone España en forma de *Integrated Telco*. Basándose en los múltiplos de EBITDA logrados en transacciones comparables:
+- Suponiendo una cuota de acceso de la *Netco* de 10€ al mes por cliente y 1,8 millones de clientes *on-net* (Vodafone España tiene acceso a más de 28 millones de hogares, pero de ellos no todos son clientes y, de entre todos los clientes, solo 1,8 millones usan la red propiedad de Vodafone), la *Netco* tendría unos ingresos anuales (*revenues*) de 10€/mes · 12 meses · 1.800.000 clientes = 216 millones de euros.
+- A estos ingresos añaden 20 millones de euros adicionales procedentes de otras fuentes, de forma que los ingresos (*revenues*) totales serían de unos 235 millones de euros.
+- Suponiendo un margen EBITDA del 75%, el EBITDA sería de 175 millones de euros.
+- Aplicando, por comparables, un múltiplo conservador de 15x EBITDA, el *Enterprise Value* (EV) sería de 2.625 millones de euros.
+- Sin embargo, se debe restar el *capex* de 600-700 millones de euros por la actualización de la red de fibra, de forma que el EV sería de 2.000 millones de euros.
+
+La directiva de Zegona también cree que existe potencial para fusionar la red fija de Vodafone España con la de otro operador como, por ejemplo MasOrange. Eso daría lugar a una *Netco* conjunta con cobertura para 16 millones de hogares y 7,5 millones de clientes FTTH (basándose en las cifras de clientes de Orange, MásMóvil y Vodafone España en el año 2021). En ese caso, Zegona tendría una participación accionarial proporcional al número de clientes aportados, que rondaría el 30 %.
+- Suponiendo una cuota de acceso de la *Netco* de 10€ al mes por cliente y 7,5 millones de clientes, la *Netco* tendría unos ingresos anuales (*revenues*) de 10€/mes · 12 meses · 7.500.000 clientes = 900 millones de euros.
+- Suponiendo un margen EBITDA del 85% (superior al 75 % del caso anterior por mayor utilización de red), el EBITDA sería de 765 millones de euros, es decir, unos 800 millones de euros.
+- Aplicando, por comparables, el mismo múltiplo de 15x EBITDA, el *Enterprise Value* (EV) sería de 12.000 millones de euros, de los cuales Zegona recibiría el 30%, es decir, 3.600 millones de euros.
+
+**En resumen, Zegona estima que la red de fibra propiedad de Vodafone España valdría entre 2.000 y 3.600 millones de euros, dependiendo de la operación realizada**.
 ### Reestructuración del negocio
 
 Pendiente
