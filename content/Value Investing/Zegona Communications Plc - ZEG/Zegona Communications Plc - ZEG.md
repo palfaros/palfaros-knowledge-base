@@ -379,6 +379,16 @@ La información proporcionada en el *prospectus* se corresponde con noviembre de
 2. *Joint FibreCo* con MásOrange
 
 Estas 2 operaciones suponen que Zegona monetice sus activos de fibra utilizando la segunda de las dos opciones planteadas en el *prospectus*, es decir, la de mayor potencial de retorno. Se van a detallar a continuación.
+#### *FibreCo* con Telefónica (Fiberpass)
+
+Según [Caixabank](https://www.europapress.es/economia/noticia-caixabank-valora-8700-millones-joint-ventures-fibra-vodafone-espana-masorange-telefonica-20250413122649.html) la *joint FibreCo* entre Vodafone España y Telefónica está valorada en 1.700 millones de euros. Como Vodafone España planea vender el 27% de la *FibreCo*, Zegona ingresaría 460 millones de euros.
+
+#### *FibreCo* con MásOrange
+
+Según [Caixabank](https://www.europapress.es/economia/noticia-caixabank-valora-8700-millones-joint-ventures-fibra-vodafone-espana-masorange-telefonica-20250413122649.html) la *joint FibreCo* entre Vodafone España y MásOrange está valorada en 7.000 millones de euros. Como Vodafone España planea vender el 20% de la *FibreCo*, Zegona ingresaría 1.400 millones de euros.
+
+
+Reducción de deuda y cancelación de preferentes
 ### Reestructuración del negocio
 
 Pendiente
