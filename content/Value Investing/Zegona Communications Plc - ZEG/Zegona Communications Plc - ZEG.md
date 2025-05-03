@@ -321,7 +321,9 @@ Estos documentos nos permiten obtener el EBITDAaL de Vodafone España en los úl
 - Cuarto trimestre (*3m to Dec 24*): 320 millones de euros
 - **Total: 1250 millones de euros**
 
-**Por tanto, parece que nos encontramos en el escenario optimista, de forma que la cantidad de *cash* a obtener para reducir la deuda y pagar el dividendo sería de entre 2.400 y 2.500 millones de euros.**
+Por otro lado, la deuda neta es de 3.800 millones, de forma que se necesitarían 3.800-2,25·1.250=987,5 millones de euros para cumplir con el *covenant* financiero, es decir, 1.000 millones de euros.
+
+**Por tanto, parece que nos encontramos en el escenario optimista: la cantidad de *cash* a obtener para reducir la deuda y pagar el dividendo sería de 2.400 millones de euros.**
 
 ### Reestructuración del negocio
 
