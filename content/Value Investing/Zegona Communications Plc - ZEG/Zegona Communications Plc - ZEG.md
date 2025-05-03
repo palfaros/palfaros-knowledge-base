@@ -311,7 +311,6 @@ En total, el *cash* necesario para cancelar las acciones preferentes será de en
 No obstante, gracias a la primera refinanciación de deuda, en la que se emitieron bonos, la compañía se ha visto obligada a publicar información trimestralmente sobre el estado de su deuda así como algunos KPIs de Vodafone España. En concreto. el [20 de diciembre de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1895429&culture=en-GB&val=638818205566645333) publicó la información correspondiente hasta el 30 de septiembre de 2024 y el [24 de febrero de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1911500&culture=en-GB&val=638818205566565334) hizo lo propio con la información hasta el 31 de diciembre de 2024.
 
 ![[ZEG_KPIs_Sep_2024.png]]
-
 ![[ZEG_KPIs_Dec_2024.png]]
 
 Estos documentos nos permiten obtener el EBITDAaL de Vodafone España en los últimos 9 meses de 2024. Si extrapolamos los datos al primer trimestre de 2024 mediante la media de los 3 trimestres, ya que este tipo de empresas tienen ingresos muy estables y predecibles, podemos obtener el EBITDAaL del año 2024:
