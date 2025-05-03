@@ -318,7 +318,7 @@ Estos documentos nos permiten obtener el EBITDAaL de Vodafone España en los úl
 - Segundo trimestre (*3m to Jun 24*): 299 millones de euros
 - Tercer trimestre (*3m to Sep 24*): 318 millones de euros
 - Cuarto trimestre (*3m to Dec 24*): 320 millones de euros
-- **Total: 1250 millones de euros**
+- **Total: 1.250 millones de euros**
 
 Por otro lado, la deuda neta es de 3.800 millones, de forma que se necesitarían 3.800-2,25·1.250=987,5 millones de euros para cumplir con el *covenant* financiero, es decir, 1.000 millones de euros.
 
