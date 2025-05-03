@@ -313,16 +313,32 @@ No obstante, gracias a la primera refinanciación de deuda, en la que se emitier
 ![[ZEG_KPIs_Sep_2024.png]]
 ![[ZEG_KPIs_Dec_2024.png]]
 
-Estos documentos nos permiten obtener el EBITDAaL de Vodafone España en los últimos 9 meses de 2024. Si extrapolamos los datos al primer trimestre de 2024 mediante la media de los 3 trimestres, ya que este tipo de empresas tienen ingresos muy estables y predecibles, podemos obtener el EBITDAaL del año 2024:
-- Primer trimestre (*3m to March 24*): (299+318+320)/3 = 313 millones de euros
+Estos documentos nos permiten obtener el EBITDAaL de Vodafone España en los últimos 9 meses de 2024. Si extrapolamos los datos al primer trimestre de 2024 mediante el mínimo de los 3 trimestres, ya que este tipo de empresas tienen ingresos muy estables y predecibles, podemos obtener el EBITDAaL del año 2024:
+- Primer trimestre (*3m to March 24*): 299 millones de euros
 - Segundo trimestre (*3m to Jun 24*): 299 millones de euros
 - Tercer trimestre (*3m to Sep 24*): 318 millones de euros
 - Cuarto trimestre (*3m to Dec 24*): 320 millones de euros
-- **Total: 1.250 millones de euros**
+- **Total: 1.236 millones de euros**
 
-Por otro lado, la deuda neta es de 3.800 millones, de forma que se necesitarían 3.800-2,25·1.250=987,5 millones de euros para cumplir con el *covenant* financiero, es decir, 1.000 millones de euros.
+Por otro lado, la deuda neta es de 3.800 millones, de forma que se necesitarían 3.800-2,25·1.236=1.019 millones de euros para cumplir con el *covenant* financiero, es decir, 1.000 millones de euros.
 
 **Por tanto, parece que nos encontramos en el escenario optimista: la cantidad de *cash* a obtener para reducir la deuda y pagar el dividendo sería de 2.400 millones de euros.**
+
+La gran pregunta es: **¿Cómo van a obtener los 2.400 millones de euros?**. La respuesta está en la **monetización de los activos de fibra**.
+
+La industria de las telecomunicaciones tiende a atraer a muchos inversores en valor (*value investors*) por diversas razones, siendo quizás la principal que presenta características propicias para la ingeniería financiera (*financial engineering*) sofisticada y una asignación inteligente del capital (*capital allocation*). El mejor ejemplo de esto es John Malone y todo el valor que ha creado durante décadas con TCI y el grupo Liberty.
+
+Una estrategia que se ha vuelto común para generar valor para los accionistas, especialmente en Europa, ha sido dividir las telecos verticalmente integradas en dos entidades: una que posee la infraestructura de red (*Netco*) y otra que ofrece servicios basados en esa infraestructura (*Servco*). Esta estrategia (*playbook*) ha sido aplicada en varias ocasiones por John Malone en Liberty Global, así como en otras compañías, como es el caso de Euskaltel.
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+	<img src="ZEG_Market_capitasalitaion_expected_evolution_Netco_and_Servco_vs_Integrated_Telco.png" alt="Market capitasalitaion expected evolution Netco and Servco vs Integrated Telco" style="max-width: 100%; height: auto;" width="500">
+</div>
+
+La motivación principal para hacer esto es, simplemente, que las partes suelen valer más que el todo. ¿Por qué? En primer lugar, porque la infraestructura de red es esencial, tiene altas barreras de entrada y altos costes de despliegue, y puede generar ingresos recurrentes tipo "peaje" con márgenes muy elevados. Por ello, las *Netco* pueden alcanzar valoraciones extremadamente altas, del orden de **15 a 25 veces EBITDA**, primas sustanciales respecto a las telecos integradas o las *Servco*. Esto permite que una compañía que cotiza a 5 veces EBITDA pueda vender su activos a 15 veces.
+
+La empresa resultante, la *Servco*, está aceptando una cierta erosión de márgenes (ya que ahora la *Servco* debe pagar por usar la infraestructura de red), a cambio de sacar mucho capital del negocio, lo que la convierte en una empresa más ligera en activos (*asset-light*) y en capex (*capex-light*), y con un **mayor retorno sobre el capital invertido (ROIC)**.
+
+
 
 ### Reestructuración del negocio
 
