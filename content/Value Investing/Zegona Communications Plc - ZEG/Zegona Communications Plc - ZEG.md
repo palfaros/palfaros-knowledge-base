@@ -334,10 +334,25 @@ Una estrategia que se ha vuelto común para generar valor para los accionistas, 
 	<img src="ZEG_Market_capitasalitaion_expected_evolution_Netco_and_Servco_vs_Integrated_Telco.png" alt="Market capitasalitaion expected evolution Netco and Servco vs Integrated Telco" style="max-width: 100%; height: auto;" width="500">
 </div>
 
-La motivación principal para hacer esto es, simplemente, que las partes suelen valer más que el todo. ¿Por qué? En primer lugar, porque la infraestructura de red es esencial, tiene altas barreras de entrada y altos costes de despliegue, y puede generar ingresos recurrentes tipo "peaje" con márgenes muy elevados. Por ello, las *Netco* pueden alcanzar valoraciones extremadamente altas, del orden de **15 a 25 veces EBITDA**, primas sustanciales respecto a las telecos integradas o las *Servco*. Esto permite que una compañía que cotiza a 5 veces EBITDA pueda vender su activos a 15 veces.
+La motivación principal para hacer esto es, simplemente, que las partes suelen valer más que el todo. ¿Por qué? En primer lugar, porque la infraestructura de red es esencial, tiene altas barreras de entrada y altos costes de despliegue, y puede generar ingresos recurrentes tipo "peaje" con márgenes muy elevados. Por ello, las *Netco* pueden alcanzar valoraciones extremadamente altas, del orden de **15-25x EBITDA**, primas sustanciales respecto a las telecos integradas o las *Servco*. Esto permite que una compañía que cotiza a 5 veces EBITDA pueda vender su activos a 15 veces.
 
 La empresa resultante, la *Servco*, está aceptando una cierta erosión de márgenes (ya que ahora la *Servco* debe pagar por usar la infraestructura de red), a cambio de sacar mucho capital del negocio, lo que la convierte en una empresa más ligera en activos (*asset-light*) y en capex (*capex-light*), y con un **mayor retorno sobre el capital invertido (ROIC)**.
 
+En este caso, Vodafone España cuenta con una extensa red de fibra (*fixed-line network*) propietaria, a diferencia de las estaciones base correspondientes a su red móvil, que ya fueron vendidas a KKR a través de la *Netco* Vantage Towers. En la página 51 del [*prospectus*](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/zegona-communications-plc-prospectus.pdf) se puede encontrar información detallada sobre su red de fibra.
+
+![[ZEG_ High-speed_fixed-line_gigabit_network.png]]
+
+En concreto, Vodafone España da acceso a 10,7 millones de hogares en España a través de su red de fibra propietaria, que se desglosa en 3 tipos:
+- HFC (*Hybrid Fiber-Coaxial*): 6,8 millones de hogares.
+- FTTH (*Fiber To The Home*): 3,2 millones de hogares.
+- Combinación de HFC y FTTH: 0,7 millones de hogares.
+
+Por otro lado, Vodafone España llega a 18,3 millones de hogares adicionales utilizando redes de otros operadores como Telefónica, Orange y Adamo mediante acuerdos mayoristas. Esto es importante porque refuerza la idea de Zegona en cuanto a monetización de los activos de fibra.
+
+En las página 55 y 56 del [*prospectus*](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/zegona-communications-plc-prospectus.pdf) Zegona describe de forma explícita la estrategia de monetización de los activos de fibra.
+
+![[ZEG_Implement_potential_fixed_line_Netco_transaction_(I).png]]
+![[ZEG_Implement_potential_fixed_line_Netco_transaction_(II).png]]
 
 
 ### Reestructuración del negocio
