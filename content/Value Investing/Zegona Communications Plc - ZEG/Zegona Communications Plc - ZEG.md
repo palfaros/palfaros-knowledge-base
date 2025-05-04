@@ -328,15 +328,15 @@ La gran pregunta es: **¿Cómo van a obtener los 2.400 millones de euros?**. La 
 
 La industria de las telecomunicaciones tiende a atraer a muchos inversores en valor (*value investors*) por diversas razones, siendo quizás la principal que presenta características propicias para la ingeniería financiera (*financial engineering*) sofisticada y una asignación inteligente del capital (*capital allocation*). El mejor ejemplo de esto es John Malone y todo el valor que ha creado durante décadas con TCI y el grupo Liberty.
 
-Una estrategia que se ha vuelto común para generar valor para los accionistas, especialmente en Europa, ha sido dividir las telecos verticalmente integradas en dos entidades: una que posee la infraestructura de red (*Netco*) y otra que ofrece servicios basados en esa infraestructura (*Servco*). Esta estrategia (*playbook*) ha sido aplicada en varias ocasiones por John Malone en Liberty Global, así como en otras compañías, como es el caso de Euskaltel.
+Una estrategia que se ha vuelto común para generar valor para los accionistas, especialmente en Europa, ha sido dividir las telecos verticalmente integradas en dos entidades: una que posee la infraestructura de red (*Netco*) y otra que ofrece servicios basados en esa infraestructura (*ServCo*). Esta estrategia (*playbook*) ha sido aplicada en varias ocasiones por John Malone en Liberty Global, así como en otras compañías, como es el caso de Euskaltel.
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-	<img src="ZEG_Market_capitasalitaion_expected_evolution_Netco_and_Servco_vs_Integrated_Telco.png" alt="Market capitasalitaion expected evolution Netco and Servco vs Integrated Telco" style="max-width: 100%; height: auto;" width="500">
+	<img src="ZEG_Market_capitasalitaion_expected_evolution_Netco_and_ServCo_vs_Integrated_Telco.png" alt="Market capitasalitaion expected evolution Netco and ServCo vs Integrated Telco" style="max-width: 100%; height: auto;" width="500">
 </div>
 
-La motivación principal para hacer esto es, simplemente, que las partes suelen valer más que el todo. ¿Por qué? En primer lugar, porque la infraestructura de red es esencial, tiene altas barreras de entrada y altos costes de despliegue, y puede generar ingresos recurrentes tipo "peaje" con márgenes muy elevados. Por ello, las *Netco* pueden alcanzar valoraciones extremadamente altas, del orden de **15-25x EBITDA**, primas sustanciales respecto a las telecos integradas o las *Servco*. Esto permite que una compañía que cotiza a 5 veces EBITDA pueda vender su activos a 15 veces.
+La motivación principal para hacer esto es, simplemente, que las partes suelen valer más que el todo. ¿Por qué? En primer lugar, porque la infraestructura de red es esencial, tiene altas barreras de entrada y altos costes de despliegue, y puede generar ingresos recurrentes tipo "peaje" con márgenes muy elevados. Por ello, las *Netco* pueden alcanzar valoraciones extremadamente altas, del orden de **15-25x EBITDA**, primas sustanciales respecto a las telecos integradas o las *ServCo*. Esto permite que una compañía que cotiza a 5 veces EBITDA pueda vender su activos a 15 veces.
 
-La empresa resultante, la *Servco*, está aceptando una cierta erosión de márgenes (ya que ahora la *Servco* debe pagar por usar la infraestructura de red), a cambio de sacar mucho capital del negocio, lo que la convierte en una empresa más ligera en activos (*asset-light*) y en capex (*capex-light*), y con un **mayor retorno sobre el capital invertido (ROIC)**.
+La empresa resultante, la *ServCo*, está aceptando una cierta erosión de márgenes (ya que ahora la *ServCo* debe pagar por usar la infraestructura de red), a cambio de sacar mucho capital del negocio, lo que la convierte en una empresa más ligera en activos (*asset-light*) y en capex (*capex-light*), y con un **mayor retorno sobre el capital invertido (ROIC)**.
 
 En este caso, Vodafone España cuenta con una extensa red de fibra (*fixed-line network*) propietaria, a diferencia de las estaciones base correspondientes a su red móvil, que ya fueron vendidas a KKR a través de la *Netco* Vantage Towers. En la página 51 del [*prospectus*](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/zegona-communications-plc-prospectus.pdf) se puede encontrar información detallada sobre su red de fibra.
 
@@ -407,13 +407,32 @@ La *FibreCo* comenzó a operar, bajo el nombre **Fiberpass**, ha comenzado a ope
 
 ![[ZEG_Fiberpass_Logo.png]]
 
+##### Impacto sobre el EBITDAaL de Zegona
+
 La constitución de esta *FibreCo* supone que Vodafone España deberá pagar un alquiler (*lease*) por el acceso de cada cliente a Fiberpass (*Netco*), con el consiguiente aumento de los costes operativos (*opex*). Se deben estimar estos costes, ya que supondrán una reducción del EBITDAaL de Zegona. Esta estimación se puede realizar de 2 formas:
 - Suponiendo un margen EBITDA del 75%, los ingresos (*revenues*) de la *Netco* serán de 125/0,75 = 167 millones de euros. La cuota total que pagará Vodafone España a Fiberpass será el 37% de dichos ingresos, es decir, 62 millones de euros.
 - Suponiendo una cuota de acceso de la *Netco* de 10€ al mes por cliente, la cuota total que pagará Vodafone España a Fiberpass será de 10€/mes · 12 meses · 518.000 clientes = 62 millones de euros.
 
-**El EBITDAaL de Vodafone España y, por tanto, el de Zegona, se reducirá en 62 millones de euros**.
+Por otro lado, hay que descontar los costes operativos que antes recaían en Vodafone España y ahora se trasladan a la *FibreCo*. Suponiendo un margen EBITDA del 75%, los costes operativos son de 125/0,75-125=41,7 millones de euros. No obstante, solo el 37% de dichos costes se corresponden con los clientes de Vodafone España, por lo que los costes operativos específicos de Vodafone España son el 37% de esos 41,7 millones de euros, es decir, 15,4 millones de euros. Esta estimación es conservadora ya que, fruto de la fusión, es probable que los costes operativos que tuviesen Telefónica y Vodafone España sobre estas redes de fibra fuesen mayores por separado, con lo que la reducción de costes sería superior.
 
-Según [Caixabank](https://www.europapress.es/economia/noticia-caixabank-valora-8700-millones-joint-ventures-fibra-vodafone-espana-masorange-telefonica-20250413122649.html) la *joint FibreCo* entre Vodafone España y Telefónica está valorada en 1.700 millones de euros. Como Vodafone España planea vender el 27% de la *FibreCo*, Zegona ingresaría 460 millones de euros.
+**El EBITDAaL de Vodafone España y, por tanto, el de Zegona, se reducirá en 47 millones de euros**.
+
+##### Monetización
+
+La estrategia de monetización Zegona sobre esta *FibreCo* se basa en lo siguiente:
+- Venta del 27% de su participación en la *FibreCo* a un inversor externo, pasando del 37% al 10% del accionariado. Esta venta se haría, por comparables con otras ventas similares, a un múltiplo EV/EBITDA de entre 15 y 20 veces.
+- Apalancamiento de la *FibreCo* y reparto de un dividendo especial. Los ingresos de las *Netcos* son muy estables y predecibles, lo que les permite contraer deuda y adelantar los ingresos futuros a sus inversores repartiendo un dividendo especial para aumentar su retorno sobre el *equity* (ROE). El *leverage ratio* habitual de este tipo de firmas se sitúa en 6-7 veces EBITDA. Sin embargo, puesto que Telefónica va a consolidar la *FibreCo* en sus cuentas (al mantener la participación del 63%), es decir, la cantidad de deuda que asuma la *FibreCo* pasará al balance de Telefónica, la cantidad de apalancamiento se reduce a una ratio más convencional: 2,5 veces EBITDA. Una vez contraída la deuda, se repartiría un dividendo especial del cual Zegona obtendría el 10%, al haber vendido el otro 27%.
+
+| EBITDA            | 125     | 125     | 125     | 125     | 125     | 125     |
+| ----------------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| EV/EBITDA         | 15      | 16      | 17      | 18      | 19      | 20      |
+| EV                | 1875    | 2000    | 2125    | 2250    | 2375    | 2500    |
+| 27% stake         | 506     | 540     | 574     | 608     | 641     | 675     |
+| 10% Leverage 2,5x | 31      | 31      | 31      | 31      | 31      | 31      |
+| **Total**         | **538** | **571** | **605** | **639** | **673** | **706** |
+**Por tanto, Zegona obtendría de esta *FibreCo* 540 millones de euros en *cash*.**
+
+Según [Caixabank](https://www.europapress.es/economia/noticia-caixabank-valora-8700-millones-joint-ventures-fibra-vodafone-espana-masorange-telefonica-20250413122649.html) la *joint FibreCo* entre Vodafone España y Telefónica está valorada en 1.700 millones de euros. Como Vodafone España planea vender el 27% de la *FibreCo*, Zegona ingresaría 460 millones de euros. A esto se le sumarían los 31 millones de euros procedentes del apalancamiento de 2,5 veces EBITDA de la *FibreCo*, por lo que el total de la operación serían unos 500 millones de euros, muy cercanos a la estimación realizada anteriormente.
 
 #### *FibreCo* con MásOrange
 
