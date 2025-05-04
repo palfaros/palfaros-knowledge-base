@@ -423,9 +423,10 @@ La estrategia de monetización Zegona sobre esta *FibreCo* se basa en lo siguien
 - Venta del 27% de su participación en la *FibreCo* a un inversor externo, pasando del 37% al 10% del accionariado. Esta venta se haría, por comparables con otras ventas similares, a un múltiplo EV/EBITDA de entre 15 y 20 veces.
 - Apalancamiento de la *FibreCo* y reparto de un dividendo especial. Los ingresos de las *Netcos* son muy estables y predecibles, lo que les permite contraer deuda y adelantar los ingresos futuros a sus inversores repartiendo un dividendo especial para aumentar su retorno sobre el *equity* (ROE). El *leverage ratio* habitual de este tipo de firmas se sitúa en 6-7 veces EBITDA. Sin embargo, puesto que Telefónica va a consolidar la *FibreCo* en sus cuentas (al mantener la participación del 63%), es decir, la cantidad de deuda que asuma la *FibreCo* pasará al balance de Telefónica, la cantidad de apalancamiento se reduce a una ratio más convencional: 2,5 veces EBITDA. Una vez contraída la deuda, se repartiría un dividendo especial del cual Zegona obtendría el 10%, al haber vendido el otro 27%.
 
-| EBITDA            | 125     | 125     | 125     | 125     | 125     | 125     |
+|                   |         |         |         |         |         |         |
 | ----------------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| EV/EBITDA         | 15      | 16      | 17      | 18      | 19      | 20      |
+| EBITDA            | 125     | 125     | 125     | 125     | 125     | 125     |
+| EV/EBITDA         | 15x     | 16x     | 17x     | 18x     | 19x     | 20x     |
 | EV                | 1875    | 2000    | 2125    | 2250    | 2375    | 2500    |
 | 27% stake         | 506     | 540     | 574     | 608     | 641     | 675     |
 | 10% Leverage 2,5x | 31      | 31      | 31      | 31      | 31      | 31      |
