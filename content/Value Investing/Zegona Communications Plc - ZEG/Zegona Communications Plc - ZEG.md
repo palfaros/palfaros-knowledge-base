@@ -378,14 +378,16 @@ La información proporcionada en el *prospectus* se corresponde con noviembre de
 1. *Joint FibreCo* con Telefónica
 2. *Joint FibreCo* con MásOrange
 
+El [12 de septiembre de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1863566&culture=en-GB&val=638819747843674267) Vodafone España y Telefónica firmaron un acuerdo preliminar no vinculante para un nuevo contrato mayorista de fibra que sustituyese al que vencía a finales de 2024. El acuerdo buscaba maximizar el uso de las redes existentes, evitando duplicidades y generando sinergias que redujesen costes para ambas compañías. El nuevo contrato supone mejores condiciones económicas para Vodafone que el contrato anterior.
+
+El [7 de noviembre de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1882760&culture=en-GB&val=638819747778347476) Vodafone España firmó con Telefónica y Bluevia (la filial rural de Telefónica) un nuevo contrato mayorista de fibra por cinco años, que ha entrado en vigor en enero de 2025 y sustituye al anterior, mejorando notablemente las condiciones económicas y operativas.
+
 Estas 2 operaciones suponen que Zegona monetice sus activos de fibra utilizando la segunda de las dos opciones planteadas en el *prospectus*, es decir, la de mayor potencial de retorno. Se van a detallar a continuación.
 #### *FibreCo* con Telefónica (Fiberpass)
 
 El [31 de julio de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1848337&culture=en-GB&val=638819747843684323) Zegona anunció que Vodafone España y Telefónica habían firmado un acuerdo confidencial no vinculante para la creación de una *FibreCo* con acceso a 3,5 millones de hogares (*premises*). El reparto inicial de acciones (*ownership split*) se hará de acuerdo al número de clientes que aporte dicha compañía dentro de los 3,5 millones de hogares. Posteriormente, la intención es dar entrada a un inversor financiero. Como resultado, Zegona espera reducir su participación en la *Netco* hasta el 10% de acciones, mientras que Telefónica conservará la mayoría del capital.
 
 ![[ZEG_FIbreCo_Vodafone_Telefonica_Initial_Non_Binding_Agreement.png]]
-
-El [12 de septiembre de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1863566&culture=en-GB&val=638819747843674267) Vodafone España y Telefónica firmaron un acuerdo preliminar no vinculante para un nuevo contrato mayorista de fibra que sustituyese al que vencía a finales de 2024. El acuerdo buscaba maximizar el uso de las redes existentes, evitando duplicidades y generando sinergias que redujesen costes para ambas compañías. El nuevo contrato supone mejores condiciones económicas para Vodafone que el contrato anterior.
 
 El [7 de noviembre de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1882781&culture=en-GB&val=638819747843494218) Zegona anunció que Vodafone España y Telefónica habían firmado un **acuerdo vinculante** para la creación de la *FibreCo* anunciada en julio. Finalmente, la *FibreCo* cubrirá 3,6 millones de hogares (frente a los 3,5 millones propuestos en el acuerdo inicial) y dará servicio a 1,4 millones de clientes de Vodafone España y Telefónica.
 
