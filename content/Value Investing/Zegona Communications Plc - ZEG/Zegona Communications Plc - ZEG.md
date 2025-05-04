@@ -432,7 +432,7 @@ La estrategia de monetización Zegona sobre esta *FibreCo* se basa en lo siguien
 | 10% *leverage* 2,5x | 31      | 31      | 31      | 31      | 31      | 31      |
 | **Total**           | **538** | **571** | **605** | **639** | **673** | **706** |
 
-**Por tanto, Zegona obtendría de esta *FibreCo* 538 millones de euros en *cash*.**
+**Por tanto, en el escenario más conservador, Zegona obtendría de esta *FibreCo* 538 millones de euros en *cash*.**
 
 Según [Caixabank](https://www.europapress.es/economia/noticia-caixabank-valora-8700-millones-joint-ventures-fibra-vodafone-espana-masorange-telefonica-20250413122649.html) la *joint FibreCo* entre Vodafone España y Telefónica está valorada en 1.700 millones de euros. Como Vodafone España planea vender el 27% de la *FibreCo*, Zegona ingresaría 460 millones de euros. A esto se le sumarían los 31 millones de euros procedentes del apalancamiento de 2,5 veces EBITDA de la *FibreCo*, por lo que el total de la operación serían unos 500 millones de euros, muy cercanos a la estimación realizada anteriormente.
 
