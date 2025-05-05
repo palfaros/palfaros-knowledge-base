@@ -385,7 +385,7 @@ El [7 de noviembre de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns
 Estas 2 operaciones suponen que Zegona monetice sus activos de fibra utilizando la segunda de las dos opciones planteadas en el *prospectus*, es decir, la de mayor potencial de retorno. Se van a detallar a continuación.
 #### *FibreCo* con Telefónica (Fiberpass)
 
-El [31 de julio de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1848337&culture=en-GB&val=638819747843684323) Zegona anunció que Vodafone España y Telefónica habían firmado un acuerdo confidencial no vinculante para la creación de una *FibreCo* con acceso a 3,5 millones de hogares (*premises*). El reparto inicial de acciones (*ownership split*) se hará de acuerdo al número de clientes que aporte dicha compañía dentro de los 3,5 millones de hogares. Posteriormente, la intención es dar entrada a un inversor financiero. Como resultado, Zegona espera reducir su participación en la *Netco* hasta el 10% de acciones, mientras que Telefónica conservará la mayoría del capital.
+El [31 de julio de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1848337&culture=en-GB&val=638819747843684323) Zegona anunció que Vodafone España y Telefónica habían firmado un acuerdo confidencial no vinculante para la creación de una *FibreCo* con acceso a 3,5 millones de hogares (*premises*). El reparto inicial de acciones (*ownership split*) se hará de acuerdo al número de clientes que aporte cada compañía dentro de los 3,5 millones de hogares. Posteriormente, la intención es dar entrada a un inversor financiero. Como resultado, Zegona espera reducir su participación en la *Netco* hasta el 10% de acciones, mientras que Telefónica conservará la mayoría del capital.
 
 ![[ZEG_FIbreCo_Vodafone_Telefonica_Initial_Non_Binding_Agreement.png]]
 
@@ -393,7 +393,7 @@ El [7 de noviembre de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns
 
 ![[ZEG_FIbreCo_Vodafone_Telefonica_Binding_Agreement.png]]
 
-Se espera que la *FibreCo* alcance un **EBITDA** recurrente de aproximadamente **125 millones de euros** al cabo de tres años. La participación accionarial de la empresa será de **63 % para Telefónica y 37 % para Vodafone España**. Las partes planean incorporar a un **inversor financiero externo**, manteniendo Telefónica la mayoría y **Zegona una participación del 10 %**. 
+Se espera que la *FibreCo* alcance un **EBITDA** recurrente de aproximadamente **125 millones de euros** al cabo de tres años. La participación accionarial de la empresa será de **63% para Telefónica y 37% para Vodafone España**. Las partes planean incorporar a un **inversor financiero externo**, manteniendo Telefónica la mayoría y **Zegona una participación del 10%**. 
 
 Como el reparto de acciones obedece al número de clientes que aporta cada compañía se puede obtener dicho número de clientes:
 - Vodafone España: 37% de 1,4 millones de clientes, es decir, 518.000 clientes.
@@ -401,9 +401,9 @@ Como el reparto de acciones obedece al número de clientes que aporta cada compa
 
 Dada la alta calidad de la infraestructura de fibra existente y la naturaleza multicliente (*multi tenant*) de la empresa, se espera que la *FibreCo* sea un **activo altamente valorado**, con un **importante múltiplo de valoración**.
 
-La operación está sujeta a las aprobaciones regulatorias habituales Se espera que FibreCo quede formalmente constituida, y que se incorpore el inversor externo, en la **primera mitad de 2025**.
+La operación está sujeta a las aprobaciones regulatorias habituales. Se espera que la *FibreCo* quede formalmente constituida, y que se incorpore el inversor externo, en la **primera mitad de 2025**.
 
-La *FibreCo* comenzó a operar, bajo el nombre **Fiberpass**, ha comenzado a operar el [**1 de marzo de 2025**](https://www.saladeprensa.vodafone.es/c/notas-prensa/np-fiberpass-inicio/).
+La *FibreCo* ha comenzado a operar, bajo el nombre **Fiberpass**, el [**1 de marzo de 2025**](https://www.saladeprensa.vodafone.es/c/notas-prensa/np-fiberpass-inicio/).
 
 ![[ZEG_Fiberpass_Logo.png]]
 
@@ -438,10 +438,31 @@ Según [Caixabank](https://www.europapress.es/economia/noticia-caixabank-valora-
 
 #### *FibreCo* con MásOrange
 
+El [24 de julio de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1845748&culture=en-GB&val=638820831679929181) Zegona anunció que Vodafone España y MásOrange habían firmado un acuerdo confidencial no vinculante para la creación de una *FibreCo* con acceso a 11,5 millones de hogares (*premises*). El reparto inicial de acciones (*ownership split*) se hará de acuerdo al número de clientes que aporte cada compañía dentro de los 11,5 millones de hogares. La intención es dar entrada a un inversor financiero que se haga con el 40% de las acciones, de forma que MásOrange y Vodafone España (Zegona) se quedarían con el 50% y el 10% de las acciones, respectivamente.
+
+![[ZEG_FIbreCo_Vodafone_MasOrange_Initial_Non_Binding_Agreement.png]]
+
+El [2 de enero de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1897853&culture=en-GB&val=638820831508326363) Zegona anunció que Vodafone España y MásOrange habían firmado un **acuerdo vinculante** para la creación de la *FibreCo* anunciada en julio. Finalmente, la *FibreCo* cubrirá 12,2 millones de hogares (frente a los 11,5 millones propuestos en el acuerdo inicial) y dará servicio a 4,5 millones de clientes de Vodafone España y MásOrange.
+
+![[ZEG_FIbreCo_Vodafone_MásOrange_Binding_Agreement.png]]
+
+No se conoce el reparto inicial de acciones pero sí que será proporcional al número de cliente que aporte cada compañía. El número total de clientes de Vodafone España es 1,8 millones de acuerdo al *prospectus* de la operación. A estos clientes se le deben restar los 518.000 clientes a los que presta servicio mediante la *FibreCo* con Telefónica por lo que, como máximo, Vodafone España puede aportar 1.282.000 clientes a la *FibreCo* con MásOrange. Por tanto, el accionariado inicial queda de la siguiente forma:
+- Vodafone España: 1,282 millones de 4,5 millones de clientes, es decir, el 28,5% de los clientes.
+- MásOrange: 3,218 millones de 4,5 millones de clientes, es decir, el 71,5% de los clientes.
+
+Con el objetivo de simplificar los cálculos supondremos un 70% inicial de las acciones para MásOrange y un 30% para Vodafone España (Zegona), cifras que coinciden con los datos publicados en [diferentes medios de comunicación](https://www.europapress.es/economia/noticia-caixabank-valora-8700-millones-joint-ventures-fibra-vodafone-espana-masorange-telefonica-20250413122649.html).
+
+Se espera que la *FibreCo* alcance un **EBITDA** recurrente de aproximadamente **480 millones de euros** al cabo de tres años. La participación accionarial de la empresa será de **50% para MásOrange, 10% para Vodafone España (Zegona) y 40% para un inversor financiero externo**. De esta forma, **Zegona tiene la intención vender un 20% de las acciones de la compañía**, pasando del 30% al 10% del accionariado.
+
+Dada la alta calidad de la infraestructura de fibra existente y la naturaleza multicliente (*multi tenant*) de la empresa, se espera que la *FibreCo* sea un **activo altamente valorado**, con un **importante múltiplo de valoración**. De hecho, esta *FibreCo* es de mayor calidad que la constituida con Telefónica, por lo que se espera un múltiplo de valoración superión
+
+La operación también está sujeta a las aprobaciones regulatorias habituales. Al igual que la *FibreCo* con Telefónica, se espera que esta *FibreCo* quede formalmente constituida, y que se incorpore el inversor externo, en la **primera mitad de 2025**.
+##### Impacto sobre el EBITDAaL de Zegona
+
+La constitución de esta *FibreCo* supone que Vodafone España deberá pagar un alquiler (*lease*) por el acceso de cada cliente a Fiberpass (*Netco*), con el consiguiente aumento de los costes operativos (*opex*). Se deben estimar estos costes, ya que supondrán una reducción del EBITDAaL de Zegona. Esta estimación se puede realizar de 2 formas:
+##### Monetización
+
 Según [Caixabank](https://www.europapress.es/economia/noticia-caixabank-valora-8700-millones-joint-ventures-fibra-vodafone-espana-masorange-telefonica-20250413122649.html) la *joint FibreCo* entre Vodafone España y MásOrange está valorada en 7.000 millones de euros. Como Vodafone España planea vender el 20% de la *FibreCo*, Zegona ingresaría 1.400 millones de euros.
-
-
-Reducción de deuda y cancelación de preferentes
 ### Reestructuración del negocio
 
 Pendiente
