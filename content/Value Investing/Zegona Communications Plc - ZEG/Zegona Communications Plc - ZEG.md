@@ -460,6 +460,8 @@ La operación también está sujeta a las aprobaciones regulatorias habituales. 
 ##### Impacto sobre el EBITDAaL de Zegona
 
 La constitución de esta *FibreCo* supone que Vodafone España deberá pagar un alquiler (*lease*) por el acceso de cada cliente a Fiberpass (*Netco*), con el consiguiente aumento de los costes operativos (*opex*). Se deben estimar estos costes, ya que supondrán una reducción del EBITDAaL de Zegona. Esta estimación se puede realizar de 2 formas:
+- Suponiendo un margen EBITDA del 85%, los ingresos (*revenues*) de la *Netco* serán de 480/0,85 = 560 millones de euros. La cuota total que pagará Vodafone España a Fiberpass será el 30% de dichos ingresos, es decir, 168 millones de euros.
+- Suponiendo una cuota de acceso de la *Netco* de 10€ al mes por cliente, la cuota total que pagará Vodafone España a Fiberpass será de 10€/mes · 12 meses · 30% · 4.500.000 clientes = 162 millones de euros.
 ##### Monetización
 
 Según [Caixabank](https://www.europapress.es/economia/noticia-caixabank-valora-8700-millones-joint-ventures-fibra-vodafone-espana-masorange-telefonica-20250413122649.html) la *joint FibreCo* entre Vodafone España y MásOrange está valorada en 7.000 millones de euros. Como Vodafone España planea vender el 20% de la *FibreCo*, Zegona ingresaría 1.400 millones de euros.
