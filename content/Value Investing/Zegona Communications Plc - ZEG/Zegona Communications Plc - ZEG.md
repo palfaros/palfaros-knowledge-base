@@ -428,7 +428,7 @@ La estrategia de monetización Zegona sobre esta *FibreCo* se basa en lo siguien
 | EBITDA              | 125     | 125     | 125     | 125     | 125     | 125     |
 | EV/EBITDA           | 15x     | 16x     | 17x     | 18x     | 19x     | 20x     |
 | EV                  | 1875    | 2000    | 2125    | 2250    | 2375    | 2500    |
-| 27% stake           | 506     | 540     | 574     | 608     | 641     | 675     |
+| 27% *stake*         | 506     | 540     | 574     | 608     | 641     | 675     |
 | 10% *leverage* 2,5x | 31      | 31      | 31      | 31      | 31      | 31      |
 | **Total**           | **538** | **571** | **605** | **639** | **673** | **706** |
 
@@ -472,14 +472,14 @@ La estrategia de monetización Zegona sobre esta *FibreCo* se basa en lo siguien
 - Venta del 20% de su participación en la *FibreCo* a un inversor externo, pasando del 30% al 10% del accionariado. Esta venta se haría, por comparables con otras ventas similares, a un múltiplo EV/EBITDA de entre 15 y 20 veces.
 - Apalancamiento de la *FibreCo* y reparto de un dividendo especial. Los ingresos de las *Netcos* son muy estables y predecibles, lo que les permite contraer deuda y adelantar los ingresos futuros a sus inversores repartiendo un dividendo especial para aumentar su retorno sobre el *equity* (ROE). El *leverage ratio* habitual de este tipo de firmas se sitúa en 7 veces EBITDA. En este caso, MásOrange no va a consolidar la *FibreCo*, por lo que es probable que se alcance sta cantidad de *leverage* es razonable. Una vez contraída la deuda, se repartiría un dividendo especial del cual Zegona obtendría el 10%, al haber vendido el otro 20%.
 
-|                 |          |          |          |          |          |          |
-| --------------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| EBITDA          | 480      | 480      | 480      | 480      | 480      | 480      |
-| EV/EBITDA       | 15       | 16       | 17       | 18       | 19       | 20       |
-| EV              | 7200     | 7680     | 8160     | 8640     | 9120     | 9600     |
-| 20% stake       | 1440     | 1536     | 1632     | 1728     | 1824     | 1920     |
-| 10% leverage 7x | 336      | 336      | 336      | 336      | 336      | 336      |
-| **Total**       | **1776** | **1872** | **1968** | **2064** | **2160** | **2256** |
+|                   |          |          |          |          |          |          |
+| ----------------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| EBITDA            | 480      | 480      | 480      | 480      | 480      | 480      |
+| EV/EBITDA         | 15       | 16       | 17       | 18       | 19       | 20       |
+| EV                | 7200     | 7680     | 8160     | 8640     | 9120     | 9600     |
+| 20% *stake*       | 1440     | 1536     | 1632     | 1728     | 1824     | 1920     |
+| 10% *leverage* 7x | 336      | 336      | 336      | 336      | 336      | 336      |
+| **Total**         | **1776** | **1872** | **1968** | **2064** | **2160** | **2256** |
 
 Según [Caixabank](https://www.europapress.es/economia/noticia-caixabank-valora-8700-millones-joint-ventures-fibra-vodafone-espana-masorange-telefonica-20250413122649.html) la *joint FibreCo* entre Vodafone España y MásOrange está valorada en 7.000 millones de euros. Como Vodafone España planea vender el 20% de la *FibreCo*, Zegona ingresaría 1.400 millones de euros. A esto se le sumarían los 336 millones de euros procedentes del apalancamiento de 7 veces EBITDA de la *FibreCo*, por lo que el total de la operación serían unos 1.736 millones de euros, muy cercanos a la estimación realizada anteriormente.
 ### Reestructuración del negocio
