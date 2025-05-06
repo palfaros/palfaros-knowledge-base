@@ -462,9 +462,26 @@ La operación también está sujeta a las aprobaciones regulatorias habituales. 
 La constitución de esta *FibreCo* supone que Vodafone España deberá pagar un alquiler (*lease*) por el acceso de cada cliente a Fiberpass (*Netco*), con el consiguiente aumento de los costes operativos (*opex*). Se deben estimar estos costes, ya que supondrán una reducción del EBITDAaL de Zegona. Esta estimación se puede realizar de 2 formas:
 - Suponiendo un margen EBITDA del 85%, los ingresos (*revenues*) de la *Netco* serán de 480/0,85 = 560 millones de euros. La cuota total que pagará Vodafone España a Fiberpass será el 30% de dichos ingresos, es decir, 168 millones de euros.
 - Suponiendo una cuota de acceso de la *Netco* de 10€ al mes por cliente, la cuota total que pagará Vodafone España a Fiberpass será de 10€/mes · 12 meses · 30% · 4.500.000 clientes = 162 millones de euros.
+
+Por otro lado, hay que descontar los costes operativos que antes recaían en Vodafone España y ahora se trasladan a la *FibreCo*. Suponiendo un margen EBITDA del 85%, los costes operativos son de 480/0,85-480=84,7 millones de euros. No obstante, solo el 30% de dichos costes se corresponden con los clientes de Vodafone España, por lo que los costes operativos específicos de Vodafone España son el 30% de esos 84,7 millones de euros, es decir, 25 millones de euros. Esta estimación es conservadora ya que, fruto de la fusión, es probable que los costes operativos que tuviesen MásOrange y Vodafone España sobre estas redes de fibra fuesen mayores por separado, con lo que la reducción de costes sería superior.
+
+**El EBITDAaL de Vodafone España y, por tanto, el de Zegona, se reducirá en unos 140 millones de euros**.
 ##### Monetización
 
-Según [Caixabank](https://www.europapress.es/economia/noticia-caixabank-valora-8700-millones-joint-ventures-fibra-vodafone-espana-masorange-telefonica-20250413122649.html) la *joint FibreCo* entre Vodafone España y MásOrange está valorada en 7.000 millones de euros. Como Vodafone España planea vender el 20% de la *FibreCo*, Zegona ingresaría 1.400 millones de euros.
+La estrategia de monetización Zegona sobre esta *FibreCo* se basa en lo siguiente:
+- Venta del 20% de su participación en la *FibreCo* a un inversor externo, pasando del 30% al 10% del accionariado. Esta venta se haría, por comparables con otras ventas similares, a un múltiplo EV/EBITDA de entre 15 y 20 veces.
+- Apalancamiento de la *FibreCo* y reparto de un dividendo especial. Los ingresos de las *Netcos* son muy estables y predecibles, lo que les permite contraer deuda y adelantar los ingresos futuros a sus inversores repartiendo un dividendo especial para aumentar su retorno sobre el *equity* (ROE). El *leverage ratio* habitual de este tipo de firmas se sitúa en 7 veces EBITDA. En este caso, MásOrange no va a consolidar la *FibreCo*, por lo que es probable que se alcance sta cantidad de *leverage* es razonable. Una vez contraída la deuda, se repartiría un dividendo especial del cual Zegona obtendría el 10%, al haber vendido el otro 20%.
+
+|                 |          |          |          |          |          |          |
+| --------------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| EBITDA          | 480      | 480      | 480      | 480      | 480      | 480      |
+| EV/EBITDA       | 15       | 16       | 17       | 18       | 19       | 20       |
+| EV              | 7200     | 7680     | 8160     | 8640     | 9120     | 9600     |
+| 20% stake       | 1440     | 1536     | 1632     | 1728     | 1824     | 1920     |
+| 10% leverage 7x | 336      | 336      | 336      | 336      | 336      | 336      |
+| **Total**       | **1776** | **1872** | **1968** | **2064** | **2160** | **2256** |
+
+Según [Caixabank](https://www.europapress.es/economia/noticia-caixabank-valora-8700-millones-joint-ventures-fibra-vodafone-espana-masorange-telefonica-20250413122649.html) la *joint FibreCo* entre Vodafone España y MásOrange está valorada en 7.000 millones de euros. Como Vodafone España planea vender el 20% de la *FibreCo*, Zegona ingresaría 1.400 millones de euros. A esto se le sumarían los 336 millones de euros procedentes del apalancamiento de 7 veces EBITDA de la *FibreCo*, por lo que el total de la operación serían unos 1.736 millones de euros, muy cercanos a la estimación realizada anteriormente.
 ### Reestructuración del negocio
 
 Pendiente
