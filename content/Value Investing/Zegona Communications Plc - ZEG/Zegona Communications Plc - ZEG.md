@@ -298,7 +298,7 @@ Por tanto, se debe calcular la cantidad de dinero (*cash*) que debe generar la c
 
 En primer lugar, podemos estimar el nivel de deuda que habilitaría el pago de dividendos a partir del importe de adquisición (5.000 millones de euros) y los múltiplos EV/EBITDAaL proporcionados por Zegona (3,9x EV/EBITDAaL) y *Vodafone Group* (5,3x EV/EBITDAaL) en el momento de adquisición:
 - Escenario optimista (2023 EV/EBITDAaL=3,9): El EBITDAaL sería de 5.000/3,9=1.282 millones de euros, es decir, unos 1.300 millones de euros. Por tanto, el nivel de deuda neta que se puede alcanzar es de 2,25·1.300=2.925 millones de euros. Como la deuda neta resultante de la operación es de 3.900 millones de euros, se deberían pagar unos 1.000 millones de euros de dicha deuda.
-- Escenario pesimista (2023 EV/EBITDAaL=5,3): El EBITDAaL sería de 5.000/3,9=943 millones de euros, es decir, unos 940 millones de euros. Por tanto, el nivel de deuda neta que se puede alcanzar es de 2,25·940=2.115 millones de euros. Como la deuda neta resultante de la operación es de 3.900 millones de euros, se deberían pagar unos 1.800 millones de euros de dicha deuda.
+- Escenario pesimista (2023 EV/EBITDAaL=5,3): El EBITDAaL sería de 5.000/5,3=943 millones de euros, es decir, unos 940 millones de euros. Por tanto, el nivel de deuda neta que se puede alcanzar es de 2,25·940=2.115 millones de euros. Como la deuda neta resultante de la operación es de 3.900 millones de euros, se deberían pagar unos 1.800 millones de euros de dicha deuda.
 
 El *cash* necesario para cumplir con el *covenant* financiero oscila en un rango entre 1.000 y 1.800 millones de euros.
 
