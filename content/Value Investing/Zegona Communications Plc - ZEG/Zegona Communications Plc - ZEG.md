@@ -518,14 +518,14 @@ Para realizar la valoración de la compañía se han tenido en cuenta los siguie
 | **EBITDAaL 25**                                  | **1049** | **1049** | **1049** | **1049** |
 | **EV**                                           | **4196** | **5245** | **6294** | **7343** |
 | Deuda                                            | 3800     | 3800     | 3800     | 3800     |
-| Caja                                             | 260      | 260      | 260      | 260      |
-| Venta FibreCo Telefónica                         | 538      | 538      | 538      | 538      |
-| Venta FibreCo MásOrange                          | 1776     | 1776     | 1776     | 1776     |
+| Caja (-)                                         | 260      | 260      | 260      | 260      |
+| Venta FibreCo Telefónica (-)                     | 538      | 538      | 538      | 538      |
+| Venta FibreCo MásOrange (-)                      | 1776     | 1776     | 1776     | 1776     |
 | Pago Dividendo                                   | 1405     | 1405     | 1405     | 1405     |
 | **Deuda neta**                                   | **2631** | **2631** | **2631** | **2631** |
 | **Equity**                                       | **1565** | **2614** | **3663** | **4712** |
 | Número de acciones inicial                       | 759      | 759      | 759      | 759      |
-| Preferentes canceladas                           | -523     | -523     | -523     | -523     |
+| Preferentes canceladas (-)                       | 523      | 523      | 523      | 523      |
 | **Número de acciones final**                     | **236**  | **236**  | **236**  | **236**  |
 | Precio por acción (EUR)                          | 6,63     | 11,08    | 15,52    | 19,97    |
 | **EUR/GBP**                                      | **1,18** | **1,18** | **1,18** | **1,18** |
@@ -546,23 +546,23 @@ Para realizar la valoración de la compañía se han tenido en cuenta los siguie
 | **EBITDAaL 25**                                  | **1049** | **1049** | **1049** | **1049** |
 | **EV**                                           | **4196** | **5245** | **6294** | **7343** |
 | Deuda                                            | 3800     | 3800     | 3800     | 3800     |
-| Caja                                             | 260      | 260      | 260      | 260      |
-| Venta FibreCo Telefónica                         | 538      | 538      | 538      | 538      |
-| Venta FibreCo MásOrange                          | 1776     | 1776     | 1776     | 1776     |
+| Caja (-)                                         | 260      | 260      | 260      | 260      |
+| Venta FibreCo Telefónica (-)                     | 538      | 538      | 538      | 538      |
+| Venta FibreCo MásOrange (-)                      | 1776     | 1776     | 1776     | 1776     |
 | Pago Dividendo                                   | 967      | 967      | 967      | 967      |
 | **Deuda neta**                                   | **2193** | **2193** | **2193** | **2193** |
 | **Equity**                                       | **2003** | **3052** | **4101** | **5150** |
 | Número de acciones inicial                       | 759      | 759      | 759      | 759      |
-| Preferentes canceladas                           | -523     | -523     | -523     | -523     |
+| Preferentes canceladas (-)                       | 523      | 523      | 523      | 523      |
 | **Número de acciones final**                     | **236**  | **236**  | **236**  | **236**  |
 | Precio por acción (EUR)                          | 8,49     | 12,93    | 17,38    | 21,82    |
 | **EUR/GBP**                                      | **1,18** | **1,18** | **1,18** | **1,18** |
 | Precio por acción (GBP)                          | 7,19     | 10,96    | 14,73    | 18,50    |
 | Dividendo (GBP)                                  | 0        | 0        | 0        | 0        |
 | Precio por acción final (GBP)                    | 7,19     | 10,96    | 14,73    | 18,50    |
-| **Precio por acción final (GBX)**                    | **719**      | **1096**     | **1473**     | **1850**     |
-| **Precio actual**                                    | **595**      | **595**      | **595**      | **595**      |
-| **Rentabilidad**                                     | **21%**      | **84%**      | **148%**     | **211%**     |
+| **Precio por acción final (GBX)**                | **719**  | **1096** | **1473** | **1850** |
+| **Precio actual**                                | **595**  | **595**  | **595**  | **595**  |
+| **Rentabilidad**                                 | **21%**  | **84%**  | **148%** | **211%** |
 ## Referencias
 
 - [Tesis Raging Bull Investments](https://ragingbullinvestments.substack.com/p/an-old-school-leveraged-buyout)
