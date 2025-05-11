@@ -1,5 +1,5 @@
 ---
-title: Zegona Communications Plc
+title: Zegona Communications Plc - ZEG
 date: 2025-03-06
 ---
 <table style="width:75%">
