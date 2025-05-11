@@ -517,24 +517,25 @@ Para realizar la valoración de la compañía se han tenido en cuenta los siguie
 | Reducción EBITDA por creación FibreCo MásOrange  | -140     | -140     | -140     | -140     |
 | **EBITDAaL 25**                                  | **1049** | **1049** | **1049** | **1049** |
 | **EV**                                           | **4196** | **5245** | **6294** | **7343** |
+| **Covenant financiero (2,25xEBITDAaL)**          | **2360** | **2360** | **2360** | **2360** |
 | Deuda                                            | 3800     | 3800     | 3800     | 3800     |
 | Caja (-)                                         | 260      | 260      | 260      | 260      |
 | Venta FibreCo Telefónica (-)                     | 538      | 538      | 538      | 538      |
-| Venta FibreCo MásOrange (-)                      | 1776     | 1776     | 1776     | 1776     |
+| Venta FibreCo MásOrange (-)                      | 2160     | 2160     | 2160     | 2160     |
 | Pago Dividendo                                   | 1405     | 1405     | 1405     | 1405     |
-| **Deuda neta**                                   | **2631** | **2631** | **2631** | **2631** |
-| **Equity**                                       | **1565** | **2614** | **3663** | **4712** |
+| **Deuda neta**                                   | **2247** | **2247** | **2247** | **2247** |
+| **Equity**                                       | **1949** | **2998** | **4047** | **5096** |
 | Número de acciones inicial                       | 759      | 759      | 759      | 759      |
 | Preferentes canceladas (-)                       | 523      | 523      | 523      | 523      |
 | **Número de acciones final**                     | **236**  | **236**  | **236**  | **236**  |
-| Precio por acción (EUR)                          | 6,63     | 11,08    | 15,52    | 19,97    |
+| Precio por acción (EUR)                          | 8,26     | 12,71    | 17,15    | 21,60    |
 | **EUR/GBP**                                      | **1,18** | **1,18** | **1,18** | **1,18** |
-| Precio por acción (GBP)                          | 5,62     | 9,39     | 13,16    | 16,92    |
+| Precio por acción (GBP)                          | 7,00     | 10,77    | 14,53    | 18,30    |
 | Dividendo (GBP)                                  | 1,57     | 1,57     | 1,57     | 1,57     |
-| Precio por acción final (GBP)                    | 7,19     | 10,96    | 14,73    | 18,49    |
-| **Precio por acción final (GBX)**                | **719**  | **1096** | **1473** | **1849** |
+| Precio por acción final (GBP)                    | 8,57     | 12,34    | 16,10    | 19,87    |
+| **Precio por acción final (GBX)**                | **857**  | **1234** | **1610** | **1987** |
 | **Precio actual**                                | **595**  | **595**  | **595**  | **595**  |
-| **Rentabilidad**                                 | **21%**  | **84%**  | **147%** | **211%** |
+| **Rentabilidad**                                 | **44%**  | **107%** | **171%** | **234%** |
 ### Monetización de activos de fibra, pago parcial de dividendo y cancelación de preferentes
 
 |                                                  |          |          |          |          |
@@ -545,6 +546,7 @@ Para realizar la valoración de la compañía se han tenido en cuenta los siguie
 | Reducción EBITDA por creación FibreCo MásOrange  | -140     | -140     | -140     | -140     |
 | **EBITDAaL 25**                                  | **1049** | **1049** | **1049** | **1049** |
 | **EV**                                           | **4196** | **5245** | **6294** | **7343** |
+| **Covenant financiero (2,25xEBITDAaL)**          | **2360** | **2360** | **2360** | **2360** |
 | Deuda                                            | 3800     | 3800     | 3800     | 3800     |
 | Caja (-)                                         | 260      | 260      | 260      | 260      |
 | Venta FibreCo Telefónica (-)                     | 538      | 538      | 538      | 538      |
