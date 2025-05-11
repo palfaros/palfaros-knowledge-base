@@ -504,39 +504,16 @@ Pendiente
 ## Valoración
 
 Para realizar la valoración de la compañía se han tenido en cuenta los siguientes escenarios:
-1. Monetización de activos de fibra, pago completo de dividendo y cancelación de preferentes
-2. Monetización de activos de fibra, pago parcial de dividendo y cancelación de preferentes
+1. Monetización de activos de fibra, pago parcial de dividendo y cancelación de preferentes
+2. Monetización de activos de fibra, pago completo de dividendo y cancelación de preferentes
 
-### Monetización de activos de fibra, pago completo de dividendo y cancelación de preferentes
-
-|                                                  |          |          |          |          |
-| ------------------------------------------------ | -------- | -------- | -------- | -------- |
-| **EV/EBITDAaL**                                  | **4x**   | **5x**   | **6x**   | **7x**   |
-| EBITDAaL 24                                      | 1236     | 1236     | 1236     | 1236     |
-| Reducción EBITDA por creación FibreCo Telefónica | -47      | -47      | -47      | -47      |
-| Reducción EBITDA por creación FibreCo MásOrange  | -140     | -140     | -140     | -140     |
-| **EBITDAaL 25**                                  | **1049** | **1049** | **1049** | **1049** |
-| **EV**                                           | **4196** | **5245** | **6294** | **7343** |
-| **Covenant financiero (2,25xEBITDAaL)**          | **2360** | **2360** | **2360** | **2360** |
-| Deuda                                            | 3800     | 3800     | 3800     | 3800     |
-| Caja (-)                                         | 260      | 260      | 260      | 260      |
-| Venta FibreCo Telefónica (-)                     | 538      | 538      | 538      | 538      |
-| Venta FibreCo MásOrange (-)                      | 2160     | 2160     | 2160     | 2160     |
-| Pago Dividendo                                   | 1405     | 1405     | 1405     | 1405     |
-| **Deuda neta**                                   | **2247** | **2247** | **2247** | **2247** |
-| **Equity**                                       | **1949** | **2998** | **4047** | **5096** |
-| Número de acciones inicial                       | 759      | 759      | 759      | 759      |
-| Preferentes canceladas (-)                       | 523      | 523      | 523      | 523      |
-| **Número de acciones final**                     | **236**  | **236**  | **236**  | **236**  |
-| Precio por acción (EUR)                          | 8,26     | 12,71    | 17,15    | 21,60    |
-| **EUR/GBP**                                      | **1,18** | **1,18** | **1,18** | **1,18** |
-| Precio por acción (GBP)                          | 7,00     | 10,77    | 14,53    | 18,30    |
-| Dividendo (GBP)                                  | 1,57     | 1,57     | 1,57     | 1,57     |
-| Precio por acción final (GBP)                    | 8,57     | 12,34    | 16,10    | 19,87    |
-| **Precio por acción final (GBX)**                | **857**  | **1234** | **1610** | **1987** |
-| **Precio actual**                                | **595**  | **595**  | **595**  | **595**  |
-| **Rentabilidad**                                 | **44%**  | **107%** | **171%** | **234%** |
 ### Monetización de activos de fibra, pago parcial de dividendo y cancelación de preferentes
+
+En este escenario:
+1. Las *FibreCo* se venden a 15x EV/EBITDA, de forma que Zegona obtiene 2.314 millones de euros en *cash*
+2. Zegona utiliza 967 millones de euros para el pago del dividendo exclusivamente a la *Newco* y 1.347 millones de euros para amortizar deuda. 
+3. Las acciones preferentes se cancelan, por lo que el número de acciones en circulación pasa de 759 millones a 236 millones.
+4. La deuda restante son 2.193 millones de euros, cumpliendo con el *covenant* financiero que, para un [[EBITDAaL]] de 1.049 millones de euros, son 2.360 millones de euros.
 
 |                                                  |          |          |          |          |
 | ------------------------------------------------ | -------- | -------- | -------- | -------- |
@@ -565,6 +542,41 @@ Para realizar la valoración de la compañía se han tenido en cuenta los siguie
 | **Precio por acción final (GBX)**                | **719**  | **1096** | **1473** | **1850** |
 | **Precio actual**                                | **595**  | **595**  | **595**  | **595**  |
 | **Rentabilidad**                                 | **21%**  | **84%**  | **148%** | **211%** |
+### Monetización de activos de fibra, pago completo de dividendo y cancelación de preferentes
+
+En este escenario:
+1. La *FibreCo* con Telefónica se vende a 15x EV/EBITDA, de la que Zegona obtiene 538 millones de euros, mientras que la *FibreCo* con MásOrange se vende a 19x EV/EBITDA, obteniendo 2.160 millones de euros. En total, Zegona dispone de 2.698 millones de euros en *cash*.
+2. Zegona utiliza 1.405 millones de euros para el pago del dividendo a todos los accionistas y 1.293 millones de euros para amortizar deuda. 
+3. Las acciones preferentes se cancelan, por lo que el número de acciones en circulación pasa de 759 millones a 236 millones.
+4. La deuda restante son 2.247 millones de euros, cumpliendo con el *covenant* financiero que, para un [[EBITDAaL]] de 1.049 millones de euros, son 2.360 millones de euros.
+
+|                                                  |          |          |          |          |
+| ------------------------------------------------ | -------- | -------- | -------- | -------- |
+| **EV/EBITDAaL**                                  | **4x**   | **5x**   | **6x**   | **7x**   |
+| EBITDAaL 24                                      | 1236     | 1236     | 1236     | 1236     |
+| Reducción EBITDA por creación FibreCo Telefónica | -47      | -47      | -47      | -47      |
+| Reducción EBITDA por creación FibreCo MásOrange  | -140     | -140     | -140     | -140     |
+| **EBITDAaL 25**                                  | **1049** | **1049** | **1049** | **1049** |
+| **EV**                                           | **4196** | **5245** | **6294** | **7343** |
+| **Covenant financiero (2,25xEBITDAaL)**          | **2360** | **2360** | **2360** | **2360** |
+| Deuda                                            | 3800     | 3800     | 3800     | 3800     |
+| Caja (-)                                         | 260      | 260      | 260      | 260      |
+| Venta FibreCo Telefónica (-)                     | 538      | 538      | 538      | 538      |
+| Venta FibreCo MásOrange (-)                      | 2160     | 2160     | 2160     | 2160     |
+| Pago Dividendo                                   | 1405     | 1405     | 1405     | 1405     |
+| **Deuda neta**                                   | **2247** | **2247** | **2247** | **2247** |
+| **Equity**                                       | **1949** | **2998** | **4047** | **5096** |
+| Número de acciones inicial                       | 759      | 759      | 759      | 759      |
+| Preferentes canceladas (-)                       | 523      | 523      | 523      | 523      |
+| **Número de acciones final**                     | **236**  | **236**  | **236**  | **236**  |
+| Precio por acción (EUR)                          | 8,26     | 12,71    | 17,15    | 21,60    |
+| **EUR/GBP**                                      | **1,18** | **1,18** | **1,18** | **1,18** |
+| Precio por acción (GBP)                          | 7,00     | 10,77    | 14,53    | 18,30    |
+| Dividendo (GBP)                                  | 1,57     | 1,57     | 1,57     | 1,57     |
+| Precio por acción final (GBP)                    | 8,57     | 12,34    | 16,10    | 19,87    |
+| **Precio por acción final (GBX)**                | **857**  | **1234** | **1610** | **1987** |
+| **Precio actual**                                | **595**  | **595**  | **595**  | **595**  |
+| **Rentabilidad**                                 | **44%**  | **107%** | **171%** | **234%** |
 ## Referencias
 
 - [Tesis Raging Bull Investments](https://ragingbullinvestments.substack.com/p/an-old-school-leveraged-buyout)
