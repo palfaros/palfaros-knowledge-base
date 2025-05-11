@@ -73,7 +73,7 @@ La compra de Vodafone España se estructura como una operación de *reverse take
 ### Financiación
 
 En [octubre de 2023](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/2023/23-10-31-zegona-acquistion-of-vodafone-spain.pdf), Zegona llegó a un acuerdo para comprar Vodafone España por 5.000 millones de euros (3,9x FY23 [[EBITDAaL]]). En el acuerdo se indica que la financiación se estructuraba como una combinación de:
-- **Nueva deuda**: 4.200 millones de euros junto 500 millones en forma de crédito *revolving*. En el momento de firmar el acuerdo, Zegona ya tenía asegurado un paquete de financiación de €4.200 millones (esto incluye deuda bancaria y otras fuentes). Si la ampliación de capital alcanza los 600 millones de euros, se utilizará una parte de ellos para reducir la deuda neta hasta 3.700 millones de euros. Esto se corresponde con un apalancamiento o *leverage* de 2,9x EBITDAal. Si la ampliación de capital se queda en 300 millones de euros, entonces la deuda neta se reducirá solamente hasta 3.900 millones de euros (3x [[EBITDAaL]]).
+- **Nueva deuda**: 4.200 millones de euros junto 500 millones en forma de crédito *revolving*. En el momento de firmar el acuerdo, Zegona ya tenía asegurado un paquete de financiación de €4.200 millones (esto incluye deuda bancaria y otras fuentes). Si la ampliación de capital alcanza los 600 millones de euros, se utilizará una parte de ellos para reducir la deuda neta hasta 3.700 millones de euros. Esto se corresponde con un apalancamiento o *leverage* de 2,9x [[EBITDAaL]]. Si la ampliación de capital se queda en 300 millones de euros, entonces la deuda neta se reducirá solamente hasta 3.900 millones de euros (3x [[EBITDAaL]]).
 - **Financiación por parte de Vodafone Group**: 900 millones de euros. Estos 900 millones los proporcionará Vodafone Group (Vodafone financia a Zegona la compra de Vodafone España) en forma de acciones preferentes en el caso de que la ampliación de capital sea de 300 millones. Esta financiación se realizará de la siguiente forma: Vodafone Group Plc invierte 900 millones de euros en acciones preferentes de una sociedad nueva (EJLSHM Funding Limited) y esa sociedad es la que usa los 900 millones de euros para comprar acciones ordinarias de Zegona a 1.50 libras esterlinas.
 - **Ampliación de capital (*equity raise*)**: El objetivo es conseguir entre 300 y 600 millones de euros. Si la ampliación de capital supera los 400 millones de euros, el 50% de la *equity* captada por encima de 400 millones de euros se pagarán a Vodafone Group Plc quien, a su vez, reducirá la parte correspondiente de las acciones preferentes compradas. Por tanto, si la ampliación de capital es de 600 millones de euros, 50%·(600-400)=100 millones de euros irán a Vodafone Group Plc, quien reducirá la financiación hasta 800 millones. Esta es la razón de que, tras una hipotética ampliación de capital de 600 millones, la deuda neta sea de 4.200-(600-100)=3.700 millones de euros.
 
@@ -297,12 +297,12 @@ Sin embargo, es necesario recordar que existe un *covenant* financiero en la fin
 Por tanto, se debe calcular la cantidad de dinero (*cash*) que debe generar la compañía para realizar ambos pagos. 
 
 En primer lugar, podemos estimar el nivel de deuda que habilitaría el pago de dividendos a partir del importe de adquisición (5.000 millones de euros) y los múltiplos EV/EBITDAaL proporcionados por Zegona (3,9x EV/EBITDAaL) y *Vodafone Group* (5,3x EV/EBITDAaL) en el momento de adquisición:
-- Escenario optimista (2023 EV/EBITDAaL=3,9): El EBITDAaL sería de 5.000/3,9=1.282 millones de euros, es decir, unos 1.300 millones de euros. Por tanto, el nivel de deuda neta que se puede alcanzar es de 2,25·1.300=2.925 millones de euros. Como la deuda neta resultante de la operación es de 3.900 millones de euros, se deberían pagar unos 1.000 millones de euros de dicha deuda.
-- Escenario pesimista (2023 EV/EBITDAaL=5,3): El EBITDAaL sería de 5.000/5,3=943 millones de euros, es decir, unos 940 millones de euros. Por tanto, el nivel de deuda neta que se puede alcanzar es de 2,25·940=2.115 millones de euros. Como la deuda neta resultante de la operación es de 3.900 millones de euros, se deberían pagar unos 1.800 millones de euros de dicha deuda.
+- Escenario optimista (2023 EV/EBITDAaL=3,9): El [[EBITDAaL]] sería de 5.000/3,9=1.282 millones de euros, es decir, unos 1.300 millones de euros. Por tanto, el nivel de deuda neta que se puede alcanzar es de 2,25·1.300=2.925 millones de euros. Como la deuda neta resultante de la operación es de 3.900 millones de euros, se deberían pagar unos 1.000 millones de euros de dicha deuda.
+- Escenario pesimista (2023 EV/EBITDAaL=5,3): El [[EBITDAaL]] sería de 5.000/5,3=943 millones de euros, es decir, unos 940 millones de euros. Por tanto, el nivel de deuda neta que se puede alcanzar es de 2,25·940=2.115 millones de euros. Como la deuda neta resultante de la operación es de 3.900 millones de euros, se deberían pagar unos 1.800 millones de euros de dicha deuda.
 
 El *cash* necesario para cumplir con el *covenant* financiero oscila en un rango entre 1.000 y 1.800 millones de euros.
 
-En segundo lugar, podemos estimar cuál debe ser el dividendo a repartir para que la *Newco* cancele las acciones preferentes con *Vodafone Group*. Se deben devolver los 900 millones de euros junto con los intereses de 1 año y medio (desde mayo de 2024, que es cuando se cerró la operación, hasta finales de 2025, que es cuando se pagaría el dividendo) del 5% anual, es decir, (5%+2,5%)·900 = 967 millones de euros (820 millones de libras esterlinas a marzo de 2025). Como la *Newco* dispone de 523.240.603 acciones, el dividendo debe ser de 820/523.240.603 = 1,57 libras esterlinas por acción. En principio, el dividendo debe repartirse a todos los accionistas, es decir, a las 759.209.905 acciones de circulación, de forma que el importe total del dividendo sería 1,57·759.209.905 = 1.191 millones de libras esterlinas (1.436 millones de euros a marzo de 2025).
+En segundo lugar, podemos estimar cuál debe ser el dividendo a repartir para que la *Newco* cancele las acciones preferentes con *Vodafone Group*. Se deben devolver los 900 millones de euros junto con los intereses de 1 año y medio (desde mayo de 2024, que es cuando se cerró la operación, hasta finales de 2025, que es cuando se pagaría el dividendo) del 5% anual, es decir, (5%+2,5%)·900 = 967 millones de euros (820 millones de libras esterlinas a 1,18 EUR/GBP en marzo de 2025). Como la *Newco* dispone de 523.240.603 acciones, el dividendo debe ser de 820/523.240.603 = 1,57 libras esterlinas por acción. En principio, el dividendo debe repartirse a todos los accionistas, es decir, a las 759.209.905 acciones de circulación, de forma que el importe total del dividendo sería 1,57·759.209.905 = 1.191 millones de libras esterlinas (1.405 millones de euros a 1,18 EUR/GBP en marzo de 2025).
 
 El *cash* necesario para repartir un dividendo suficiente que cubra las acciones preferentes será de 1.400 millones de euros. 
 
@@ -312,19 +312,20 @@ No obstante, gracias a la primera refinanciación de deuda, en la que se emitier
 
 ![[ZEG_KPIs_Sep_2024.png]]
 ![[ZEG_KPIs_Dec_2024.png]]
+![[ZEG_KPIs_Notes_Dec_2024.png]]
 
-Estos documentos nos permiten obtener el EBITDAaL de Vodafone España en los últimos 9 meses de 2024. Si extrapolamos los datos al primer trimestre de 2024 mediante el mínimo de los 3 trimestres, ya que este tipo de empresas tienen ingresos muy estables y predecibles, podemos obtener el EBITDAaL del año 2024:
+Estos documentos nos permiten obtener el [[EBITDAaL]] de Vodafone España en los últimos 9 meses de 2024. Si extrapolamos los datos al primer trimestre de 2024 mediante el mínimo de los 3 trimestres, ya que este tipo de empresas tienen ingresos muy estables y predecibles, podemos obtener el [[EBITDAaL]] del año 2024:
 - Primer trimestre (*3m to March 24*): 299 millones de euros
 - Segundo trimestre (*3m to Jun 24*): 299 millones de euros
 - Tercer trimestre (*3m to Sep 24*): 318 millones de euros
 - Cuarto trimestre (*3m to Dec 24*): 320 millones de euros
 - **Total: 1.236 millones de euros**
 
-Por otro lado, la deuda neta es de 3.800 millones, de forma que se necesitarían 3.800-2,25·1.236=1.019 millones de euros para cumplir con el *covenant* financiero, es decir, 1.000 millones de euros. Es importante tener en cuenta que cualquier pequeña variación en el EBITDAaL tiene un efecto importante en la cantidad de deuda a amortizar para cumplir con dicho *covenant*. Por ejemplo, si el EBITDAaL es 100 millones inferior, es decir, 1.100 millones de euros, la cantidad de deuda a amortizar sería de 3.800-2,25·1.100=1.325 millones de euros.
+Por otro lado, la deuda neta es de 3.800 millones de euros y el grupo cuenta con 260 millones de euros en caja, de forma que se necesitarían 3.800-260-2,25·1.236=759 millones de euros para cumplir con el *covenant* financiero, es decir, 760 millones de euros. Es importante tener en cuenta que cualquier pequeña variación en el [[EBITDAaL]] tiene un efecto importante en la cantidad de deuda a amortizar para cumplir con dicho *covenant*. Por ejemplo, si el [[EBITDAaL]] es 180 millones inferior, es decir, 1.056 millones de euros, la cantidad de deuda a amortizar sería de 3.800-260-2,25·1.056=1.164 millones de euros.
 
-**Por tanto, parece que nos encontramos en el escenario optimista: la cantidad de *cash* a obtener para reducir la deuda y pagar el dividendo sería de 2.400 millones de euros.**
+**Por tanto, parece que nos encontramos en el escenario optimista: la cantidad de *cash* a obtener para reducir la deuda y pagar el dividendo sería de 2.200-2.600 millones de euros.**
 
-La gran pregunta es: **¿Cómo van a obtener los 2.400 millones de euros?**. La respuesta está en la **monetización de los activos de fibra**.
+La gran pregunta es: **¿Cómo van a obtener los 2.200-2.600 millones de euros?**. La respuesta está en la **monetización de los activos de fibra**.
 
 La industria de las telecomunicaciones tiende a atraer a muchos inversores en valor (*value investors*) por diversas razones, siendo quizás la principal que presenta características propicias para la ingeniería financiera (*financial engineering*) sofisticada y una asignación inteligente del capital (*capital allocation*). El mejor ejemplo de esto es John Malone y todo el valor que ha creado durante décadas con TCI y el grupo Liberty.
 
@@ -409,13 +410,13 @@ La *FibreCo* ha comenzado a operar, bajo el nombre **Fiberpass**, el [**1 de mar
 
 ##### Impacto sobre el EBITDAaL de Zegona
 
-La constitución de esta *FibreCo* supone que Vodafone España deberá pagar un alquiler (*lease*) por el acceso de cada cliente a Fiberpass (*Netco*), con el consiguiente aumento de los costes operativos (*opex*). Se deben estimar estos costes, ya que supondrán una reducción del EBITDAaL de Zegona. Esta estimación se puede realizar de 2 formas:
+La constitución de esta *FibreCo* supone que Vodafone España deberá pagar un alquiler (*lease*) por el acceso de cada cliente a Fiberpass (*Netco*), con el consiguiente aumento de los costes operativos (*opex*). Se deben estimar estos costes, ya que supondrán una reducción del [[EBITDAaL]] de Zegona. Esta estimación se puede realizar de 2 formas:
 - Suponiendo un margen EBITDA del 75%, los ingresos (*revenues*) de la *Netco* serán de 125/0,75 = 167 millones de euros. La cuota total que pagará Vodafone España a Fiberpass será el 37% de dichos ingresos, es decir, 62 millones de euros.
 - Suponiendo una cuota de acceso de la *Netco* de 10€ al mes por cliente, la cuota total que pagará Vodafone España a Fiberpass será de 10€/mes · 12 meses · 518.000 clientes = 62 millones de euros.
 
 Por otro lado, hay que descontar los costes operativos que antes recaían en Vodafone España y ahora se trasladan a la *FibreCo*. Suponiendo un margen EBITDA del 75%, los costes operativos son de 125/0,75-125=41,7 millones de euros. No obstante, solo el 37% de dichos costes se corresponden con los clientes de Vodafone España, por lo que los costes operativos específicos de Vodafone España son el 37% de esos 41,7 millones de euros, es decir, 15,4 millones de euros. Esta estimación es conservadora ya que, fruto de la fusión, es probable que los costes operativos que tuviesen Telefónica y Vodafone España sobre estas redes de fibra fuesen mayores por separado, con lo que la reducción de costes sería superior.
 
-**El EBITDAaL de Vodafone España y, por tanto, el de Zegona, se reducirá en 47 millones de euros**.
+**El [[EBITDAaL]] de Vodafone España y, por tanto, el de Zegona, se reducirá en 47 millones de euros**.
 
 ##### Monetización
 
@@ -459,13 +460,13 @@ Dada la alta calidad de la infraestructura de fibra existente y la naturaleza mu
 La operación también está sujeta a las aprobaciones regulatorias habituales. Al igual que la *FibreCo* con Telefónica, se espera que esta *FibreCo* quede formalmente constituida, y que se incorpore el inversor externo, en la **primera mitad de 2025**.
 ##### Impacto sobre el EBITDAaL de Zegona
 
-La constitución de esta *FibreCo* supone que Vodafone España deberá pagar un alquiler (*lease*) por el acceso de cada cliente a Fiberpass (*Netco*), con el consiguiente aumento de los costes operativos (*opex*). Se deben estimar estos costes, ya que supondrán una reducción del EBITDAaL de Zegona. Esta estimación se puede realizar de 2 formas:
+La constitución de esta *FibreCo* supone que Vodafone España deberá pagar un alquiler (*lease*) por el acceso de cada cliente a Fiberpass (*Netco*), con el consiguiente aumento de los costes operativos (*opex*). Se deben estimar estos costes, ya que supondrán una reducción del [[EBITDAaL]] de Zegona. Esta estimación se puede realizar de 2 formas:
 - Suponiendo un margen EBITDA del 85%, los ingresos (*revenues*) de la *Netco* serán de 480/0,85 = 560 millones de euros. La cuota total que pagará Vodafone España a Fiberpass será el 30% de dichos ingresos, es decir, 168 millones de euros.
 - Suponiendo una cuota de acceso de la *Netco* de 10€ al mes por cliente, la cuota total que pagará Vodafone España a Fiberpass será de 10€/mes · 12 meses · 30% · 4.500.000 clientes = 162 millones de euros.
 
 Por otro lado, hay que descontar los costes operativos que antes recaían en Vodafone España y ahora se trasladan a la *FibreCo*. Suponiendo un margen EBITDA del 85%, los costes operativos son de 480/0,85-480=84,7 millones de euros. No obstante, solo el 30% de dichos costes se corresponden con los clientes de Vodafone España, por lo que los costes operativos específicos de Vodafone España son el 30% de esos 84,7 millones de euros, es decir, 25 millones de euros. Esta estimación es conservadora ya que, fruto de la fusión, es probable que los costes operativos que tuviesen MásOrange y Vodafone España sobre estas redes de fibra fuesen mayores por separado, con lo que la reducción de costes sería superior.
 
-**El EBITDAaL de Vodafone España y, por tanto, el de Zegona, se reducirá en unos 140 millones de euros**.
+**El [[EBITDAaL]] de Vodafone España y, por tanto, el de Zegona, se reducirá en unos 140 millones de euros**.
 ##### Monetización
 
 La estrategia de monetización Zegona sobre esta *FibreCo* se basa en lo siguiente:
@@ -482,22 +483,86 @@ La estrategia de monetización Zegona sobre esta *FibreCo* se basa en lo siguien
 | **Total**         | **1776** | **1872** | **1968** | **2064** | **2160** | **2256** |
 
 Según [Caixabank](https://www.europapress.es/economia/noticia-caixabank-valora-8700-millones-joint-ventures-fibra-vodafone-espana-masorange-telefonica-20250413122649.html) la *joint FibreCo* entre Vodafone España y MásOrange está valorada en 7.000 millones de euros. Como Vodafone España planea vender el 20% de la *FibreCo*, Zegona ingresaría 1.400 millones de euros. A esto se le sumarían los 336 millones de euros procedentes del apalancamiento de 7 veces EBITDA de la *FibreCo*, por lo que el total de la operación serían unos 1.736 millones de euros, muy cercanos a la estimación realizada anteriormente.
+
+#### Alternativas en caso de monetización insuficiente
+
+El plan de monetización de las 2 *FibreCo* supone una reducción agregada del [[EBITDAaL]] de 2024 de 47+140=187 millones de euros. Si consideramos que en 2025 la compañía mantiene el [[EBITDAaL]] del año anterior (escenario conservador) y que ambas operaciones se completan a lo largo del año, el [[EBITDAaL]] de 2025 sería de 1.236-187=1.049 millones de euros.
+
+Esta reducción del [[EBITDAaL]] incrementa la cantidad de deuda que se debe amortizar para cubrir el *covenant* financiero. En concreto, el nivel máximo de deuda neta que permite el reparto de dividendos sería 2,25·1.049=2.360 millones de euros, de forma que se deberían amortizar 3.800-260-2.360=1.180 millones de euros, 400 millones de euros por encima de lo estipulado antes de la monetización.
+
+La cantidad de *cash* a obtener para reducir la deuda y pagar el dividendo sería de 2.600 millones de euros. En el caso de que la participación en las 2 *FibreCo* se venda a 15x EV/EBITDA (escenario conservador), el *cash* obtenido sería de 538+1.776=2.314 millones de euros. Para alcanzar los 2.600 millones de euros, el múltiplo de venta debería ser superior, por ejemplo, 18x EV/EBITDA para la participación en la *FibreCo* con MásOrange (2.064 millones de euros).
+
+Por tanto, existe el riesgo de que la monetización de los activos de fibra no sea suficiente para reducir la deuda y pagar el dividendo. En el caso de que no sea suficiente, la compañía cuenta con varias alternativas:
+1. **Pagar dividendo exclusivamente a la *NewCo***: En este escenario, el dividendo de 1,57 libras esterlinas se pagaría solamente a las acciones de la *NewCo*, es decir, a 523.240.603 acciones frente al total de 759.209.905 acciones de circulación, de forma que el importe total del dividendo sería de 967 millones de euros. Esto supone una reducción del dividendo de 1.405-967=438 millones de euros, lo que permitiría cubrir el *covenant* financiero y cancelar las preferentes sin problemas incluso en el escenario más conservador de monetización de los activos de fibra a 15x EV/EBITDA. Esto requeriría de la aprobación en una junta extraordinaria de accionistas.
+2. **Pagar un *scrip dividend* al resto de accionistas**: En este escenario, la *NewCo* seguiría cobrando sus 967 millones de dividendo en *cash*, por lo que las preferentes se cancelarían, mientras que el resto de accionistas recibiría los 438 millones de euros en forma de nuevas acciones de Zegona. Esto aumentaría el número de acciones en circulación, por lo que el precio por acción se reduciría. Sin embargo, cada accionista actual recibirá nuevas acciones, de forma que el valor total de su inversión probablemente no variará. Esto requeriría de la aprobación en una junta extraordinaria de accionistas.
+3. **Reducir la posición en las *FibreCo***: Zegona mantendrá un 10% de las acciones de ambas *FibreCo*. Aunque recibe un dividendo especial de ellas por dichas posiciones, el múltiplo sobre el EBITDA utilizado para apalancar las *FibreCo* (2,5x en el caso de la *FibreCo* con Telefónica y 7x en el caso de la *FibreCo* con MásOrange) es inferior que el múltiplo EV/EBITDA en el caso de su venta (como mínimo, 15x).  Por tanto, si reduce la posición restante en cada una de ellas, recibirá un cantidad superior de *cash* que le permitiría afrontar el *covenant* junto con el dividendo a todos los accionistas.
+4. **Aplicar ahorros futuros en el [[EBITDAaL]] actual**: Según Daniel Tello (Azagala Capital) y Gabriel Castro (Sigma Global), la estructura de financiación en vigor permite aplicar ahorros de costes futuros con un margen del 20%. Esto permite alcanzar el ratio de endeudamiento de 2,25 veces de una forma más fácil dejando a su vez un mayor nivel de caja disponible para pagar dividendos. No he encontrado la documentación oficial al respecto pero, en caso de que sea así, entiendo que sería aplicar el 120% al [[EBITDAaL]] actual. Por ejemplo, si el [[EBITDAaL]] es 1.049 millones de euros, se podrían computar 1,2·1.049=1.259 millones de euros para cumplir el *covenant*, de forma que la compañía debería amortizar 3.800-260-2,25·1.259=707 millones de euros. Esto permitiría pagar tanto el mínimo de deuda como el dividendo a todos los accionistas (707+1.405=2.112 millones de euros) en el escenario más conservador (538+1.776=2.314 millones de euros)
+5. **Monetizar activos restantes de su red móvil**: Aunque Vodafone Group ya monetizó la mayor parte de su red móvil mediante la creación y venta de *Vantage Towers*, Vodafone España todavía conserva algunos activos que podría vender para conseguir más *cash*.
 ### Reestructuración del negocio
 
 Pendiente
-## Azagala Capital
+## Valoración
 
+Para realizar la valoración de la compañía se han tenido en cuenta los siguientes escenarios:
+1. Monetización de activos de fibra, pago completo de dividendo y cancelación de preferentes
+2. Monetización de activos de fibra, pago parcial de dividendo y cancelación de preferentes
 
-Entonces, el múltiplo con el que compran es relativamente bueno; en este sector, son de cuatro a seis veces métricas especiales de EBITDA, antes de deudas. Pero bueno, está bien comprado, aunque es un activo dañado, modificado en España, la máquina de perder dinero, de perder clientes, con rumbos complejos en el meto, fútbol, luego no meto, etcétera. Un negocio dañado, y la estructura de estos tipos es muy sencilla: es decir, compran, arreglan y venden.
+### Monetización de activos de fibra, pago completo de dividendo y cancelación de preferentes
 
-Pero va a estar al mismo nivel con lo que realmente dices: "Oye, si venden a este múltiplo y meten esto de deuda y se pegan un dividendo, pues le tienen que caer a Vodafone España entre 2.000 y 2.400 millones, entre la venta de la participación y tal". ¿Y cuándo va a ocurrir esto? Pues esto va a ocurrir en los próximos meses.
+|                                                  |          |          |          |          |
+| ------------------------------------------------ | -------- | -------- | -------- | -------- |
+| **EV/EBITDAaL**                                  | **4x**   | **5x**   | **6x**   | **7x**   |
+| EBITDAaL 24                                      | 1236     | 1236     | 1236     | 1236     |
+| Reducción EBITDA por creación FibreCo Telefónica | -47      | -47      | -47      | -47      |
+| Reducción EBITDA por creación FibreCo MásOrange  | -140     | -140     | -140     | -140     |
+| **EBITDAaL 25**                                  | **1049** | **1049** | **1049** | **1049** |
+| **EV**                                           | **4196** | **5245** | **6294** | **7343** |
+| Deuda                                            | 3800     | 3800     | 3800     | 3800     |
+| Caja                                             | 260      | 260      | 260      | 260      |
+| Venta FibreCo Telefónica                         | 538      | 538      | 538      | 538      |
+| Venta FibreCo MásOrange                          | 1776     | 1776     | 1776     | 1776     |
+| Pago Dividendo                                   | 1405     | 1405     | 1405     | 1405     |
+| **Deuda neta**                                   | **2631** | **2631** | **2631** | **2631** |
+| **Equity**                                       | **1565** | **2614** | **3663** | **4712** |
+| Número de acciones inicial                       | 759      | 759      | 759      | 759      |
+| Preferentes canceladas                           | -523     | -523     | -523     | -523     |
+| **Número de acciones final**                     | **236**  | **236**  | **236**  | **236**  |
+| Precio por acción (EUR)                          | 6,63     | 11,08    | 15,52    | 19,97    |
+| **EUR/GBP**                                      | **1,18** | **1,18** | **1,18** | **1,18** |
+| Precio por acción (GBP)                          | 5,62     | 9,39     | 13,16    | 16,92    |
+| Dividendo (GBP)                                  | 1,57     | 1,57     | 1,57     | 1,57     |
+| Precio por acción final (GBP)                    | 7,19     | 10,96    | 14,73    | 18,49    |
+| **Precio por acción final (GBX)**                | **719**  | **1096** | **1473** | **1849** |
+| **Precio actual**                                | **595**  | **595**  | **595**  | **595**  |
+| **Rentabilidad**                                 | **21%**  | **84%**  | **147%** | **211%** |
+### Monetización de activos de fibra, pago parcial de dividendo y cancelación de preferentes
 
-Entonces, con esos 2.000, 2.400 millones, en el momento que se reciban, lo primero que hay que hacer es desapalancar, porque hay un covenant financiero que no te permite pagar dividendo si estás más endeudado de 2,25 veces. La compañía tiene como un comodín del 20% por el que puede incrementar el EBITDA con programas de reestructuración de gastos, como si los hubiera implementado desde el primer día.
-
-Lo primero que hizo en España fue hacer un expediente de regulación de empleo para ahorrarse entre 70 y 80 millones en gastos personales. Y luego tiene un plan para llegar hasta 320 millones. Entonces, en un año no va a hacer todo, pero un año y va a hacer una parte. Si encima me dejas lo que voy a hacer en los próximos 18 meses, tengo ese margen para desapalancar y luego pagar un dividendo de 1.300-1.400 millones. Porque para cancelar esos 500 y pico millones de acciones que representan el 69% de la compañía, tengo que pagar un dividendo a todos los accionistas.
-
-Bueno, pues una vez que pase, el 30% de los accionistas actuales de la compañía van a ser dueños del 100%. Entonces, en condiciones normales, el turn-around, pues desde aquí puedes doblar. Y si luego el turn-around se ejecuta correctamente, ellos consiguen optimizar el gasto, generar caja suficiente, pues sus objetivos de caja operativa, pues en lugar del 8-10% que están ahora, consiguen llegar a un 18-20%, que es algo relativamente razonable. Porque, por ejemplo, Masmovil está por encima, todos están por encima, Telefónica está por encima. Es decir, es relativamente razonable y si tienes un exit, pues puedes multiplicar por cuatro o por cinco desde aquí.
-
+|                                                  |          |          |          |          |
+| ------------------------------------------------ | -------- | -------- | -------- | -------- |
+| **EV/EBITDAaL**                                  | **4x**   | **5x**   | **6x**   | **7x**   |
+| EBITDAaL 24                                      | 1236     | 1236     | 1236     | 1236     |
+| Reducción EBITDA por creación FibreCo Telefónica | -47      | -47      | -47      | -47      |
+| Reducción EBITDA por creación FibreCo MásOrange  | -140     | -140     | -140     | -140     |
+| **EBITDAaL 25**                                  | **1049** | **1049** | **1049** | **1049** |
+| **EV**                                           | **4196** | **5245** | **6294** | **7343** |
+| Deuda                                            | 3800     | 3800     | 3800     | 3800     |
+| Caja                                             | 260      | 260      | 260      | 260      |
+| Venta FibreCo Telefónica                         | 538      | 538      | 538      | 538      |
+| Venta FibreCo MásOrange                          | 1776     | 1776     | 1776     | 1776     |
+| Pago Dividendo                                   | 967      | 967      | 967      | 967      |
+| **Deuda neta**                                   | **2193** | **2193** | **2193** | **2193** |
+| **Equity**                                       | **2003** | **3052** | **4101** | **5150** |
+| Número de acciones inicial                       | 759      | 759      | 759      | 759      |
+| Preferentes canceladas                           | -523     | -523     | -523     | -523     |
+| **Número de acciones final**                     | **236**  | **236**  | **236**  | **236**  |
+| Precio por acción (EUR)                          | 8,49     | 12,93    | 17,38    | 21,82    |
+| **EUR/GBP**                                      | **1,18** | **1,18** | **1,18** | **1,18** |
+| Precio por acción (GBP)                          | 7,19     | 10,96    | 14,73    | 18,50    |
+| Dividendo (GBP)                                  | 0        | 0        | 0        | 0        |
+| Precio por acción final (GBP)                    | 7,19     | 10,96    | 14,73    | 18,50    |
+| **Precio por acción final (GBX)**                    | **719**      | **1096**     | **1473**     | **1850**     |
+| **Precio actual**                                    | **595**      | **595**      | **595**      | **595**      |
+| **Rentabilidad**                                     | **21%**      | **84%**      | **148%**     | **211%**     |
 ## Referencias
 
 - [Tesis Raging Bull Investments](https://ragingbullinvestments.substack.com/p/an-old-school-leveraged-buyout)
