@@ -577,6 +577,12 @@ En este escenario:
 | **Precio por acción final (GBX)**                    | **857**  | **1234** | **1610** | **1987** |
 | **Precio actual**                                    | **595**  | **595**  | **595**  | **595**  |
 | **Rentabilidad**                                     | **44%**  | **107%** | **171%** | **234%** |
+
+## Seguimiento
+
+[Masorange y Vodafone estudian vender menos parte de su 'fiberco'](https://www.expansion.com/empresas/tecnologia/2025/05/27/6834d4d3468aeb026e8b45be.html): A primera vista parece una noticia negativa, ya que pasan de vender el 40% de la compañía al 20%. Sin embargo, si se analiza el contenido, se comprueba que la razón es que consideran que la valoración de 7.000-7.500 millones de euros correspondiente a algunas ofertas es baja. Esta valoración se corresponde con el escenario conservador de 15x EV/EBITDA propuesto en la tesis. Por tanto, si terminan vendiendo el 40% a esta valoración que ellos consideran baja, la tesis se sigue cumpliendo. Por otro lado. si consiguen el objetivo de vender el 20% restante a un múltiplo de 20x EV/EBITDA, el dinero ingresado por Zegona pasaría de 1.776 millones de euros a 2.016 millones de euros, y el precio objetivo pasaría de 719 GBP a 806 GBP aproximadamente.
+
+[Telefónica y Vodafone entran en la recta final para dar entrada a un socio en Fiberpass](https://theobjective.com/economia/telecomunicaciones/2025-06-05/telefonica-vodafone-recta-final-socio-fiberpass/): En esta noticia se habla de una valoración de 2.000 millones de euros para la *FibreCo* con Telefónica. Esto se corresponde con el escenario de 16x EV/EBITDA, superior al más conservador utilizado en la tesis. Si esto se cumple, el precio objetivo pasaría de 719 GBP a 731 GBP.
 ## Referencias
 
 - [Tesis Raging Bull Investments](https://ragingbullinvestments.substack.com/p/an-old-school-leveraged-buyout)
