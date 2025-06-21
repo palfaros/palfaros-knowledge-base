@@ -595,3 +595,4 @@ En este escenario:
 - [Tesis Daniel Tello (Azagala Capital)](https://youtu.be/8swbESGwxJA?t=2742)
 - [Tesis Daniel Tello (Carta Anual 2024 Azagala Capital, páginas 13-17)](https://andbank.es/boutiquehub/wp-content/uploads/2025/04/Azagala_Carta_Anual_2024.pdf)
 - [Tesis Alluvial Capital Management](https://alluvialcapital.com/wp-content/uploads/2024/10/Alluvial-Capital-Management-Q3-2024-Letter-to-Partners.pdf)
+- [Tesis Norbury Capital](https://norburycapital.substack.com/p/a-guide-to-zegona-for-spanish-journalists?utm_campaign=post&utm_medium=web&triedRedirect=true)
