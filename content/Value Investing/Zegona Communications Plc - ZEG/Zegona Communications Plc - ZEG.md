@@ -501,17 +501,27 @@ Por tanto, existe el riesgo de que la monetización de los activos de fibra no s
 ### Reestructuración del negocio
 
 Los planes de reestructuración del negocio se pueden encontrar en el capítulo 4 del [*prospectus*](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/zegona-communications-plc-prospectus.pdf). En concreto, los apartados 4.4 y 4.5 contienen la información relativa los planes de reducción de costes y crecimiento de negocio.
-#### Reducción de costes
+#### Venta de activos de fibra en forma de *Netco*
 
-Pendiente
+Se trata de la monetización de activos de fibra mediante la constitución y venta de *joint ventures* con Telefónica y MasOrange ya explicada en detalle en el apartado anterior ([[#Reducción de deuda y cancelación de preferentes]]).
 #### Nueva directiva
+
+![[ZEG_Prospectus_Zegona_Strategy_New_Management_Team.png]]
+
+La directiva de Zegona tiene amplia experiencia en el mercado de telecomunicaciones español, con un *track-record* probado en la adquisición y venta de múltiples compañías de telecomunicaciones (Euskaltel y Telecable). Por tanto, una de las prioridades estratégicas de la compañía pasa por aplicar todos los conocimientos de la directiva al negocio de Vodafone España, con el objetivo de alcanzar la transformación necesaria.
+
+Por otro lado, Zegona propone (y así ha sido finalmente) el nombramiento de José Miguel García como CEO de Vodafone España. José Miguel García tiene un enorme *track-record* de creación de valor en el mercado de telecomunicaciones español:
+1. Euskaltel: Crecimiento del EBITDA en un 8% durante los 6 primeros meses a su llegada al cargo.
+2. Jazztel: CEO entre 2006 y 2015. Crecimiento de los ingresos (*revenue*) en un 300% (de 278 a 1.176 millones de euros). Crecimiento del EBITDA de más del 50% (de 137 a 216 millones de euros). La venta de Jazztel a Orange por 3.400 millones de euros supuso una creación de valor de 2.800 millones de euros (su capitalización bursátil pasó de 600 millones de euros a 3.400 millones de euros).
+#### Reducción de costes
 
 Pendiente
 #### Estabilización de ingresos
 
+Pendiente
 #### Venta de *Netco*
 
-Se trata de la monetización de activos de fibra mediante la constitución y venta de *joint ventures* con Telefónica y MasOrange ya explicada en detalle en el apartado anterior ([[#Reducción de deuda y cancelación de preferentes]])
+Se trata de la monetización de activos de fibra mediante la constitución y venta de *joint ventures* con Telefónica y MasOrange ya explicada en detalle en el apartado anterior ([[#Reducción de deuda y cancelación de preferentes]]).
 ## Valoración
 
 Para realizar la valoración de la compañía se han tenido en cuenta los siguientes escenarios:
