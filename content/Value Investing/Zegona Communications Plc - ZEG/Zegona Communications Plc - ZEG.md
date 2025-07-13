@@ -512,7 +512,10 @@ La directiva de Zegona tiene amplia experiencia en el mercado de telecomunicacio
 
 Por otro lado, Zegona propone (y así ha sido finalmente) el nombramiento de José Miguel García como CEO de Vodafone España. José Miguel García tiene un enorme *track-record* de creación de valor en el mercado de telecomunicaciones español:
 1. Euskaltel: Crecimiento del EBITDA en un 8% durante los 6 primeros meses a su llegada al cargo.
-2. Jazztel: CEO entre 2006 y 2015. Crecimiento de los ingresos (*revenue*) en un 300% (de 278 a 1.176 millones de euros). Crecimiento del EBITDA de más del 50% (de 137 a 216 millones de euros). La venta de Jazztel a Orange por 3.400 millones de euros supuso una creación de valor de 2.800 millones de euros (su capitalización bursátil pasó de 600 millones de euros a 3.400 millones de euros).
+2. Jazztel: CEO entre 2006 y 2015. 
+	1. Crecimiento de los ingresos (*revenue*) en un 300% (de 278 a 1.176 millones de euros).
+	2. Crecimiento del EBITDA de más del 50% (de 137 a 216 millones de euros). 
+	3. La venta de Jazztel a Orange por 3.400 millones de euros supuso una creación de valor de 2.800 millones de euros (su capitalización bursátil pasó de 600 millones de euros a 3.400 millones de euros).
 #### Reducción de costes
 
 Pendiente
