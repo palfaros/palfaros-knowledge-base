@@ -518,13 +518,10 @@ Por otro lado, Zegona propone (y así ha sido finalmente) el nombramiento de Jos
 	3. La venta de Jazztel a Orange por 3.400 millones de euros supuso una creación de valor de 2.800 millones de euros (su capitalización bursátil pasó de 600 millones de euros a 3.400 millones de euros).
 #### Reducción de costes
 
-Pendiente
+Pendiente.
 #### Estabilización de ingresos
 
-Pendiente
-#### Venta de *Netco*
-
-Se trata de la monetización de activos de fibra mediante la constitución y venta de *joint ventures* con Telefónica y MasOrange ya explicada en detalle en el apartado anterior ([[#Reducción de deuda y cancelación de preferentes]]).
+Pendiente.
 ## Valoración
 
 Para realizar la valoración de la compañía se han tenido en cuenta los siguientes escenarios:
