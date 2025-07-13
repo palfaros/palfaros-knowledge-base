@@ -500,7 +500,18 @@ Por tanto, existe el riesgo de que la monetización de los activos de fibra no s
 5. **Monetizar activos restantes de su red móvil**: Aunque Vodafone Group ya monetizó la mayor parte de su red móvil mediante la creación y venta de *Vantage Towers*, Vodafone España todavía conserva algunos activos que podría vender para conseguir más *cash*.
 ### Reestructuración del negocio
 
+Los planes de reestructuración del negocio se pueden encontrar en el capítulo 4 del [*prospectus*](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/zegona-communications-plc-prospectus.pdf). En concreto, los apartados 4.4 y 4.5 contienen la información relativa los planes de reducción de costes y crecimiento de negocio.
+#### Reducción de costes
+
 Pendiente
+#### Nueva directiva
+
+Pendiente
+#### Estabilización de ingresos
+
+#### Venta de *Netco*
+
+Se trata de la monetización de activos de fibra mediante la constitución y venta de *joint ventures* con Telefónica y MasOrange ya explicada en detalle en el apartado anterior ([[#Reducción de deuda y cancelación de preferentes]])
 ## Valoración
 
 Para realizar la valoración de la compañía se han tenido en cuenta los siguientes escenarios:
