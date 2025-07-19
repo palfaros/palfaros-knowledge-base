@@ -524,18 +524,23 @@ Vodafone España consiguió una mejora en la generación de *cash flow* entre 20
 - 4.000 empleados de Vodafone España frente a 2.400 empleados de MásMóvil (finales 2022).
 - Gasto elevado en tecnología: 1.000 millones de euros.
 - Gasto elevado en *capex* discrecional, es decir, *capex* que no es necesario para las operaciones de la empresa: 102 millones de euros.
+
 ![[ZEG_Prospectus_Zegona_Strategy_Cost_Reduction_II.png]]
 ![[ZEG_Prospectus_Zegona_Strategy_Cost_Reduction_III.png]]
+
 La directiva de Zegona considera que existe una clara oportunidad para la mejora de los márgenes de Vodafone España. Si comparamos los márgenes de Vodafone España y MásMóvil a finales de 2022, así como con los márgenes de Euskaltel en el último año en el que Zegona era propietaria (finales de 2020) y la media de sus competidores:
 
 |                      | Vodafone España | MásMóvil | Euskaltel | Media Competidores |
 | -------------------- | --------------- | -------- | --------- | ------------------ |
 | **Margen EBITDAaL**  | 33%             | 41%      | 50%       | -                  |
 | **Margen Cash Flow** | 11%             | 22%      | 27%       | 24%                |
+
 Esta discrepancia muestra la oportunidad que existe en Vodafone España de optar por un enfoque (*approach*) diferente, con acciones de reducción de costes, basadas en la estructura de costes de Euskaltel. La directiva de Zegona ya ha identificado áreas de reducción de costes que permitirían aproximar el margen de *cash flow* de Vodafone España (11%) al de Euskaltel en el último año de Zegona (27%).  Según la directiva, si el plan de mejora de Zegona (*Zegona Improvement Plan*) consigue reducir un 50% la diferencia de dichos márgenes, es decir, una mejora de 8 puntos porcentuales (27-11=16), pasando de un margen de *cash flow* del 11% al 19%, Vodafone España conseguiría un ahorro anual de 320 millones de euros.
 
 Zegona define el *Business Cash Flow* de la siguiente forma:
+
 $$ \text{Business Cash Flow} = \text{Business EBITDAaL} - \text{Capex (excluding license and Spectrum fees)}$$
+
 Por tanto, esa mejora de 320 millones de euros en el *Bussiness Cash Flow* puede tener 2 orígenes diferentes:
 - Aumento del [[EBITDAaL]] mediante la reducción de costes operativos (*OpEx*).
 - Reducción de gastos de capital (*CapEx*).
