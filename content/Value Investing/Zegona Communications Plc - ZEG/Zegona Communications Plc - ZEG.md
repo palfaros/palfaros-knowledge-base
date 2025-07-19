@@ -531,9 +531,9 @@ Vodafone España consiguió una mejora en la generación de *cash flow* entre 20
 La directiva de Zegona considera que existe una clara oportunidad para la mejora de los márgenes de Vodafone España. Si comparamos los márgenes de Vodafone España y MásMóvil a finales de 2022, así como con los márgenes de Euskaltel en el último año en el que Zegona era propietaria (finales de 2020) y la media de sus competidores:
 
 |                      | Vodafone España | MásMóvil | Euskaltel | Media Competidores |
-| -------------------- | --------------- | -------- | --------- | ------------------ |
-| **Margen EBITDAaL**  | 33%             | 41%      | 50%       | -                  |
-| **Margen Cash Flow** | 11%             | 22%      | 27%       | 24%                |
+| :------------------- | :-------------: | :------: | :-------: | :----------------: |
+| **Margen EBITDAaL**  |       33%       |   41%    |    50%    |         -          |
+| **Margen Cash Flow** |       11%       |   22%    |    27%    |        24%         |
 
 Esta discrepancia muestra la oportunidad que existe en Vodafone España de optar por un enfoque (*approach*) diferente, con acciones de reducción de costes, basadas en la estructura de costes de Euskaltel. La directiva de Zegona ya ha identificado áreas de reducción de costes que permitirían aproximar el margen de *cash flow* de Vodafone España (11%) al de Euskaltel en el último año de Zegona (27%).  Según la directiva, si el plan de mejora de Zegona (*Zegona Improvement Plan*) consigue reducir un 50% la diferencia de dichos márgenes, es decir, una mejora de 8 puntos porcentuales (27-11=16), pasando de un margen de *cash flow* del 11% al 19%, Vodafone España conseguiría un ahorro anual de 320 millones de euros.
 
