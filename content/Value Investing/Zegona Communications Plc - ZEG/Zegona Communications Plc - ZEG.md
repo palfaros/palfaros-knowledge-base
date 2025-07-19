@@ -544,6 +544,7 @@ $$ \text{Business Cash Flow} = \text{Business EBITDAaL} - \text{Capex (excluding
 Por tanto, esa mejora de 320 millones de euros en el *Bussiness Cash Flow* puede tener 2 orígenes diferentes:
 - Aumento del [[EBITDAaL]] mediante la reducción de costes operativos (*OpEx*).
 - Reducción de gastos de capital (*CapEx*).
+
 **Si se opta por una estimación conservadora, el 50% de ahorros se corresponderían a costes operativos, de forma que el [[EBITDAaL]] aumentaría en 160 millones de euros.**
 #### Estabilización de ingresos
 
