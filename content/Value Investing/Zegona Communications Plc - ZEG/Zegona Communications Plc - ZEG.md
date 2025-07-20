@@ -692,8 +692,9 @@ En este escenario:
 4. Las acciones preferentes se cancelan, por lo que el número de acciones en circulación pasa de 759 millones a 236 millones.
 5. La deuda restante son 2.631 millones de euros, cumpliendo con el *covenant* financiero que, para un [[EBITDAaL]] de 1.279 millones de euros, son 2.878 millones de euros.
 
-| EV/EBITDAaL                                          | 4        | 5        | 6        | 7        |
+|                                                      |          |          |          |          |
 | ---------------------------------------------------- | -------- | -------- | -------- | -------- |
+| **EV/EBITDAaL**                                          | **4**        | **5**        | **6**        | **7**        |
 | EBITDAaL 24                                          | 1236     | 1236     | 1236     | 1236     |
 | Mejora EBITDA por reducción de costes                | 230      | 230      | 230      | 230      |
 | Reducción EBITDA por creación FibreCo Telefónica (-) | 47       | 47       | 47       | 47       |
@@ -716,9 +717,9 @@ En este escenario:
 | Precio por acción (GBP)                              | 8,92     | 13,52    | 18,11    | 22,70    |
 | Dividendo (GBP)                                      | 1,57     | 1,57     | 1,57     | 1,57     |
 | Precio por acción final (GBP)                        | 10,49    | 15,09    | 19,68    | 24,27    |
-| **Precio por acción final (GBX)**                        | **1049**     | **1509**     | **1968**     | **2427**     |
-| **Precio actual**                                        | **595**      | **595**      | **595**      | **595**      |
-| **Rentabilidad**                                         | **76%**      | **154%**     | **231%**     | **308%**     |
+| **Precio por acción final (GBX)**                    | **1049** | **1509** | **1968** | **2427** |
+| **Precio actual**                                    | **595**  | **595**  | **595**  | **595**  |
+| **Rentabilidad**                                     | **76%**  | **154%** | **231%** | **308%** |
 ## Seguimiento
 
 [Masorange y Vodafone estudian vender menos parte de su 'fiberco'](https://www.expansion.com/empresas/tecnologia/2025/05/27/6834d4d3468aeb026e8b45be.html): A primera vista parece una noticia negativa, ya que pasan de vender el 40% de la compañía al 20%. Sin embargo, si se analiza el contenido, se comprueba que la razón es que consideran que la valoración de 7.000-7.500 millones de euros correspondiente a algunas ofertas es baja. Esta valoración se corresponde con el escenario conservador de 15x EV/EBITDA propuesto en la tesis. Por tanto, si terminan vendiendo el 40% a esta valoración que ellos consideran baja, la tesis se sigue cumpliendo. Por otro lado. si consiguen el objetivo de vender el 20% restante a un múltiplo de 20x EV/EBITDA, el dinero ingresado por Zegona pasaría de 1.776 millones de euros a 2.016 millones de euros, y el precio objetivo pasaría de 719 GBP a 806 GBP aproximadamente.
