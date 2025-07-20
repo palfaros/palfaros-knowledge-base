@@ -537,6 +537,47 @@ La directiva de Zegona considera que existe una clara oportunidad para la mejora
 
 Esta discrepancia muestra la oportunidad que existe en Vodafone España de optar por un enfoque (*approach*) diferente, con acciones de reducción de costes, basadas en la estructura de costes de Euskaltel. La directiva de Zegona ya ha identificado áreas de reducción de costes que permitirían aproximar el margen de *cash flow* de Vodafone España (11%) al de Euskaltel en el último año de Zegona (27%).  Según la directiva, si el plan de mejora de Zegona (*Zegona Improvement Plan*) consigue reducir un 50% la diferencia de dichos márgenes, es decir, una mejora de 8 puntos porcentuales (27-11=16), pasando de un margen de *cash flow* del 11% al 19%, Vodafone España conseguiría un ahorro anual de 320 millones de euros.
 
+Las áreas de mejora encontradas por la directiva de Zegona se especifican de forma detallada en las páginas 54 y 55 del [*prospectus*](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/zegona-communications-plc-prospectus.pdf). 
+
+![[ZEG_Prospectus_Zegona_Strategy_Cost_Reduction_Actions_I.png]]
+![[ZEG_Prospectus_Zegona_Strategy_Cost_Reduction_Actions_II.png]]
+
+En concreto, se han identificado 8 áreas de mejora:
+1. Coste de Adquisición de Clientes (*Subscriber Acquisition Cost* = SAC): Es el coste adicional que supone cada nuevo cliente dado de alta.
+	- Actual: 339 euros por alta.
+	- Comparativa frente a Euskaltel: Es un 38% superior (245 euros).
+	- Acciones: Cerrar tiendas con bajo rendimiento y potenciar canales digitales (web, *apps*, etc.) frente a *retail*.
+2. Morosidad: Se trata de las facturas impagadas por clientes y que se consideran incobrables. Se denomina *bad debt* o deuda incobrable.
+	- Actual: 2,8% de los ingresos de Vodafone España. Son 110,8 millones de euros (los ingresos totales de Vodafone España en FY23 fueron 3.900 millones de euros). Al tratarse de facturas de cliente que no se han terminado cobrando, Vodafone puede recuperar el IVA que ya había ingresado a Hacienda. En 2023 Vodafone recuperó de esta forma 75,8 millones de euros en IVA de facturas sin cobrar acumuladas de otros ejercicios. Esta es la razón por la que la morosidad que aparece en las cuentas sea del 0,89% (35 millones de euros) frente a la morosidad real del 2,8%.
+	- Comparativa frente a Euskaltel: 3,7 veces más alta que Euskaltel (29,2 millones de euros).
+	- Acciones: Externalizar la gestión de cobros a agencias especializadas y reforzar los controles.
+3. Coste de contenidos de TV: Es el gasto en licencias y derechos de contenido televisivo para los clientes de Vodafone TV.
+	- Actual: 9,6 euros por cliente.
+	- Comparativa frente a Euskaltel: El doble que en Euskaltel (4,8 euros).
+	- Acciones: Renegociar contratos de contenido y usar la marca de bajo coste, Lowi, para crecer en TV.
+4. *CapEx* de IT: Se trata de la inversión en *hardware*, *software* y sistemas de IT.
+	 - Actual: 102 millones de euros anuales.
+	- Comparativa frente a Euskaltel: Es 6,7 veces superior (15,2 millones de euros).
+	- Acciones: Renegociar contratos de contenido y usar la marca de bajo coste, Lowi, para crecer en TV.
+5. *OpEx* Tecnológico: Son los gastos recurrentes en tecnología, como mantenimiento de redes, servidores y licencias.
+	- Actual: 14,1% de los ingresos de Vodafone España (550 millones de euros).
+	- Comparativa frente a Euskaltel: Es un 80% superior (305 millones de euros).
+	- Acciones: Cancelar proyectos tecnológicos no productivos e implementar sistemas de *zero-budgeting* o presupuestación de base cero, de forma que todos los gastos deban justificarse en cada nuevo periodo presupuestario.
+6. Acceso Fijo Mayorista: Se trata de los pagos a otros operadores por usar su infraestructura de red fija, ya sea fibra o cobre.
+	- Actual: 5,2% de los ingresos de Vodafone España (203 millones de euros).
+	- Comparativa frente a Euskaltel: Es un 18% superior (172 millones de euros).
+	- Acciones: Renegociar las tarifcas o *fees* con Telefónica y MásMóvil/Orange.
+7. Costes de Personal: Son los salarios, beneficios y otros costes asociados a los empleados.
+	- Actual: 4,3% de los ingresos de Vodafone España (277 millones de euros).
+	- Comparativa frente a Euskaltel: Es un 16% superior (239 millones de euros).
+	- Acciones: Despidos selectivos o planes de reducción de plantilla.
+8. Soporte/Otros *OpEx*: Se trata de gastos generales de soporte, administración y servicios corporativos.
+	- Actual: 4,3% de los ingresos de Vodafone España (168 millones de euros).
+	- Comparativa frente a Euskaltel: Es un 40% superior (120 millones de euros).
+	- Acciones: Sustituir servicios caros de *Vodafone Group* y eliminar actividades no esenciales.
+
+Una vez identificadas las áreas de mejora y estimado el ahorro de costes, **¿cómo computar este ahorro en el cálculo del valor intrínseco de Zegona?** Para ello, **debemos estimar qué impacto tienen estos ahorros en el [[EBITDAaL]] de la compañía**.
+
 Zegona define el *Business Cash Flow* de la siguiente forma:
 
 $$ \text{Business Cash Flow} = \text{Business EBITDAaL} - \text{Capex (excluding license and Spectrum fees)}$$
@@ -545,7 +586,10 @@ Por tanto, esa mejora de 320 millones de euros en el *Bussiness Cash Flow* puede
 - Aumento del [[EBITDAaL]] mediante la reducción de costes operativos (*OpEx*).
 - Reducción de gastos de capital (*CapEx*).
 
-**Si se opta por una estimación conservadora, el 50% de ahorros se corresponderían a costes operativos, de forma que el [[EBITDAaL]] aumentaría en 160 millones de euros.**
+La mayoría de las áreas de mejora identificadas por la compañía afectan directamente a los costes operativos. En concreto, solo 1 de las 8 áreas, el *CapEx* de IT, afecta a los gastos de capital. Por tanto, la mayor parte de esos 320 millones de euros supondrían una mejor directa del [[EBITDAaL]] de Vodafone España.
+
+**En un escenario extremadamente conservador, Vodafone España conseguiría reducir su *CapEx* de IT en 87 millones de euros, hasta alcanzar los niveles de Euskaltel, algo muy improbable dada la diferencia de tamaño entre ambas operadores. No obstante, siguiendo esta estimación, el 72% de los ahorros se corresponderían a costes operativos, de forma que el [[EBITDAaL]] aumentaría en 230 millones de euros.**
+
 #### Estabilización de ingresos
 
 Pendiente.
