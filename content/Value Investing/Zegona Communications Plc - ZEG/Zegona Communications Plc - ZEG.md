@@ -592,7 +592,21 @@ La mayoría de las áreas de mejora identificadas por la compañía afectan dire
 
 #### Estabilización de ingresos
 
-Pendiente.
+Zegona tiene la intención de estabilizar los ingresos (*revenues*) a través de diferentes iniciativas comerciales.
+
+![[ZEG_Prospectus_Zegona_Strategy_Stabilise_Revenues_I.png]]
+![[ZEG_Prospectus_Zegona_Strategy_Stabilise_Revenues_II.png]]
+Zegona también tiene la intención de trabajar para estabilizar los ingresos mediante la puesta en marcha de nuevas iniciativas comerciales. Por ejemplo, Zegona pretende impulsar una mayor **convergencia** entre los clientes de la marca Vodafone e incrementar el **empaquetamiento (bundling) de servicios de valor añadido** en las ofertas a clientes, lo que se espera aumente la fidelidad, reduzca el _churn_ de clientes y contribuya a estabilizar y hacer crecer el ARPU.
+
+Zegona pretende centrar sus actividades de publicidad y captación de clientes en los **factores diferenciadores clave del servicio** que juegan a favor de la marca Vodafone en el mercado español, tales como: la amplitud de su contenido y aplicaciones de TV; la calidad de su red móvil frente a otros operadores; y la excelencia en su atención al cliente (incluida la capacitación del personal para crear una cultura de “campeones del servicio al cliente”).
+
+Zegona también tiene la intención de **eliminar los períodos de descuento de 12 meses** que vencen al mismo tiempo que los contratos de los clientes llegan a renovación. Los Directores consideran que este enfoque impulsará las altas de clientes, reducirá el _churn_ y aumentará el ARPU en toda la oferta de consumo de Vodafone España.
+
+Los Directores también creen que existe un **gran potencial de crecimiento en el segmento “value”** del mercado español reforzando las propuestas de bajo coste de Vodafone España, como la marca “Lowi”, aprovechando elementos de diferenciación que las marcas _value_ de otros proveedores no pueden replicar fácilmente, por ejemplo **añadir 5G y TV a la oferta de Lowi**. Además, Zegona pretende **ampliar su red de distribución** para igualar los movimientos de competidores como Digi y MásMóvil y así cerrar la brecha en crecimiento de clientes (Digi: aprox. 40.000 clientes/mes; MásMóvil: aprox. 15.000 clientes/mes, en ambos casos en su ejercicio 2022; Lowi: aprox. 8.000 clientes/mes en el ejercicio finalizado el 31 de marzo de 2023).
+
+Zegona también pretende dar **mayor protagonismo a las relaciones mayoristas (_wholesale_)**, que representaron solo en torno al **4%** (no auditado) de los ingresos de Vodafone España en el ejercicio finalizado el 31 de marzo de 2023 y que ofrecen márgenes superiores a los de otros segmentos de clientes. Esto contrasta con pares como Orange y Telefónica, que mantienen relaciones consolidadas con operadores mayoristas y registraron porcentajes significativamente más elevados de ingresos procedentes de este canal en sus ejercicios 2022 (19% y 18%, respectivamente). Zegona convertirá en prioridad la obtención de contratos mayoristas de tamaño relevante para cerrar la brecha con los pares de Vodafone España, si bien hacerlo requerirá atraer clientes que ya pueden tener relaciones establecidas con dichos competidores.
+
+Además, en el **segmento de pymes**, los Directores consideran que Vodafone España puede beneficiarse de la asignación de fondos del **Mecanismo de Recuperación y Resiliencia de la Unión Europea** por parte del Gobierno de España. El objetivo de este mecanismo es proporcionar a los Estados miembros financiación para programas de sostenibilidad y resiliencia en beneficio de sus sociedades y economías. Los Directores creen que Vodafone España podría acceder a nuevos clientes interesados en aprovechar los fondos canalizados a España a través de este instrumento. En particular, Vodafone España puede beneficiarse adicionalmente del programa **“Kit Digital”** lanzado por el Gobierno español, que subvenciona la adopción de paquetes básicos de soluciones digitales en pymes españolas (entre 10 y 49 empleados), como presencia en Internet, ventas electrónicas, oficina en la nube, puesto de trabajo digital, digitalización de procesos básicos, gestión de clientes, marketing digital y ciberseguridad. Los Directores consideran que, gracias a sus relaciones existentes y a la solidez de su red, Vodafone España está bien posicionada para **vender servicios básicos de telecomunicaciones para empresas (cross‑sell)** a clientes que quieran acceder a los fondos puestos a disposición de España mediante este mecanismo.
 ## Valoración
 
 Para realizar la valoración de la compañía se han tenido en cuenta los siguientes escenarios:
@@ -602,7 +616,7 @@ Para realizar la valoración de la compañía se han tenido en cuenta los siguie
 ### Monetización de activos de fibra, pago parcial de dividendo y cancelación de preferentes
 
 En este escenario:
-1. Las *FibreCo* se venden a 15x EV/EBITDA, de forma que Zegona obtiene 2.314 millones de euros en *cash*
+1. Las *FibreCo* se venden a 15x EV/EBITDA, de forma que Zegona obtiene 2.314 millones de euros en *cash*.
 2. Zegona utiliza 967 millones de euros para el pago del dividendo exclusivamente a la *Newco* y 1.347 millones de euros para amortizar deuda. 
 3. Las acciones preferentes se cancelan, por lo que el número de acciones en circulación pasa de 759 millones a 236 millones.
 4. La deuda restante son 2.193 millones de euros, cumpliendo con el *covenant* financiero que, para un [[EBITDAaL]] de 1.049 millones de euros, son 2.360 millones de euros.
@@ -669,7 +683,42 @@ En este escenario:
 | **Precio por acción final (GBX)**                    | **857**  | **1234** | **1610** | **1987** |
 | **Precio actual**                                    | **595**  | **595**  | **595**  | **595**  |
 | **Rentabilidad**                                     | **44%**  | **107%** | **171%** | **234%** |
+### Reestructuración del negocio
 
+En este escenario:
+1. El [[EBITDAaL]] de Vodafone España mejora en 230 millones de euros, pasando a ser de 1.279 millones de euros
+2. Las *FibreCo* se venden a 15x EV/EBITDA, de forma que Zegona obtiene 2.314 millones de euros en *cash*.
+3. Zegona utiliza 1.405 millones de euros para el pago del dividendo a todos los accionistas y 909 millones de euros para amortizar deuda. 
+4. Las acciones preferentes se cancelan, por lo que el número de acciones en circulación pasa de 759 millones a 236 millones.
+5. La deuda restante son 2.631 millones de euros, cumpliendo con el *covenant* financiero que, para un [[EBITDAaL]] de 1.279 millones de euros, son 2.878 millones de euros.
+
+| EV/EBITDAaL                                          | 4        | 5        | 6        | 7        |
+| ---------------------------------------------------- | -------- | -------- | -------- | -------- |
+| EBITDAaL 24                                          | 1236     | 1236     | 1236     | 1236     |
+| Mejora EBITDA por reducción de costes                | 230      | 230      | 230      | 230      |
+| Reducción EBITDA por creación FibreCo Telefónica (-) | 47       | 47       | 47       | 47       |
+| Reducción EBITDA por creación FibreCo MásOrange (-)  | 140      | 140      | 140      | 140      |
+| **EBITDAaL 25**                                      | **1279** | **1279** | **1279** | **1279** |
+| **EV**                                               | **5116** | **6395** | **7674** | **8953** |
+| **Covenant financiero (2,25xEBITDAaL)**              | **2878** | **2878** | **2878** | **2878** |
+| Deuda                                                | 3800     | 3800     | 3800     | 3800     |
+| Caja (-)                                             | 260      | 260      | 260      | 260      |
+| Venta FibreCo Telefónica (-)                         | 538      | 538      | 538      | 538      |
+| Venta FibreCo MásOrange (-)                          | 1776     | 1776     | 1776     | 1776     |
+| Pago Dividendo                                       | 1405     | 1405     | 1405     | 1405     |
+| **Deuda neta**                                       | **2631** | **2631** | **2631** | **2631** |
+| **Equity**                                           | **2485** | **3764** | **5043** | **6322** |
+| Número de acciones inicial                           | 759      | 759      | 759      | 759      |
+| Preferentes canceladas (-)                           | 523      | 523      | 523      | 523      |
+| **Número de acciones final**                         | **236**  | **236**  | **236**  | **236**  |
+| Precio por acción (EUR)                              | 10,53    | 15,95    | 21,37    | 26,79    |
+| **EUR/GBP**                                          | **1,18** | **1,18** | **1,18** | **1,18** |
+| Precio por acción (GBP)                              | 8,92     | 13,52    | 18,11    | 22,70    |
+| Dividendo (GBP)                                      | 1,57     | 1,57     | 1,57     | 1,57     |
+| Precio por acción final (GBP)                        | 10,49    | 15,09    | 19,68    | 24,27    |
+| **Precio por acción final (GBX)**                        | **1049**     | **1509**     | **1968**     | **2427**     |
+| **Precio actual**                                        | **595**      | **595**      | **595**      | **595**      |
+| **Rentabilidad**                                         | **76%**      | **154%**     | **231%**     | **308%**     |
 ## Seguimiento
 
 [Masorange y Vodafone estudian vender menos parte de su 'fiberco'](https://www.expansion.com/empresas/tecnologia/2025/05/27/6834d4d3468aeb026e8b45be.html): A primera vista parece una noticia negativa, ya que pasan de vender el 40% de la compañía al 20%. Sin embargo, si se analiza el contenido, se comprueba que la razón es que consideran que la valoración de 7.000-7.500 millones de euros correspondiente a algunas ofertas es baja. Esta valoración se corresponde con el escenario conservador de 15x EV/EBITDA propuesto en la tesis. Por tanto, si terminan vendiendo el 40% a esta valoración que ellos consideran baja, la tesis se sigue cumpliendo. Por otro lado. si consiguen el objetivo de vender el 20% restante a un múltiplo de 20x EV/EBITDA, el dinero ingresado por Zegona pasaría de 1.776 millones de euros a 2.016 millones de euros, y el precio objetivo pasaría de 719 GBP a 806 GBP aproximadamente.
