@@ -745,6 +745,7 @@ En la nota de prensa se indican enlaces a 3 documentos:
 - [Informe Anual 2025 - 2025 Annual Report](https://data.fca.org.uk/artefacts/NSM/Portal/NI-000125272/NI-000125272_213800ASI1VZL2ED4S65-2025-03-31.xhtml): Es el informe del año fiscal 2025, que concluyó el 31 de marzo de 2025. El informe incluye 15 meses de resultados de *Zegona Communications Plc* y 10 meses de resultados de Vodafone España.
 - [Resultados Q1 26 de Vodafone España](https://www.zegona.com/~/media/Files/Z/Zegona/investors/zegona-holdco-limited-debt-reporting.pdf): Es el documento con información trimestral sobre el estado de la deuda Vodafone España, requisito resultado de la emisión de bonos en el año 2024.
 - [Presentación de Resultados FY25 y Q1-26 de Vodafone España](https://www.zegona.com/~/media/Files/Z/Zegona/disclaimer-document/ir-q1-26-results-presentation-v1.pdf): Se indica que es una presentación para inversores profesionales.
+
 ## Referencias
 
 - [Tesis Raging Bull Investments](https://ragingbullinvestments.substack.com/p/an-old-school-leveraged-buyout)
