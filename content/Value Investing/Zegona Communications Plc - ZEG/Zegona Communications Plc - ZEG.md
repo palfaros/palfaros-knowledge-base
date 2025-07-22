@@ -734,6 +734,17 @@ En este escenario:
 [Deutsche Bank initiates buy rating on Zegona Communications stock](https://www.investing.com/news/analyst-ratings/deutsche-bank-initiates-buy-rating-on-zegona-communications-stock-93CH-4084486): Deutsche Bank ha comenzado a cubrir (seguir y analizar públicamente) la acción. Le asigna una recomendación de compra. Fijan un precio objetivo de 1030 GBP, lo que sugiere un potencial de subida del 70% respecto al precio actual. Se espera que Zegona alcance un rendimiento de flujo de caja libre sin apalancamiento (*unlevered FCF yield*) de dos dígitos. También se proyecta un rendimiento de dividendos del 17% en 2026.
 
 [Telefónica y Vodafone rechazan la oferta de Vauban por su red de fibra por 800 millones](https://www.elconfidencial.com/empresas/2025-06-27/telefonica-y-vodafone-rechazan-la-oferta-de-vauban_4159397/): La oferta de Vauban está por debajo de su estimación inicial de 800 millones de euros por *Fiberpass*, la *FibreCo* con Telefónica. Esta estimación se corresponde con un EV de 2.000 millones de euros, es decir, un múltiplo de 16x EV/EBITDA. Como ya se indica en la tesis, la valoración más razonable para esta *FibreCo* sería de 15x EV/EBITDA, al ser de menor calidad que la *FibreCo* con MasOrange. Por tanto, si la oferta está un 5-10% por debajo, todavía nos encontraríamos en el escenario conservador y la tesis seguiría siendo válida.
+
+### Resultados FY25 y Q1 26
+
+Zegona presentó los resultados de FY25 y Q1 26 el día 16 de julio de 2025: [FY25 & Q1 26 results ‘A transformational year’](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1966499&culture=en-GB&val=638888059045064803).
+
+En primer lugar, es necesario aclarar que FY25 se refiere al año fiscal 2025, que comprende los 12 meses transcurridos entre el 1 de abril de 2024 y el 31 de marzo de 2025. Por otro lado, el Q1 26 se corresponde (en términos de calendario, no de ejercicio fiscal) con el segundo trimestre de 2025 (1 de abril de 2025 a 30 de junio de 2025).
+
+En la nota de prensa se indican enlaces a 3 documentos:
+- [Informe Anual 2025 - 2025 Annual Report](https://data.fca.org.uk/artefacts/NSM/Portal/NI-000125272/NI-000125272_213800ASI1VZL2ED4S65-2025-03-31.xhtml): Es el informe del año fiscal 2025, que concluyó el 31 de marzo de 2025. El informe incluye 15 meses de resultados de *Zegona Communications Plc* y 10 meses de resultados de Vodafone España.
+- [Resultados Q1 26 de Vodafone España](https://www.zegona.com/~/media/Files/Z/Zegona/investors/zegona-holdco-limited-debt-reporting.pdf): Es el documento con información trimestral sobre el estado de la deuda Vodafone España, requisito resultado de la emisión de bonos en el año 2024.
+- [Presentación de Resultados FY25 y Q1-26 de Vodafone España](https://www.zegona.com/~/media/Files/Z/Zegona/disclaimer-document/ir-q1-26-results-presentation-v1.pdf): Se indica que es una presentación para inversores profesionales.
 ## Referencias
 
 - [Tesis Raging Bull Investments](https://ragingbullinvestments.substack.com/p/an-old-school-leveraged-buyout)
