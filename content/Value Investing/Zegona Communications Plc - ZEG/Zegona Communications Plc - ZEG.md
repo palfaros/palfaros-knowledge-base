@@ -721,7 +721,7 @@ En este escenario:
 
 |                                                      |          |          |          |          |
 | ---------------------------------------------------- | -------- | -------- | -------- | -------- |
-| **EV/EBITDAaL**                                          | **4**        | **5**        | **6**        | **7**        |
+| **EV/EBITDAaL**                                      | **4x**   | **5x**   | **6x**   | **7x**   |
 | EBITDAaL 24                                          | 1236     | 1236     | 1236     | 1236     |
 | Mejora EBITDA por reducción de costes                | 230      | 230      | 230      | 230      |
 | Reducción EBITDA por creación FibreCo Telefónica (-) | 47       | 47       | 47       | 47       |
