@@ -862,7 +862,7 @@ Este anuncio supone la monetización de parte de los activos de fibra de la *Fib
 Sin embargo, se desconoce a cuánto ha valorado GIC la *FibreCo* con MasOrange en su totalidad. No obstante, se pueden realizar estimaciones:
 #### Estimación 1. Reparto de la deuda operativa de la *FibreCo* en forma de dividendo
 
-En esta estimación, asumimos que la *FibreCo* reparte únicamente los 4.700 millones de euros en forma de dividendo, dejando a un lado los 700 millones restantes de la *holding*.
+En esta estimación, se ausme que la *FibreCo* reparte únicamente los 4.700 millones de euros en forma de dividendo, dejando a un lado los 700 millones restantes de la *holding*.
 
 Estos 4.700 millones de euros se repartirán entre los accionistas de acuerdo al número de participaciones de cada uno de ellos:
 - MasOrange (57,5%): 2.702,5 millones de euros.
@@ -876,7 +876,7 @@ Para calcular el *Enterprise Value* (EV) al que GIC valora la totalidad de la *F
 Por tanto, el EV al que GIC valora la *FibreCo* es de 4.620 + 5.400 - 1.175 = 8.845 millones de euros. Esto se corresponde con un múltiplo de 18,4x EV/EBITDA (se estima que el EBITDA de la *FibreCo* será de 480 millones de euros).
 #### Estimación 2. Reparto de toda la deuda de la *FibreCo* en forma de dividendo
 
-En esta estimación, asumimos que la *FibreCo* reparte la totalidad de la financiación obtenida en forma de dividendo, es decir, los 5.400 millones de euros.
+En esta estimación, se asume que la *FibreCo* reparte la totalidad de la financiación obtenida en forma de dividendo, es decir, los 5.400 millones de euros.
 
 Estos 5.400 millones de euros se repartirán entre los accionistas de acuerdo al número de participaciones de cada uno de ellos:
 - MasOrange (57,5%): 3.105 millones de euros.
@@ -894,7 +894,52 @@ El anuncio de esta operación ha sido cubierto por diversos medios. Algunos de e
 - Según [El Economista](https://www.eleconomista.es/capital-riesgo/noticias/13491689/08/25/gic-el-brazo-inversor-de-singapur-compra-el-25-de-la-fibreco-de-masorange-y-vodafone.html?utm_medium=social&utm_source=twitter&utm_campaign=eEnoticias), la valoración fijada finalmente ha sido de aproximadamente 7.000 millones de euros para todo el proyecto.
 - Según [Expansión](https://www.expansion.com/empresas/tecnologia/2025/06/18/6851e148468aeb740d8b45ab.html). la oferta de GIC cifra el valor global de la empresa alrededor de los 7.000 millones de euros.
 
-Si se toma un *Enterprise Value* (EV) de 7.000 millones de euros, el múltiplo al que se ha valorado es de 14,5x EV/EBITDA. Como la deuda son 5.400 millones de euros, el valor de la *equity* total de la *FibreCo* es de 1.600 millones de euros.
+Si se toma un *Enterprise Value* (EV) de 7.000 millones de euros, el múltiplo al que se ha valorado es de 14,5x EV/EBITDA. Como la deuda son 5.400 millones de euros, el valor de la *equity* total de la *FibreCo* es de 1.600 millones de euros. Sin embargo, en estas condiciones Vodafone España obtendría 12,5% · 1.600 = 200 millones de euros por la *equity* que vende a GIC y 1.400 - 200 = 1.200 millones de euros, lo que se corresponde con el 22,2% de la deuda de 5.400 millones de euros que se repartiría en forma de dividendo. Por tanto, esta estimación no cuadra.
+
+Con el objetivo de actualizar la valoración de la forma más conservadora, se toma la segunda estimación, con un valor para la *equity* total de la *FibreCo* de 3.640 millones de euros. Dado que en los [resultados de Q126](https://www.zegona.com/~/media/Files/Z/Zegona/disclaimer-document/ir-q1-26-results-presentation-v1.pdf) se indicó que ya se habían aplicado medidas de reducción de costes, se actualiza la valoración sobre el escenario de mejora de [[EBITDAaL]] por reestructuración del negocio.
+
+|                                                      |          |          |          |          |
+| ---------------------------------------------------- | -------- | -------- | -------- | -------- |
+| Negocio principal (core business)                    |          |          |          |          |
+| **EV/EBITDAaL**                                      | **4x**   | **5x**   | **6x**   | **7x**   |
+| EBITDAaL 24                                          | 1236     | 1236     | 1236     | 1236     |
+| Mejora EBITDA por reducción de costes                | 230      | 230      | 230      | 230      |
+| Reducción EBITDA por creación FibreCo Telefónica (-) | 47       | 47       | 47       | 47       |
+| Reducción EBITDA por creación FibreCo MásOrange (-)  | 140      | 140      | 140      | 140      |
+| **EBITDAaL 25**                                      | **1279** | **1279** | **1279** | **1279** |
+| **EV**                                               | **5116** | **6395** | **7674** | **8953** |
+| **Covenant financiero (3,1xEBITDAaL)**               | **3965** | **3965** | **3965** | **3965** |
+| Deuda                                                | 3617     | 3617     | 3617     | 3617     |
+| Venta FibreCo Telefónica (-)                         | 538      | 538      | 538      | 538      |
+| Venta FibreCo MásOrange (-)                          | 1400     | 1400     | 1400     | 1400     |
+| Pago Dividendo                                       | 1405     | 1405     | 1405     | 1405     |
+| **Deuda neta**                                       | **3084** | **3084** | **3084** | **3084** |
+| **Equity core business**                             | **2032** | **3311** | **4590** | **5869** |
+| **FibreCo Telefónica**                               |          |          |          |          |
+| EV/EBITDA                                            | 15x      | 15x      | 15x      | 15x      |
+| EBITDA                                               | 125      | 125      | 125      | 125      |
+| EV                                                   | 1875     | 1875     | 1875     | 1875     |
+| Apalancamiento Deuda/EBITDA                          | 2,5x     | 2,5x     | 2,5x     | 2,5x     |
+| Deuda (leverage recap)                               | 313      | 313      | 313      | 313      |
+| Equity                                               | 1563     | 1563     | 1563     | 1563     |
+| Participación Vodafone España                        | 10%      | 10%      | 10%      | 10%      |
+| **Equity participación Vodafone España**             | **156**  | **156**  | **156**  | **156**  |
+| **FibreCo MásOrange**                                |          |          |          |          |
+| Equity                                               | 3640     | 3640     | 3640     | 3640     |
+| Participación Vodafone España                        | 18%      | 18%      | 18%      | 18%      |
+| **Equity participación Vodafone España**             | **637**  | **637**  | **637**  | **637**  |
+| **Equity Total (SOTP)**                              | **2825** | **4104** | **5383** | **6662** |
+| Número de acciones inicial                           | 759      | 759      | 759      | 759      |
+| Preferentes canceladas (-)                           | 523      | 523      | 523      | 523      |
+| **Número de acciones final**                         | **236**  | **236**  | **236**  | **236**  |
+| Precio por acción (EUR)                              | 11,97    | 17,39    | 22,81    | 28,23    |
+| **EUR/GBP**                                          | **1,18** | **1,18** | **1,18** | **1,18** |
+| Precio por acción (GBP)                              | 10,15    | 14,74    | 19,33    | 23,93    |
+| Dividendo (GBP)                                      | 1,57     | 1,57     | 1,57     | 1,57     |
+| Precio por acción final (GBP)                        | 11,72    | 16,31    | 20,90    | 25,50    |
+| **Precio por acción final (GBX)**                    | **1172** | **1631** | **2090** | **2550** |
+| **Precio actual**                                    | **595**  | **595**  | **595**  | **595**  |
+| **Rentabilidad**                                     | **97%**  | **174%** | **251%** | **329%** |
 ## Referencias
 
 - [Tesis Raging Bull Investments](https://ragingbullinvestments.substack.com/p/an-old-school-leveraged-buyout)
