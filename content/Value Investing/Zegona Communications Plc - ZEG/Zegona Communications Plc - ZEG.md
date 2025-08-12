@@ -862,11 +862,39 @@ Este anuncio supone la monetización de parte de los activos de fibra de la *Fib
 Sin embargo, se desconoce a cuánto ha valorado GIC la *FibreCo* con MasOrange en su totalidad. No obstante, se pueden realizar estimaciones:
 #### Estimación 1. Reparto de la deuda operativa de la *FibreCo* en forma de dividendo
 
+En esta estimación, asumimos que la *FibreCo* reparte únicamente los 4.700 millones de euros en forma de dividendo, dejando a un lado los 700 millones restantes de la *holding*.
+
+Estos 4.700 millones de euros se repartirán entre los accionistas de acuerdo al número de participaciones de cada uno de ellos:
+- MasOrange (57,5%): 2.702,5 millones de euros.
+- GIC (25%): 1.175 millones de euros.
+- Vodafone España (17,5%): 822,5 millones de euros.
+
+Una vez conocida la parte que obtiene Vodafone España por este dividendo, se puede determinar que el importe que ingresa por el 12,5% de la *equity* que vende a GIC: 1.400 - 822,5 = 577,5 millones de euros. Como dicha *equity* supone un 12,5% de la *FibreCo*, entonces el valor total de la *equity* de la compañía es de 577,5 / 0,125 = 4.620 millones de euros.
+
+Para calcular el *Enterprise Value* (EV) al que GIC valora la totalidad de la *FibreCo*, se debe tener en cuenta que hay 1.175 millones de euros que le corresponderán como dividendo cuando sea propietario del 25% de las acciones de la compañía, de forma que se deben descontar del EV como si fuesen caja que se resta a la deuda bruta. 
+
+Por tanto, el EV al que GIC valora la *FibreCo* es de 4.620 + 5.400 - 1.175 = 8.845 millones de euros. Esto se corresponde con un múltiplo de 18,4x EV/EBITDA (se estima que el EBITDA de la *FibreCo* será de 480 millones de euros).
 #### Estimación 2. Reparto de toda la deuda de la *FibreCo* en forma de dividendo
 
+En esta estimación, asumimos que la *FibreCo* reparte la totalidad de la financiación obtenida en forma de dividendo, es decir, los 5.400 millones de euros.
+
+Estos 5.400 millones de euros se repartirán entre los accionistas de acuerdo al número de participaciones de cada uno de ellos:
+- MasOrange (57,5%): 3.105 millones de euros.
+- GIC (25%): 1.350 millones de euros.
+- Vodafone España (17,5%): 945 millones de euros.
+
+Una vez conocida la parte que obtiene Vodafone España por este dividendo, se puede determinar que el importe que ingresa por el 12,5% de la *equity* que vende a GIC: 1.400 - 945 = 455 millones de euros. Como dicha *equity* supone un 12,5% de la *FibreCo*, entonces el valor total de la *equity* de la compañía es de 455 / 0,125 = 3.640 millones de euros.
+
+Para calcular el *Enterprise Value* (EV) al que GIC valora la totalidad de la *FibreCo*, se debe tener en cuenta que hay 1.350 millones de euros que le corresponderán como dividendo cuando sea propietario del 25% de las acciones de la compañía, de forma que se deben descontar del EV como si fuesen caja que se resta a la deuda bruta. 
+
+Por tanto, el EV al que GIC valora la *FibreCo* es de 3.640 + 5.400 - 1.350 = 7.690 millones de euros. Esto se corresponde con un múltiplo de 16x EV/EBITDA (se estima que el EBITDA de la *FibreCo* será de 480 millones de euros).
 #### Estimación 3. Filtraciones a medios de comunicación
 
+El anuncio de esta operación ha sido cubierto por diversos medios. Algunos de ellos indican, de forma estimada, la valoración realizada por GIC:
+- Según [El Economista](https://www.eleconomista.es/capital-riesgo/noticias/13491689/08/25/gic-el-brazo-inversor-de-singapur-compra-el-25-de-la-fibreco-de-masorange-y-vodafone.html?utm_medium=social&utm_source=twitter&utm_campaign=eEnoticias), la valoración fijada finalmente ha sido de aproximadamente 7.000 millones de euros para todo el proyecto.
+- Según [Expansión](https://www.expansion.com/empresas/tecnologia/2025/06/18/6851e148468aeb740d8b45ab.html). la oferta de GIC cifra el valor global de la empresa alrededor de los 7.000 millones de euros.
 
+Si se toma un *Enterprise Value* (EV) de 7.000 millones de euros, el múltiplo al que se ha valorado es de 14,5x EV/EBITDA. Como la deuda son 5.400 millones de euros, el valor de la *equity* total de la *FibreCo* es de 1.600 millones de euros.
 ## Referencias
 
 - [Tesis Raging Bull Investments](https://ragingbullinvestments.substack.com/p/an-old-school-leveraged-buyout)
