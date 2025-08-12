@@ -864,7 +864,7 @@ Este anuncio supone la monetización de parte de los activos de fibra de la *Fib
 Sin embargo, se desconoce a cuánto ha valorado GIC la *FibreCo* con MasOrange en su totalidad. No obstante, se pueden realizar estimaciones:
 ##### Estimación 1. Reparto de la deuda operativa de la *FibreCo* en forma de dividendo
 
-En esta estimación, se ausme que la *FibreCo* reparte únicamente los 4.700 millones de euros en forma de dividendo, dejando a un lado los 700 millones restantes de la *holding*.
+En esta estimación, se ausme que la *FibreCo* reparte únicamente los 4.700 millones de euros en forma de dividendo, excluyendo los 700 millones de financiación a nivel de *holding*.
 
 Estos 4.700 millones de euros se repartirán entre los accionistas de acuerdo al número de participaciones de cada uno de ellos:
 - MasOrange (57,5%): 2.702,5 millones de euros.
@@ -887,7 +887,7 @@ Estos 5.400 millones de euros se repartirán entre los accionistas de acuerdo al
 
 Una vez conocida la parte que obtiene Vodafone España por este dividendo, se puede determinar que el importe que ingresa por el 12,5% de la *equity* que vende a GIC: 1.400 - 945 = 455 millones de euros. Como dicha *equity* supone un 12,5% de la *FibreCo*, entonces el valor total de la *equity* de la compañía es de 455 / 0,125 = 3.640 millones de euros.
 
-Para calcular el *Enterprise Value* (EV) al que GIC valora la totalidad de la *FibreCo*, se debe tener en cuenta que hay 1.350 millones de euros que le corresponderán como dividendo cuando sea propietario del 25% de las acciones de la compañía, de forma que se deben descontar del EV como si fuesen caja que se resta a la deuda bruta. 
+Para calcular el *Enterprise Value* (EV) al que GIC valora la totalidad de la *FibreCo*, se debe tener en cuenta que hay 1.350 millones de euros que le corresponderán como dividendo cuando sea propietario del 25% de las acciones de la compañía, de forma que se deben descontar del EV como si fuesen caja que se resta a la deuda bruta. A la deuda total de la compañía se le descuenta el dividendo correspondiente al comprador, dado que este flujo reducirá la deuda neta efectiva que soporta su inversión.
 
 Por tanto, el EV al que GIC valora la *FibreCo* es de 3.640 + 5.400 - 1.350 = 7.690 millones de euros. Esto se corresponde con un múltiplo de 16x EV/EBITDA (se estima que el EBITDA de la *FibreCo* será de 480 millones de euros).
 ##### Estimación 3. Filtraciones a medios de comunicación
@@ -896,7 +896,7 @@ El anuncio de esta operación ha sido cubierto por diversos medios. Algunos de e
 - Según [El Economista](https://www.eleconomista.es/capital-riesgo/noticias/13491689/08/25/gic-el-brazo-inversor-de-singapur-compra-el-25-de-la-fibreco-de-masorange-y-vodafone.html?utm_medium=social&utm_source=twitter&utm_campaign=eEnoticias), la valoración fijada finalmente ha sido de aproximadamente 7.000 millones de euros para todo el proyecto.
 - Según [Expansión](https://www.expansion.com/empresas/tecnologia/2025/06/18/6851e148468aeb740d8b45ab.html). la oferta de GIC cifra el valor global de la empresa alrededor de los 7.000 millones de euros.
 
-Si se toma un *Enterprise Value* (EV) de 7.000 millones de euros, el múltiplo al que se ha valorado es de 14,5x EV/EBITDA. Como la deuda son 5.400 millones de euros, el valor de la *equity* total de la *FibreCo* es de 1.600 millones de euros. Sin embargo, en estas condiciones Vodafone España obtendría 12,5% · 1.600 = 200 millones de euros por la *equity* que vende a GIC y 1.400 - 200 = 1.200 millones de euros, lo que se corresponde con el 22,2% de la deuda de 5.400 millones de euros que se repartiría en forma de dividendo. Por tanto, esta estimación no cuadra.
+Si se toma un *Enterprise Value* (EV) de 7.000 millones de euros, el múltiplo al que se ha valorado es de 14,5x EV/EBITDA. Como la deuda son 5.400 millones de euros, el valor de la *equity* total de la *FibreCo* es de 1.600 millones de euros. Sin embargo, en estas condiciones Vodafone España obtendría 12,5% · 1.600 = 200 millones de euros por la *equity* que vende a GIC y 1.400 - 200 = 1.200 millones de euros, lo que se corresponde con el 22,2% de la deuda de 5.400 millones de euros que se repartiría en forma de dividendo. Por tanto, esta estimación excede el 17,5% que le corresponde a Vodafone España por dividendo.
 
 Con el objetivo de actualizar la valoración de la forma más conservadora, se toma la segunda estimación, con un valor para la *equity* total de la *FibreCo* de 3.640 millones de euros. Dado que en los [resultados de Q126](https://www.zegona.com/~/media/Files/Z/Zegona/disclaimer-document/ir-q1-26-results-presentation-v1.pdf) se indicó que ya se habían aplicado medidas de reducción de costes, se actualiza la valoración sobre el escenario de mejora de [[EBITDAaL]] por reestructuración del negocio.
 
