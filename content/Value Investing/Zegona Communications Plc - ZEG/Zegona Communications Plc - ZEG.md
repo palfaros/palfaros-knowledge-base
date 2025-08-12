@@ -857,10 +857,12 @@ En la nota de prensa se pueden encontrar parte de los detalles de la operación,
 - La última refinanciación de deuda de Zegona, anunciada el [31 de julio de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1971797&culture=en-GB&val=638906164939989723) y explicada en [[#Refinanciación de deuda III]] supuso un cambio en la estructura de capital de la compañía, eliminando el *Term Loan A* y pasando a ser *covenant-lite*. **En la nota 6, se indica que, como resultado de esta refinanciación, el *covenant* deuda/EBITDAaL se eleva hasta 3.1 (anteriormente era de 2.25). En los [resultados de Q126](https://www.zegona.com/~/media/Files/Z/Zegona/disclaimer-document/ir-q1-26-results-presentation-v1.pdf) se indica que el nivel de endeudamiento actual de Vodafone España es de 2.88 deuda/EBITDAaL. Por tanto, Zegona pasa a cumplir automáticamente el *covenant* financiero y puede destinar de manera íntegra los 1.400 millones generados al reparto del dividendo de 1.50 libras (+intereses) a todos los accionistas, cancelando de forma efectiva los 523 millones de acciones preferentes**.
 - Esta operación, junto con la monetización de la *FiberCo* con Telefónica y el cambio en la estructura de deuda permiten a Zegona ejecutar la estrategia de asignación de capital (*capital allocation*) ya conocida y que esperan realizar en los próximos meses.
 
+#### Valoración actualizada
+
 Este anuncio supone la monetización de parte de los activos de fibra de la *FibreCo* con MasOrange. El porcentaje de participaciones vendidas y el nivel de apalancamiento sobre la *FibreCo* son diferentes a los propuestos inicialmente en la tesis, por lo que **es necesario actualizar la valoración**.
 
 Sin embargo, se desconoce a cuánto ha valorado GIC la *FibreCo* con MasOrange en su totalidad. No obstante, se pueden realizar estimaciones:
-#### Estimación 1. Reparto de la deuda operativa de la *FibreCo* en forma de dividendo
+##### Estimación 1. Reparto de la deuda operativa de la *FibreCo* en forma de dividendo
 
 En esta estimación, se ausme que la *FibreCo* reparte únicamente los 4.700 millones de euros en forma de dividendo, dejando a un lado los 700 millones restantes de la *holding*.
 
@@ -874,7 +876,7 @@ Una vez conocida la parte que obtiene Vodafone España por este dividendo, se pu
 Para calcular el *Enterprise Value* (EV) al que GIC valora la totalidad de la *FibreCo*, se debe tener en cuenta que hay 1.175 millones de euros que le corresponderán como dividendo cuando sea propietario del 25% de las acciones de la compañía, de forma que se deben descontar del EV como si fuesen caja que se resta a la deuda bruta. 
 
 Por tanto, el EV al que GIC valora la *FibreCo* es de 4.620 + 5.400 - 1.175 = 8.845 millones de euros. Esto se corresponde con un múltiplo de 18,4x EV/EBITDA (se estima que el EBITDA de la *FibreCo* será de 480 millones de euros).
-#### Estimación 2. Reparto de toda la deuda de la *FibreCo* en forma de dividendo
+##### Estimación 2. Reparto de toda la deuda de la *FibreCo* en forma de dividendo
 
 En esta estimación, se asume que la *FibreCo* reparte la totalidad de la financiación obtenida en forma de dividendo, es decir, los 5.400 millones de euros.
 
@@ -888,7 +890,7 @@ Una vez conocida la parte que obtiene Vodafone España por este dividendo, se pu
 Para calcular el *Enterprise Value* (EV) al que GIC valora la totalidad de la *FibreCo*, se debe tener en cuenta que hay 1.350 millones de euros que le corresponderán como dividendo cuando sea propietario del 25% de las acciones de la compañía, de forma que se deben descontar del EV como si fuesen caja que se resta a la deuda bruta. 
 
 Por tanto, el EV al que GIC valora la *FibreCo* es de 3.640 + 5.400 - 1.350 = 7.690 millones de euros. Esto se corresponde con un múltiplo de 16x EV/EBITDA (se estima que el EBITDA de la *FibreCo* será de 480 millones de euros).
-#### Estimación 3. Filtraciones a medios de comunicación
+##### Estimación 3. Filtraciones a medios de comunicación
 
 El anuncio de esta operación ha sido cubierto por diversos medios. Algunos de ellos indican, de forma estimada, la valoración realizada por GIC:
 - Según [El Economista](https://www.eleconomista.es/capital-riesgo/noticias/13491689/08/25/gic-el-brazo-inversor-de-singapur-compra-el-25-de-la-fibreco-de-masorange-y-vodafone.html?utm_medium=social&utm_source=twitter&utm_campaign=eEnoticias), la valoración fijada finalmente ha sido de aproximadamente 7.000 millones de euros para todo el proyecto.
