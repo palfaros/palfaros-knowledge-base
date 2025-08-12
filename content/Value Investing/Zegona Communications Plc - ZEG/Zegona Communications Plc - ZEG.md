@@ -216,7 +216,7 @@ El [31 de julio de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/re
 Esta refinanciación tiene 4 partes:
 1. El préstamo *Term Loan B* se incrementa en 575 millones de euros, manteniendo el margen de intereses del 3%. Se espera que dicho margen se reduzca en 25 puntos básicos, es decir, que sea del 2,75%, de forma automática gracias al mecanismo de *margin ratchet*. Si bajan su apalancamiento, se activará el *margin ratchet* y el interés podría bajar hasta 2.75% automáticamente. Esto significa que Zegona cuenta con que la situación financiera de la empresa (ratio de apalancamiento EV/EBITDAaL) va a seguir mejorando en los próximos meses.
 2. Se realiza un *tap issuance* de 150 millones sobre los bonos denominados en euros (*6,75% EUR Senior Secured Notes*). Un *tap issuance* no es más que una emisión adicional de un bono ya existente. Además, se indica que es *fungible*, es decir, se une (fusiona) legal y económicanemte con dichos bonos que se emitieron en julio de 2024. Sin embargo, su cupón (*yield*) efectivo no es del 6,75%, ya que estos nuevos 150 millones emitidos se han vendido a un precio superior a su valor nominal (par). En concreto, se han colocado a un 105,5% de su valor nominal. Esto hace que el rendimiento efectivo para el nuevo comprador sea solo del 4,3%. Por último, se indica esta emisión no se hizo en mercados públicos, sino directamente colocada a un número reducido de inversores institucionales.
-3. Se cancela el préstamo *Term Loan A* en su totalidad. Este préstamo forma parte de la financiación inicial conseguida para completar la adquisición de Vodafone España (*Term Loan A* + deuda puente + crédito *revolving*). Se trataba de un préstamo de 500 millones de euros con un margen de intereses del 4,25%, más de un 40% superior al conseguido con el préstamo *Term Loan B*. La cancelación del préstamo *Term Loan A* supone eliminar las amortizaciones periódicas de su estructura de deuda, ya que el préstamo *Term Loan B* se paga a vencimiento y no en cuotas semestrales como el *Term Loan B*. Zegona indica en la nota de prensa que la estructura de capital pasa a ser *covenant lite*. En el [prospectus](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/zegona-communications-plc-prospectus.pdf) se indicaba que el *covenant* financiero de 2,25x deuda/EBITDAaL formaba parte de los compromisos asumidos con la financiación inicial de *Term Loan A* + *Corporate Bridge Facility* + *Revolving Credit Facility*. Como dicha estructura de deuda ha sido completamente reemplazada, cabría pensar que el *covenant* de deuda/EBITDAaL desaparece. Sin embargo, [según Daniel Tello (Azagala Capital), dicho *covenant* no desaparece, solo lo hacen las amortizaciones](https://x.com/dantelriv/status/1950841668736794842).
+3. Se cancela el préstamo *Term Loan A* en su totalidad. Este préstamo forma parte de la financiación inicial conseguida para completar la adquisición de Vodafone España (*Term Loan A* + deuda puente + crédito *revolving*). Se trataba de un préstamo de 500 millones de euros con un margen de intereses del 4,25%, más de un 40% superior al conseguido con el préstamo *Term Loan B*. La cancelación del préstamo *Term Loan A* supone eliminar las amortizaciones periódicas de su estructura de deuda, ya que el préstamo *Term Loan B* se paga a vencimiento y no en cuotas semestrales como el *Term Loan B*. Zegona indica en la nota de prensa que la estructura de capital pasa a ser *covenant lite*. En el [prospectus](https://www.zegona.com/~/media/Files/Z/Zegona/press-release/zegona-communications-plc-prospectus.pdf) se indicaba que el *covenant* financiero de 2,25x deuda/EBITDAaL formaba parte de los compromisos asumidos con la financiación inicial de *Term Loan A* + *Corporate Bridge Facility* + *Revolving Credit Facility*. Como dicha estructura de deuda ha sido completamente reemplazada, cabría pensar que el *covenant* de deuda/EBITDAaL desaparece. [Según Daniel Tello (Azagala Capital), dicho *covenant* no desaparece, solo lo hacen las amortizaciones](https://x.com/dantelriv/status/1950841668736794842). Sin embargo, en la [nota de prensa correspondiente al anuncio de la entrada de GIC en la *FibreCo* con MasOrange](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1973034&culture=en-GB&val=638906164939959723) se especifica que, el *covenant* financiero pasa de 2.25 a 3.1 deuda/EBITDAaL, lo que facilita la ejecución de la estrategia de Zegona.
 4. Se utilizan 215 millones de euros para recomprar un 10% de sus bonos en euros y el 10% de sus bonos en dólares, ambos emitidos en julio de 2024. Al tratarse de una cancelación antes de vencimiento, Zegona debe pagar la prima asociada a la cláusula *make-whole call*. Esta prima supone que el precio de cancelación sea un 103% de su valor nominal. Teniendo en cuenta este matiz, la cantidad de deuda cancelada es la siguiente:
 	1. 10% de los *6,75% Senior Secured Notes*: 10% · 1.300 millones de euros = 130 millones de euros. Como se cancelan al 103%, Zegona debe abonar 133,9 millones de euros.
 	2. 10% de los *8,625% Senior Secured Notes*: 10% · 900 millones de dólares = 90 millones de dólares, que equivalen a 774 millones de euros (cambio de 0,86 EUR/USD a 1 de agosto de 2025). Como se cancelan al 103%, Zegona debe abonar 92,7 millones de dólares, es decir, 79,7 millones de euros.
@@ -228,7 +228,7 @@ La deuda queda reestructurada de la siguiente forma:
 
 La cantidad total adeudada se mantiene en unos 3.900 millones de euros.
 
-**El objetivo de esta refinanciación es cancelar el préstamo *Term Loan A* mediante la extensión del *Term Loan B*, con un margen de intereses más favorable (125 puntos básicos inferior). También se sustituye parte de los bonos emitidos hace 1 año por bonos idénticos colocados a  un precio superior a su valor nominal, reduciendo así su *yield* efectivo.***.
+**El objetivo de esta refinanciación es cancelar el préstamo *Term Loan A* mediante la extensión del *Term Loan B*, con un margen de intereses más favorable (125 puntos básicos inferior). También se sustituye parte de los bonos emitidos hace 1 año por bonos idénticos colocados a  un precio superior a su valor nominal, reduciendo así su *yield* efectivo. Además, se consigue suavizar el *covenant* financiero existente, incrementando el apalancamiento permitido.**
 ## Directiva
 
 La directiva de Zegona está formada por las siguientes personas:
@@ -505,6 +505,8 @@ La estrategia de monetización Zegona sobre esta *FibreCo* se basa en lo siguien
 | **Total**         | **1776** | **1872** | **1968** | **2064** | **2160** | **2256** |
 
 Según [Caixabank](https://www.europapress.es/economia/noticia-caixabank-valora-8700-millones-joint-ventures-fibra-vodafone-espana-masorange-telefonica-20250413122649.html) la *joint FibreCo* entre Vodafone España y MásOrange está valorada en 7.000 millones de euros. Como Vodafone España planea vender el 20% de la *FibreCo*, Zegona ingresaría 1.400 millones de euros. A esto se le sumarían los 336 millones de euros procedentes del apalancamiento de 7 veces EBITDA de la *FibreCo*, por lo que el total de la operación serían unos 1.736 millones de euros, muy cercanos a la estimación realizada anteriormente.
+
+La monetización de esta FibreCo se anunció el [4 de agosto de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1973034&culture=en-GB&val=638906164939959723), con la entrada de GIC, fondo soberano de Singapur, como socio. Los detalles de la operación se explican en [[#Venta *FibreCo* con MasOrange]].
 
 #### Alternativas en caso de monetización insuficiente
 
@@ -843,23 +845,27 @@ En la nota de prensa se indican enlaces a 3 documentos:
 
 ### Venta *FibreCo* con MasOrange
 
-https://masorange.es/wp-content/uploads/2025/08/20250804_Nota-de-Prensa-NetCo-Fin.pdf
+El [4 de agosto de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1973034&culture=en-GB&val=638906164939959723) se anunció la entrada de GIC, el fondo soberano de Singapur, en la *FibreCo* con MasOrange. 
 
-https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1973034&culture=en-GB&val=638904447970030892
+![[ZEG_FibreCo_MasOrange_GIC_Purchase.png]]
 
-El 4 de agosto de 2025 se anunció la entrada de GIC, el fondo soberano de Singapur, en la *FibreCo*. En concreto, GIC adquiere el 25% de la compañía, comprando a partes iguales participaciones de Vodafone España y MasOrange, es decir, un 12,5% de cada una. La propiedad de la compañía queda estructura de la siguiente forma:
-- 58% MasOrange
-- 25% GIC
-- 17% Vodafone España
+![[ZEG_FibreCo_MasOrange_GIC_Purchase_Notes.png]]
 
-En la nota de prensa de Vodafone España se indica que Vodafone España obtendrá 1.400 millones de euros de esta *FibreCo*.
+En la nota de prensa se pueden encontrar parte de los detalles de la operación, así como su impacto en la estrategia de Zegona:
+- GIC adquiere el 25% de la *FibreCo*, comprando participaciones de Vodafone España y MasOrange a partes iguales, es decir, un 12,5% de cada una. La propiedad de la compañía queda estructurada de la siguiente forma: 57.5% MasOrange, 25% GIC y 17,5% Vodafone España. Por tanto, Vodafone monetiza el 12,5% de sus acciones en la *FibreCo* frente al 20% propuesto en su plan estratégico.
+- La *FibreCo* ha conseguido financiación por valor de 5.400 millones de euros (4.700 millones de euros en la *FibreCo* operativa y 700 millones en la *holding* que la controla). La mayor parte de la deuda es *investment grade*, es decir, deuda con calificación alta por su bajo riesgo de impago. Esto es una muestra de la buena salud financiera de la *FibreCo*, gracias a sus ingresos estables y predecibles.
+- La operación supondrá, en el caso de Vodafone España, el ingreso de 1.400 millones de euros en *cash*. Se menciona que el objetivo ha sido optimizar el *cash* generado en la operación, manteniendo la mayor cantidad de *equity* o participaciones en la *FibreCo*, consiguiendo flexibilidad estratégica para el futuro. Por tanto, se puede suponer que la mayor parte de esos 1.400 millones de euros provienen de la financiación obtenida en la *FibreCo*, [que se repartirá en forma de dividendo entre sus accionistas](https://www.elespanol.com/invertia/empresas/tecnologia/20250805/masorange-vodafone-gic-recibiran-dividendos-nueva-empresa-conjunta-fibra-primer-momento/1003743874448_0.html) (MasOrange, GIC y Vodafone España).
+- La última refinanciación de deuda de Zegona, anunciada el [31 de julio de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1971797&culture=en-GB&val=638906164939989723) y explicada en [[#Refinanciación de deuda III]] supuso un cambio en la estructura de capital de la compañía, eliminando el *Term Loan A* y pasando a ser *covenant-lite*. **En la nota 6, se indica que, como resultado de esta refinanciación, el *covenant* deuda/EBITDAaL se eleva hasta 3.1 (anteriormente era de 2.25). En los [resultados de Q126]([IR Q1 26 Results Presentation](https://www.zegona.com/~/media/Files/Z/Zegona/disclaimer-document/ir-q1-26-results-presentation-v1.pdf)) se indica que el nivel de endeudamiento actual de Vodafone España es de 2.88 deuda/EBITDAaL. Por tanto, Zegona pasa a cumplir automáticamente el *covenant* financiero y puede destinar de manera íntegra los 1.400 millones generados al reparto del dividendo de 1.50 libras (+intereses) a todos los accionistas, cancelando de forma efectiva los 523 millones de acciones preferentes**.
+- Esta operación, junto con la monetización de la *FiberCo* con Telefónica y el cambio en la estructura de deuda permiten a Zegona ejecutar la estrategia de asignación de capital (*capital allocation*) ya conocida y que esperan realizar en los próximos meses.
 
-En la nota de prensa de MasOrange, se indica que MasOrange obtendrá 3.200 millones de euros.
+Este anuncio supone la monetización de parte de los activos de fibra de la *FibreCo* con MasOrange. El porcentaje de participaciones vendidas y el nivel de apalancamiento sobre la *FibreCo* son diferentes a los propuestos inicialmente en la tesis, por lo que **es necesario actualizar la valoración**.
 
-En la nota de prensa de Vodafone España se indica que la *FibreCo* ha levantado 5.400 millones de euros de deuda (4.700+700).
+Sin embargo, se desconoce a cuánto ha valorado GIC la *FibreCo* con MasOrange en su totalidad. No obstante, se pueden realizar estimaciones:
+#### Estimación 1. Reparto de la deuda operativa de la *FibreCo* en forma de dividendo
 
-Si asumimos que todo el capital levantado se reparte en forma de dividendo entre los socios (caso extremo y muy poco realista), cada socio obtendría lo siguiente, de acuerdo a su participación accionarial:
-- 
+#### Estimación 2. Reparto de toda la deuda de la *FibreCo* en forma de dividendo
+
+#### Estimación 3. Filtraciones a medios de comunicación
 
 
 ## Referencias
