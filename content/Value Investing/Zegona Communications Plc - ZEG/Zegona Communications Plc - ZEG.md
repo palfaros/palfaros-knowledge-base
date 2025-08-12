@@ -639,6 +639,7 @@ Zegona tiene la intención de estabilizar los ingresos (*revenues*) a través de
 Para realizar la valoración de la compañía se han tenido en cuenta los siguientes escenarios:
 1. Monetización de activos de fibra, pago parcial de dividendo y cancelación de preferentes
 2. Monetización de activos de fibra, pago completo de dividendo y cancelación de preferentes
+3. Reestructuración del negocio
 
 ### Monetización de activos de fibra, pago parcial de dividendo y cancelación de preferentes
 
@@ -647,15 +648,19 @@ En este escenario:
 2. Zegona utiliza 967 millones de euros para el pago del dividendo exclusivamente a la *Newco* y 1.347 millones de euros para amortizar deuda. 
 3. Las acciones preferentes se cancelan, por lo que el número de acciones en circulación pasa de 759 millones a 236 millones.
 4. La deuda restante son 2.193 millones de euros, cumpliendo con el *covenant* financiero que, para un [[EBITDAaL]] de 1.049 millones de euros, son 2.360 millones de euros.
+5. Vodafone España mantiene un 10% de participación en las *FibreCo*. Dicha *equity* se debe incorporar a la valoración. 
+	1. En el caso de la *FibreCo* con Telefónica, si se valora a 15x EV/EBITDA y se apalanca a 2,5x Deuda/EBITDA, entonces el valor de la *equity* es 12,5x EBITDA, es decir, 1.562 millones de euros. La *equity* que mantiene Vodafone España es un 10%, es decir, 156 millones de euros.
+	2. En el caso de la *FibreCo* con MásOrange, si se valora a 15x EV/EBITDA y se apalanca a 7x Deuda/EBITDA, entonces el valor de la *equity* es 8x EBITDA, es decir, 3.840 millones de euros. La *equity* que mantiene Vodafone España es un 10%, es decir, 384 millones de euros.
 
 |                                                      |          |          |          |          |
 | ---------------------------------------------------- | -------- | -------- | -------- | -------- |
+| **Negocio principal (core business)**                |          |          |          |          |
 | **EV/EBITDAaL**                                      | **4x**   | **5x**   | **6x**   | **7x**   |
 | EBITDAaL 24                                          | 1236     | 1236     | 1236     | 1236     |
 | Reducción EBITDA por creación FibreCo Telefónica (-) | 47       | 47       | 47       | 47       |
 | Reducción EBITDA por creación FibreCo MásOrange (-)  | 140      | 140      | 140      | 140      |
-| **EBITDAaL 25**                                      | **1049** | **1049** | **1049** | **1049** |
-| **EV**                                               | **4196** | **5245** | **6294** | **7343** |
+| **EBITDAaL 25**                                          | **1049**     | **1049**     | **1049**     | **1049**     |
+| **EV**                                                   | **4196**     | **5245**     | **6294**     | **7343**     |
 | **Covenant financiero (2,25xEBITDAaL)**              | **2360** | **2360** | **2360** | **2360** |
 | Deuda                                                | 3800     | 3800     | 3800     | 3800     |
 | Caja (-)                                             | 260      | 260      | 260      | 260      |
@@ -663,18 +668,38 @@ En este escenario:
 | Venta FibreCo MásOrange (-)                          | 1776     | 1776     | 1776     | 1776     |
 | Pago Dividendo                                       | 967      | 967      | 967      | 967      |
 | **Deuda neta**                                       | **2193** | **2193** | **2193** | **2193** |
-| **Equity**                                           | **2003** | **3052** | **4101** | **5150** |
+| **Equity core business**                             | **2003** | **3052** | **4101** | **5150** |
+| **FibreCo Telefónica**                               |          |          |          |          |
+| EV/EBITDA                                            | 15x      | 15x      | 15x      | 15x      |
+| EBITDA                                               | 125      | 125      | 125      | 125      |
+| EV                                                   | 1875     | 1875     | 1875     | 1875     |
+| Apalancamiento Deuda/EBITDA                          | 2,5x     | 2,5x     | 2,5x     | 2,5x     |
+| Deuda (leverage recap)                               | 313      | 313      | 313      | 313      |
+| Equity                                               | 1563     | 1563     | 1563     | 1563     |
+| Participación Vodafone España                        | 10%      | 10%      | 10%      | 10%      |
+| **Equity participación Vodafone España**             | **156**  | **156**  | **156**  | **156**  |
+| **FibreCo MásOrange**                                |          |          |          |          |
+| EV/EBITDA                                            | 15x      | 15x      | 15x      | 15x      |
+| EBITDA                                               | 480      | 480      | 480      | 480      |
+| EV                                                   | 7200     | 7200     | 7200     | 7200     |
+| Apalancamiento Deuda/EBITDA                          | 7x       | 7x       | 7x       | 7x       |
+| Deuda (leverage recap)                               | 3360     | 3360     | 3360     | 3360     |
+| Equity                                               | 3840     | 3840     | 3840     | 3840     |
+| Participación Vodafone España                        | 10%      | 10%      | 10%      | 10%      |
+| **Equity participación Vodafone España**             | **384**  | **384**  | **384**  | **384**  |
+| **Equity Total (SOTP)**                              | **2543** | **3592** | **4641** | **5690** |
 | Número de acciones inicial                           | 759      | 759      | 759      | 759      |
 | Preferentes canceladas (-)                           | 523      | 523      | 523      | 523      |
 | **Número de acciones final**                         | **236**  | **236**  | **236**  | **236**  |
-| Precio por acción (EUR)                              | 8,49     | 12,93    | 17,38    | 21,82    |
+| Precio por acción (EUR)                              | 10,78    | 15,22    | 19,67    | 24,11    |
 | **EUR/GBP**                                          | **1,18** | **1,18** | **1,18** | **1,18** |
-| Precio por acción (GBP)                              | 7,19     | 10,96    | 14,73    | 18,50    |
+| Precio por acción (GBP)                              | 9,13     | 12,90    | 16,67    | 20,44    |
 | Dividendo (GBP)                                      | 0        | 0        | 0        | 0        |
-| Precio por acción final (GBP)                        | 7,19     | 10,96    | 14,73    | 18,50    |
-| **Precio por acción final (GBX)**                    | **719**  | **1096** | **1473** | **1850** |
+| Precio por acción final (GBP)                        | 9,13     | 12,90    | 16,67    | 20,44    |
+| **Precio por acción final (GBX)**                    | **913**  | **1290** | **1667** | **2044** |
 | **Precio actual**                                    | **595**  | **595**  | **595**  | **595**  |
-| **Rentabilidad**                                     | **21%**  | **84%**  | **148%** | **211%** |
+| **Rentabilidad**                                     | **54%**  | **117%** | **180%** | **243%** |
+
 ### Monetización de activos de fibra, pago completo de dividendo y cancelación de preferentes
 
 En este escenario:
@@ -682,9 +707,13 @@ En este escenario:
 2. Zegona utiliza 1.405 millones de euros para el pago del dividendo a todos los accionistas y 1.293 millones de euros para amortizar deuda. 
 3. Las acciones preferentes se cancelan, por lo que el número de acciones en circulación pasa de 759 millones a 236 millones.
 4. La deuda restante son 2.247 millones de euros, cumpliendo con el *covenant* financiero que, para un [[EBITDAaL]] de 1.049 millones de euros, son 2.360 millones de euros.
+5. Vodafone España mantiene un 10% de participación en las *FibreCo*. Dicha *equity* se debe incorporar a la valoración. 
+	1. En el caso de la *FibreCo* con Telefónica, si se valora a 15x EV/EBITDA y se apalanca a 2,5x Deuda/EBITDA, entonces el valor de la *equity* es 12,5x EBITDA, es decir, 1.562 millones de euros. La *equity* que mantiene Vodafone España es un 10%, es decir, 156 millones de euros.
+	2. En el caso de la *FibreCo* con MásOrange, si se valora a 19x EV/EBITDA y se apalanca a 7x Deuda/EBITDA, entonces el valor de la *equity* es 12x EBITDA, es decir, 5.760 millones de euros. La *equity* que mantiene Vodafone España es un 10%, es decir, 576 millones de euros.
 
 |                                                      |          |          |          |          |
 | ---------------------------------------------------- | -------- | -------- | -------- | -------- |
+| **Negocio principal (core business)**                |          |          |          |          |
 | **EV/EBITDAaL**                                      | **4x**   | **5x**   | **6x**   | **7x**   |
 | EBITDAaL 24                                          | 1236     | 1236     | 1236     | 1236     |
 | Reducción EBITDA por creación FibreCo Telefónica (-) | 47       | 47       | 47       | 47       |
@@ -698,18 +727,38 @@ En este escenario:
 | Venta FibreCo MásOrange (-)                          | 2160     | 2160     | 2160     | 2160     |
 | Pago Dividendo                                       | 1405     | 1405     | 1405     | 1405     |
 | **Deuda neta**                                       | **2247** | **2247** | **2247** | **2247** |
-| **Equity**                                           | **1949** | **2998** | **4047** | **5096** |
+| **Equity core business**                             | **1949** | **2998** | **4047** | **5096** |
+| **FibreCo Telefónica**                               |          |          |          |          |
+| EV/EBITDA                                            | 15x      | 15x      | 15x      | 15x      |
+| EBITDA                                               | 125      | 125      | 125      | 125      |
+| EV                                                   | 1875     | 1875     | 1875     | 1875     |
+| Apalancamiento Deuda/EBITDA                          | 2,5x     | 2,5x     | 2,5x     | 2,5x     |
+| Deuda (leverage recap)                               | 313      | 313      | 313      | 313      |
+| Equity                                               | 1563     | 1563     | 1563     | 1563     |
+| Participación Vodafone España                        | 10%      | 10%      | 10%      | 10%      |
+| **Equity participación Vodafone España**             | **156**  | **156**  | **156**  | **156**  |
+| **FibreCo MásOrange**                                |          |          |          |          |
+| EV/EBITDA                                            | 19x      | 19x      | 19x      | 19x      |
+| EBITDA                                               | 480      | 480      | 480      | 480      |
+| EV                                                   | 9120     | 9120     | 9120     | 9120     |
+| Apalancamiento Deuda/EBITDA                          | 7x       | 7x       | 7x       | 7x       |
+| Deuda (leverage recap)                               | 3360     | 3360     | 3360     | 3360     |
+| Equity                                               | 5760     | 5760     | 5760     | 5760     |
+| Participación Vodafone España                        | 10%      | 10%      | 10%      | 10%      |
+| **Equity participación Vodafone España**                 | **576**      | **576**      | **576**      | **576**      |
+| **Equity Total (SOTP)**                                  | **2681**     | **3730**     | **4779**     | **5828**     |
 | Número de acciones inicial                           | 759      | 759      | 759      | 759      |
 | Preferentes canceladas (-)                           | 523      | 523      | 523      | 523      |
 | **Número de acciones final**                         | **236**  | **236**  | **236**  | **236**  |
-| Precio por acción (EUR)                              | 8,26     | 12,71    | 17,15    | 21,60    |
+| Precio por acción (EUR)                              | 11,36    | 15,81    | 20,25    | 24,70    |
 | **EUR/GBP**                                          | **1,18** | **1,18** | **1,18** | **1,18** |
-| Precio por acción (GBP)                              | 7,00     | 10,77    | 14,53    | 18,30    |
+| Precio por acción (GBP)                              | 9,63     | 13,40    | 17,16    | 20,93    |
 | Dividendo (GBP)                                      | 1,57     | 1,57     | 1,57     | 1,57     |
-| Precio por acción final (GBP)                        | 8,57     | 12,34    | 16,10    | 19,87    |
-| **Precio por acción final (GBX)**                    | **857**  | **1234** | **1610** | **1987** |
+| Precio por acción final (GBP)                        | 11,20    | 14,97    | 18,73    | 22,50    |
+| **Precio por acción final (GBX)**                    | **1120** | **1497** | **1873** | **2250** |
 | **Precio actual**                                    | **595**  | **595**  | **595**  | **595**  |
-| **Rentabilidad**                                     | **44%**  | **107%** | **171%** | **234%** |
+| **Rentabilidad**                                     | **88%**  | **152%** | **215%** | **278%** |
+
 ### Reestructuración del negocio
 
 En este escenario:
@@ -718,9 +767,13 @@ En este escenario:
 3. Zegona utiliza 1.405 millones de euros para el pago del dividendo a todos los accionistas y 909 millones de euros para amortizar deuda. 
 4. Las acciones preferentes se cancelan, por lo que el número de acciones en circulación pasa de 759 millones a 236 millones.
 5. La deuda restante son 2.631 millones de euros, cumpliendo con el *covenant* financiero que, para un [[EBITDAaL]] de 1.279 millones de euros, son 2.878 millones de euros.
+6.  Vodafone España mantiene un 10% de participación en las *FibreCo*. Dicha *equity* se debe incorporar a la valoración. 
+	1. En el caso de la *FibreCo* con Telefónica, si se valora a 15x EV/EBITDA y se apalanca a 2,5x Deuda/EBITDA, entonces el valor de la *equity* es 12,5x EBITDA, es decir, 1.562 millones de euros. La *equity* que mantiene Vodafone España es un 10%, es decir, 156 millones de euros.
+	2. En el caso de la *FibreCo* con MásOrange, si se valora a 15x EV/EBITDA y se apalanca a 7x Deuda/EBITDA, entonces el valor de la *equity* es 8x EBITDA, es decir, 3.840 millones de euros. La *equity* que mantiene Vodafone España es un 10%, es decir, 384 millones de euros.
 
 |                                                      |          |          |          |          |
 | ---------------------------------------------------- | -------- | -------- | -------- | -------- |
+| **Negocio principal (core business)**                |          |          |          |          |
 | **EV/EBITDAaL**                                      | **4x**   | **5x**   | **6x**   | **7x**   |
 | EBITDAaL 24                                          | 1236     | 1236     | 1236     | 1236     |
 | Mejora EBITDA por reducción de costes                | 230      | 230      | 230      | 230      |
@@ -734,19 +787,39 @@ En este escenario:
 | Venta FibreCo Telefónica (-)                         | 538      | 538      | 538      | 538      |
 | Venta FibreCo MásOrange (-)                          | 1776     | 1776     | 1776     | 1776     |
 | Pago Dividendo                                       | 1405     | 1405     | 1405     | 1405     |
-| **Deuda neta**                                       | **2631** | **2631** | **2631** | **2631** |
-| **Equity**                                           | **2485** | **3764** | **5043** | **6322** |
+| Deuda neta                                           | 2631     | 2631     | 2631     | 2631     |
+| **Equity core business**                             | **2485** | **3764** | **5043** | **6322** |
+| **FibreCo Telefónica**                               |          |          |          |          |
+| EV/EBITDA                                            | 15x      | 15x      | 15x      | 15x      |
+| EBITDA                                               | 125      | 125      | 125      | 125      |
+| EV                                                   | 1875     | 1875     | 1875     | 1875     |
+| Apalancamiento Deuda/EBITDA                          | 2,5x     | 2,5x     | 2,5x     | 2,5x     |
+| Deuda (leverage recap)                               | 313      | 313      | 313      | 313      |
+| Equity                                               | 1563     | 1563     | 1563     | 1563     |
+| Participación Vodafone España                        | 10%      | 10%      | 10%      | 10%      |
+| **Equity participación Vodafone España**             | **156**  | **156**  | **156**  | **156**  |
+| **FibreCo MásOrange**                                |          |          |          |          |
+| EV/EBITDA                                            | 15x      | 15x      | 15x      | 15x      |
+| EBITDA                                               | 480      | 480      | 480      | 480      |
+| EV                                                   | 7200     | 7200     | 7200     | 7200     |
+| Apalancamiento Deuda/EBITDA                          | 7x       | 7x       | 7x       | 7x       |
+| Deuda (leverage recap)                               | 3360     | 3360     | 3360     | 3360     |
+| Equity                                               | 3840     | 3840     | 3840     | 3840     |
+| Participación Vodafone España                        | 10%      | 10%      | 10%      | 10%      |
+| **Equity participación Vodafone España**             | **384**  | **384**  | **384**  | **384**  |
+| **Equity Total (SOTP)**                              | **3025** | **4304** | **5583** | **6862** |
 | Número de acciones inicial                           | 759      | 759      | 759      | 759      |
 | Preferentes canceladas (-)                           | 523      | 523      | 523      | 523      |
 | **Número de acciones final**                         | **236**  | **236**  | **236**  | **236**  |
-| Precio por acción (EUR)                              | 10,53    | 15,95    | 21,37    | 26,79    |
+| Precio por acción (EUR)                              | 12,82    | 18,24    | 23,66    | 29,08    |
 | **EUR/GBP**                                          | **1,18** | **1,18** | **1,18** | **1,18** |
-| Precio por acción (GBP)                              | 8,92     | 13,52    | 18,11    | 22,70    |
+| Precio por acción (GBP)                              | 10,86    | 15,46    | 20,05    | 24,65    |
 | Dividendo (GBP)                                      | 1,57     | 1,57     | 1,57     | 1,57     |
-| Precio por acción final (GBP)                        | 10,49    | 15,09    | 19,68    | 24,27    |
-| **Precio por acción final (GBX)**                    | **1049** | **1509** | **1968** | **2427** |
-| **Precio actual**                                    | **595**  | **595**  | **595**  | **595**  |
-| **Rentabilidad**                                     | **76%**  | **154%** | **231%** | **308%** |
+| Precio por acción final (GBP)                        | 12,43    | 17,03    | 21,62    | 26,22    |
+| **Precio por acción final (GBX)**                        | **1243**     | **1703**     | **2162**     | **2622**     |
+| **Precio actual**                                        | **595**      | **595**      | **595**      | **595**      |
+| **Rentabilidad**                                         | **109%**     | **186%**     | **263%**     | **341%**     |
+
 ## Seguimiento
 
 [Masorange y Vodafone estudian vender menos parte de su 'fiberco'](https://www.expansion.com/empresas/tecnologia/2025/05/27/6834d4d3468aeb026e8b45be.html): A primera vista parece una noticia negativa, ya que pasan de vender el 40% de la compañía al 20%. Sin embargo, si se analiza el contenido, se comprueba que la razón es que consideran que la valoración de 7.000-7.500 millones de euros correspondiente a algunas ofertas es baja. Esta valoración se corresponde con el escenario conservador de 15x EV/EBITDA propuesto en la tesis. Por tanto, si terminan vendiendo el 40% a esta valoración que ellos consideran baja, la tesis se sigue cumpliendo. Por otro lado. si consiguen el objetivo de vender el 20% restante a un múltiplo de 20x EV/EBITDA, el dinero ingresado por Zegona pasaría de 1.776 millones de euros a 2.016 millones de euros, y el precio objetivo pasaría de 719 GBP a 806 GBP aproximadamente.
@@ -767,6 +840,27 @@ En la nota de prensa se indican enlaces a 3 documentos:
 - [Informe Anual 2025 - 2025 Annual Report](https://data.fca.org.uk/artefacts/NSM/Portal/NI-000125272/NI-000125272_213800ASI1VZL2ED4S65-2025-03-31.xhtml): Es el informe del año fiscal 2025, que concluyó el 31 de marzo de 2025. El informe incluye 15 meses de resultados de *Zegona Communications Plc* y 10 meses de resultados de Vodafone España.
 - [Resultados Q1 26 de Vodafone España](https://www.zegona.com/~/media/Files/Z/Zegona/investors/zegona-holdco-limited-debt-reporting.pdf): Es el documento con información trimestral sobre el estado de la deuda Vodafone España, requisito resultado de la emisión de bonos en el año 2024.
 - [Presentación de Resultados FY25 y Q1-26 de Vodafone España](https://www.zegona.com/~/media/Files/Z/Zegona/disclaimer-document/ir-q1-26-results-presentation-v1.pdf): Se indica que es una presentación para inversores profesionales.
+
+### Venta *FibreCo* con MasOrange
+
+https://masorange.es/wp-content/uploads/2025/08/20250804_Nota-de-Prensa-NetCo-Fin.pdf
+
+https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1973034&culture=en-GB&val=638904447970030892
+
+El 4 de agosto de 2025 se anunció la entrada de GIC, el fondo soberano de Singapur, en la *FibreCo*. En concreto, GIC adquiere el 25% de la compañía, comprando a partes iguales participaciones de Vodafone España y MasOrange, es decir, un 12,5% de cada una. La propiedad de la compañía queda estructura de la siguiente forma:
+- 58% MasOrange
+- 25% GIC
+- 17% Vodafone España
+
+En la nota de prensa de Vodafone España se indica que Vodafone España obtendrá 1.400 millones de euros de esta *FibreCo*.
+
+En la nota de prensa de MasOrange, se indica que MasOrange obtendrá 3.200 millones de euros.
+
+En la nota de prensa de Vodafone España se indica que la *FibreCo* ha levantado 5.400 millones de euros de deuda (4.700+700).
+
+Si asumimos que todo el capital levantado se reparte en forma de dividendo entre los socios (caso extremo y muy poco realista), cada socio obtendría lo siguiente, de acuerdo a su participación accionarial:
+- 
+
 
 ## Referencias
 
