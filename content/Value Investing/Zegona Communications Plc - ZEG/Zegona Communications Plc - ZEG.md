@@ -848,7 +848,6 @@ En la nota de prensa se indican enlaces a 3 documentos:
 El [4 de agosto de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1973034&culture=en-GB&val=638906164939959723) se anunció la entrada de GIC, el fondo soberano de Singapur, en la *FibreCo* con MasOrange. 
 
 ![[ZEG_FibreCo_MasOrange_GIC_Purchase.png]]
-
 ![[ZEG_FibreCo_MasOrange_GIC_Purchase_Notes.png]]
 
 En la nota de prensa se pueden encontrar parte de los detalles de la operación, así como su impacto en la estrategia de Zegona:
