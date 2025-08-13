@@ -846,12 +846,15 @@ En la nota de prensa se indican enlaces a 3 documentos:
 El número de clientes, tanto líneas de banda ancha fija como líneas móviles, ha crecido tras años en descenso. También han aumentado un 30% (desde Q1 25 a Q1 26) las ventas de *triple play* y *quadruple play*. La adquisición de Vodafone España por parte de Zegona se completó el 31 de mayo de 2024 y se puede comprobar que la reversión de la tendencia comienza Q2 25 (abril a junio 2024), es decir, a partir de la entrada de Zegona. Recuperar la base de clientes es fundamental para garantizar la sostenibilidad del negocio.
 
 ![[ZEG_FY25_Q1_26_Results_Customer_Growth.png]]
+
 Se han ejecutado hasta 700 iniciativas de reducción de costes, consiguiendo ahorros de unos 135 millones de euros. Esto ha permitido un incremento del margen [[EBITDAaL]] de 2 puntos porcentuales, pasando del 32% al 34% en FY25. En el primer trimestre de FY26 ha continuado dicha subida hasta 35%, aunque se debe esperar a terminar el año fiscal.
 
 ![[ZEG_FY25_Q1_26_Results_EBITDAaL.png]]
+
 El mayor crecimiento se ha producido en el *cash flow* operacional. Ha aumentado un 55% en FY25 respecto a FY24 y un 42% en Q1 26 respecto a Q1 25. Por tanto, hay una mejora muy importante en el flujo de caja. Cuanto más alto y más estable, más margen para pagar deuda, impuestos o dividendos.
 
 ![[ZEG_FY25_Q1_26_Results_Cash_Flow.png]]
+
 Respecto a las *FibreCo*, sus respectivos procesos de monetización están avanzados. La *FibreCo* con Telefónica, Fiberpass, empezó a operar el 1 de marzo de 2025. Por su parte, la *FibreCo* con MasOrange ha conseguido 4.700 millones de euros en financiación, algo que se corresponde con un apalancamiento de 9,8x deuda/EBITDA.
 
 ![[ZEG_FY25_Q1_26_Results_FibreCos.png]]
