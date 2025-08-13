@@ -843,6 +843,29 @@ En la nota de prensa se indican enlaces a 3 documentos:
 - [Resultados Q1 26 de Vodafone España](https://www.zegona.com/~/media/Files/Z/Zegona/investors/zegona-holdco-limited-debt-reporting.pdf): Es el documento con información trimestral sobre el estado de la deuda Vodafone España, requisito resultado de la emisión de bonos en el año 2024.
 - [Presentación de Resultados FY25 y Q1-26 de Vodafone España](https://www.zegona.com/~/media/Files/Z/Zegona/disclaimer-document/ir-q1-26-results-presentation-v1.pdf): Se indica que es una presentación para inversores profesionales.
 
+El número de clientes, tanto líneas de banda ancha fija como líneas móviles, ha crecido tras años en descenso. También han aumentado un 30% (desde Q1 25 a Q1 26) las ventas de *triple play* y *quadruple play*. La adquisición de Vodafone España por parte de Zegona se completó el 31 de mayo de 2024 y se puede comprobar que la reversión de la tendencia comienza Q2 25 (abril a junio 2024), es decir, a partir de la entrada de Zegona. Recuperar la base de clientes es fundamental para garantizar la sostenibilidad del negocio.
+
+![[ZEG_FY25_Q1_26_Results_Customer_Growth.png]]
+
+Se han ejecutado hasta 700 iniciativas de reducción de costes, consiguiendo ahorros de unos 135 millones de euros. Esto ha permitido un incremento del margen [[EBITDAaL]] de 2 puntos porcentuales, pasando del 32% al 34% en FY25. En el primer trimestre de FY26 ha continuado dicha subida hasta 35%, aunque se debe esperar a terminar el año fiscal.
+
+![[ZEG_FY25_Q1_26_Results_EBITDAaL.png]]
+
+El mayor crecimiento se ha producido en el *cash flow* operacional. Ha aumentado un 55% en FY25 respecto a FY24 y un 42% en Q1 26 respecto a Q1 25. Por tanto, hay una mejora muy importante en el flujo de caja. Cuanto más alto y más estable, más margen para pagar deuda, impuestos o dividendos.
+
+![[ZEG_FY25_Q1_26_Results_Cash_Flow.png]]
+
+Respecto a las *FibreCo*, sus respectivos procesos de monetización están avanzados. La *FibreCo* con Telefónica, Fiberpass, empezó a operar el 1 de marzo de 2025. Por su parte, la *FibreCo* con MasOrange ha conseguido 4.700 millones de euros en financiación, algo que se corresponde con un apalancamiento de 9,8x deuda/EBITDA.
+
+![[ZEG_FY25_Q1_26_Results_FibreCos.png]]
+
+Los ingresos (*revenues*) no han crecido a lo largo de los trimestres ni respecto a Q1 25. Sin embargo, existe una expansión de márgenes significativa, lo que indica que los programas de reducción de costes están funcionando. El *CapEx* de Q1 26 es un 37% inferior al de Q1 25. De esta forma, el *cash flow* aumenta de forma considerable (42% respecto a Q1 25).
+
+![[ZEG_FY25_Q1_26_Results_Operational_and_Financial_Information.png]]
+
+La deuda neta se sitúa en 3.617 millones de euros a 30 de junio de 2025. Las sucesivas refinanciaciones llevadas a cabo durante FY25 han permitido ir reduciendo el coste de dicha deuda. La mayor parte de la deuda no se ha empezado a amortizar, ya que se planea continuar con la refinanciación de la misma gracias a la continua mejora de la salud financiera de la compañía.
+
+![[ZEG_FY25_Q1_26_Results_Debt_and_interest.png]]
 ### Venta *FibreCo* con MasOrange
 
 El [4 de agosto de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1973034&culture=en-GB&val=638906164939959723) se anunció la entrada de GIC, el fondo soberano de Singapur, en la *FibreCo* con MasOrange. 
