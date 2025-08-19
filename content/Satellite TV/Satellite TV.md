@@ -1,7 +1,7 @@
 ---
 title: Satellite TV
 date: 2025-08-19
-draft: true
+draft: false
 ---
 ## SAT>IP
 
@@ -19,3 +19,7 @@ El protocolo SAT>IP proporciona varias ventajas:
 - Especialmente útil para instalaciones domésticas o profesionales con varias habitaciones/puntos de visualización.
 
 Es básicamente una manera de “convertir” la televisión satélite en IPTV dentro de tu red.
+
+### Proveedores
+
+- [[SATLINE]]
