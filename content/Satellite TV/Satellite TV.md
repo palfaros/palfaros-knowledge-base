@@ -1,7 +1,7 @@
 ---
 title: Satellite TV
 date: 2025-08-19
-draft: true
+draft: false
 ---
 ## SAT>IP
 
