@@ -90,5 +90,91 @@ make
 Al finalizar la compilación indicará el directorio en el que se han creado los binarios:
 
 ```shell
-cd /oscam/oscam
+CONF    build/x86_64-linux-gnu/config.c
+LINK    Distribution/oscam-2.25.07-11886@cd2ce925-x86_64-linux-gnu.debug
+STRIP   Distribution/oscam-2.25.07-11886@cd2ce925-x86_64-linux-gnu
 ```
+
+Comprobamos que el OSCam compilado se inicia correctamente mediante los siguientes comandos:
+
+```shell
+cd Distribution
+./oscam-2.25.07-11886@cd2ce925-x86_64-linux-gnu -help
+```
+
+Si se ha compilado correctamente aparecerá la ayuda de OSCam:
+
+```shell
+root@satip-677:~/oscam/oscam/Distribution# ./oscam-2.25.07-11886@cd2ce925-x86_64-linux-gnu -help
+  ___  ____   ___
+ / _ \/ ___| / __|__ _ _ __ ___
+| | | \___ \| |  / _` | '_ ` _ \
+| |_| |___) | |_| (_| | | | | | |
+ \___/|____/ \___\__,_|_| |_| |_|
+
+OSCam Cardserver v2.25.07-11886@cd2ce925 (x86_64-linux-gnu)
+Copyright (C) 2009-2025 OSCam developers.
+This program is distributed under GPLv3.
+OSCam is based on Streamboard mp-cardserver v0.9d written by dukat
+Visit https://board.streamboard.tv for more details.
+
+ ConfigDir  : /usr/local/etc
+
+ Usage: oscam [parameters]
+
+ Directories:
+ -c, --config-dir <dir>  | Read configuration files from <dir>.
+                         . Default: /usr/local/etc
+ -t, --temp-dir <dir>    | Set temporary directory to <dir>.
+                         . Default: /tmp/.oscam
+
+ Startup:
+ -b, --daemon            | Start in the background as daemon.
+ -B, --pidfile <pidfile> | Create pidfile when starting.
+ -r, --restart <level>   | Set restart level:
+                         .   0 - Restart disabled (exit on restart request).
+                         .   1 - WebIf restart is active (default).
+                         .   2 - Like 1, but also restart on segfaults.
+ -w, --wait <secs>       | Set how much seconds to wait at startup for the
+                         . system clock to be set correctly. Default: 60
+
+ Logging:
+ -I, --syslog-ident <ident> | Set syslog ident. Default: oscam
+ -S, --show-sensitive    | Do not filter sensitive info (card serials, boxids)
+                         . from the logs.
+ -d, --debug <level>     | Set debug level mask used for logging:
+                         .     0 - No extra debugging (default).
+                         .     1 - Detailed error messages.
+                         .     2 - ATR parsing info, ECM, EMM and CW dumps.
+                         .     4 - Traffic from/to the reader.
+                         .     8 - Traffic from/to the clients.
+                         .    16 - Traffic to the reader-device on IFD layer.
+                         .    32 - Traffic to the reader-device on I/O layer.
+                         .    64 - EMM logging.
+                         .   128 - DVBAPI logging.
+                         .   256 - Loadbalancer logging.
+                         .   512 - CACHEEX logging.
+                         .  1024 - Client ECM logging.
+                         .  2048 - CSP logging.
+                         .  4096 - CWC logging.
+                         . 65535 - Debug all.
+
+ Settings:
+ -p, --pending-ecm <num> | Set the maximum number of pending ECM packets.
+                         . Default: 32 Max: 4096
+
+ Debug parameters:
+ -a, --crash-dump        | Write oscam.crash file on segfault. This option
+                         . needs GDB to be installed and OSCam executable to
+                         . contain the debug information (run oscam-XXXX.debug)
+ -s, --capture-segfaults | Capture segmentation faults.
+ -g, --gcollect <mode>   | Garbage collector debug mode:
+                         .   1 - Immediate free.
+                         .   2 - Check for double frees.
+
+ Information:
+ -h, --help              | Show command line help text.
+ -V, --build-info        | Show OSCam binary configuration and version.
+
+```
+
