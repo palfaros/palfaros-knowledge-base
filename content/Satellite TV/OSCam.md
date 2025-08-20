@@ -1,7 +1,7 @@
 ---
 title: OSCam
 date: 2025-08-20
-draft: true
+draft: false
 ---
 ## ¿Qué es OSCam y para qué sirve?
 
