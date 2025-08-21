@@ -85,9 +85,9 @@ Una vez escaneados, procedemos al mapeo de servicios en canales, seleccionando, 
 
 Los canales mapeados aparecerán junto a su EPG en el menú *Electronic Program Guide*. El progreso del escaneo se muestra en tiempo real en el menú *Status*.
 
-### Conexión a servidor OSCam
+### Conexión a servidor [[OSCam]]
 
-Para descifrar canales encriptados TVHeadend requiere de un servidor de claves. La solución propuesta consiste en un servidor OSCam local que hará de *proxy*. Esta configuración se realiza desde el menú *Configuration > CAs*. Añadimos una entrada con los siguientes parámetros:
+Para descifrar canales encriptados TVHeadend requiere de un servidor de claves. La solución propuesta consiste en un servidor [[OSCam]] local que hará de *proxy*. Esta configuración se realiza desde el menú *Configuration > CAs*. Añadimos una entrada con los siguientes parámetros:
 - Enabled: Sí
 - Client name: Usuario configurado en el fichero `/usr/local/etc/oscam.user` dentro del apartado `[account]`.
 - Mode: `OSCam net protocol (rev >= 10389)`.
