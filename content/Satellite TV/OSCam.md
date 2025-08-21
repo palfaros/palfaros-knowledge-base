@@ -248,7 +248,7 @@ Este fichero se cargará en el servidor Linux que está corriendo OSCam. Como pa
 sudo apt-get install openvpn
 ```
 
-El fichero `.conf` debe incluirse en la carpeta `/etc/openvpn/`. OpenVPN levanta automáticamente todos los `.conf` que encuentra en `/etc/openvpn/`. Es importante que este fichero sea propiedad del usuario `root` y restringidos dichos permisos a `644`.
+El fichero `.conf` debe incluirse en la carpeta `/etc/openvpn/`. OpenVPN levanta automáticamente todos los `.conf` que encuentra en `/etc/openvpn/`. Es importante que este fichero sea propiedad del usuario `root` y tenga restringidos dichos permisos a `644`.
 
 ```shell
 sudo chmod 644 /etc/openvpn/vpn_movistar.conf
