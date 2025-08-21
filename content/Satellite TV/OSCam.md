@@ -225,6 +225,69 @@ sudo systemctl enable oscam
 
 La ruta por defecto de los ficheros de configuración es `/usr/local/etc`.
 
+#### Fichero `/usr/local/etc/oscam.conf`
+
+Copiamos el fichero de ejemplo `/root/oscam/oscam/Distribution/doc/example/oscam.conf` a la carpeta `/usr/local/etc`.
+
+Sustituimos completamente el apartado `[webif]` por las siguientes líneas:
+
+```shell
+[webif]
+httpport      = 8888
+httpuser      = admin
+httppwd       = tetra
+httpallowed   = 0.0.0.0-255.255.255.255
+```
+
+Sustituimos completamente el apartado `[dvbapi]` por las siguientes líneas:
+
+```shell
+[dvbapi]
+enabled                       = 1
+au                            = 1
+pmt_mode                      = 4
+request_mode                  = 1
+listen_port                   = 9001
+delayer                       = 60
+user                          = dvbapi
+read_sdt                      = 2
+write_sdt_prov                = 1
+extended_cw_api               = 1
+boxtype                       = pc
+```
+
+#### Fichero `/usr/local/etc/oscam.server
+
+Añadimos la configuración del lector remoto al fichero. Se debe rellenar con los datos proporcionados por el proveedor de claves. A continuación se muestra un ejemplo:
+
+```shell
+[reader]
+label                         = movistar
+protocol                      = cccam
+device                        = 10.8.0.1,42680
+user                          = 4x0ari
+password                      = 86rsfw
+inactivitytimeout             = 30
+group                         = 1
+disablecrccws                 = 1
+cccversion                    = 2.1.2
+ccckeepalive                  = 1
+```
+
+#### Fichero `/usr/local/etc/oscam.user`
+
+Añadimos las siguientes líneas al fichero:
+
+```shell
+[account]
+user        = dvbapi
+pwd         = dvbapi
+group       = 1
+au          = movistar
+uniq        = 1
+monlevel    = 1
+```
+
 ## Proveedores
 
 - https://cccam-oscam.com/spain/
