@@ -71,7 +71,7 @@ Una vez creada la red, el siguiente paso es asignar dicha red a cada uno de los 
 
 ![[TVHeadend_Configuration_6.png]]
 
-#### Escaneo y mapeo de servicios
+### Escaneo y mapeo de servicios
 
 Al vincular los *tuners* a la red configurada, comenzará automáticamente el escaneo de servicios. Los servicios encontrados se mostrarán en la pestaña *Configuration > DVB Inputs > Services*.
 
@@ -84,3 +84,7 @@ Una vez escaneados, procedemos al mapeo de servicios en canales, seleccionando, 
 ![[TVHeadend_Configuration_8.png]]
 
 Los canales mapeados aparecerán junto a su EPG en el menú *Electronic Program Guide*. El progreso del escaneo se muestra en tiempo real en el menú *Status*.
+
+### Conexión a servidor OSCam
+
+Para descifrar canales encriptados TVHeadend requiere de un servidor de claves. La solución propuesta consiste en un servidor OSCam local que hace de *proxy*.

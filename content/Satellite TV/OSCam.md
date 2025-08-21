@@ -20,10 +20,6 @@ En otras palabras, OSCam actúa como un intermediario entre:
 
 ## Instalación
 
-Referencias:
-- [Ubuntu Server: Instalacion basica y configuración oscam](https://jungle-team.com/ubuntu-server-instalacion-basica-y-configuracion-oscam/)
-- [Instalación OsCAM sobre Debian/Ubuntu - cmos486](https://www.cmos486.es/blog/48-cardsharing/oscam/282-instalacion-oscam-sobre-debian-ubuntu)
-
 ### Instalación dependencias
 
 En primer lugar, actualizamos la información sobre los paquetes disponibles en los repositorios configurados en el sistema.
@@ -178,3 +174,89 @@ Visit https://board.streamboard.tv for more details.
 
 ```
 
+### Creación *daemon* de arranque
+
+El siguiente paso es crear un *daemon* de arranque para que OSCam se inicie tras un reinicio del sistema:
+
+Para ello se crea el fichero `/etc/systemd/system/oscam.service`:
+
+```shell
+sudo nano /etc/systemd/system/oscam.service
+```
+
+Introducimos los parámetros de arranque:
+
+```
+[Unit]
+Description=OSCam
+After=network.target
+Requires=network.target
+
+[Service]
+Type=forking
+PIDFile=/var/run/oscam.pid
+ExecStart=/root/oscam/oscam/Distribution/oscam-2.25.07-11886@cd2ce925-x86_64-linux-gnu -b -B /var/run/oscam.pid
+ExecStop=/usr/bin/rm /var/run/oscam.pid
+TimeoutStopSec=1
+Restart=always
+RestartSec=5
+StartLimitInterval=0
+
+[Install]
+WantedBy=multi-user.target
+```
+
+Comprobamos que los parámetros de arranque son correctos. Para ello, ejecutamos los siguientes comandos:
+
+```shell
+sudo systemctl daemon-reload
+sudo systemctl start oscam
+sudo systemctl status oscam
+```
+
+Para finalizar, activamos el arranque automático:
+
+```shell
+sudo systemctl stop oscam
+sudo systemctl enable oscam
+```
+
+### Ficheros de configuración
+
+La ruta por defecto de los ficheros de configuración es `/usr/local/etc`.
+
+## Proveedores
+
+- https://cccam-oscam.com/spain/
+- https://1cccam1oscam.com/
+- https://t.me/+UPcariDNnPWSF4VN
+
+## OpenVPN
+
+Algunos proveedores dan acceso a servidores CCCAM de forma privada a través de un perfil OpenVPN. El proveedor proporciona un fichero `.ovpn` o `.conf`. Es importante añadir a este fichero las siguientes líneas:
+
+```shell
+route-nopull
+route 10.8.0.0 255.255.255.0 (Sustiuir por la subred en la que se encuentre el servidor CCCAM)
+```
+
+Estas líneas impiden que todo el tráfico vaya por la VPN. Se limita al tráfico hacia el servidor CCCAM.
+
+Este fichero se cargará en el servidor Linux que está corriendo OSCam. Como paso previo, debemos instalar OpenVPN. Para ello:
+
+```shell
+sudo apt-get install openvpn
+```
+
+El fichero `.conf` debe incluirse en la carpeta `/etc/openvpn/`. OpenVPN levanta automáticamente todos los `.conf` que encuentra en `/etc/openvpn/`. Es importante que este fichero sea propiedad del usuario `root` y restringidos dichos permisos a `644`.
+
+```shell
+sudo chmod 644 /etc/openvpn/vpn_movistar.conf
+sudo chown root /etc/openvpn/vpn_movistar.conf
+sudo chgrp root /etc/openvpn/vpn_movistar.conf
+```
+
+## Referencias
+
+- [Ubuntu Server: Instalacion basica y configuración oscam](https://jungle-team.com/ubuntu-server-instalacion-basica-y-configuracion-oscam/)
+- [Instalación OsCAM sobre Debian/Ubuntu - cmos486](https://www.cmos486.es/blog/48-cardsharing/oscam/282-instalacion-oscam-sobre-debian-ubuntu)
