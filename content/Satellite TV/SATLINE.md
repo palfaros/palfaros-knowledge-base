@@ -1,7 +1,7 @@
 ---
 title: SATLINE
 date: 2025-08-19
-draft: false
+draft: true
 ---
 ## ¿Qué es SATLINE y qué ofrecen?
 
@@ -34,5 +34,57 @@ SATLINE asegura compatibilidad con los clientes SAT>IP más populares, como:
 - MythTV
 - VDR
 
+## Despliegue TVHeadend
 
+Referencia: https://satline.tv/knowledge-base/satip-deployment-guide/#satip-vtuners-for-tvheadend
 
+En primer lugar, ingresamos en el servidor como *root* y actualizamos el sistema:
+
+```shell
+sudo su -
+apt update && apt upgrade -y && apt install wget
+```
+
+En segundo lugar, descargamos el *script* de despliegue de TVHeadend con soporte de SAT>IP *tuner*.
+
+```shell
+wget -qO- https://satline.tv/tools/satip-client-software-deploy.sh | bash
+```
+
+Una vez lanzado el *script* aparecerá un cuadro de diálogo en el que se nos pedirá el cliente SAT>IP que queremos instalar. Seleccionamos la opción 2, correspondiente a TVHeadend 4.3.
+
+![[SATLINE_TVHeadend_Installation_1.png]]
+
+El instalador nos pedirá introducir un nombre de usuario para la cuenta de administrador (por ejemplo, *alfialaves*).
+
+![[SATLINE_TVHeadend_Installation_2.png]]
+
+Posteriormente, el instalador nos pedirá introducir la contraseña para dicho usuario (por ejemplo, *tetra*).
+
+![[SATLINE_TVHeadend_Installation_3.png]]
+
+Una vez configurada la cuenta de administrador se nos indica que la web de TVHeadend será accesible desde la URL: http://localhost:9981/. Los VPS de SATLINE cuentan con IP pública, por lo que sustituiremos *localhost* por la dirección IP del VPS.
+
+![[SATLINE_TVHeadend_Installation_4.png]]
+
+Una vez finalizada la instalación, el siguiente paso es configurar los *tuners* SAT>IP. En primer lugar, debemos indicar el número de *tuners* a configurar.
+
+![[SATLINE_TVHeadend_Installation_5.png]]
+
+En segundo lugar, se introduce la dirección IP del SAT>IP que nos haya indicado SATLINE en un correo una vez hayamos contratado sus servicios.
+
+![[SATLINE_TVHeadend_Installation_6.png]]
+
+Al introducir la dirección IP de el/los *tuners* el proceso de instalación TVHeadend habrá concluido.
+
+![[SATLINE_TVHeadend_Installation_7.png]]
+
+![[Pasted image 20250820013319.png]]
+
+![[Pasted image 20250820013426.png]]
+
+![[Pasted image 20250820013646.png]]
+
+![[Pasted image 20250820014303.png]]
+
+![[Pasted image 20250820013801.png]]
