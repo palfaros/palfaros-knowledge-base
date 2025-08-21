@@ -283,8 +283,14 @@ group                         = 1
 disablecrccws                 = 1
 cccversion                    = 2.1.2
 ccckeepalive                  = 1
+reconnecttimeout              = 5
+cccreshare                    = -1
+maxconnections                = 1
 ```
 
+**Importante:** Los parámetros `cccreshare` y `maxconnections` son esenciales para evitar baneos por *resharing*.
+
+```
 #### Fichero `/usr/local/etc/oscam.user`
 
 Añadimos las siguientes líneas al fichero:
