@@ -104,12 +104,11 @@ En primer lugar, navegamos al menú *Configuration > DVB Inputs > Networks*. Cre
 - Pre-defined muxes: > 19.2E:Astr
 - Orbital position: 19.2E : Astra 1KR/1L/1M/1N
 
-![[TVHeadend_Configuration_5.png]]
+![[TVHeadend_Configuration_4.png]]
 
 Una vez creada la red, el siguiente paso es asignar dicha red a cada uno de los *tuners*. Para ello, navegamos al menú *Configuration > DVB Inputs > TV Adapter*. Para cada *tuner*, modificamos los siguientes parámetros:
 - Enabled: Sí
 - Networks: Astra 19.2E
 
-
-![[TVHeadend_Configuration_4.png]]
+![[TVHeadend_Configuration_5.png]]
 
