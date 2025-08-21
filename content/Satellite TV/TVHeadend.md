@@ -87,4 +87,12 @@ Los canales mapeados aparecerán junto a su EPG en el menú *Electronic Program 
 
 ### Conexión a servidor OSCam
 
-Para descifrar canales encriptados TVHeadend requiere de un servidor de claves. La solución propuesta consiste en un servidor OSCam local que hace de *proxy*.
+Para descifrar canales encriptados TVHeadend requiere de un servidor de claves. La solución propuesta consiste en un servidor OSCam local que hará de *proxy*. Esta configuración se realiza desde el menú *Configuration > CAs*. Añadimos una entrada con los siguientes parámetros:
+- Enabled: Sí
+- Client name: Usuario configurado en el fichero `/usr/local/etc/oscam.user` dentro del apartado `[account]`.
+- Mode: `OSCam net protocol (rev >= 10389)`.
+- Camd.socket filename / IP Address (TCP mode): `127.0.0.1` (*localhost*).
+- Listen / Connection port: Puerto configurado  en el fichero `/usr/local/etc/oscam.conf` dentro del apartado `[dvbapi]`.
+- CW Mode: `Standard / auto`.
+
+![[TVHeadend_Configuration_9.png]]
