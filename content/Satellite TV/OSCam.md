@@ -174,6 +174,17 @@ Visit https://board.streamboard.tv for more details.
 
 ```
 
+Creamos los directorios y ficheros en los que OSCam volcará los logs generados durante la ejecución.
+
+```shell
+mkdir /var/log/oscam
+touch /var/log/oscam/oscam.log
+chmod 755 /var/log/oscam/oscam.log
+touch /var/log/oscam/oscamuser.log
+chmod 755 /var/log/oscam/oscamuser.log
+mkdir /var/log/oscam/cw
+chmod 755 /var/log/oscam/cw
+```
 ### Creación *daemon* de arranque
 
 El siguiente paso es crear un *daemon* de arranque para que OSCam se inicie tras un reinicio del sistema:
