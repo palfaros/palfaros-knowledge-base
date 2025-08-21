@@ -79,12 +79,20 @@ Al introducir la dirección IP de el/los *tuners* el proceso de instalación TVH
 
 ![[SATLINE_TVHeadend_Installation_7.png]]
 
-![[Pasted image 20250820013319.png]]
+## Configuración TVHeadend
 
-![[Pasted image 20250820013426.png]]
+En primer lugar, ingresamos en la web de configuración a través de la URL: `http://<your-server-ip>:9981`. Una vez accedida, modificamos el nivel de vista por defecto (*Default wiew level*) a *Experto*.
 
-![[Pasted image 20250820013646.png]]
+![[TVHeadend_Configuration_1.png]]
 
-![[Pasted image 20250820014303.png]]
 
-![[Pasted image 20250820013801.png]]
+
+![[TVHeadend_Configuration_2.png]]
+
+![[TVHeadend_Configuration_3.png]]
+
+![[TVHeadend_Configuration_4.png]]
+
+
+
+![[TVHeadend_Configuration_5.png]]
