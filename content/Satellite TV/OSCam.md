@@ -290,7 +290,6 @@ maxconnections                = 1
 
 **Importante:** Los parámetros `cccreshare` y `maxconnections` son esenciales para evitar baneos por *resharing*.
 
-```
 #### Fichero `/usr/local/etc/oscam.user`
 
 Añadimos las siguientes líneas al fichero:
