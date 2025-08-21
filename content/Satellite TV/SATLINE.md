@@ -81,18 +81,35 @@ Al introducir la dirección IP de el/los *tuners* el proceso de instalación TVH
 
 ## Configuración TVHeadend
 
-En primer lugar, ingresamos en la web de configuración a través de la URL: `http://<your-server-ip>:9981`. Una vez accedida, modificamos el nivel de vista por defecto (*Default wiew level*) a *Experto*.
+En primer lugar, ingresamos en la web de configuración a través de la URL: `http://<your-server-ip>:9981`. Una vez accedida, modificamos el nivel de vista por defecto (*Default wiew level*) a *Experto* dentro del menú *Configuration > General > Base*.
 
 ![[TVHeadend_Configuration_1.png]]
 
+### Configuración *Tuners*
 
+#### *Tuner Delivery Mode*
+
+El siguiente paso es navegar al menú *Configuration > DVB Inputs > TV Adapters*. Para cada *tuner* habilitamos la opción *RTP/AVP/TCP transport supported* dentro de las opciones avanzadas (*Advanced Settings*).
 
 ![[TVHeadend_Configuration_2.png]]
 
+Por otro lado, desde el mismo menú también debemos habilitar cada *tuner*.
+
 ![[TVHeadend_Configuration_3.png]]
+#### Creación redes y muxes
+
+En primer lugar, navegamos al menú *Configuration > DVB Inputs > Networks*. Creamos una red con los siguientes parámetros:
+- Enabled: Sí
+- Network name: Astra 19.2E
+- Pre-defined muxes: > 19.2E:Astr
+- Orbital position: 19.2E : Astra 1KR/1L/1M/1N
+
+![[TVHeadend_Configuration_5.png]]
+
+Una vez creada la red, el siguiente paso es asignar dicha red a cada uno de los *tuners*. Para ello, navegamos al menú *Configuration > DVB Inputs > TV Adapter*. Para cada *tuner*, modificamos los siguientes parámetros:
+- Enabled: Sí
+- Networks: Astra 19.2E
+
 
 ![[TVHeadend_Configuration_4.png]]
 
-
-
-![[TVHeadend_Configuration_5.png]]
