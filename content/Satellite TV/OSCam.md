@@ -267,7 +267,7 @@ extended_cw_api               = 1
 boxtype                       = pc
 ```
 
-#### Fichero `/usr/local/etc/oscam.server
+#### Fichero `/usr/local/etc/oscam.server`
 
 Añadimos la configuración del lector remoto al fichero. Se debe rellenar con los datos proporcionados por el proveedor de claves. A continuación se muestra un ejemplo:
 
