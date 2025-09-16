@@ -965,6 +965,10 @@ Con el objetivo de actualizar la valoración de la forma más conservadora, se t
 | **Precio por acción final (GBX)**                    | **1172** | **1631** | **2090** | **2550** |
 | **Precio actual**                                    | **595**  | **595**  | **595**  | **595**  |
 | **Rentabilidad**                                     | **97%**  | **174%** | **251%** | **329%** |
+### Junta General de Accionistas 2025
+
+El [29 de agosto de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1981547&culture=en-GB&val=638936441860996313) se anunció la convocatoria de la Junta General de Accionistas de 2025 el día 24 de septiembre de 2025 a las 10:00. 
+
 ## Referencias
 
 - [Tesis Raging Bull Investments](https://ragingbullinvestments.substack.com/p/an-old-school-leveraged-buyout)
