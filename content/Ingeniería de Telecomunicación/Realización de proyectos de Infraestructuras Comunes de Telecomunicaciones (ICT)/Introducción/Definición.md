@@ -29,3 +29,13 @@ Se entiende por **infraestructura común de telecomunicaciones** para el acces
 - Proporcionar el acceso al servicio de telefonía disponible al público y a los servicios que se puedan prestar a través de dicho acceso, mediante la infraestructura necesaria que permita la conexión de las distintas viviendas o locales a las redes de los operadores habilitados.
 
 - Proporcionar el acceso a los servicios de telecomunicaciones prestados por operadores de redes de telecomunicaciones por cable, operadores del servicio de acceso fijo inalámbrico (SAFI) y otros titulares de licencias individuales que habiliten para el establecimiento y explotación de redes públicas de telecomunicaciones que se pretendan prestar por infraestructuras diferentes a las utilizadas para el acceso a los servicios contemplados en el apartado b) anterior, en adelante y a los solos efectos del presente reglamento, servicios de telecomunicaciones de banda ancha, mediante la infraestructura necesaria que permita la conexión de las distintas viviendas o locales a las redes de los operadores habilitados.
+
+## Proyecto de ICT
+
+Al proyecto que especifica cómo debe ser la infraestructura en un caso concreto le llamaremos “**Proyecto de ICT**”. Vamos a ver ahora, muy brevemente, el aspecto general de una ICT. En el caso más típico (edificio de estructura vertical con varias viviendas por planta) tendremos una instalación de RTV que irá “de arriba hacia abajo” y otra de STDP/TBA “de abajo hacia arriba”. Teniendo en cuenta esta importante diferencia, ambas estructuras de cableado se dividirán en tres partes con funciones diferenciadas:
+
+- **Elementos de captación**: antenas o acometidas de cable, situadas en el tejado para la televisión y enterradas en la acera para servicio fijo (según la norma es posible el SAFI: Servicio de Acceso Fijo Inalámbrico, pero en la práctica nunca se utiliza).
+- **Elementos de acondicionamiento**: elementos necesarios para preparar las señales antes de su distribución. En el caso de RTV se tratará de amplificadores que aumentan la potencia de las señales para que éstas lleguen adecuadamente a las tomas (en este caso se al conjunto de amplificadores se le llama cabecera). En los servicios fijos se habla de “Punto de Interconexión” ya que es donde se une la red de los operadores con la interna del edificio. Si es necesario dotar al punto de interconexión de algún equipo especial (amplificador, conversor…) será responsabilidad del operador instalarlo y mantenerlo.
+- **Red de cableado**: va a llevar la señal a todas las tomas, según el servicio y las características del edificio tendrá forma de árbol o de estrella.
+
+![[Elementos_captacion_Antena_Yagi.png]]
