@@ -39,3 +39,11 @@ Al proyecto que especifica cómo debe ser la infraestructura en un caso concreto
 - **Red de cableado**: va a llevar la señal a todas las tomas, según el servicio y las características del edificio tendrá forma de árbol o de estrella.
 
 ![[Elementos_captacion_Antena_Yagi.png]]
+
+La última parte se suele dividir en otras tres (seguimos la nomenclatura de la norma de ICTs):
+
+- **Red de distribución**: tronco principal, baja (o sube) en vertical desde la cabecera o punto de interconexión. A veces, puede ser horizontal, por ejemplo en urbanizaciones de chalets.
+- **Red de dispersión**: son las “ramas principales” que parten del tronco para llevar la señal a cada “unidad”. En ICT’s las unidades son viviendas o locales.
+- **Red de usuario**: en cada unidad (vivienda o local) se distribuye la señal, generalmente en estrella desde un punto de entrada (PAU: Punto de Acceso al Usuario).
+
+![[Esquema_general_ICT.png]]
