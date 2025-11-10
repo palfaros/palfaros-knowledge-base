@@ -17,5 +17,15 @@ Esta norma se ha aplicado con éxito desde su aparición y ha sido modificada do
 - Es necesario un proyecto escrito, firmado por un ingeniero o ingeniero técnico, detallando cómo va a ser la instalación. El proyecto puede además verificarse mediante una entidad verificadora autorizada (como, por ejemplo, los colegios de ingeniería). Sin proyecto, no se concede licencia de obra.
 - La empresa instaladora debe estar inscrita en un registro de empresas autorizadas.
 - Si hay más de 20 vecinos en la comunidad (incluyendo locales comerciales u oficinas), hay que realizar medidas y firmar una certificación del proyecto.
-- Los servicios obligatorios se dividen en: RTV (Radio y Televisión terrenas y televisión vía satélite), STDP (Servicio de Telefonía Disponible al Público) y TBA (Telecomunicaciones de Banda Ancha).
+- Los servicios obligatorios se dividen en: RTV (Radio y Televisión terrenales y televisión vía satélite), STDP (Servicio de Telefonía Disponible al Público) y TBA (Telecomunicaciones de Banda Ancha).
 - En la última revisión de la norma (2011), STDP y TBA comparten cableado.
+
+## Definición oficial de ICT
+
+Se entiende por **infraestructura común de telecomunicaciones** para el acceso a los servicios de telecomunicación la que exista o se instale en los inmuebles comprendidos en el ámbito de aplicación de este reglamento para cumplir, como mínimo, las siguientes funciones:
+
+- La captación y adaptación de las señales de radiodifusión sonora y televisión terrenales y su distribución hasta puntos de conexión situados en las distintas viviendas o locales, y la distribución de las señales de radiodifusión sonora y televisión por satélite hasta los citados puntos de conexión. Las señales de radiodifusión sonora y de televisión terrenales susceptibles de ser captadas, adaptadas y distribuidas serán las contempladas en el apartado 4.1.6 del anexo I de este reglamento _(R.D. 346/2011)_, difundidas por las entidades habilitadas dentro del ámbito territorial correspondiente.
+
+- Proporcionar el acceso al servicio de telefonía disponible al público y a los servicios que se puedan prestar a través de dicho acceso, mediante la infraestructura necesaria que permita la conexión de las distintas viviendas o locales a las redes de los operadores habilitados.
+
+- Proporcionar el acceso a los servicios de telecomunicaciones prestados por operadores de redes de telecomunicaciones por cable, operadores del servicio de acceso fijo inalámbrico (SAFI) y otros titulares de licencias individuales que habiliten para el establecimiento y explotación de redes públicas de telecomunicaciones que se pretendan prestar por infraestructuras diferentes a las utilizadas para el acceso a los servicios contemplados en el apartado b) anterior, en adelante y a los solos efectos del presente reglamento, servicios de telecomunicaciones de banda ancha, mediante la infraestructura necesaria que permita la conexión de las distintas viviendas o locales a las redes de los operadores habilitados.
