@@ -20,3 +20,12 @@ A continuación presentamos la definición de algunos de los términos más util
 - **Canalización Principal**: conjunto de tubos por los que discurrirán los cables troncales de la ICT. Generalmente, une el RITS con el RITI y debe pasar cerca de todos los usuarios.
 - **Canalización Secundaria**: conjunto de tubos que unen la canalización principal con los usuarios.
 - **Canalización de Usuario**: conjunto de tubos que discurren por dentro de una vivienda o local y que llevan a las diferentes tomas de cada servicio.
+- **RS: Registro Secundario**. Caja de conexiones principal de cada planta de una edificación. El RS se utiliza para unir la canalización principal con las canalizaciones o segregaciones que llevarán a las viviendas individuales (canalizaciones secundarias). Lo normal es uno por planta. En instalaciones de canalización principal horizontal tendremos uno por grupo de usuarios cercanos (típicamente uno por 2 o 4 chalets).
+	
+	![[Registro_secundario.png]]
+	
+- **RTR: Registro de Terminación de Red**. Caja que separa la red comunitaria de la de cada usuario. Normalmente, entrará una canalización secundaria y saldrán varios tubos hacia las diferentes tomas. En cada vivienda o local puede haber dos RTR’s (uno para cada servicio fundamental, ver RTV y STDP/TBA a continuación) o uno sólo (de dimensiones mayores) que integra ambos servicios. A continuación se muestran las imágenes de un RTR individual y un doble RTR (ambos empotrados).
+	
+	![[Registro_Terminación_Red.png]]
+	
+- **PAU: Punto de Acceso al Usuario**. Dispositivo que se instala DENTRO de un RTR. Va a haber uno para RTV y otro para cada tipo de cableado posible en STDP/TBA (hay cuatro opciones diferentes). La normativa especifica cómo debe de ser el PAU para cada servicio. En general, el PAU es la “frontera eléctrica” entre el cableado comunitario y el de usuario (el RTR es una caja y delimita canalizaciones; el PAU es un dispositivo y separa cables). Los PAU’s están definidos para servir de “medio de corte y punto de prueba”, esto es: debe ser posible “desconectar al usuario” y comprobar si el servicio llega hasta el PAU (fundamental para detectar averías). Muchos textos sobre ICT’s (incluida la norma oficial) hablan de “número de PAU’s de una ICT” para referirse al número total de usuarios: viviendas + locales.
