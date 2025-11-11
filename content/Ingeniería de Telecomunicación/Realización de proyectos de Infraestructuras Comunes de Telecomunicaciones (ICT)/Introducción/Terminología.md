@@ -29,7 +29,7 @@ A continuación presentamos la definición de algunos de los términos más util
 	![[Registro_Terminación_Red.png]]
 	
 - **PAU: Punto de Acceso al Usuario**. Dispositivo que se instala DENTRO de un RTR. Va a haber uno para RTV y otro para cada tipo de cableado posible en STDP/TBA (hay cuatro opciones diferentes). La normativa especifica cómo debe de ser el PAU para cada servicio. En general, el PAU es la “frontera eléctrica” entre el cableado comunitario y el de usuario (el RTR es una caja y delimita canalizaciones; el PAU es un dispositivo y separa cables). Los PAU’s están definidos para servir de “medio de corte y punto de prueba”, esto es: debe ser posible “desconectar al usuario” y comprobar si el servicio llega hasta el PAU (fundamental para detectar averías). Muchos textos sobre ICT’s (incluida la norma oficial) hablan de “número de PAU’s de una ICT” para referirse al número total de usuarios: viviendas + locales.
-- **BAT: Base de Acceso Terminal**. Toma de usuario, habrá diferentes tomas según servicio y según tipo de cableado de STDP/TBA.*
+- **BAT: Base de Acceso Terminal**. Toma de usuario, habrá diferentes tomas según servicio y según tipo de cableado de STDP/TBA.
 	
 	![[Tomas_Usuario.png]]
 	
