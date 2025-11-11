@@ -2,6 +2,8 @@
 title: Terminología
 date: 2025-11-11
 ---
+## Elementos de la instalación
+
 A continuación presentamos la definición de algunos de los términos más utilizados en el ámbito de las ICT’s. Muchos de ellos son siglas, y su utilización en la normativa, así como en otros documentos relacionados, es tan habitual que es conveniente conocerlos cuanto antes. Muchas veces, los principiantes en este tema se sienten muy confundidos por la cantidad de términos nuevos. Debemos tener claro que se trata de conceptos muy simples pero muy específicos e incluso al experto en telecomunicaciones le resultan desconocidos si nunca ha tocado el tema particular de los proyectos de ICT. Intentaremos presentarlos por orden de importancia.
 
 - **ICT**: **Infraestructura Común de Telecomunicaciones**. Conjunto de instalaciones que permiten que los usuarios de un edificio en régimen de propiedad horizontal (comunidad de propietarios) accedan a los servicios de telecomunicación. Debe permitir la coexistencia de diferentes operadores así como delimitar las áreas de responsabilidad de cada actor. Esto es: definir donde acaba la red del operador y empieza la del edificio y, además, definir donde termina la red comunitaria y empieza la de cada usuario particular (esto será importante a la hora de definir quién debe afrontar las tareas y costes de reparación y mantenimiento).
