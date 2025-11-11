@@ -11,3 +11,11 @@ A continuación presentamos la definición de algunos de los términos más util
 	
 	Cuando no es posible hacer un RITS de obra, podemos comprar un armario metálico homologado (RITM), que ya tiene las dimensiones adecuadas.
 - **RITI: Recinto de Instalaciones de Telecomunicaciones Inferior**. Local o habitáculo situado en la parte inferior del edificio para albergar los equipos necesarios para el acondicionamiento y/o distribución de señales de telecomunicación recibidas por medio de cables canalizados (que, normalmente, llegarán desde la acera, instalados por operadores de servicio fijo). La norma obliga a colocar los elementos de conexión necesarios para la coexistencia de operadores. Si se necesitan equipos de acondicionamiento adicionales serán ellos los responsables de instalarlos y mantenerlos.
+- **RITU: Recinto de Instalaciones de Telecomunicaciones Único**. En algunos casos se pueden integrar RITI y RITS en un solo recinto. El ejemplo típico es una urbanización de chalets. Como regla aproximada, podrá haber un RITU cuando podemos tener cerca al mismo tiempo la arqueta de entrada y las antenas receptoras.
+- **Arqueta de Entrada**: pequeño depósito enterrado FUERA del edificio, muchas veces frente a la puerta principal aunque esto último no es obligatorio. Aquí deben llegar las canalizaciones de los operadores (es su responsabilidad) porque es el punto donde se enlazará su cableado con el del inmueble. A continuación, se muestra una arqueta de entrada prefabricada.
+	![[Arqueta_entrada_prefabricada.png]]
+	
+- **Canalización de Enlace:** canalización que une la parte de captación de señales (arqueta de entrada –abajo- y antenas –arriba-) con el recinto de instalaciones de telecomunicación más cercano (RITI para la arqueta de entrada y RITS para las antenas).
+- **Canalización Principal**: conjunto de tubos por los que discurrirán los cables troncales de la ICT. Generalmente, une el RITS con el RITI y debe pasar cerca de todos los usuarios.
+- **Canalización Secundaria**: conjunto de tubos que unen la canalización principal con los usuarios.
+- **Canalización de Usuario**: conjunto de tubos que discurren por dentro de una vivienda o local y que llevan a las diferentes tomas de cada servicio.
