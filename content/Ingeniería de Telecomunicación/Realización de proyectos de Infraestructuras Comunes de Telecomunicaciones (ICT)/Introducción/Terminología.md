@@ -20,7 +20,7 @@ A continuación presentamos la definición de algunos de los términos más util
 - **Regletas/Paneles de entrada y salida**: La conexión de servicios que entran por la arqueta de entrada se hace mediante regletas (sólo en el par telefónico a 2 hilos) o paneles de entrada/salida. Los operadores instalan sus regletas/paneles de entrada y los unirán mediante hilos puente (o latiguillos) a una regleta/panel de salida instalada como parte de la ICT que les permite llegar a sus usuarios. Nótese que puede haber varios operadores y usuarios de todos ellos dentro de la comunidad por lo que habrá varias regletas/paneles de entrada y sólo uno de salida. Si hay varios tipos de cableado tendremos varios conjuntos de entrada/salida, todos ellos dentro del RITI (o RITU).
 	En la siguiente imagen se muestra un esquema del conexionado de regletas de entrada y salida para telefonía clásica, considerando 2 operadores (A y B).
 	
-	![[Esquema_Regletas_Entrada_Y_Salida_Telefonía_Clásica_2_Operadores.png]]
+	![[Esquema_Regletas_Telefonía_2_Operadores.png]]
 	
 	Para los cableados de tipo UTP y fibra óptica se utilizan paneles de entrada y salida que son “patch panels” iguales a los que se utilizan en los cableados estructurados en oficinas. En el cableado coaxial debemos dejar coaxiales con conector F macho (conector de antena con rosca) y “coca” (porción de cable sobrante) como parte de salida, la entrada queda a criterio del operador.
 	
