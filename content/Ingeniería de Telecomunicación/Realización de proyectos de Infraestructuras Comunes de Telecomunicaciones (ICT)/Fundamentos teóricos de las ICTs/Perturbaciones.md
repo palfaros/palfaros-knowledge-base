@@ -14,3 +14,32 @@ Normalmente para medir las perturbaciones se utiliza la relación de potencias (
 
 *Si recibimos una señal analógica digitalizada (como la voz en un teléfono móvil), esa señal fue convertida en bits en origen (eso es codificación de fuente) pero ese proceso no está exento de errores (ese error cometido a propósito pero controlado se llama ruido de cuantificación). La secuencia binaria se modula pasando a ser analógica. La recibiremos con cierto ruido (cierta relación C/I) que permitirá demodular los bits con cierta BER. Después se decodificará (se recalcularán los valores del audio analógico). Si la BER es baja (C/I está por debajo del umbral de funcionamiento), la decodificación sólo tendrá el ruido de cuantificación (que se controla para que sea inaudible al oído humano).*
 
+## Aplicación a las instalaciones de ICT
+
+La normativa de ICT hace referencia entre otras a la respuesta amplitud/frecuencia de la instalación definiendo especificaciones de respuesta amplitud/frecuencia en canal a para las señales en función del tipo de modulación (ver apartado 4.4.2. del anexo I del R.D. 346/2011) y fija especificaciones de la respuesta amplitud/frecuencia en banda de la red; concretamente 16dB en la banda de 47 a 862 MHz y 20 dB en la banda de 950 a 2150 MHz (ver apartado 4.4.3. del anexo I del R.D 346/2011).
+
+La primera de las especificaciones (amplitud/frecuencia en canal), no puede ser controlada por el proyectista, sino que es responsabilidad del instalador; sin embargo la segunda especificación si deberá ser un cálculo del proyecto. Haremos los cálculos con un ejemplo:
+
+![[Ejemplo_calculo_respuesta_banda.png]]
+
+Las especificaciones de los equipos instalados son las siguientes:
+
+- Mezclador:
+	
+	|                           |             |
+	| ------------------------- | ----------- |
+	| Banda                     | 15-2150 MHz |
+	| Perdidas de inserción V/U | 4±0,5dB     |
+	| Perdidas de inserción FI  | 4±0,5dB     |
+	
+- Derivador:
+
+	|   |   |
+	|---|---|
+	|Banda|15-2150 MHz|
+	|Nº salidas|2|
+	|Perdidas de derivación V/U|10±0,25dB|
+	|Perdidas de derivación FI|11±0,25dB|
+	|Perdidas de inserción V/U|2±0,25dB|
+	|Perdidas de inserción FI|3±0,25dB|
+
