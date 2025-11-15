@@ -14,7 +14,9 @@ En la siguiente imagen se muestra un ejemplo de gráfica logarítmica, en la que
 
 Cuando en vez de un amplificador tenemos un tramo de cable, éste actuará como atenuador, esto es: transmitirá la señal pero perdiendo potencia. Si dividimos la potencia inicial entre la final obtenemos la atenuación en unidades naturales: a. Y también podemos expresarla en dB’s:
 
-$$A = 10 \log_{10}(a)$$
+$$
+A = 10 \log_{10}(a)
+$$
 
 Una atenuación de 3 dB’s es equivalente a una ganancia de -3 dB’s (igual que deberle 100 euros al banco es lo mismo que tener un saldo de -100).
 
@@ -22,9 +24,13 @@ Una ventaja importante del uso de dB’s es que la “_atenuación en dB’s de 
 
 Hasta ahora hemos visto los dB’s “_adimensionales_” o “_dB’s propiamente dichos_” que miden relaciones entre potencias. Este mismo tipo de dB’s se utiliza para medir la ganancia de las antenas (la capacidad de la antena para reforzar las ondas que recibe o envía según la dirección de las mismas). A veces, nos es más fácil medir el voltaje de una señal que su potencia. Suponiendo que todos los elementos de un sistema tienen la misma impedancia (z) de entrada y de salida (la impedancia de entrada/salida es la impedancia del equivalente Thévenin de un sistema visto desde su entrada/salida, cuando todas son iguales en una cadena de sistemas hablamos de impedancias adaptadas), la potencia de una señal según su voltaje es v2/z. En estas condiciones, si conocemos los voltajes a la entrada (vi) y a la salida (vo) de un amplificador, tendremos:
 
-$$g = \frac{v_o^2 / z}{v_i^2 / z} = \left( \frac{v_o}{v_i} \right)^2$$
+$$
+g = \frac{v_o^2 / z}{v_i^2 / z} = \left( \frac{v_o}{v_i} \right)^2
+$$
 
-$$G = 10 \log_{10}(g) = 10 \log_{10}\left( \frac{v_o}{v_i} \right)^2 = 20 \log_{10}\left( \frac{v_o}{v_i} \right)$$
+$$
+G = 10 \log_{10}(g) = 10 \log_{10}\left( \frac{v_o}{v_i} \right)^2 = 20 \log_{10}\left( \frac{v_o}{v_i} \right)
+$$
 
 De donde viene la conocida regla:
 
@@ -32,6 +38,8 @@ De donde viene la conocida regla:
 
 Como podemos ver en la última afirmación, los dB´s pueden utilizarse para medir valores absolutos de magnitudes y, en este caso, deberemos especificar el “tipo de dB que utilizamos”. Cada tipo implica un valor de referencia. Explicándolo con un ejemplo: para medir potencia (absoluta) con dB’s podemos establecer como referencia pr = 1 W, en este caso la unidad logarítmica se llama dB Watio (dBW) y se calcula así:
 
-$$P(dBW) = 10 \log_{10}\left( \frac{p}{p_r} \right) = 10 \log_{10}\left( \frac{p(W)}{1W} \right) = 10 \log_{10}\left( p(W) \right)$$
+$$
+P(dBW) = 10 \log_{10}\left( \frac{p}{p_r} \right) = 10 \log_{10}\left( \frac{p(W)}{1W} \right) = 10 \log_{10}\left( p(W) \right)
+$$
 
 Podemos verlo como que dBW significa aplicar el logaritmo a la potencia en W o (más correctamente) como que existe una potencia de referencia igual a 1 W que se pone en el divisor para lograr una relación adimensional.
