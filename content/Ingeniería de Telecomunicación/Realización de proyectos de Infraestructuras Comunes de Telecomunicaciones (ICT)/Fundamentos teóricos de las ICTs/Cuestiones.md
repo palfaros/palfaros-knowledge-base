@@ -22,3 +22,16 @@ date: 2025-11-15
 
 **Solución**: 0 dBV,
 
+## Amplificadores y Atenuadores
+
+Dada una atenuación del cable coaxial de 0'15dB/m y los datos del siguiente esquema, calcula el nivel de señal a la salida
+
+![[Ejercicio_Amplificadores_Atenuadores.png]]
+
+**Solución**: 
+1. El nivel de la señal a la salida será 50dBµV+40dB-3dB-12dB-(atenuación del cable). 
+2. La atenuación del cable será (4+3+3+10)·0,15dB/m=3dB
+3. Por tanto el nivel de señal resultante es de **72dBµv**
+
+
+
