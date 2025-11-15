@@ -43,3 +43,14 @@ P(dBW) = 10 \log_{10}\left( \frac{p}{p_r} \right) = 10 \log_{10}\left( \frac{p(W
 $$
 
 Podemos verlo como que dBW significa aplicar el logaritmo a la potencia en W o (más correctamente) como que existe una potencia de referencia igual a 1 W que se pone en el divisor para lograr una relación adimensional.
+
+A continuación, presentamos una tabla resumen de los diferentes tipos de dB utilizados en telecomunicaciones:
+
+![[Tipos_dBs_Telecomunicaciones.png]]
+
+Una de las más utilizadas es el dBm (al que, casi nunca, se le llama dBmW) para la potencia de señales recibidas.
+
+Por último, un par de detalles sobre las unidades logarítmicas (útiles para intentar evitar errores comunes):
+- No se pueden aplicar a cantidades con signo negativo (en todo caso al valor absoluto).
+- Un valor nulo de una unidad logarítmica implica un valor 1 (o igual a la referencia) de la variable en unidades naturales.
+- Un valor negativo de una unidad logarítmica implica un valor menor que 1 (o menor que la referencia) de la variable en unidades naturales.
