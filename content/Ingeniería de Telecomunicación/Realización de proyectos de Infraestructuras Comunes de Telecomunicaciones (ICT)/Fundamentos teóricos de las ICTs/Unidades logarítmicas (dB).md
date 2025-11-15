@@ -77,4 +77,4 @@ $$
 
 Este último ejemplo intenta introducirnos el siguiente concepto:
 
-*En unidades naturales, para convertir múltiplos y submúltiplos, se multiplica por potencias de 10 (tal vez de exponente negativo). En unidades logarítmicas **SE SUMAN MÚLTIPLOS DE 10** (tal vez negativos).*
+*En unidades naturales, para convertir múltiplos y submúltiplos, se multiplica por potencias de 10 (tal vez de exponente negativo). En unidades logarítmicas **SE SUMAN MÚLTIPLOS DE 10** (tal vez negativos). En el caso de tensión en unidades logarítmicas **SE SUMAN MÚLTIPLOS DE 20**.
