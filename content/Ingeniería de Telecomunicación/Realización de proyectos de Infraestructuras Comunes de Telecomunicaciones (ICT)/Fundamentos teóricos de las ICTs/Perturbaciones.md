@@ -25,7 +25,7 @@ La primera de las especificaciones (amplitud/frecuencia en canal), no puede ser 
 Las especificaciones de los equipos instalados son las siguientes:
 
 - Mezclador:
-	
+
 	|                           |             |
 	| ------------------------- | ----------- |
 	| Banda                     | 15-2150 MHz |
@@ -33,7 +33,7 @@ Las especificaciones de los equipos instalados son las siguientes:
 	| Perdidas de inserción FI  | 4±0,5dB     |
 	
 - Derivador:
-
+	
 	|   |   |
 	|---|---|
 	|Banda|15-2150 MHz|
@@ -43,3 +43,41 @@ Las especificaciones de los equipos instalados son las siguientes:
 	|Perdidas de inserción V/U|2±0,25dB|
 	|Perdidas de inserción FI|3±0,25dB|
 
+- Repartidor:
+	
+	|   |   |
+	|---|---|
+	|Banda|15-2150 MHz|
+	|Nº salidas|3|
+	|Perdidas de inserción V/U|5±0,25dB|
+	|Perdidas de inserción V/U|6±0,25dB|
+	
+- PAU:
+	
+	|   |   |
+	|---|---|
+	|Banda|15-2150 MHz|
+	|Perdidas de inserción V/U|1±0dB|
+	|Perdidas de inserción FI|1,5±0dB|
+	
+- Toma de usuario:
+	
+	|   |   |
+	|---|---|
+	|Banda|15-2150 MHz|
+	|Perdidas de inserción V/U|2±0,5dB|
+	|Perdidas de inserción FI|3±0,5dB|
+	
+- Cable coaxial:
+	
+	|   |   |
+	|---|---|
+	|Atenuación a 47 MHz|0,05dB/m|
+	|Atenuación a 862 MHz|0,19dB/m|
+	|Atenuación a 950 MHz|0,20dB/m|
+	|Atenuación a 2150 MHz|0,33dB/m|
+	
+
+Calculamos la respuesta amplitud/frecuencia de toda la red:
+
+Primero calculamos la atenuación total del cable coaxial. La longitud total será de 26 metros y la atenuación en los extremos de cada una de las bandas será:
