@@ -78,6 +78,28 @@ Las especificaciones de los equipos instalados son las siguientes:
 	|Atenuación a 2150 MHz|0,33dB/m|
 	
 
-Calculamos la respuesta amplitud/frecuencia de toda la red:
+**Calculamos la respuesta amplitud/frecuencia de toda la red**:
 
-Primero calculamos la atenuación total del cable coaxial. La longitud total será de 26 metros y la atenuación en los extremos de cada una de las bandas será:
+Primero **calculamos la atenuación total del cable coaxial**. La longitud total será de 26 metros (3+5+3+5+10) y la atenuación en los extremos de cada una de las bandas será:
+- Atenuación a 47 MHz: 0,05 dB/m · 26 m = 1,3 dB
+- Atenuación a 862 MHz: 0,19 dB/m · 26 m = 4,94 dB
+- Atenuación a 950 MHz: 0,20 dB/m · 26 m = 5,2 dB
+- Atenuación a 2150 MHz: 0,33 dB/m · 26 m = 8,58 dB
+
+La respuesta amplitud/frecuencia (rizado) en la banda producida por el comportamiento del cable será entonces:
+- Banda 47-862 MHz: 3,64 dB
+- Banda 950-2150MHz: 3,38 dB
+
+El **rizado producido por los elementos de distribución en el peor caso**, esto es que no se compensen entre si será:
+ - Banda 47-862 MHz: 0,5 dB (Mezclador) + 0,25 dB (Derivador 1) + 0,25 dB (Derivador 2) + 0 dB (PAU) + 0,25 dB (Repartidor) + 0,5 dB (Toma de Usuario) = ± 1,75 dB
+- Banda 950-2150MHz: 0,5 dB (mezclador) + 0,25 dB (derivador 1) + 0,25 dB (derivador 2) + 0 dB (PAU) + 0,25 dB (Repartidor) + 0,5 dB (Toma de Usuario) = ± 1,75 dB
+
+El rizado total se calculará como:
+
+$$
+Rizado Total=Rizado Cable+2 · Rizado Distribucion
+$$
+
+**Con lo que los rizados totales serán:**
+- **Banda 47-862 MHz: 3,64 dB + 2 · 1,75 dB = 7,14 dB (<16 dB)**
+- **Banda 950-2150MHz: 3,38 dB + 2 · 1,75 dB = 6,88 dB (<20 dB)**
