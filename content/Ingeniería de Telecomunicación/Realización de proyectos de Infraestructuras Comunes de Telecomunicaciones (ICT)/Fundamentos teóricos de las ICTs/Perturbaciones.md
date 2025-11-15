@@ -92,7 +92,7 @@ La respuesta amplitud/frecuencia (rizado) en la banda producida por el comportam
 
 El **rizado producido por los elementos de distribución en el peor caso**, esto es que no se compensen entre si será:
  - Banda 47-862 MHz: 0,5 dB (Mezclador) + 0,25 dB (Derivador 1) + 0,25 dB (Derivador 2) + 0 dB (PAU) + 0,25 dB (Repartidor) + 0,5 dB (Toma de Usuario) = ± 1,75 dB
-- Banda 950-2150MHz: 0,5 dB (mezclador) + 0,25 dB (derivador 1) + 0,25 dB (derivador 2) + 0 dB (PAU) + 0,25 dB (Repartidor) + 0,5 dB (Toma de Usuario) = ± 1,75 dB
+- Banda 950-2150MHz: 0,5 dB (Mezclador) + 0,25 dB (Derivador 1) + 0,25 dB (Derivador 2) + 0 dB (PAU) + 0,25 dB (Repartidor) + 0,5 dB (Toma de Usuario) = ± 1,75 dB
 
 El rizado total se calculará como:
 
