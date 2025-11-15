@@ -23,6 +23,7 @@ Hasta ahora hemos visto los dB’s “_adimensionales_” o “_dB’s propiamen
 $$g = \frac{v_o^2 / z}{v_i^2 / z} = \left( \frac{v_o}{v_i} \right)^2$$
 
 $$G = 10 \log_{10}(g) = 10 \log_{10}\left( \frac{v_o}{v_i} \right)^2 = 20 \log_{10}\left( \frac{v_o}{v_i} \right)$$
+
 De donde viene la conocida regla:
 
 *<<Cuando medimos relaciones de potencias o de energías (o potencia, o energía) las unidades logarítmicas se obtienen con **10log10(.)**. Pero, cuando medimos relaciones de tensión, corriente, campo eléctrico, campo magnético (o valores absolutos de dichas magnitudes) utilizaremos la expresión **20log10(.)**>>*.
@@ -30,4 +31,5 @@ De donde viene la conocida regla:
 Como podemos ver en la última afirmación, los dB´s pueden utilizarse para medir valores absolutos de magnitudes y, en este caso, deberemos especificar el “tipo de dB que utilizamos”. Cada tipo implica un valor de referencia. Explicándolo con un ejemplo: para medir potencia (absoluta) con dB’s podemos establecer como referencia pr = 1 W, en este caso la unidad logarítmica se llama dB Watio (dBW) y se calcula así:
 
 $$P(dBW) = 10 \log_{10}\left( \frac{p}{p_r} \right) = 10 \log_{10}\left( \frac{p(W)}{1W} \right) = 10 \log_{10}\left( p(W) \right)$$
+
 Podemos verlo como que dBW significa aplicar el logaritmo a la potencia en W o (más correctamente) como que existe una potencia de referencia igual a 1 W que se pone en el divisor para lograr una relación adimensional.
