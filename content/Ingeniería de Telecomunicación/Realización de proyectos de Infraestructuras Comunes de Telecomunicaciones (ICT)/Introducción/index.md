@@ -7,4 +7,4 @@ date: 2025-11-10
 - [[Definición]]
 - [[Legislación aplicable]]
 - [[Terminología]]
-- [[Cuestiones]]
+- [[content/Ingeniería de Telecomunicación/Realización de proyectos de Infraestructuras Comunes de Telecomunicaciones (ICT)/Introducción/Cuestiones]]
