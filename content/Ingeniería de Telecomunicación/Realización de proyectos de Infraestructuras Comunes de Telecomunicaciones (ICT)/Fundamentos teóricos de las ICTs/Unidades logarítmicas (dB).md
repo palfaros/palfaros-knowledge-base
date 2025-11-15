@@ -4,7 +4,9 @@ date: 2025-11-15
 ---
 En telecomunicaciones (igual que en acústica) son muy habituales las unidades logarítmicas (decibelios o dB). El dB apareció como una forma conveniente de representar las gráficas de ganancia de los amplificadores en las que se debían representar valores muy bajos y otros muy altos en los mismos ejes. La ganancia de un amplificador es un cociente entre potencias (por tanto, a-dimensional), normalmente dividiremos la potencia de la señal de salida por la de entrada obteniendo un número que me indica cuánta potencia “añade” el amplificador. Ese número lo llamamos “ganancia en unidades naturales (g). Para expresar dicha ganancia en decibelios calcularemos la ganancia en decibelios G (cuando mezclamos dB’s y unidades naturales es conveniente utilizar el criterio de que las variables en decibelios van en mayúscula y las expresadas en unidades naturales en minúscula):
 
-$$G = 10 \log_{10}(g)$$
+$$
+G = 10 \log_{10}(g)
+$$
 
 En la siguiente imagen se muestra un ejemplo de gráfica logarítmica, en la que se puede apreciar que la ganancia cambia con la frecuencia.
 
