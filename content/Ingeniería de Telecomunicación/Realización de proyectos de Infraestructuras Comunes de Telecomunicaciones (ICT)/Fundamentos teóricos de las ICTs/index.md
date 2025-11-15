@@ -14,3 +14,4 @@ date: 2025-11-12
 - [[Perturbaciones]]
 - [[Intermodulación]]
 - [[Ruido térmico]]
+- [[Cuestiones]]
