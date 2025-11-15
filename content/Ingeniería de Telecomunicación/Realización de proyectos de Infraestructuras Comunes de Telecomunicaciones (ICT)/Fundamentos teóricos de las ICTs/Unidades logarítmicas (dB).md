@@ -54,3 +54,27 @@ Por último, un par de detalles sobre las unidades logarítmicas (útiles para i
 - No se pueden aplicar a cantidades con signo negativo (en todo caso al valor absoluto).
 - Un valor nulo de una unidad logarítmica implica un valor 1 (o igual a la referencia) de la variable en unidades naturales.
 - Un valor negativo de una unidad logarítmica implica un valor menor que 1 (o menor que la referencia) de la variable en unidades naturales.
+
+A veces, puede interesar transformar las fórmulas convencionales (unidades naturales) a dB’s. Por ejemplo, para calcular el campo eléctrico producido por una antena a distancia d, existe la fórmula (unidades naturales y del S.I.):
+
+$$
+e(V/m) = \sqrt{\frac{z_0(\Omega)}{4\pi}}\frac{\sqrt{p_t(W)g}}{d(m)}
+$$
+
+Donde obtenemos el campo e en V/m (unidad del S.I.), z0 es la impedancia radioeléctrica del aire (aproximadamente 120πΩ), pt es la potencia que se “inyecta” a la antena y g la ganancia de la misma (en la dirección que lleva al punto de interés). Esta última variable (g) es adimensional.
+
+Si queremos obtener el campo en dBµV/m podemos transformar la fórmula así:
+
+$$
+E(dB\mu V/m) = 20\log_{10}\left[e(\mu V/m)\right] = 20\log_{10}\left[10^6 e(V/m)\right] = 120 + 20\log_{10}\left[10^6 \sqrt{\frac{z_0(\Omega)}{4\pi}}\frac{\sqrt{p_t(W)g}}{d(m)}\right] = 120 + 10\log_{10}\left[\frac{z_0(\Omega)}{4\pi}\right] + 10\log_{10}\left[p_t(W)\right] + 10\log_{10}\left[g\right] - 20\log_{10}\left[d(m)\right] = 120 + 10\log_{10}\left[\frac{z_0(\Omega)}{4\pi}\right] + P_t(dBW) + G (dB) - 20\log_{10}\left[d(m)\right] 
+$$
+
+Donde vemos que se obtiene una fórmula más simple (sumas y restas en lugar de producto y cociente, desaparecen las potencias…), a condición de expresar en decibelios todas las variables que podamos. Normalmente las potencias que atacan las antenas y la ganancia de las mismas también las tendremos en dB’s porque es la unidad que utilizan los fabricantes en sus manuales. Si tuviéramos la potencia de la antena en dBKW (posible para un emisor de gran potencia, por ejemplo una estación de difusión televisión) podríamos hacer:
+
+$$
+P_t(dBW) = 10\log_{10}\left[p_t(W)\right] = 10\log_{10}\left[10^3 p_t(KW)\right] = 30 + 10\log_{10}\left[p_t(KW)\right] = 30 + P _t(dBKW)
+$$
+
+Este último ejemplo intenta introducirnos el siguiente concepto:
+
+*En unidades naturales, para convertir múltiplos y submúltiplos, se multiplica por potencias de 10 (tal vez de exponente negativo). En unidades logarítmicas **SE SUMAN MÚLTIPLOS DE 10** (tal vez negativos).*
