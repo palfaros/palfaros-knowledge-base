@@ -61,7 +61,7 @@ $$
 e(V/m) = \sqrt{\frac{z_0(\Omega)}{4\pi}}\frac{\sqrt{p_t(W)g}}{d(m)}
 $$
 
-Donde obtenemos el campo e en V/m (unidad del S.I.), z<sub>0</sub> es la impedancia radioeléctrica del aire (aproximadamente 120πΩ), pt es la potencia que se “inyecta” a la antena y g la ganancia de la misma (en la dirección que lleva al punto de interés). Esta última variable (g) es adimensional.
+Donde obtenemos el campo e en V/m (unidad del S.I.), z<sub>0</sub> es la impedancia radioeléctrica del aire (aproximadamente 120πΩ), p<sub>t</sub> es la potencia que se “inyecta” a la antena y g la ganancia de la misma (en la dirección que lleva al punto de interés). Esta última variable (g) es adimensional.
 
 Si queremos obtener el campo en dBµV/m podemos transformar la fórmula así:
 
