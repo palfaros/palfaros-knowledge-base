@@ -37,7 +37,7 @@ Dada una atenuación del cable coaxial de 0'15dB/m y los datos del siguiente esq
 
 Supongamos que se han instalado amplificadores con nivel de salida máximos:
 - Amplificadores monocanales: S<sub>max</sub>=114 dBμV (S/I=35dB).
-- Amplificadores FI (950-2150 MHz): S<sub>max</sub>=114 dBμV (S/I=35dB).
+- Amplificadores FI (950-2150 MHz): S<sub>max</sub>=120 dBμV (S/I=35dB).
 
 Vamos a suponer que después de haber calculado la atenuación de la red de distribución obtenemos que los amplificadores tienen que tener los siguientes niveles de salida:
 - Banda UHF: 105 dBμV.
