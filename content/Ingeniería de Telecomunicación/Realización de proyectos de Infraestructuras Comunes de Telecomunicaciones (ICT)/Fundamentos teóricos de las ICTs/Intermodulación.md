@@ -50,6 +50,7 @@ Vamos a ver una aplicación concreta a las instalaciones ICT.
 Proponemos a continuación  un procedimiento para calcular la no linealidad de la instalación asegurando un funcionamiento correcto:
 1. Suponemos que la especificación de señal máxima de los amplificadores que suministran los fabricantes corresponde a una C/I de 35 dB tanto para la TDT como en la banda FI. Lo haremos constar así en el pliego de condiciones.
 2. Una vez que hayamos calculado el nivel de salida en que estos trabajan, que dependerá de cada instalación objeto de estudio, calcularemos la S/I utilizando las expresiones siguientes (Son válidas para señales analógicas pero las extrapolamos a la TDT con objeto de poder realizar el cálculo de la especificación del reglamento):
+	
 	En el caso de amplificadores monocanales:
 	$$
 	C/I (dB) = (C/I)_{max} + 2 (C_{max}(dB \mu V) - C_{amp}(dB \mu V))
