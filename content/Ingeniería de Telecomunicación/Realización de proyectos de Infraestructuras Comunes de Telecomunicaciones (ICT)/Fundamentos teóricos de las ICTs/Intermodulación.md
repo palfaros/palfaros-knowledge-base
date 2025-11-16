@@ -62,7 +62,7 @@ Proponemos a continuación  un procedimiento para calcular la no linealidad de 
 	- C<sub>max</sub>(dBµV): Señal máxima de salida del amplificador especificada por el fabricante.
 	- C<sub>amp</sub>(dBµV): Nivel de salida del dispositivo que se calcula para cada caso.
 	
-	En el caso de amplificadores que procesan N canales:
+	En el caso de amplificadores que procesan N canales simultáneamente, la intermodulación empeora, ya que hay más combinaciones posibles. Por ello, se introduce un factor de corrección que reduce la relación señal a intermodulación por un término dependiente del número de canales (cuanto mayor es el número de canales, mayor es este término):
 	$$
 	C/I (dB) = (C/I)_{max} + 2 (C_{max}(dB \mu V) - 7,5 \log_{10}(N-1) - C_{amp}(dB \mu V))
 	$$
