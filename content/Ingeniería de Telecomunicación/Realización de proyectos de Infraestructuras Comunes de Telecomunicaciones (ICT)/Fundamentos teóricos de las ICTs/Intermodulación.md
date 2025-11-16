@@ -28,3 +28,19 @@ $$
 $$
 
 Vemos que, en este ejemplo simple, ya aparecen armónicos en continua (frecuencia cero, 0·f<sub>1</sub> y 0·f<sub>2</sub>, la frecuencia cero se traduce en una constante) y en frecuencias dobles (2·f<sub>1</sub> y 2·f<sub>2</sub>). También tenemos productos de intermodulación en las frecuencias suma y resta (f<sub>1</sub>+f<sub>2</sub> y f<sub>1</sub>-f<sub>2</sub>). En general, si en las no linealidades aparece una potencia m, tendemos armónicos hasta el múltiplo m (hasta orden m) y todas las combinaciones m<sub>1</sub>·f<sub>1</sub>±m<sub>2</sub>·f<sub>2</sub> donde m<sub>1</sub>+m<sub>2</sub>≤m (hasta orden m).
+
+En un caso real, las frecuencias f<sub>1</sub> y f<sub>2</sub> corresponderán a las portadoras de dos canales del mismo servicio que se están amplificando juntas (por ejemplo dos canales de televisión que se amplifican en el mismo equipo por ser de frecuencias cercanas). En este caso las peores consecuencias de la distorsión serán los productos de intermodulación de orden impar del tipo: (n+1)·f<sub>1</sub>-n·f<sub>2</sub>, ya que al ser f<sub>1</sub> y f<sub>2</sub> parecidas, el resultado será una frecuencia similar a ambas, por tanto difícil de eliminar. Los amplificadores suelen estar dotados de filtros que eliminan las frecuencias fuera de la banda de interés pero si la frecuencia distorsionante está en esa banda no será eliminada.
+
+De todas formas, en este ejemplo podemos intuir que el problema no es muy grave ya que la señal de interés (multiplicada por 100) es 1000 veces mayor que las distorsionantes. Para cuantificar esto se define la relación portadora/intermodulación:
+
+$$
+(C/IM)_{dB} = 10 \log_{10}\frac{Potencia\_Señal\_Principal}{Potencia\_Intermodulación\_y\_Armónicos}
+$$
+
+Sabiendo que la potencia de una sinusoide de amplitud A es A<sup>2</sup>/2 y que la potencia de la suma de sinusoides es la suma de potencias (algo que no ocurre para otras señales), en el ejemplo tendremos (Atención: la potencia de una constante C es C<sup>2</sup>).
+
+$$
+(C/IM)_{dB} = 10 \log_{10}\frac{\frac{1}{2}(100^2+100^2)}{0.1^2+\frac{1}{2}(0.05^2+0.05^2+0.1^2+0.1^2)} = 56.48 dB
+$$
+
+Un valor apreciable… seguramente suficiente para que cualquier aplicación (modulación) resista la perturbación, aunque habría que asegurarse consultando las especificaciones del tipo de señal en cuestión.
