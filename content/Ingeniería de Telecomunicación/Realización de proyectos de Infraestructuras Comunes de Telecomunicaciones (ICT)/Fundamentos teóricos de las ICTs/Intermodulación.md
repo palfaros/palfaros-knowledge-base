@@ -55,6 +55,11 @@ Proponemos a continuación  un procedimiento para calcular la no linealidad de 
 	C/I (dB) = (C/I)_{max} + 2 (C_{max}(dB \mu V) - C_{amp}(dB \mu V))
 	$$
 	
+	Donde:
+		(C/I)<sub>max</sub> = 35 dB (u otro valor si disponemos de información adicional del fabricante)	
+		C<sub>max</sub>(dBµV): Señal máxima de salida del amplificador especificada por el fabricante
+		C<sub>amp</sub>(dBµV): Nivel de salida del dispositivo que se calcula para cada caso
+	
 	En el caso de amplificadores que procesan N canales:
 	$$
 	C/I (dB) = (C/I)_{max} + 2 (C_{max}(dB \mu V) - 7,5 \log_{10}(N-1) - C_{amp}(dB \mu V))
