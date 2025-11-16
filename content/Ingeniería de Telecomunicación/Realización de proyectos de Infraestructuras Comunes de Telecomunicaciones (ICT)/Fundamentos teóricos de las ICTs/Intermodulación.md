@@ -66,6 +66,7 @@ Proponemos a continuación  un procedimiento para calcular la no linealidad de 
 	C/I (dB) = (C/I)_{max} + 2 (C_{max}(dB \mu V) - 7,5 \log_{10}(N-1) - C_{amp}(dB \mu V))
 	$$
 	
+	
 3. Comprobar que la S/I por canal resultante está por encima de la especificación de la ICT (ver apartado 4.5 del anexo I de la norma).
 4. Por último, señalaremos el caso de la intermodulación producida por elementos en cascada. Este caso puede darse en una ICT cuando colocamos amplificación intermedia; ya que en este caso, tanto el amplificador de cabecera, como el amplificador intermedio pueden contribuir a degradar este parámetro. Si quisiésemos calcular la intermodulación del sistema resultante podemos emplear la siguiente expresión:
 	$$
