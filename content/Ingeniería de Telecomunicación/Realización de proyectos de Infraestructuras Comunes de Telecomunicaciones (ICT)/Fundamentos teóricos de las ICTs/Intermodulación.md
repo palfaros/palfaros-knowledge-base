@@ -56,5 +56,9 @@ Proponemos a continuación  un procedimiento para calcular la no linealidad de 
 	$$
 	
 	En el caso de amplificadores que procesan N canales:
-
-3. Comprobar que la S/I por canal resultante está por encima de la especificación de la ICT (ver apartado 4.5 del anexo I de la norma).
+	
+$$
+	C/I (dB) = (C/I)_{max} + 2 (C_{max}(dB \mu V) - 7.5\log_{10}(N-1)- C_{amp}(dB \mu V))
+	$$
+	
+1. Comprobar que la S/I por canal resultante está por encima de la especificación de la ICT (ver apartado 4.5 del anexo I de la norma).
