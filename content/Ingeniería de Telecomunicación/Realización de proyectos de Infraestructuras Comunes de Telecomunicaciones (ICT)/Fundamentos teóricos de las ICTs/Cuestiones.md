@@ -33,5 +33,16 @@ Dada una atenuación del cable coaxial de 0'15dB/m y los datos del siguiente esq
 2. La atenuación del cable será (4+3+3+10)·0,15dB/m=3dB
 3. Por tanto el nivel de señal resultante es de **72dBµv**
 
+## Intermodulación
 
+Supongamos que se han instalado amplificadores con nivel de salida máximos:
+- Amplificadores monocanales: S<sub>max</sub>=114 dBμV (S/I=35dB).
+- Amplificadores FI (950-2150 MHz): S<sub>max</sub>=114 dBμV (S/I=35dB).
 
+Vamos a suponer que después de haber calculado la atenuación de la red de distribución obtenemos que los amplificadores tienen que tener los siguientes niveles de salida:
+- Banda UHF: 105 dBμV.
+- Banda FI: 115 dBμV.
+
+La relación señal/intermodulación será (o portadora/intermodulación si queremos ser estrictos) será por tanto:
+- Banda UHF: S/I = 35 dB + 2 ·  (**114 dBμV** - **105 dBμV**) = 35 dB + 18 dB = **53 dB**
+- Banda FI (suponemos que se amplifican 30 portadoras): S/I = 35 dB + 2 ·  (**120 dBμV** - 7.5log(30-1) - **115 dBμV**) = **35 dB** + 2 ·  (**120 dBμV** - 10.97 - **115 dBμV**) = 35 dB - 11.94 dB  = **23.06 dB**
