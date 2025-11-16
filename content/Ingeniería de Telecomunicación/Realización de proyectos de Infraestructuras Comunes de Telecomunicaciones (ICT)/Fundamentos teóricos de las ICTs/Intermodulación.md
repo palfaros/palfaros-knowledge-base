@@ -56,9 +56,9 @@ Proponemos a continuación  un procedimiento para calcular la no linealidad de 
 	$$
 	
 	Donde:
-		(C/I)<sub>max</sub> = 35 dB (u otro valor si disponemos de información adicional del fabricante).
-		C<sub>max</sub>(dBµV): Señal máxima de salida del amplificador especificada por el fabricante.
-		C<sub>amp</sub>(dBµV): Nivel de salida del dispositivo que se calcula para cada caso.
+	(C/I)<sub>max</sub> = 35 dB (u otro valor si disponemos de información adicional del fabricante).
+	C<sub>max</sub>(dBµV): Señal máxima de salida del amplificador especificada por el fabricante.
+	C<sub>amp</sub>(dBµV): Nivel de salida del dispositivo que se calcula para cada caso.
 	
 	En el caso de amplificadores que procesan N canales:
 	$$
