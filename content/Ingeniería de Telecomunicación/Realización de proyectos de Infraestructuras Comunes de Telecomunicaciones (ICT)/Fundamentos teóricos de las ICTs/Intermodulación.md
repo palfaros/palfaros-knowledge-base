@@ -49,7 +49,8 @@ Vamos a ver una aplicación concreta a las instalaciones ICT.
 
 Proponemos a continuación  un procedimiento para calcular la no linealidad de la instalación asegurando un funcionamiento correcto:
 1. Suponemos que la especificación de señal máxima de los amplificadores que suministran los fabricantes corresponde a una C/I de 35 dB tanto para la TDT como en la banda FI. Lo haremos constar así en el pliego de condiciones.
-2. Una vez que hayamos calculado el nivel de salida en que estos trabajan, que dependerá de cada instalación objeto de estudio, calcularemos la S/I utilizando las expresiones siguientes (Son válidas para señales analógicas pero las extrapolamos a la TDT con objeto de poder realizar el cálculo de la especificación del reglamento):
+2. ¿Qué significa C/I<sub>max</sub> = 35 dB? Los amplificadores generan más distorsión por intermodulación cuanto más alto sea su nivel de salida. **Si el amplificador trabaja a su nivel máximo especificado**, la relación C/I será de 35 dB. Si trabaja a un nivel de salida inferior, dicha relación será más alta, ya que el amplificador introduce una menor distorsión por intermodulación. Por tanto, es necesario conocer el nivel de salida al que trabajarán los amplificadores que se vayan a instalar.
+3. Una vez que hayamos calculado el nivel de salida en que estos trabajan, que dependerá de cada instalación objeto de estudio, calcularemos la S/I utilizando las expresiones siguientes (Son válidas para señales analógicas pero las extrapolamos a la TDT con objeto de poder realizar el cálculo de la especificación del reglamento):
 	
 	En el caso de amplificadores monocanales:
 	$$
@@ -66,8 +67,8 @@ Proponemos a continuación  un procedimiento para calcular la no linealidad de 
 	C/I (dB) = (C/I)_{max} + 2 (C_{max}(dB \mu V) - 7,5 \log_{10}(N-1) - C_{amp}(dB \mu V))
 	$$
 	
-3. Comprobar que la S/I por canal resultante está por encima de la especificación de la ICT (ver apartado 4.5 del anexo I de la norma).
-4. Por último, señalaremos el caso de la intermodulación producida por elementos en cascada. Este caso puede darse en una ICT cuando colocamos amplificación intermedia; ya que en este caso, tanto el amplificador de cabecera, como el amplificador intermedio pueden contribuir a degradar este parámetro. Si quisiésemos calcular la intermodulación del sistema resultante podemos emplear la siguiente expresión:
+4. Comprobar que la S/I por canal resultante está por encima de la especificación de la ICT (ver apartado 4.5 del anexo I de la norma).
+5. Por último, señalaremos el caso de la intermodulación producida por elementos en cascada. Este caso puede darse en una ICT cuando colocamos amplificación intermedia; ya que en este caso, tanto el amplificador de cabecera, como el amplificador intermedio pueden contribuir a degradar este parámetro. Si quisiésemos calcular la intermodulación del sistema resultante podemos emplear la siguiente expresión:
 	$$
 	\frac{1}{\sqrt{(C/I)_{total}}} = \frac{1}{\sqrt{(C/I)_{1}}} + \frac{1}{\sqrt{(C/I)_{2}}}
 	$$
