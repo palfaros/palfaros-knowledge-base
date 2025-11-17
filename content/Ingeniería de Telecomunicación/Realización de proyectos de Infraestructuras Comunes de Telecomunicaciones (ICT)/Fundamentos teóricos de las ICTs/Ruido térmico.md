@@ -2,7 +2,6 @@
 title: Ruido térmico
 date: 2025-11-17
 ---
-
 Existen muchos tipos de ruido: impulsivo (provocado por impulsos eléctricos, por ejemplo cuando se abre un interruptor en un circuito con bobinas se produce un pico de tensión), granalla (provocado por pequeños impulsos producidos dentro de los semiconductores), ruido de antena (ruido captado por una antena junto a la señal de interés), “ruido de interferencia” y “ruido de intermodulación” (realmente son otros fenómenos pero, a veces, se modelan como ruido), ruido de cuantificación (error de una codificación de fuente digital)… Pero el tipo de ruido más importante y que siempre está presente (en cualquier sistema electrónico) es el **ruido térmico**. 
 
 El ruido térmico:
@@ -17,7 +16,7 @@ La temperatura de ruido:
 - Se define como: *Temperatura a la que un cuerpo negro produce una potencia de ruido igual a la de nuestro dispositivo (o canal), en el ancho de banda de interés*.
 - Se mide en grados Kelvin (ºK).
 - Normalmente, no coincide con la temperatura física. De hecho, puede tomar valores muy altos.
-- La potencia de ruido en W se obtiene a partir de la temperatura con la fórmula:  **n=kTB<sub>w</sub>**, donde n es la potencia del ruido en W, T es la temperatura de ruido (ºK), B<sub>w</sub> es el ancho de banda (o rango de frecuencias en el que trabaja el sistema, Hz) y k es la constante de Boltzman: 1,381·10<sup>-23</sup> J/°K ó (W/(Hz · ºK)).
+- La potencia de ruido en W se obtiene a partir de la temperatura con la fórmula:  **n=kTB<sub>w</sub>**, donde n es la potencia del ruido en W, T es la temperatura de ruido (ºK), B<sub>w</sub> es el ancho de banda (o rango de frecuencias en el que trabaja el sistema, Hz) y k es la constante de Boltzman: 1,381·10<sup>-23</sup> J/°K ó (W/(Hz · ºK)). Esta fórmula se usa para calcular la potencia de ruido térmico real que genera cualquier resistencia (o cualquier dispositivo pasivo en general) debido a su temperatura física. En telecomunicaciones, se usa esta misma fórmula para calcular el ruido térmico, que se modela con la temperatura de ruido y no tiene nada que ver con la temperatura física.
 
 Desde el punto de vista del ruido, se puede modelar un sistema de telecomunicación como una fuente de ruido y un conjunto de cuadripolos en cascada. Cada cuadripolo genera ruido interno, esto es: el ruido a la salida será mayor que el ruido a la entrada multiplicado por la ganancia del cuadripolo. 
 
@@ -36,4 +35,30 @@ $$
 $$
 T_{eq} = \frac{n_i}{kB_wg}
 $$
-Donde podemos ver que el ruido a la entrada se puede medir con una temperatura (T<sub>e</sub>) y el cuadripolo presenta una temperatura equivalente de ruido: T<sub>eq</sub> (referida a la entrada siempre). Dichas temperaturas de ruido se “encuentran” en la entrada de cuadripolo y se suman (el ruido es acumulativo). “Medir” T<sub>eq</sub> es problema del fabricante del cuadripolo (comercialmente “módulo amplificador”, “receptor de satélite”…).
+Donde podemos ver que el ruido a la entrada se puede medir con una temperatura (T<sub>e</sub>) y el cuadripolo presenta una temperatura equivalente de ruido: T<sub>eq</sub> (referida a la entrada siempre, por eso se le multiplica la ganancia del cuadripolo). Dichas temperaturas de ruido se “encuentran” en la entrada de cuadripolo y se suman (el ruido es acumulativo). **“Medir” T<sub>eq</sub> es problema del fabricante del cuadripolo*** (comercialmente “módulo amplificador”, “receptor de satélite”…).
+
+Normalmente, los fabricantes no nos van a dar la temperatura equivalente de ruido (T<sub>eq</sub>) sino un número relacionado llamado **“factor de ruido”**. El factor de ruido se define como: “Cociente entre las relaciones señal a ruido en la entrada y en la salida del cuadripolo si la temperatura de ruido a la entrada es T<sub>0</sub> (temperatura de referencia: T<sub>0</sub> =290 °K). La relación del factor de ruido con la temperatura equivalente es muy simple:
+
+$$
+f_r = \left.\frac{\left(\frac{S}{N}\right)_e}{\left(\frac{S}{N}\right)_s}\right|_{T_e = T_0} = \left.\frac{\frac{s_e}{kT_eB_W}}{\frac{s_eg}{k(T_e+T_{eq}B_Wg)}}\right|_{T_e = T_0} = \left.\frac{T_e+T_{eq}}{T_e}\right|_{T_e = T_0} = 1 + \frac{T_{eq}}{T_0}
+$$
+
+El fabricante nos proporciona el factor de ruido en dB: 
+
+$$
+F_r (dB) = 10 · \log_{10}(f_r)
+$$
+
+A partir de él, se puede calcular T<sub>eq</sub> y tenerlo en cuenta para calcular el ruido de todo el sistema.
+
+Aunque generalmente es de poca importancia, los atenuadores (que podemos considerar como cuadripolos) introducen ruido. En este caso existe una fórmula que nos permite calcular su factor de ruido a partir de su temperatura física:
+
+$$
+T_{eq} = T_f(a-1)
+$$
+
+$$
+f_r = 1 + \frac{T_{eq}}{T_0} = 1 + \frac{T_f}{T_0}(a-1)
+$$
+
+Donde T<sub>f</sub> es la temperatura física del atenuador (normalmente algún tipo de cable o guía de onda), a es la atenuación en unidades naturales y T<sub>0</sub> vale 290 ºK. Nótese que si  T<sub>f</sub> es igual a T<sub>0</sub> tendremos  f<sub>r</sub> = a.  T<sub>0</sub> es un valor (290 °K = 17 °C) bastante bueno para aproximar la temperatura media anual en la zona templada.
