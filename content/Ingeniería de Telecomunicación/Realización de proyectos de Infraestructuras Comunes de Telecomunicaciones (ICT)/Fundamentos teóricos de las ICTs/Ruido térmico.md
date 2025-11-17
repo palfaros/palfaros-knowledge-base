@@ -61,4 +61,4 @@ $$
 f_r = 1 + \frac{T_{eq}}{T_0} = 1 + \frac{T_f}{T_0}(a-1)
 $$
 
-Donde T<sub>f</sub> es la temperatura física del atenuador (normalmente algún tipo de cable o guía de onda), a es la atenuación en unidades naturales y T<sub>0</sub> vale 290 ºK. Nótese que si  T<sub>f</sub> es igual a T<sub>0</sub> tendremos  f<sub>r</sub> = a.  T<sub>0</sub> es un valor (290 °K = 17 °C) bastante bueno para aproximar la temperatura media anual en la zona templada.
+Donde T<sub>f</sub> es la temperatura física del atenuador (normalmente algún tipo de cable o guía de onda), a es la atenuación en unidades naturales y T<sub>0</sub> vale 290 ºK. Nótese que, si  T<sub>f</sub> es igual a T<sub>0</sub> tendremos  f<sub>r</sub> = a.  T<sub>0</sub>, es un valor (290 °K = 17 °C) bastante bueno para aproximar la temperatura media anual en la zona templada.
