@@ -18,3 +18,12 @@ La temperatura de ruido:
 - Se mide en grados Kelvin (ºK).
 - Normalmente, no coincide con la temperatura física. De hecho, puede tomar valores muy altos.
 - La potencia de ruido en W se obtiene a partir de la temperatura con la fórmula:  **n=kTB<sub>W</sub>**, donde n es la potencia del ruido en W, T es la temperatura de ruido (ºK), B<sub>W</sub> es el ancho de banda (o rango de frecuencias en el que trabaja el sistema, Hz) y k es la constante de Boltzman: 1,381·10<sup>-23</sup> J/°K ó (W/(Hz · ºK)).
+
+Desde el punto de vista del ruido, se puede modelar un sistema de telecomunicación como una fuente de ruido y un conjunto de cuadripolos en cascada. Cada cuadripolo genera ruido interno, esto es: el ruido a la salida será mayor que el ruido a la entrada multiplicado por la ganancia del cuadripolo. 
+
+A continuación se muestra un modelo de cuadripolo que recibe ruido a su entrada y genera ruido internamente.
+
+![[Modelo_cuadripolo_ruido.png]]
+
+sss
+
