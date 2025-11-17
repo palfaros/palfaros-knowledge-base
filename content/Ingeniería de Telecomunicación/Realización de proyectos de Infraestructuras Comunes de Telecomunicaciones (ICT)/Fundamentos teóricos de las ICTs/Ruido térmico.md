@@ -17,7 +17,7 @@ La temperatura de ruido:
 - Se define como: *Temperatura a la que un cuerpo negro produce una potencia de ruido igual a la de nuestro dispositivo (o canal), en el ancho de banda de interés*.
 - Se mide en grados Kelvin (ºK).
 - Normalmente, no coincide con la temperatura física. De hecho, puede tomar valores muy altos.
-- La potencia de ruido en W se obtiene a partir de la temperatura con la fórmula:  **n=kTB<sub>W</sub>**, donde n es la potencia del ruido en W, T es la temperatura de ruido (ºK), B<sub>W</sub> es el ancho de banda (o rango de frecuencias en el que trabaja el sistema, Hz) y k es la constante de Boltzman: 1,381·10<sup>-23</sup> J/°K ó (W/(Hz · ºK)).
+- La potencia de ruido en W se obtiene a partir de la temperatura con la fórmula:  **n=kTB<sub>w</sub>**, donde n es la potencia del ruido en W, T es la temperatura de ruido (ºK), B<sub>w</sub> es el ancho de banda (o rango de frecuencias en el que trabaja el sistema, Hz) y k es la constante de Boltzman: 1,381·10<sup>-23</sup> J/°K ó (W/(Hz · ºK)).
 
 Desde el punto de vista del ruido, se puede modelar un sistema de telecomunicación como una fuente de ruido y un conjunto de cuadripolos en cascada. Cada cuadripolo genera ruido interno, esto es: el ruido a la salida será mayor que el ruido a la entrada multiplicado por la ganancia del cuadripolo. 
 
@@ -25,5 +25,15 @@ A continuación se muestra un modelo de cuadripolo que recibe ruido a su entrada
 
 ![[Modelo_cuadripolo_ruido.png]]
 
-sss
+El cuadripolo de la figura va a amplificar el ruido que recibe y a añadirle más, por tanto el ruido a la salida será: n<sub>s</sub> = n<sub>e</sub> · g + n<sub>i</sub>. Se habla de “temperatura equivalente de ruido del cuadripolo” como aquélla que nos permite calcular el ruido interno del cuadripolo **REFERIDO A SU ENTRADA**. En la figura n<sub>i</sub> está referido a la salida, a la entrada tendríamos un ruido “virtual” n<sub>i</sub>/g. Nótese que n<sub>i</sub> “también es virtual”, esto es: no sabemos en qué parte del cuadripolo se suma el ruido (para saberlo necesitaríamos hacer un estudio electrónico complejo).
 
+Eso puede ser interesante para diseñadores de amplificadores u otros módulos. En este curso será suficiente conocer el ruido introducido que mide el fabricante. Y que **SIEMPRE** nos lo va a dar referido a su entrada. Las fórmulas de interés aquí son:
+
+$$
+n_s = n_e ·g + n_i = kT_eB_wg + kT_{eq}B_wg = k(T_e+T_{eq})B_wg
+$$
+
+$$
+T_{eq} = \frac{n_i}{kB_wg}
+$$
+Donde podemos ver que el ruido a la entrada se puede medir con una temperatura (T<sub>e</sub>) y el cuadripolo presenta una temperatura equivalente de ruido: T<sub>eq</sub> (referida a la entrada siempre). Dichas temperaturas de ruido se “encuentran” en la entrada de cuadripolo y se suman (el ruido es acumulativo). “Medir” T<sub>eq</sub> es problema del fabricante del cuadripolo (comercialmente “módulo amplificador”, “receptor de satélite”…).
