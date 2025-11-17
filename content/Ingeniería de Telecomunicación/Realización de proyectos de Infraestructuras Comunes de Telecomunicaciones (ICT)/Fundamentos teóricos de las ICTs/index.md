@@ -15,3 +15,4 @@ date: 2025-11-12
 - [[Intermodulación]]
 - [[Ruido térmico]]
 - [[Cuestiones]]
+- [[Ejemplo práctico]]
