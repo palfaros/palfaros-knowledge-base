@@ -43,7 +43,7 @@ $$
 f_r = \left.\frac{\left(\frac{S}{N}\right)_e}{\left(\frac{S}{N}\right)_s}\right|_{T_e = T_0} = \left.\frac{\frac{s_e}{kT_eB_W}}{\frac{s_eg}{k(T_e+T_{eq}B_Wg)}}\right|_{T_e = T_0} = \left.\frac{T_e+T_{eq}}{T_e}\right|_{T_e = T_0} = 1 + \frac{T_{eq}}{T_0}
 $$
 
-El fabricante nos proporciona el factor de ruido en dB: 
+El fabricante nos proporciona el factor de ruido en dB, denominado **figura de ruido**: 
 
 $$
 F_r (dB) = 10 · \log_{10}(f_r)
@@ -62,3 +62,30 @@ f_r = 1 + \frac{T_{eq}}{T_0} = 1 + \frac{T_f}{T_0}(a-1)
 $$
 
 Donde T<sub>f</sub> es la temperatura física del atenuador (normalmente algún tipo de cable o guía de onda), a es la atenuación en unidades naturales y T<sub>0</sub> vale 290 ºK. Nótese que, si  T<sub>f</sub> es igual a T<sub>0</sub> tendremos  f<sub>r</sub> = a.  T<sub>0</sub>, es un valor (290 °K = 17 °C) bastante bueno para aproximar la temperatura media anual en la zona templada.
+
+Cuando tenemos varios cuadripolos conectados en cascada podemos calcular la temperatura de ruido equivalente (o el factor de ruido) del conjunto. Por ejemplo, para el caso más simple (dos cuadripolos):
+
+![[Cuadripolos_cascada.png]]
+
+$$
+n_s = kT_0B_wg_1g_2 + kT_{eq1}B_wg_1g_2 + kT_{eq2}B_wg_2 = kB_wg_1g_2(T_0 + T_{eq1} + \frac{T_{eq2}}{g_1}) = k(T_0 + T_{eq})B_wg_1g_2
+$$
+
+$$
+g = g_1g_2
+$$
+
+$$
+T_{eq} = T_{eq1} + \frac{T_{eq2}}{g_1}
+$$
+
+Existe una fórmula que permite calcular el factor de ruido conjunto para n cuadripolos en cascada: **“Fórmula de Friis”** o “Fórmula de Friis para el Factor de Ruido” (nombre utilizado para distinguirla de otra fórmula, utilizada en radiocomunicación, y que también se debe al ingeniero Harald T. Friis).
+
+$$
+T_{eq} = T_{eq1} + \frac{T_{eq2}}{g_1} + \frac{T_{eq3}}{g_1g_2} + ... + \frac{T_{eqn}}{g_1g_2...g_{n-1}}
+$$
+
+$$
+f_{r} = f_{r1} + \frac{f_{r2}-1}{g_1} + \frac{f_{r3}-1}{g_1g_2} + ... + \frac{f_{rn}-1}{g_1g_2...g_{n-1}}
+$$
+
