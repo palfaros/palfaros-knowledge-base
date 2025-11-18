@@ -18,7 +18,7 @@ En segundo lugar, tenemos los siguientes datos:
 - Cable T-100:
 	- Longitud: 1 m.
 	- Temperatura física: 300 K.
-	- Atenuación: 0,15 dB/m.
+	- Atenuación: 0.15 dB/m.
 - Amplificador Televés 5356:
 	- Ganancia: 40 dB.
 	- Factor de ruido: 4 dB.
@@ -43,4 +43,49 @@ $$
 P_{(3)}(dBW) = P_{(1)}(dBW) -A_1(dB) + G_2 (dB) = -58.75 dBW - 0.15 dB/m · 1 m + 40 dB = -18.9 dBW 
 $$
 
-Ahora debemos tener en cuenta el ruido. Lo vamos a hacer UTILIZANDO TEMPERATURAS y EN UNIDADES NATURALES. Conocemos: la temperatura de entrada T<sub>ant</sub> en el punto (1), si calculamos la del atenuador (T<sub>1</sub>) estará también en el punto (1), y la del amplificador (T2) la obtendremos en el punto (2) (a la entrada). En el punto (3) la temperatura de ruido total será
+Ahora debemos tener en cuenta el ruido. Lo vamos a hacer UTILIZANDO TEMPERATURAS y EN UNIDADES NATURALES. Conocemos: la temperatura de entrada T<sub>ant</sub> en el punto (1), si calculamos la del atenuador (T<sub>1</sub>) estará también en el punto (1), y la del amplificador (T<sub>2</sub>) la obtendremos en el punto (2) (a la entrada). En el punto (3) la temperatura de ruido total será:
+
+$$
+T_{(3)} = T_{(ant)}g_1g_2 + T_1g_1g_2 +T_2g_2
+$$
+
+Donde:
+
+$$
+g_1 = \frac{1}{a_1} = 10^{-0.15/10} = 0.966
+$$
+
+$$
+g_2 = 10^{40/10} = 10000
+$$
+
+Para conocer T<sub>1</sub> aplicamos la fórmula de los atenuadores:
+
+$$
+T_1 = T_f(a_1-1) = 300(10^{0.15/10}-1) = 10.54 K 
+$$
+
+Y para conocer T<sub>2</sub> utilizamos la definición de factor de ruido:
+
+$$
+T_2 = T_0(f_2-1) = 290K · (10^{4/10}-1) = 438.45 K
+$$
+
+Conociendo todas las temperaturas, con la fórmula anterior, ya conocemos la temperatura total de ruido en el punto 3:
+
+$$
+T_{(3)} = T_{(ant)}g_1g_2 + T_1g_1g_2 +T_2g_2 = 50K·0.966·10000 + 10.54K·0.966·10000 + 43845K·10000 = (50K + 10.54K)·0.966·10000 + 438.45K·10000 = 584816.4K + 4384500K = 4969316.4 K = 4.97·10^6 K
+$$
+
+Parece un valor “monstruoso” pero recordemos que no tiene relación con la temperatura física, sólo es una forma de medir el ruido. Y al multiplicar por la constante de Boltzman va a quedar un ruido moderado. La relación CNR (SNR) final ya la podemos calcular, simplemente a la potencia de señal (portadora) en dBW le debemos restar la potencia de ruido en la misma unidad:
+
+$$
+CNR_{(3)}(dB) = P_{(3)}(dBW) - 10\log_{10}(kT_{(3)}B_W) = -18.90 dBW - 10\log_{10}(1.381·10^{-23}·4.97·10^6·8·10^6) = 73.70 dB
+$$
+
+$$
+CNR_{(3)}(dB) = 73.70 dB
+$$
+
+Que es un valor alto, más que suficiente para recibir correctamente la señal de TDT. Cada señal tiene estipulada una relación CNR mínima que se puede consultar, por ejemplo, en la norma de ICT’s. Por encima de ella, la demodulación será correcta con BER (Bit Error Rate) despreciable.
+
