@@ -6,3 +6,40 @@ date: 2025-11-18
 
 **Calcula la relación portadora a ruido a la salida del amplificador.**
 
+Para resolver este problema debemos empezar por dibujar un esquema del sistema:
+
+![[Ejemplo_práctico_esquema.png]]
+
+En segundo lugar, tenemos los siguientes datos:
+- Antena:
+	- Temperatura de ruido a la salida de antena (temperatura de antena): 50 K.
+	- Nivel de señal a la salida de antena: 80 dBµV.
+	- Impedancia referencia: 75 Ω.
+- Cable T-100:
+	- Longitud: 1 m.
+	- Temperatura física: 300 K.
+	- Atenuación: 0,15 dB/m.
+- Amplificador Televés 5356:
+	- Ganancia: 40 dB.
+	- Factor de ruido: 4 dB.
+- Ancho de banda: 8 MHz.
+
+Tenemos 3 puntos de interés: (1), (2) y (3) y dos cuadripolos:
+
+- El primero es un atenuador con atenuación A<sub>1</sub> = 0.15 dB (ganancia G<sub>1</sub> = -0.15 dB). Su factor de ruido lo podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física).
+- El segundo es un amplificador, ganancia G<sub>2</sub> = 40 dB y factor de ruido 4 dB.
+
+**El objetivo del ejercicio es conocer la relación portadora a ruido en el punto (3)**. Para conocer la relación portadora a ruido en el punto 3 podemos calcular las potencias de señal y ruido en dicho punto.
+
+El primer problema es que no tenemos la potencia recibida en la antena sino el nivel (tensión) que se mide en la misma. Podemos convertir los dBµV en voltios y aplicar la fórmula de la potencia, pero también podemos hacer toda la operación en dB:
+
+$$
+P_{(1)}(dBW) = 10\log_{10}(v[V]^2/z_0) = 10\log_{10}(v[V]^2) - 10\log_{10}(z_0) = 20\log_{10}(v[V]) - 10\log_{10}(z_0) = 20\log_{10}(v[\mu V]·10^{-6}) - 10\log_{10}(z_0) = 20\log_{10}(v[\mu V]) - 120\log_{10}(10) - 10\log_{10}(z_0) = L(dB\mu V) - 120 - 10\log_{10}(z_0) = 80 dB\mu V - 120 - 10\log_{10}(75\ohm) = 80 dB\mu V - 120 - 18.75 dB\ohm = -58.75 dBW
+$$
+
+Una vez calculada la potencia de señal en el punto 1, la potencia de señal en el punto 3 se calcula fácilmente:
+
+$$
+P_{(3)}(dBW) = P_{(1)}(dBW) -A_1(dB) + G_2 (dB) = -58.75 dBW - 0.15 dB/m · 1 m + 40 dB = -18.9 dBW 
+$$
+
