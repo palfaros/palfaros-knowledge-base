@@ -24,6 +24,22 @@ date: 2025-11-19
 
 **Sabemos que las “cajas” (5435, 5437 y 5438) son repartidores, esto es: dispositivos que consiguen crear dos (o más) copias de la señal de entrada idénticas en información pero atenuadas.**
 
+### Características de los equipos
+
+#### Repartidores
+
+#### Toma de usuario
+
+#### Cable coaxial
+
+|                       |             |
+| --------------------- | ----------- |
+| Tipo                  | T-100       |
+| Atenuación a 47 MHz   | 4dB/100m    |
+| Atenuación a 862 MHz  | 15,4dB/100m |
+| Atenuación a 950 MHz  | 20dB/100m   |
+| Atenuación a 2150 MHz | 30dB/100m   |
+
 ### Apartado B.1
 
 **¿Cuál será la toma de la casa con peor señal?**
