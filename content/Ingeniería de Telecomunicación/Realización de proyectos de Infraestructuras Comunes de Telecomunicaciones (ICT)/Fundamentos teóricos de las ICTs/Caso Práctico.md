@@ -24,3 +24,19 @@ date: 2025-11-19
 
 **Sabemos que las “cajas” (5435, 5437 y 5438) son repartidores, esto es: dispositivos que consiguen crear dos (o más) copias de la señal de entrada idénticas en información pero atenuadas.**
 
+### Apartado B.1
+
+**¿Cuál será la toma de la casa con peor señal?**
+
+### Apartado B.2
+
+**¿Cuál es el valor de relación SNR en ella?**
+
+### Apartado B.3
+
+**¿Cuál es la respuesta amplitud/frecuencia en banda de la red (en la peor toma)?**
+
+### Apartado B.4
+
+**¿Cuál será la relación señal/intermodulación (banda V/U) si consideramos que el amplificador tiene un nivel de salida máximo S<sub>max</sub>=114 dBμV (S/I=35dB) y deseamos que en la toma de usuario se disponga de un nivel de señal de 55dBμV? Nota: suponemos que se amplifican 12 canales.**
+
