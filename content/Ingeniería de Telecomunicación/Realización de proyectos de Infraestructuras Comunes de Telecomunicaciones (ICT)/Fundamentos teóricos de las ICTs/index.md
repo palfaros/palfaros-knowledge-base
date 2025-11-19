@@ -16,3 +16,4 @@ date: 2025-11-12
 - [[Ruido térmico]]
 - [[Cuestiones]]
 - [[Ejemplo práctico]]
+- [[Caso Práctico]]
