@@ -27,11 +27,23 @@ date: 2025-11-19
 ### Características de los equipos
 
 #### Repartidores
+|                                           |             |             |             |
+| ----------------------------------------- | ----------- | ----------- | ----------- |
+| Tipo                                      | 5435        | 5437        | 5438        |
+| Banda                                     | 15-2150 MHz | 15-2150 MHz | 15-2150 MHz |
+| Nº salidas                                | 2           | 4           | 6           |
+| Pérdidas de distribución (V/U) 47-862 MHz | 4,5±0,25    | 7,5±0,25    | 8,5±0,25    |
+| Pérdidas de distribución FI 950-2150 MHz  | 4,5±0,25    | 7,5±0,25    | 8,5±0,25    |
 
 #### Toma de usuario
-
+|                                           |             |
+| ----------------------------------------- | ----------- |
+| Tipo                                      | 5226        |
+| Banda                                     | 15-2150 MHz |
+| Nº salidas                                | 2           |
+| Pérdidas de distribución (V/U) 47-862 MHz | 0,6±0,10    |
+| Pérdidas de distribución FI 950-2150 MHz  | 0,6±0,10    |
 #### Cable coaxial
-
 |                       |             |
 | --------------------- | ----------- |
 | Tipo                  | T-100       |
@@ -39,7 +51,6 @@ date: 2025-11-19
 | Atenuación a 862 MHz  | 15,4dB/100m |
 | Atenuación a 950 MHz  | 20dB/100m   |
 | Atenuación a 2150 MHz | 30dB/100m   |
-
 ### Apartado B.1
 
 **¿Cuál será la toma de la casa con peor señal?**
