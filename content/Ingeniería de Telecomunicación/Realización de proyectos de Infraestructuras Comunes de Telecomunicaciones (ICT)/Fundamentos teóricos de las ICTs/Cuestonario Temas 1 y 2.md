@@ -141,3 +141,158 @@ Seleccione una:
 En decibelios, se usa **dB V/m**, **dBµV/m**, etc.
 
 Un valor como **50 dBµV** _sin “/m”_ corresponde a una **tensión**, no a un campo eléctrico. Por tanto, está incorrectamente expresado.
+
+## Cuestión 9
+
+Nos dicen que el campo eléctrico producido por una antena de TV es de 60 dBµV/m…
+
+Seleccione una:
+- Incorrecto, el campo no se puede medir en decibelios.
+- Correcto, el campo en unidades naturales valdrá 10<sup>-3</sup> V/m.
+- Correcto, el campo en unidades naturales valdrá 10<sup>6</sup> mV/m.
+- Ninguna de las anteriores.
+
+**Respuesta**: Correcto, el campo en unidades naturales valdrá 10<sup>-3</sup> V/m.
+**Justificación**: Dado un campo de **60 dBµV/m**, convertimos a unidades naturales:
+
+$$
+E = 60\ \text{dB}\,\mu\text{V/m} \Rightarrow 
+E_{\text{natural}} = 10^{\frac{60}{20}}\ \mu\text{V/m} = 10^{3}\ \mu\text{V/m}
+$$
+
+Pasamos a voltios por metro:
+
+$$
+10^{3}\ \mu\text{V/m} = 10^{3} \cdot 10^{-6}\ \text{V/m} = 10^{-3}\ \text{V/m}
+$$
+
+$$
+\boxed{E = 10^{-3}\ \text{V/m}}
+$$
+
+Por tanto, es correcto y equivale a **1 mV/m = 10⁻³ V/m**.
+
+## Cuestión 10
+
+Respecto a la forma de enviar la información en telegrafía antigua (puntos y rayas), hoy la llamaríamos PDM (modulación de pulsos por duración). Esto es un ejemplo de…
+
+Seleccione una:
+- Codificación de fuente.
+- Codificación de canal.
+- Codificación analógica.
+- Ninguna de las anteriores.
+
+**Respuesta**: Codificación de fuente.
+**Justificación**: En telegrafía (código Morse), la información (letras y números) se representa mediante **pulsos de diferente duración** (puntos y rayas). Esto es un **método de representación de la información original**, por lo que es **codificación de fuente**.
+
+Aunque hoy se podría ver como **PDM (Pulse Duration Modulation)**, sigue siendo **una forma de codificar la información**, no de protegerla frente a errores (codificación de canal), ni es un método analógico en sí mismo.
+
+## Cuestión 11
+
+Si nos dicen que la potencia recibida por una antena es de -10 dBm, eso significa…
+
+Seleccione una:
+- Que no se recibe nada.
+- Que la potencia recibida es igual a 1 W.
+- Que la potencia recibida es igual a 1 mW.
+- Que la potencia recibida es igual a 0.1 mW.
+
+**Respuesta**: Que la potencia recibida es igual a 0.1 mW.
+**Justificación**: Dado una potencia de **-10 dBm**, convertimos a unidades naturales:
+
+$$
+P = -10\ \text{dBm} \Rightarrow 
+P_{\text{natural}} = 10^{\frac{-10}{10}}\ \text{mW} = 10^{-1}\ \text{mW}
+$$
+
+$$
+\boxed{P = 0.1\ \text{mW}}
+$$
+
+Por tanto, es correcto y equivale a **-10 dBm = 0.1 mW**.
+
+## Cuestión 12
+
+Si nos dicen que la potencia recibida por una antena es de 0 dBm, eso significa…
+
+Seleccione una:
+- Que no se recibe nada.
+- Que la potencia recibida es igual a 1 W.
+- Que la potencia recibida es igual a 1 mW.
+- Que la potencia recibida es igual a 0.1 mW.
+
+**Respuesta**: Que la potencia recibida es igual a 1 mW.
+**Justificación**: Dado una potencia de **0dBm**, convertimos a unidades naturales:
+
+$$
+P = 0\ \text{dBm} \Rightarrow 
+P_{\text{natural}} = 10^{\frac{0}{10}}\ \text{mW} = 1\ \text{mW}
+$$
+
+$$
+\boxed{P = 1\ \text{mW}}
+$$
+
+Por tanto, es correcto y equivale a **0 dBm = 1 mW**.
+
+## Cuestión 13
+
+Supongamos que en una antena nos dicen que el campo eléctrico producido por una antena de TV es de 60 dBµV/m y nosotros medimos un nivel de tensión de 50 dBµV a su salida…
+
+Seleccione una:
+- Imposible… el nivel de señal no puede bajar así, en todo caso aumentará debido a la ganancia de la antena.
+- Incorrecto, las unidades son incorrectas.
+- Posible, las unidades son ahora de tensión (que es lo que se mide a la salida de la antena). El valor depende de las características de la misma.
+- Ninguna de las anteriores es correcta.
+
+**Respuesta**: Posible, las unidades son ahora de tensión (que es lo que se mide a la salida de la antena). El valor depende de las características de la misma.
+**Justificación**:
+- El **campo eléctrico** (en dBµV/m) mide la intensidad de la señal en el espacio.
+- La **tensión a la salida de la antena** depende de la **impedancia de la antena y del circuito de medida**, así como de su ganancia o pérdidas.
+- Por eso, es totalmente posible que el campo sea de **60 dBµV/m** y la tensión medida a la salida de la antena sea **50 dBµV**, sin que haya contradicción.
+
+## Cuestión 14
+
+Una señal de 80 dBµV alimenta un sistema de impedancia característica 75 Ω. La potencia de entrada al sistema es de…
+
+Seleccione una:
+- 85.33 pW.
+- 1.33 W.
+- -28.75 dBm.
+- Ninguna de las anteriores es correcta.
+
+**Respuesta**: -28.75 dBm.
+**Justificación**:Se nos da:
+
+$$
+V = 80\ \text{dBµV}, \quad R = 75\ \Omega
+$$
+
+1. Convertimos de dBµV a voltios:
+
+$$
+V_{\text{µV}} = 10^{\frac{80}{20}} = 10^4\ \mu\text{V} = 10^4 \cdot 10^{-6}\ \text{V} = 0.01\ \text{V}
+$$
+
+2. Calculamos la potencia en vatios:
+
+$$
+P = \frac{V^2}{R} = \frac{(0.01)^2}{75} = \frac{0.0001}{75} \approx 1.333 \times 10^{-6}\ \text{W} = 1.33\ \mu\text{W}
+$$
+
+3. Convertimos a dBm:
+
+$$
+P_{\text{dBm}} = 10 \cdot \log_{10} \left( \frac{1.33 \times 10^{-6}}{10^{-3}} \right) = 10 \cdot \log_{10} (1.33 \times 10^{-3}) 
+$$
+
+$$
+\log_{10} (1.33 \times 10^{-3}) = \log_{10}(1.33) + \log_{10}(10^{-3}) \approx 0.123 - 3 = -2.877
+$$
+
+$$
+P_{\text{dBm}} \approx 10 \cdot (-2.877) = -28.77\ \text{dBm} \approx -28.75\ \text{dBm}
+$$
+$$
+\boxed{P_{\text{dBm}} \approx -28.75\ \text{dBm}}
+$$
