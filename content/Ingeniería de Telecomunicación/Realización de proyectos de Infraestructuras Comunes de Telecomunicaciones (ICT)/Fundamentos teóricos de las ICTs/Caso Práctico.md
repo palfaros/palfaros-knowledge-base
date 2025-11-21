@@ -10,8 +10,34 @@ date: 2025-11-19
 
 ![[Caso_práctico.png]]
 
+En segundo lugar, tenemos los siguientes datos:
+- Antena:
+	- Temperatura de ruido a la salida de antena (temperatura de antena): 50 K.
+	- Nivel de señal a la salida de antena: 80 dBµV.
+	- Impedancia referencia: 75 Ω.
+- Cable T-100:
+	- Longitud: 1 m.
+	- Temperatura física: 300 K.
+	- Atenuación: 0.154 dB/m.
+- Amplificador Televés 5356:
+	- Ganancia: 40 dB.
+	- Factor de ruido: 4 dB.
+- Ancho de banda: 8 MHz.
+
+Para conocer la relación portadora a ruido a la salida del amplificador (punto 3) debemos calcular las potencias de señal y ruido en dicho punto.
 ### Cálculo de potencia de señal
 
+El primer problema es que no tenemos la potencia recibida en la antena sino el nivel (tensión) que se mide en la misma. Podemos convertir los dBµV en voltios y aplicar la fórmula de la potencia, pero también podemos hacer toda la operación en dB:
+
+$$
+P_{(1)}(dBW) = 10\log_{10}(v[V]^2/z_0[\Omega]) = 10\log_{10}(v[V]^2) - 10\log_{10}(z_0[\Omega]) = 20\log_{10}(v[V]) - 10\log_{10}(z_0[\Omega]) = 20\log_{10}(v[\mu V]·10^{-6}) - 10\log_{10}(z_0[\Omega]) = 20\log_{10}(v[\mu V]) - 120\log_{10}(10) - 10\log_{10}(z_0[\Omega]) = L(dB\mu V) - 120 - 10\log_{10}(z_0[\Omega]) = 80 dB\mu V - 120 - 10\log_{10}(75\Omega) = 80 dB\mu V - 120 - 18.75 dB\Omega = -58.75 dBW
+$$
+
+Una vez calculada la potencia de señal en el punto 1, la potencia de señal en el punto 3 se calcula fácilmente:
+
+$$
+P_{(3)}(dBW) = P_{(1)}(dBW) -A_1(dB) + G_2 (dB) = -58.75 dBW - 0.154 dB/m · 1 m + 40 dB = -18.9 dBW 
+$$
 
 ### Cálculo de potencia de ruido
 
