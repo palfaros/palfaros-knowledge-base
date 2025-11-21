@@ -182,10 +182,8 @@ Seleccione una:
 - Codificación analógica.
 - Ninguna de las anteriores.
 
-**Respuesta**: Codificación de fuente.
-**Justificación**: En telegrafía (código Morse), la información (letras y números) se representa mediante **pulsos de diferente duración** (puntos y rayas). Esto es un **método de representación de la información original**, por lo que es **codificación de fuente**.
-
-Aunque hoy se podría ver como **PDM (Pulse Duration Modulation)**, sigue siendo **una forma de codificar la información**, no de protegerla frente a errores (codificación de canal), ni es un método analógico en sí mismo.
+**Respuesta**: Codificación de canal.
+**Justificación**: La telegrafía convierte información en pulsos modulados en el tiempo, que es **modulación de pulsos**, es decir, una forma de **adaptar la señal al canal**. No es codificación de fuente (no representa caracteres de manera más eficiente) ni codificación analógica en el sentido clásico..
 
 ## Cuestión 11
 
