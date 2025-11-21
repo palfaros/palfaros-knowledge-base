@@ -262,7 +262,7 @@ Seleccione una:
 - Ninguna de las anteriores es correcta.
 
 **Respuesta**: -28.75 dBm.
-**Justificación**:Se nos da:
+**Justificación**: Se nos da:
 
 $$
 V = 80\ \text{dBµV}, \quad R = 75\ \Omega
@@ -296,3 +296,18 @@ $$
 $$
 \boxed{P_{\text{dBm}} \approx -28.75\ \text{dBm}}
 $$
+
+## Cuestión 15
+
+¿Qué edificios de nueva construcción NO precisan proyecto de ICT?
+
+Seleccione una:
+- Ninguno, todos lo precisan.
+- Los de menos de 20 viviendas.
+- Las viviendas unifamiliares independientes (no hay comunidad ni propiedad horizontal).
+- Ninguna de las anteriores.
+
+**Respuesta**: Las viviendas unifamiliares independientes (no hay comunidad ni propiedad horizontal).
+**Justificación**: El **ICT (Infraestructura Común de Telecomunicaciones)** se aplica a los edificios **con varias viviendas o locales** que comparten instalaciones de telecomunicaciones en régimen de **propiedad horizontal o comunidad**.
+
+Por tanto, una **vivienda unifamiliar independiente**, al no existir comunidad ni elementos compartidos, **no necesita proyecto de ICT**.
