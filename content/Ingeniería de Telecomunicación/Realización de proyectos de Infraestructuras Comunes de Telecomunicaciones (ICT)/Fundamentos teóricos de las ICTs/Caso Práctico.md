@@ -36,7 +36,7 @@ $$
 Una vez calculada la potencia de señal en el punto 1, la potencia de señal en el punto 3 se calcula fácilmente:
 
 $$
-P_{(3)}(dBW) = P_{(1)}(dBW) -A_1(dB) + G_2 (dB) = -58.75 dBW - 0.154 dB/m · 1 m + 40 dB = -18.9 dBW 
+P_{(3)}(dBW) = P_{(1)}(dBW) -A_1(dB) + G_2 (dB) = -58.75 dBW - 0.154 dB/m · 1 m + 40 dB = -18.904 dBW 
 $$
 
 ### Cálculo de potencia de ruido
