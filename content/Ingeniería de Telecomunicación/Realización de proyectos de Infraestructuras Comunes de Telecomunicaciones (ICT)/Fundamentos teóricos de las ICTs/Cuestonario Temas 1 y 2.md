@@ -353,7 +353,7 @@ P_{\text{dBW}} = 10 \cdot \log_{10} \left( \frac{0.0001}{75} \right) = -58.75 \t
 $$
 
 $$
-P_{\text{dBm}} = P_{\text{dBm}} + 30 = -28.75 \text{dBm} 
+P_{\text{dBm}} = P_{\text{dBW}} + 30 = -28.75 \text{dBm} 
 $$
 
 $$
