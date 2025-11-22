@@ -43,7 +43,7 @@ $$
 $$
 
 $$
-= L(dB\mu V) - 120 - 10\log_{10}(z_0[\Omega]) = 80 dB\mu V - 120 - 10\log_{10}(75\Omega) = 80 dB\mu V - 120 - 18.75 dB\Omega
+= L(dB\mu V) - 120 - 10\log_{10}(z_0[\Omega]) = 80 dB\mu V - 120 - 10\log_{10}(75\Omega) = 80 dB\mu V - 120 - 18.75 dB\Omega =
 $$
 
 $$
