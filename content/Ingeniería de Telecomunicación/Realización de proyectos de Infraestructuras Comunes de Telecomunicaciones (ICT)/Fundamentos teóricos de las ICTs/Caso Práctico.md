@@ -87,7 +87,7 @@ CNR_{(3)}(dB) = P_{(3)}(dBW) - 10\log_{10}(kT_{(3)}B_W) = -18.904 dBW - 10\log_{
 $$
 
 $$
-CNR_{(3)}(dB) = 73.70 dB
+\boxed{CNR_{(3)}(dB) = 73.70 dB}
 $$
 
 ## Apartado B
