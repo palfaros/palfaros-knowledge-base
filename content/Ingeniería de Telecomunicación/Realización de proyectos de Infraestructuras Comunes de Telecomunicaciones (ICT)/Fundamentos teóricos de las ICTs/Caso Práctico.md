@@ -98,12 +98,23 @@ T_{(3)} &= T_{(ant)}g_1g_2 + T_1g_1g_2 +T_2g_2 = \\
 \end{aligned}
 $$
 
+Una vez conocida la temperatura total de ruido en el punto 3 se puede calcular la potencia total de ruido en dicho punto.
+
+$$
+\begin{aligned}
+N_{(3)}(dB) &= 10\log_{10}(kT_{(3)}B_W) = \\
+&=10\log_{10}(1.381·10^{-23}·4.97·10^6·8·10^6) = \\
+&=-92.604 dBW
+\end{aligned}
+$$
+
+### Cálculo de relación señal a ruido
+
 La relación CNR (SNR) final ya la podemos calcular, simplemente a la potencia de señal (portadora) en dBW le debemos restar la potencia de ruido en la misma unidad:
 
 $$
 \begin{aligned}
-CNR_{(3)}(dB) &= P_{(3)}(dBW) - 10\log_{10}(kT_{(3)}B_W) = \\
-&=-18.904 dBW - 10\log_{10}(1.381·10^{-23}·4.97·10^6·8·10^6) = \\
+CNR_{(3)}(dB) &= P_{(3)}(dBW) - N_{(3)}(dB) = \\
 &=-18.904 dBW - (-92.604 dBW) = \\
 &=73.70 dB
 \end{aligned}
