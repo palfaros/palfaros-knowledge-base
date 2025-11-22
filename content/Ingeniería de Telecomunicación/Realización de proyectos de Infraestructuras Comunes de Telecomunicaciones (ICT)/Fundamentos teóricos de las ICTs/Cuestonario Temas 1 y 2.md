@@ -343,24 +343,21 @@ $$
 2. Calculamos la potencia en vatios:
 
 $$
-P = \frac{V^2}{R} = \frac{(0.01)^2}{75} = \frac{0.0001}{75} \approx 1.333 \times 10^{-6}\ \text{W} = 1.33\ \mu\text{W}
+P = \frac{V^2}{R} = \frac{(0.01)^2}{75} = \frac{0.0001}{75} \text{W}
 $$
 
 3. Convertimos a dBm:
 
 $$
-P_{\text{dBm}} = 10 \cdot \log_{10} \left( \frac{1.33 \times 10^{-6}}{10^{-3}} \right) = 10 \cdot \log_{10} (1.33 \times 10^{-3}) 
+P_{\text{dBW}} = 10 \cdot \log_{10} \left( \frac{0.0001}{75} \right) = -58.75 \text{dBW} 
 $$
 
 $$
-\log_{10} (1.33 \times 10^{-3}) = \log_{10}(1.33) + \log_{10}(10^{-3}) \approx 0.123 - 3 = -2.877
+P_{\text{dBm}} = P_{\text{dBm}} + 30 = -28.75 \text{dBm} 
 $$
 
 $$
-P_{\text{dBm}} \approx 10 \cdot (-2.877) = -28.77\ \text{dBm} \approx -28.75\ \text{dBm}
-$$
-$$
-\boxed{P_{\text{dBm}} \approx -28.75\ \text{dBm}}
+\boxed{P_{\text{dBm}} = -28.75\ \text{dBm}}
 $$
 
 ## Cuestión 15
