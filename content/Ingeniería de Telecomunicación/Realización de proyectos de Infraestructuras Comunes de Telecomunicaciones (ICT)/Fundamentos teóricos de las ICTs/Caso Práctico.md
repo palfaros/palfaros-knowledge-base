@@ -103,7 +103,7 @@ Una vez conocida la temperatura total de ruido en el punto 3 se puede calcular l
 $$
 \begin{aligned}
 N_{(3)}(dB) &= 10\log_{10}(kT_{(3)}B_W) = \\
-&=10\log_{10}(1.381·10^{-23}·4.97·10^6·8·10^6) = \\
+&=10\log_{10}(1.381·10^{-23}W/(K·Hz)·4.97·10^6K·8·10^6Hz) = \\
 &=-92.604 dBW
 \end{aligned}
 $$
