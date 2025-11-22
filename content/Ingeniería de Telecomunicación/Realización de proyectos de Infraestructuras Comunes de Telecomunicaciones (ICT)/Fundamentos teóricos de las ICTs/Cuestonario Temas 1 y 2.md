@@ -192,8 +192,13 @@ Seleccione una:
 - Correcto, el campo en unidades naturales valdrá 10<sup>6</sup> mV/m.
 - Ninguna de las anteriores.
 
-**Respuesta**: Correcto, el campo en unidades naturales valdrá 10<sup>-3</sup> V/m.
-**Justificación**: Dado un campo de **60 dBµV/m**, convertimos a unidades naturales:
+### Respuesta
+
+Correcto, el campo en unidades naturales valdrá 10<sup>-3</sup> V/m.
+
+### Justificación
+
+Dado un campo de **60 dBµV/m**, convertimos a unidades naturales:
 
 $$
 E = 60\ \text{dB}\,\mu\text{V/m} \Rightarrow 
@@ -222,8 +227,13 @@ Seleccione una:
 - Codificación analógica.
 - Ninguna de las anteriores.
 
-**Respuesta**: Codificación de canal.
-**Justificación**: La telegrafía convierte información en pulsos modulados en el tiempo, que es **modulación de pulsos**, es decir, una forma de **adaptar la señal al canal**. No es codificación de fuente (no representa caracteres de manera más eficiente) ni codificación analógica en el sentido clásico..
+### Respuesta
+
+Codificación de canal.
+
+### Justificación
+
+La telegrafía convierte información en pulsos modulados en el tiempo, que es **modulación de pulsos**, es decir, una forma de **adaptar la señal al canal**. No es codificación de fuente (no representa caracteres de manera más eficiente) ni codificación analógica en el sentido clásico..
 
 ## Cuestión 11
 
@@ -235,8 +245,13 @@ Seleccione una:
 - Que la potencia recibida es igual a 1 mW.
 - Que la potencia recibida es igual a 0.1 mW.
 
-**Respuesta**: Que la potencia recibida es igual a 0.1 mW.
-**Justificación**: Dado una potencia de **-10 dBm**, convertimos a unidades naturales:
+### Respuesta
+
+Que la potencia recibida es igual a 0.1 mW.
+
+### Justificación
+
+Dado una potencia de **-10 dBm**, convertimos a unidades naturales:
 
 $$
 P = -10\ \text{dBm} \Rightarrow 
@@ -259,8 +274,13 @@ Seleccione una:
 - Que la potencia recibida es igual a 1 mW.
 - Que la potencia recibida es igual a 0.1 mW.
 
-**Respuesta**: Que la potencia recibida es igual a 1 mW.
-**Justificación**: Dado una potencia de **0dBm**, convertimos a unidades naturales:
+### Respuesta
+
+Que la potencia recibida es igual a 1 mW.
+
+### Justificación
+
+Dado una potencia de **0dBm**, convertimos a unidades naturales:
 
 $$
 P = 0\ \text{dBm} \Rightarrow 
@@ -283,8 +303,12 @@ Seleccione una:
 - Posible, las unidades son ahora de tensión (que es lo que se mide a la salida de la antena). El valor depende de las características de la misma.
 - Ninguna de las anteriores es correcta.
 
-**Respuesta**: Posible, las unidades son ahora de tensión (que es lo que se mide a la salida de la antena). El valor depende de las características de la misma.
-**Justificación**:
+### Respuesta
+
+Posible, las unidades son ahora de tensión (que es lo que se mide a la salida de la antena). El valor depende de las características de la misma.
+
+### Justificación
+
 - El **campo eléctrico** (en dBµV/m) mide la intensidad de la señal en el espacio.
 - La **tensión a la salida de la antena** depende de la **impedancia de la antena y del circuito de medida**, así como de su ganancia o pérdidas.
 - Por eso, es totalmente posible que el campo sea de **60 dBµV/m** y la tensión medida a la salida de la antena sea **50 dBµV**, sin que haya contradicción.
@@ -299,8 +323,12 @@ Seleccione una:
 - -28.75 dBm.
 - Ninguna de las anteriores es correcta.
 
-**Respuesta**: -28.75 dBm.
-**Justificación**: Se nos da:
+### Respuesta
+
+-28.75 dBm.
+### Justificación
+
+Se nos da:
 
 $$
 V = 80\ \text{dBµV}, \quad R = 75\ \Omega
@@ -345,7 +373,12 @@ Seleccione una:
 - Las viviendas unifamiliares independientes (no hay comunidad ni propiedad horizontal).
 - Ninguna de las anteriores.
 
-**Respuesta**: Las viviendas unifamiliares independientes (no hay comunidad ni propiedad horizontal).
-**Justificación**: El **ICT (Infraestructura Común de Telecomunicaciones)** se aplica a los edificios **con varias viviendas o locales** que comparten instalaciones de telecomunicaciones en régimen de **propiedad horizontal o comunidad**.
+### Respuesta
+
+Las viviendas unifamiliares independientes (no hay comunidad ni propiedad horizontal).
+
+### Justificación
+
+La **ICT (Infraestructura Común de Telecomunicaciones)** se aplica a los edificios **con varias viviendas o locales** que comparten instalaciones de telecomunicaciones en régimen de **propiedad horizontal o comunidad**.
 
 Por tanto, una **vivienda unifamiliar independiente**, al no existir comunidad ni elementos compartidos, **no necesita proyecto de ICT**.
