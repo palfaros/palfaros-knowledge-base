@@ -36,8 +36,10 @@ El primer problema es que no tenemos la potencia recibida en la antena sino el n
 
 $$
 \begin{aligned}
-P_{(1)}(dBW) &= 10\log_{10}(v[V]^2/z_0[\Omega]) = 10\log_{10}(v[V]^2) - 10\log_{10}(z_0[\Omega]) = 20\log_{10}(v[V]) - 10\log_{10}(z_0[\Omega]) = \\
-&= 20\log_{10}(v[\mu V]·10^{-6}) - 10\log_{10}(z_0[\Omega]) = 20\log_{10}(v[\mu V]) - 120\log_{10}(10) - 10\log_{10}(z_0[\Omega]) = \\
+P_{(1)}(dBW) &= 10\log_{10}(v[V]^2/z_0[\Omega]) = \\
+&=10\log_{10}(v[V]^2) - 10\log_{10}(z_0[\Omega]) = 20\log_{10}(v[V]) - 10\log_{10}(z_0[\Omega]) = \\
+&= 20\log_{10}(v[\mu V]·10^{-6}) - 10\log_{10}(z_0[\Omega]) = \\
+&=20\log_{10}(v[\mu V]) - 120\log_{10}(10) - 10\log_{10}(z_0[\Omega]) = \\
 &= L(dB\mu V) - 120 - 10\log_{10}(z_0[\Omega]) = \\
 &=80 dB\mu V - 120 - 10\log_{10}(75\Omega) = 80 dB\mu V - 120 - 18.75 dB\Omega =  \\
 &= -58.75 dBW
