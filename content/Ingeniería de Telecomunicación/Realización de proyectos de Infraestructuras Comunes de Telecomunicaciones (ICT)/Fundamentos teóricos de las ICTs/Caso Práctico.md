@@ -163,7 +163,7 @@ $$
 
 **¿Cuál será la toma de la casa con peor señal?**
 
-La toma con peor señal será la de la Habitación 2 de la Planta baja, ya que la señal pasa por un repartidor de 6 salidas (5438), de mayor atenuación que el de 4 salidas (5437) y por el segmento de cable T-100 más largo (11 m).
+**La toma con peor señal será la de la Habitación 2 de la Planta baja**, ya que la señal pasa por un repartidor de 6 salidas (5438), de mayor atenuación que el de 4 salidas (5437) y por el segmento de cable T-100 más largo (11 m).
 
 ### Apartado B.2
 
