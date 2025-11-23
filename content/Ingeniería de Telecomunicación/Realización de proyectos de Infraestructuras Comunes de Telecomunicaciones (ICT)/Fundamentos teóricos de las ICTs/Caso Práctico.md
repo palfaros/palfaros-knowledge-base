@@ -186,14 +186,14 @@ N_{(3)}(dBW) &=-92.604 dBW
 $$
 
 A partir del punto 3, tenemos 6 cuadripolos:
-1. Cuadripolo 1 - Tramo de 5 metros de cable coaxial T-100: A<sub>1</sub> = 0.77 dB (ganancia G<sub>1</sub> = -0.77 dB). Su factor de ruido lo podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
-2. Cuadripolo 2 - Repartidor de 2 salidas 5435: A<sub>2</sub> = 4.5 dB (ganancia G<sub>2</sub> = -4.5 dB). Su factor de ruido lo podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
-3. Cuadripolo 3 - Tramo de 1 metro de cable coaxial T-100: A<sub>3</sub> = 0.154 dB (ganancia G<sub>3</sub> = -0.154 dB). Su factor de ruido lo podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
-4. Cuadripolo 4 - Repartidor de 6 salidas 5438: A<sub>4</sub> = 8.5 dB (ganancia G<sub>4</sub> = -8.5 dB). Su factor de ruido lo podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
-5. Cuadripolo 5 - Tramo de 11 metros de cable coaxial T-100: A<sub>5</sub> = 1.694 dB (ganancia G<sub>5</sub> = -1.694 dB). Su factor de ruido lo podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
-6. Cuadripolo 6 - Toma de usuario 5226: A<sub>6</sub> = 0.6 dB (ganancia G<sub>6</sub> = -0.6 dB). Su factor de ruido lo podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
+1. Cuadripolo 1 - Tramo de 5 metros de cable coaxial T-100: A<sub>1</sub> = 0.77 dB (ganancia G<sub>1</sub> = -0.77 dB). Su temperatura de ruido, T<sub>1</sub>, la podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
+2. Cuadripolo 2 - Repartidor de 2 salidas 5435: A<sub>2</sub> = 4.5 dB (ganancia G<sub>2</sub> = -4.5 dB). Su temperatura de ruido, T<sub>2</sub>, la podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
+3. Cuadripolo 3 - Tramo de 1 metro de cable coaxial T-100: A<sub>3</sub> = 0.154 dB (ganancia G<sub>3</sub> = -0.154 dB). Su temperatura de ruido, T<sub>3</sub>, la podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
+4. Cuadripolo 4 - Repartidor de 6 salidas 5438: A<sub>4</sub> = 8.5 dB (ganancia G<sub>4</sub> = -8.5 dB). Su temperatura de ruido, T<sub>4</sub>, la podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
+5. Cuadripolo 5 - Tramo de 11 metros de cable coaxial T-100: A<sub>5</sub> = 1.694 dB (ganancia G<sub>5</sub> = -1.694 dB). Su temperatura de ruido, T<sub>5</sub>, la podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
+6. Cuadripolo 6 - Toma de usuario 5226: A<sub>6</sub> = 0.6 dB (ganancia G<sub>6</sub> = -0.6 dB). Su temperatura de ruido, T<sub>6</sub>, la podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
 
-La potencia de señal en la salida, se calcula de la siguiente forma:
+La **potencia de señal en la salida**, se calcula de la siguiente forma:
 
 $$
 \begin{aligned}
@@ -203,6 +203,85 @@ P_{(OUT)}(dBW) &= P_{(3)}(dBW) - A_1(dB) - A_2 (dB) - A_3(dB) - A_4 (dB) - A_5(d
 \end{aligned}
 $$
 
+El cálculo de la potencia de ruido a la salida se va a realizar utilizando temperaturas y unidades naturales. En la salida, la temperatura de ruido total será:
+
+$$
+T_{(OUT)} = T_{(3)}g_1g_2g_3g_4g_5g_6 + T_1g_1g_2g_3g_4g_5g_6 + T_2g_2g_3g_4g_5g_6 + T_3g_3g_4g_5g_6 + T_4g_4g_5g_6 +T_5g_5g_6 +T_6g_6
+$$
+
+Donde:
+
+$$
+g_1 = \frac{1}{a_1} = 10^{-0.77/10} = 0.838
+$$
+
+$$
+g_2 = \frac{1}{a_2} = 10^{-4.5/10} = 0.355
+$$
+
+$$
+g_3 = \frac{1}{a_3} = 10^{-0.154/10} = 0.965
+$$
+
+$$
+g_4 = \frac{1}{a_4} = 10^{-8.5/10} = 0.141
+$$
+
+$$
+g_5 = \frac{1}{a_5} = 10^{-1.694/10} = 0.677
+$$
+
+$$
+g_6 = \frac{1}{a_6} = 10^{-0.6/10} = 0.871
+$$
+
+Para conocer T<sub>1</sub>, T<sub>2</sub>, T<sub>3</sub>, T<sub>4</sub>,T<sub>5</sub> y T<sub>6</sub> aplicamos la fórmula de los atenuadores:
+
+$$
+T_1 = T_f(a_1-1) = 300(10^{0.77/10}-1) = 58.20K 
+$$
+
+$$
+T_2 = T_f(a_2-1) = 300(10^{4.5/10}-1) = 545.51K 
+$$
+
+$$
+T_3 = T_f(a_3-1) = 300(10^{0.154/10}-1) = 10.83K 
+$$
+
+$$
+T_4 = T_f(a_4-1) = 300(10^{8.5/10}-1) = 1823.84K 
+$$
+
+$$
+T_5 = T_f(a_5-1) = 300(10^{1.694/10}-1) = 143.12K 
+$$
+
+$$
+T_6 = T_f(a_6-1) = 300(10^{0.6/10}-1) = 44.45K 
+$$
+
+Conociendo todas las temperaturas, con la fórmula anterior, ya conocemos la temperatura total de ruido en la salida:
+
+$$
+\begin{aligned}
+T_{(3)} &= T_{(ant)}g_1g_2 + T_1g_1g_2 +T_2g_2 = \\
+&=50K·0.966·10000 + 10.54K·0.966·10000 + 43845K·10000 = \\
+&=(50K + 10.54K)·0.966·10000 + 438.45K·10000 = \\
+&=584816.4K + 4384500K = 4969316.4 K = \\
+&=4.97·10^6 K
+\end{aligned}
+$$
+
+Una vez conocida la temperatura total de ruido en el punto 3 se puede calcular la potencia total de ruido en dicho punto.
+
+$$
+\begin{aligned}
+N_{(3)}(dBW) &= 10\log_{10}(kT_{(3)}B_W) = \\
+&=10\log_{10}(1.381·10^{-23}W/(K·Hz)·4.97·10^6K·8·10^6Hz) = \\
+&=-92.604 dBW
+\end{aligned}
+$$
 
 ### Apartado B.3
 
