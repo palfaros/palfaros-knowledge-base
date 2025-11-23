@@ -193,7 +193,7 @@ A partir del punto 3, tenemos 6 cuadripolos:
 5. Cuadripolo 5 - Tramo de 11 metros de cable coaxial T-100: A<sub>5</sub> = 1.694 dB (ganancia G<sub>5</sub> = -1.694 dB). Su temperatura de ruido, T<sub>5</sub>, la podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
 6. Cuadripolo 6 - Toma de usuario 5226: A<sub>6</sub> = 0.6 dB (ganancia G<sub>6</sub> = -0.6 dB). Su temperatura de ruido, T<sub>6</sub>, la podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
 
-La **potencia de señal en la salida**, se calcula de la siguiente forma:
+La potencia de señal en la salida, se calcula de la siguiente forma:
 
 $$
 \begin{aligned}
