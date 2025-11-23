@@ -182,6 +182,20 @@ Primero **calculamos la atenuación total del cable coaxial**. La longitud total
 La respuesta amplitud/frecuencia (rizado) en la banda producida por el comportamiento del cable será entonces:
 - Banda V/U (47-862 MHz): 2,62 dB - 0,68 dB = 1,94 dB
 - Banda FI (950-2150MHz): 5,1 dB - 3,4 dB = 1,7 dB
+
+El **rizado producido por los elementos de distribución en el peor caso**, esto es que no se compensen entre si será:
+ - Banda V/U (47-862 MHz): 0,25 dB (5435) + 0,25 dB (5438) + 0,10 dB (5226) = ± 0,6 dB
+- Banda FI (950-2150MHz): 0,25 dB (5435) + 0,25 dB (5438) + 0,10 dB (5226) = ± 0,6 dB
+
+El rizado total se calculará como:
+
+$$
+Rizado Total=Rizado Cable+2 · Rizado Distribucion
+$$
+
+**Con lo que los rizados totales serán:**
+- **Banda V/U (47-862 MHz): 1,94 dB + 2 · 0,6 dB = 3,14 dB (<16 dB)**
+- **Banda FI (950-2150MHz): 1,7 dB + 2 · 0,6 dB = 2,9dB (<20 dB)**
 ### Apartado B.4
 
 **¿Cuál será la relación señal/intermodulación (banda V/U) si consideramos que el amplificador tiene un nivel de salida máximo S<sub>max</sub>=114 dBμV (S/I=35dB) y deseamos que en la toma de usuario se disponga de un nivel de señal de 55dBμV? Nota: suponemos que se amplifican 12 canales.**
