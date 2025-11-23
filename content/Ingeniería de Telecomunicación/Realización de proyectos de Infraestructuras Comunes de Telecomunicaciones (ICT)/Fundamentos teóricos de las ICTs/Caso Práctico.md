@@ -114,7 +114,7 @@ La relación CNR (SNR) final ya la podemos calcular, simplemente a la potencia d
 
 $$
 \begin{aligned}
-CNR_{(3)}(dB) &= P_{(3)}(dBW) - N_{(3)}(dB) = \\
+CNR_{(3)}(dB) &= P_{(3)}(dBW) - N_{(3)}(dBW) = \\
 &=-18.904 dBW - (-92.604 dBW) = \\
 &=73.70 dB
 \end{aligned}
@@ -265,22 +265,32 @@ Conociendo todas las temperaturas, con la fórmula anterior, ya conocemos la tem
 
 $$
 \begin{aligned}
-T_{(3)} &= T_{(ant)}g_1g_2 + T_1g_1g_2 +T_2g_2 = \\
-&=50K·0.966·10000 + 10.54K·0.966·10000 + 43845K·10000 = \\
-&=(50K + 10.54K)·0.966·10000 + 438.45K·10000 = \\
-&=584816.4K + 4384500K = 4969316.4 K = \\
-&=4.97·10^6 K
+T_{(OUT)} &= T_{(3)}g_1g_2g_3g_4g_5g_6 + T_1g_1g_2g_3g_4g_5g_6 + T_2g_2g_3g_4g_5g_6 + T_3g_3g_4g_5g_6 + T_4g_4g_5g_6 +T_5g_5g_6 +T_6g_6 = \\
+&=119005.3875 K = 1.19·10^5 K
 \end{aligned}
 $$
 
-Una vez conocida la temperatura total de ruido en el punto 3 se puede calcular la potencia total de ruido en dicho punto.
+Una vez conocida la temperatura total de ruido en la salida se puede calcular la potencia total de ruido en dicho punto.
 
 $$
 \begin{aligned}
-N_{(3)}(dBW) &= 10\log_{10}(kT_{(3)}B_W) = \\
-&=10\log_{10}(1.381·10^{-23}W/(K·Hz)·4.97·10^6K·8·10^6Hz) = \\
-&=-92.604 dBW
+N_{(OUT)}(dBW) &= 10\log_{10}(kT_{(3)}B_W) = \\
+&=10\log_{10}(1.381·10^{-23}W/(K·Hz)·1.19·10^5K·8·10^6Hz) = \\
+&=-108.811 dBW
 \end{aligned}
+$$
+La relación CNR (SNR) final ya la podemos calcular, simplemente a la potencia de señal (portadora) en dBW le debemos restar la potencia de ruido en la misma unidad:
+
+$$
+\begin{aligned}
+CNR_{(OUT)}(dB) &= P_{(OUT)}(dBW) - N_{(OUT)}(dBW) = \\
+&=-35.122 dBW - (-108.811 dBW) = \\
+&=73.689 dB
+\end{aligned}
+$$
+
+$$
+\boxed{CNR_{(OUT)}(dB) = 73.689 dB}
 $$
 
 ### Apartado B.3
