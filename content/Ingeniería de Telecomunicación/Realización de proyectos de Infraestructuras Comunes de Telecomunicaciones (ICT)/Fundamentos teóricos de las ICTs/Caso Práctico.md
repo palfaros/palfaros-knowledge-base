@@ -26,7 +26,7 @@ En segundo lugar, tenemos los siguientes datos:
 
 Tenemos 3 puntos de interés: (1), (2) y (3) y dos cuadripolos:
 
-- El primero es un atenuador con atenuación A<sub>1</sub> = 0.15 dB (ganancia G<sub>1</sub> = -0.15 dB). Su factor de ruido lo podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física).
+- El primero es un atenuador con atenuación A<sub>1</sub> = 0.154 dB (ganancia G<sub>1</sub> = -0.154 dB). Su factor de ruido lo podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física).
 - El segundo es un amplificador, ganancia G<sub>2</sub> = 40 dB y factor de ruido 4 dB.
 
 **El objetivo del ejercicio es conocer la relación portadora a ruido en el punto (3)**. Para conocer la relación portadora a ruido en el punto 3 podemos calcular las potencias de señal y ruido en dicho punto.
@@ -168,6 +168,32 @@ $$
 ### Apartado B.2
 
 **¿Cuál es el valor de relación SNR en ella?**
+
+![[Caso_práctico_II.png]]
+
+En primer lugar, partimos de los resultados de potencia de señal y ruido en el punto (3), obtenidos en el apartado [[#Apartado A]]:
+
+$$
+\begin{aligned}
+P_{(3)}(dBW) &= -18.904 dBW
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+N_{(3)}(dB) &=-92.604 dBW
+\end{aligned}
+$$
+
+A partir del punto 3, tenemos 6 cuadripolos:
+1. Cuadripolo 1 - Tramo de 5 metros de cable coaxial T-100: A<sub>1</sub> = 0.77 dB (ganancia G<sub>1</sub> = -0.77 dB). Su factor de ruido lo podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
+2. Cuadripolo 2 - Repartidor de 2 salidas 5435: A<sub>2</sub> = 4.5 dB (ganancia G<sub>2</sub> = -4.5 dB). Su factor de ruido lo podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
+3. Cuadripolo 3 - Tramo de 1 metro de cable coaxial T-100: A<sub>3</sub> = 0.154 dB (ganancia G<sub>3</sub> = -0.154 dB). Su factor de ruido lo podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
+4. Cuadripolo 4 - Repartidor de 6 salidas 5438: A<sub>4</sub> = 8.5 dB (ganancia G<sub>4</sub> = -8.5 dB). Su factor de ruido lo podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
+5. Cuadripolo 5 - Tramo de 11 metros de cable coaxial T-100: A<sub>5</sub> = 1.694 dB (ganancia G<sub>5</sub> = -1.694 dB). Su factor de ruido lo podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
+6. Cuadripolo 6 - Toma de usuario 5226: A<sub>6</sub> = 0.6 dB (ganancia G<sub>6</sub> = -0.6 dB). Su factor de ruido lo podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
+
+s
 
 ### Apartado B.3
 
