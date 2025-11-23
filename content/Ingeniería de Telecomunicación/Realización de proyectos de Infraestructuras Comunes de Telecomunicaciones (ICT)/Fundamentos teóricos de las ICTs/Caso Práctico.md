@@ -197,9 +197,9 @@ La potencia de señal en la salida, se calcula de la siguiente forma:
 
 $$
 \begin{aligned}
-P_{(SALIDA)}(dBW) &= P_{(3)}(dBW) - A_1(dB) - A_2 (dB) - A_3(dB) - A_4 (dB) - A_5(dB) - A_6 (dB) = \\
-&=-58.75 dBW - 0.154 dB/m · 1 m + 40 dB = \\
-&=-18.904 dBW
+P_{(OUT)}(dBW) &= P_{(3)}(dBW) - A_1(dB) - A_2 (dB) - A_3(dB) - A_4 (dB) - A_5(dB) - A_6 (dB) = \\
+&=-18.904 dBW - 0.77 dB - 4.5 dB - 0.154 dB - 8.5 dB - 1.694 dB - 0.6 dB = \\
+&=-35.122 dBW
 \end{aligned}
 $$
 
