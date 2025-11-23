@@ -239,7 +239,7 @@ En primer lugar, calculamos el nivel de señal a la salida del amplificador para
 
 $$
 \begin{aligned}
-C_{(amp)}(dB\mu V) &= C_{Toma}(dB\mu V) + A_6(dB) + A_5 (dB) + A_4(dB) + A_3 (dB) + A_2(dB) + A_1 (dB) = \\
+C_{amp}(dB\mu V) &= C_{Toma}(dB\mu V) + A_6(dB) + A_5 (dB) + A_4(dB) + A_3 (dB) + A_2(dB) + A_1 (dB) = \\
 &=55 dB\mu V + 0.6 dB + 1.694 dB + 8.5 dB + 0.154 dB + 4.5 dB + 0.77 dB = \\
 &=71.218 dB\mu V
 \end{aligned}
@@ -250,7 +250,7 @@ Una vez calculado, la relación señal a intermodulación se calcula de la sigui
 $$
 \begin{aligned}
 C/I (dB) &= (C/I)_{max} + 2 (C_{max}(dB \mu V) - 7,5 \log_{10}(N-1) - C_{amp}(dB \mu V)) = \\
-&= 35 dB + 2 · (114 dB\mu V - 7.5\log_{10}(11)) - 71.218 dB\mu V) = \\
+&= 35 dB + 2 · (114 dB\mu V - 7.5\log_{10}(11) - 71.218 dB\mu V) = \\
 &= 35 dB + 2 · (114 dB\mu V - 7.81 dB - 71.218 dB\mu V) = \\
 &= 104.944 dB
 \end{aligned}
