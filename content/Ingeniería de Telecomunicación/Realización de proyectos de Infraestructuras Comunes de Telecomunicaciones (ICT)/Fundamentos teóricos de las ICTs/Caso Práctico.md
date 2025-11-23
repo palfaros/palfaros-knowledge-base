@@ -102,7 +102,7 @@ Una vez conocida la temperatura total de ruido en el punto 3 se puede calcular l
 
 $$
 \begin{aligned}
-N_{(3)}(dB) &= 10\log_{10}(kT_{(3)}B_W) = \\
+N_{(3)}(dBW) &= 10\log_{10}(kT_{(3)}B_W) = \\
 &=10\log_{10}(1.381·10^{-23}W/(K·Hz)·4.97·10^6K·8·10^6Hz) = \\
 &=-92.604 dBW
 \end{aligned}
@@ -181,7 +181,7 @@ $$
 
 $$
 \begin{aligned}
-N_{(3)}(dB) &=-92.604 dBW
+N_{(3)}(dBW) &=-92.604 dBW
 \end{aligned}
 $$
 
@@ -193,7 +193,16 @@ A partir del punto 3, tenemos 6 cuadripolos:
 5. Cuadripolo 5 - Tramo de 11 metros de cable coaxial T-100: A<sub>5</sub> = 1.694 dB (ganancia G<sub>5</sub> = -1.694 dB). Su factor de ruido lo podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
 6. Cuadripolo 6 - Toma de usuario 5226: A<sub>6</sub> = 0.6 dB (ganancia G<sub>6</sub> = -0.6 dB). Su factor de ruido lo podemos calcular con la fórmula correspondiente (ya que conocemos la temperatura física: 300 K).
 
-s
+La potencia de señal en la salida, se calcula de la siguiente forma:
+
+$$
+\begin{aligned}
+P_{(SALIDA)}(dBW) &= P_{(3)}(dBW) - A_1(dB) - A_2 (dB) - A_3(dB) - A_4 (dB) - A_5(dB) - A_6 (dB) = \\
+&=-58.75 dBW - 0.154 dB/m · 1 m + 40 dB = \\
+&=-18.904 dBW
+\end{aligned}
+$$
+
 
 ### Apartado B.3
 
