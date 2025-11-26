@@ -116,3 +116,8 @@ Ahora que tenemos todos los datos, despejamos G y nos sale una ganancia de 36.61
 
 ![[Parabólica_Televés_Offset_750_HQ.png]]
 
+Para calcular la carga al viento el diámetro es el parámetro fundamental: con 750 mm de diámetro, obtenemos un área (aproximada porque una offset no es un círculo exacto) de 0.44 m<sup>2</sup>. Como se suponía una presión por viento de 1100 N/m<sup>2</sup>, nos sale una carga de 1100·0.44 = 486 N. Es realmente grande pero es lo habitual en las parabólicas.
+
+Ahora debemos encontrar un soporte que tolere esta carga, esto es: tal que 486 x “altura en metros” < “máximo momento flector soportado” (y mejor si es con cierto factor de seguridad). En los mástiles específicos para parabólicas (por ejemplo el 7576 de Televés, 0.75 m de altura) no se especifica el momento flector máximo pero sí se dice que están diseñados para cumplir la norma de ICT’s por lo que suponemos que están diseñados para aguantar grandes momentos flectores y que sí lo podemos utilizar (nótese que los mástiles de parábola vienen en un apartado diferente, tienen mayor resistencia que los de antenas terrenas).
+
+En este punto hemos completado el diseño de los elementos de captación.
