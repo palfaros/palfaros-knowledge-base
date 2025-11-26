@@ -62,10 +62,10 @@ Para calcular los ángulos de apuntamiento debemos conocer cuál es el satélite
 
 Vamos a exponer las fórmulas al mismo tiempo que realizamos un ejemplo. Para la ubicación que nos ocupa: C/ Gran Vía 1, Vigo; las coordenadas serían 42.22° N, 8.71° W. Supongamos que queremos apuntar al Hispasat-1D situado en longitud 30° W. Primero debemos saber que el convenio habitual es que la latitud norte es positiva y la sur negativa (en este caso λ<sub>rec</sub> = 42.22°, λ<sub>sat</sub> = 0 como siempre por ser geoestacionario). En cuanto a longitudes, cuando son hacia el este son positivas (φ<sub>rec</sub> = -8.71°, φ<sub>sat</sub> = -31°).
 
-Empezaremos por calcular el ángulo azimut (el giro sobre el plano horizontal, necesario para apuntar a ese satélite). El primer paso es calcular la longitud relativa del satélite respecto de la estación terrena (receptora en este caso): φ =φ<sub>sat</sub> - φ<sub>rec</sub> = -31º - (-8.71º) = -22.29°. Ahora podemos aplicar la fórmula del azimut (l es la latitud de la estación, la del satélite es 0° por ser geoestacionario):
+Empezaremos por calcular el ángulo **azimut** (el giro sobre el plano horizontal, necesario para apuntar a ese satélite). El primer paso es calcular la longitud relativa del satélite respecto de la estación terrena (receptora en este caso): φ =φ<sub>sat</sub> - φ<sub>rec</sub> = -31º - (-8.71º) = -22.29°. Ahora podemos aplicar la fórmula del azimut (l es la latitud de la estación, la del satélite es 0° por ser geoestacionario):
 
 $$
-tg(A_{x}) = \frac{tg(\varphi)}{sen(\lambda)} = \frac{tg(-21.29º)}{sen(42.22º)}
+tg(A_{x}) = \frac{tg(\phi)}{sen(\lambda)} = \frac{tg(-21.29º)}{sen(42.22º)}
 $$
 
 Lo que resulta en un Azimut de -30.11°. Ese dato es inútil si no sabemos que esta fórmula va a producir ángulos REFERIDOS AL SUR donde además el sentido horario corresponde con ángulos negativos. Por tanto el ángulo calculado se correspondería con la siguiente figura:
@@ -73,3 +73,19 @@ Lo que resulta en un Azimut de -30.11°. Ese dato es inútil si no sabemos que e
 ![[Azimut_parabólica.png]]
 
 El azimut muchas veces se da referido al norte. En este caso, sería de 180º + 30.11º = 210.11º.
+
+Ahora debemos calcular la **elevación** (ángulo que debemos levantar la antena desde la horizontal. Para ello utilizamos la fórmula correspondiente:
+
+$$
+tg(\epsilon) = \frac{cos(\phi)cos(\lambda) - R/(R+h)}{\sqrt{1-cos^{3}(\phi)cos^{2}(\lambda)}}
+$$
+
+Donde R es el radio de la tierra (aproximadamente R = 6370 Km) y h es la altura del satélite sobre el punto de la tierra más cercano a él (punto sub-satelital, situado siempre en el ecuador); R+h es el radio de la órbita de los satélites geoestacionarios (aproximadamente R+h = 42200 Km). Introduciendo los datos del ejemplo se obtiene una elevación: ε = 36.68°.
+
+![[Elevación_parabólica.png]]
+
+
+
+$$
+tg(\beta) = -\frac{sen(\phi)}{tg(\lambda)}
+$$
