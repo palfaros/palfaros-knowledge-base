@@ -95,3 +95,11 @@ $$
 Aplicándola obtenemos un resultado de: 21.81°. Aquí la interpretación es “mirando la antena desde el frente, un giro desde la vertical que será positivo en sentido anti-horario”.
 
 Hay que comentar que existen muchas aplicaciones (algunas gratuitas vía Web o incluso para Android) para realizar este cálculo… Por ejemplo, podríamos haber utilizado [http://www.dishpointer.com/](http://www.dishpointer.com/) (ojo que el último ángulo, llamado “LNB Skew” lo da desde DETRÁS del disco) pero, eso hubiera sido mucho menos científico.
+
+Ahora debemos calcular la ganancia mínima necesaria de nuestra antena para recibir la señal deseada. Este dato va a determinar el diámetro de la antena ya que las antenas grandes tienen mayor ganancia (es decir: reciben mejor). A veces, podemos averiguar el resultado por datos que publica el operador de satélite (Digital+ o Hispasat) o consultando con instaladores. Sin embargo, vamos a ver cómo se hace el cálculo correctamente.
+
+La relación señal a ruido (mejor dicho: portadora a ruido) que recibe una antena puede ser calculada con la fórmula:
+
+$$
+C/N(dB) = PIRE_{dBW} + G_{dB} + 20\log_{10}\!\left(\frac{\lambda}{4\pi l}\right) - 10\log_{10}(kT_{ant}B_W)
+$$
