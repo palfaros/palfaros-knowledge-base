@@ -15,7 +15,6 @@ En la versión de 2003 de la norma de ICT se permitía que el cableado exterior 
 *En esta canalización, los cables discurrirán entre los elementos de captación (antenas) y el punto de entrada a la edificación (pasamuros). El número y dimensión en mm será el siguiente en cada caso:*
 1. *Tubos: 2 tubos de 40 mm de diámetro.*
 2. *Canal y bandeja de 3.000 mm<sup>2</sup> con 2 compartimentos.*
-
 *Cuando sean necesarios, los registros de enlace se colocarán en los mismos casos que en el apartado anterior y sus dimensiones mínimas serán 360 x 360 x 120 mm (altura x anchura x profundidad).*
 
 Aunque estos cables vayan entubados siguen siendo cables expuestos a la intemperie por lo que deberemos proyectar cable con cubierta de exteriores (con protección antihumedad).
