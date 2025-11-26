@@ -110,7 +110,7 @@ $$
 d = \sqrt{(R+h)^{2}+R^{2}-2R(R+h)cos(\phi)cos(\lambda)}
 $$
 
-Para el caso que nos ocupa calculamos d = 38085 Km (38085000 m). Vamos a suponer que la relación señal a ruido a exigir es de 15 dB (la norma pide 11 dB en toma en antena necesitaremos un poco más). También supondremos que la frecuencia de bajada es de 12 GHz (lo que implica que λ = c/f = 0.025 m). Para la temperatura de ruido captada por la antena vamos a suponer   T<sub>ant</sub> = 200 ºK y el ancho de banda será el de un servicio de TV por satélite (BW = 36 MHz).
+Para el caso que nos ocupa calculamos d = 38085 Km (38085000 m). Vamos a suponer que la relación señal a ruido a exigir es de 15 dB (la norma pide 11 dB en toma; por tanto, en antena necesitaremos un poco más). También supondremos que la frecuencia de bajada es de 12 GHz (lo que implica que λ = c/f = 0.025 m). Para la temperatura de ruido captada por la antena vamos a suponer   T<sub>ant</sub> = 200 ºK y el ancho de banda será el de un servicio de TV por satélite (BW = 36 MHz).
 
 Ahora que tenemos todos los datos, despejamos G y nos sale una ganancia de 36.61 dB. Viendo el catálogo en [www.televes.es](http://www.televes.es/) (por ejemplo) deberemos elegir una que supere esta cifra. Por ejemplo nos vale la Offset 750 HQ (750 mm de diámetro y 38.50 dB de ganancia), que se muestra en la siguiente imagen.
 
