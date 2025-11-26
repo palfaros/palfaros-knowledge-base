@@ -84,8 +84,14 @@ Donde R es el radio de la tierra (aproximadamente R = 6370 Km) y h es la altura 
 
 ![[Elevación_parabólica.png]]
 
+La imagen anterior muestra el ángulo de elevación. Nótese que la antena dibujada es una *offset*, esto es: el eje geométrico de la parábola no coincide con la recta entre el foco y el centro del plato (este tipo de reflectores son los más utilizados por su facilidad de instalación).
 
+Por último nos faltaría calcular el ángulo de polarización. Este ángulo es importante porque los satélites emiten ondas polarizadas, esto es: con el campo eléctrico en dirección horizontal o vertical (y debemos seleccionar que polarización o polarizaciones queremos recibir). Como la dirección es horizontal “al ser emitida por el satélite”, debemos saber con qué ángulo llegará a nosotros esa onda y eso nos obliga a girar el receptor que se monta en el foco de la parábola (llamado normalmente LNB de *Low Noise Block*). Para calcular dicho ángulo existe una fórmula:
 
 $$
 tg(\beta) = -\frac{sen(\phi)}{tg(\lambda)}
 $$
+
+Aplicándola obtenemos un resultado de: 21.81°. Aquí la interpretación es “mirando la antena desde el frente, un giro desde la vertical que será positivo en sentido anti-horario”.
+
+Hay que comentar que existen muchas aplicaciones (algunas gratuitas vía Web o incluso para Android) para realizar este cálculo… Por ejemplo, podríamos haber utilizado [http://www.dishpointer.com/](http://www.dishpointer.com/) (ojo que el último ángulo, llamado “LNB Skew” lo da desde DETRÁS del disco) pero, eso hubiera sido mucho menos científico.
