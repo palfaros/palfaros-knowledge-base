@@ -101,5 +101,12 @@ Ahora debemos calcular la ganancia mínima necesaria de nuestra antena para reci
 La relación señal a ruido (mejor dicho: portadora a ruido) que recibe una antena puede ser calculada con la fórmula:
 
 $$
-C/N(dB) = PIRE_{dBW} + G_{dB} + 20\log_{10}\!\left(\frac{\lambda}{4\pi l}\right) - 10\log_{10}(kT_{ant}B_W)
+C/N(dB) = PIRE_{dBW} + G_{dB} + 20\log_{10}\!\left(\frac{\lambda}{4\pi d}\right) - 10\log_{10}(kT_{ant}B_W)
 $$
+
+En esta fórmula deberemos despejar G que es la ganancia de la antena receptora. También debemos saber que se caracteriza al emisor (satélite) por su “Potencia Isotrópica Radiada Equivalente” (PIRE, que es la potencia de emisión teniendo en cuenta la ganancia de la antena). Otros datos necesarios son λ, que es la longitud de onda de la señal emitida (normalmente la calcularemos a partir de la frecuencia), y d, distancia en metros entre satélite y estación. La PIRE es un dato del satélite que debemos obtener de su operador (Hispasat), en este caso es de 54 dBW. Para calcular la distancia existe otra fórmula geométrica:
+
+$$
+d = \sqrt{(R+h)^{2}+R^{2}-2R(R+h)cos(\phi)cos(\lambda)}
+$$
+
