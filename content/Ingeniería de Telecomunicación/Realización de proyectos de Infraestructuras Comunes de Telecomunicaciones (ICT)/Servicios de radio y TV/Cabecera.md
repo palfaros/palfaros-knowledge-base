@@ -21,3 +21,14 @@ Sea cual sea la opción elegida, para realizar un diseño debemos saber qué fre
 En la siguiente imagen se muestra una cabecera modular (arriba) y una centralita amplificadora programable (abajo).
 
 ![[Cabecer_modular_y_centralita_amplificadora.png]]
+
+¿Qué señales tienen licencia en determinada zona? La página oficial: [www.televisiondigital.es](http://www.televisiondigital.es/) nos informa de la mayoría. Nótese que el número de canal que aparece en las dos últimas columnas es una forma de informar de la frecuencia de cada portadora (en una portadora de TDT puede haber hasta 5 “canales” o, mejor dicho: programas diferentes). Esa numeración procede de una tabla utilizada internacionalmente que reproducimos al final de este capítulo ([[Anexo I Tabla de canales de TV]]). Aparte de los canales de la tabla situada en el apartado [[Elementos de captación#Diseño de elementos de captación]] debemos saber que:
+
+- Ahí pueden no salir las frecuencias de las licencias autonómicas. Normalmente, existirá una portadora autonómica en la frecuencia reservada a la provincia que corresponda. Ver mapa a continuación(se sigue utilizando la numeración del ([[Anexo I Tabla de canales de TV]]).
+- Pueden existir licencias locales. Normalmente, será sólo una portadora concedida por el gobierno autonómico. Por ejemplo en Vigo hay dos operadores, o programas, locales emitiendo en el canal, o frecuencia, 34 (compartido entre TeleVigo, Localia y, todavía sin emisión, Telecíes y Faro de Vigo).
+
+![[Frecuencias_provinciales.png]]
+
+Conocidos los canales autorizados, deberíamos confirmar que tienen la intensidad de señal suficiente. Para realizar esto correctamente deberíamos subir (con medidor de campo y antena patrón) a algún edificio cercano al proyectado, a ser posible, de altura parecida (nótese que en el edificio proyectado, normalmente, no se habrán comenzado las obras). Dada la dificultad de esta operación, muchas veces se intenta lograr datos a través de los operadores de radiodifusión (en Galicia: [www.cellnex.com](https://www.cellnex.com/) y [www.retegal.es](http://www.retegal.es/)) o, incluso, se supone que todos los canales habilitados tendrán intensidad suficiente.
+
+Para terminar este apartado debemos prestar un poco de atención a las características técnicas de los dispositivos utilizados para el diseño de cabeceras. Para ello, tendremos en mente que queremos diseñar una cabecera para nuestro edificio en C/ Gran Vía 1, Vigo. Tendremos que distribuir los siguientes canales: radio FM, radio DAB, un operador de satélite (Digital+) y canales TDT en las frecuencias: 34 (tdt local), 24, 31, 37 (tdt autonómica), 39, 43, 45, 46 y 48.
