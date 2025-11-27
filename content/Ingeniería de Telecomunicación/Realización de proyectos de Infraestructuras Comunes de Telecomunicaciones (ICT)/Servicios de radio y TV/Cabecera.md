@@ -20,20 +20,4 @@ Sea cual sea la opción elegida, para realizar un diseño debemos saber qué fre
 
 En la siguiente imagen se muestra una cabecera modular (arriba) y una centralita amplificadora programable (abajo).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[Cabecer_modular_y_centralita_amplificadora.png]]
