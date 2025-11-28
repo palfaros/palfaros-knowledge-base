@@ -6,7 +6,7 @@ El cableado de enlace une las antenas con el registro principal de RTV (RITS) y 
 
 En el cableado de enlace es importante llegar a la cabecera (o registro principal) en la mínima distancia posible, ya que las señales a la salida de las antenas son muy débiles y deben ser amplificadas cuanto antes. A veces (sobre todo en zonas de recepción pobre de las señales terrenas), se pueden emplear antenas con amplificación previa (que incorporan un pequeño amplificador integrado en la antena. En las antenas TDT del fabricante Televés el amplificador previo se llama MRD (*Margin Rising Device*).
 
-![[Cable_coaxial.png]]
+![[content/Ingeniería de Telecomunicación/Realización de proyectos de Infraestructuras Comunes de Telecomunicaciones (ICT)/Servicios de radio y TV/Cable_coaxial.png]]
 
 ## Normativa actual
 
