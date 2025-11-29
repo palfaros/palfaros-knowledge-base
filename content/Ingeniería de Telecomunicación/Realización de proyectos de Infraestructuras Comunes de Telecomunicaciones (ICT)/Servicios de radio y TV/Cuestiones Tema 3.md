@@ -96,13 +96,21 @@ $$
 **Solución**: **30.26 dB.**
 Tenemos todos los datos, la mayoría ya los utilizamos en el apartado anterior. T<sub>0</sub> es 290 K, B<sub>w</sub> es 8 MHz (canal de TDT) y k la constante de Boltzman: 1.381·10<sup>-23</sup> J/ºK.
 
+Si suponemos que la temperatura de ruido de la antena es T<sub>0</sub>, la potencia de ruido en unidades naturales será (en la peor toma):
+
+$$
+n = kT_{0}B_{w}f_{r}\frac{g_{2}}{a_{1}a_{3}}
+$$
+
 Aplicando la fórmula sale n = 4.13·10<sup>-11</sup> W.
 
 Con esto tenemos el denominador de la relación CNR. Para obtener la potencia de portadora debemos averiguar de alguna forma el nivel de señal. Nuestro cálculo definía un rango de 82.90-101.08 dBµV en la cabecera. Suponiendo el valor máximo: 101.08 dBµV, en la peor toma tendremos V = 101.08 dBµV – 35.90 dB = 65.18 dBµV (v=1.81 mV).
 
 Finalmente, sabiendo que la impedancia de los sistemas de TV es de 75 Ω, aplicamos la fórmula del texto:
 
-CNR=10·log<sub>10</sub>\[(v<sup>2</sup>/z<sub>o</sub>)/n\]
+$$
+CNR (dB) = 10\log_{10}(\frac{v^{2}/z_{0}}{n})
+$$
 
 Y obtenemos CNR = **30.26 dB**.
 
