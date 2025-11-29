@@ -79,3 +79,15 @@ Por tanto vemos que la elección del 5444 es correcta. Para acabar de ilustrar e
 Continuando con las recomendaciones del fabricante, proyectaremos un modelo 5445 para las plantas primera y segunda (2 y 3 en la tabla) y un 5446 en la tercera planta (4 en la tabla).
 
 Por último, nótese que en cada RS realmente tendremos dos derivadores iguales debido a que la distribución de RTV estará duplicada.
+
+Ahora debemos elegir un PAU para el interior de cada RTR. De nuevo recurrimos al catálogo de Televés, donde tenemos los siguientes “PAU-repartidores”:
+
+![[Televés_PAU-repartidores_Specs.png]]
+
+Debemos tener como mínimo 3 salidas, el 5151 sería correcto pero, en previsión de algún crecimiento, podemos elegir el 5152 que nos sirve para todas las viviendas (9 viviendas en total).
+
+Respecto a las tomas, tenemos la siguiente tabla:
+
+![[Televés_BAT_Tomas_Specs.png]]
+
+Podemos ver que la toma 5226 tiene pérdidas muy bajas pero también vemos que tiene dos salidas (TV y SAT) que proporcionan señales separadas: en la salida TV no hay señal de satélite y en la salida SAT no hay señal de TDT (podemos verlo porque no nos dan dato de pérdida para estos casos). En este caso es más recomendable la toma 5229 que será más cómoda para el usuario. El resto son tomas con continuidad y no se deben utilizar en una distribución en estrella.
