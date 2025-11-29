@@ -64,4 +64,5 @@ date: 2025-11-29
 |       |              | 67    | 838-846          | 839.25                  | 844.75                  |
 |       |              | 68    | 846-854          | 847.25                  | 852.75                  |
 |       |              | 69    | 854-862          | 855.25                  | 860.75                  |
+
 \* Los conceptos portadora de imagen y portadora de sonido tenían sentido en la TV analógica (PAL) y son por tanto obsoletos. El resto de la tabla sigue siendo válido.
