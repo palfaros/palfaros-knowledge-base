@@ -1,5 +1,5 @@
 ---
-title: Cuestiones
+title: Cuestiones Tema 2
 date: 2025-11-15
 ---
 ## Unidades logarítmicas (dB)
