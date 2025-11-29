@@ -222,3 +222,42 @@ Nótese que la salida calculada para la cabecera es ESO: “salida de la cabecer
 ### Cálculo relación portadora a ruido
 
 Por último, es necesario calcular la relación portadora a ruido en la peor toma. Para esto se suele utilizar la fórmula de Friis para el factor de ruido. Centrándonos en la peor toma para TDT, después de la antena tendremos:
+
+- Un trozo de cable (atenuador) de longitud conocida y atenuación a1. Si suponemos que es un atenuador a temperatura ambiente T<sub>0</sub> (290 °K), su factor de ruido será a<sub>1</sub>.
+- Un amplificador (el que hayamos elegido). A partir de los datos del fabricante debemos averiguar su ganancia (g<sub>2</sub>) y su factor de ruido f<sub>2</sub>. Normalmente los encontraremos publicados en dB, pero para este cálculo es mejor convertirlos a unidades naturales.
+- La parte de la red de distribución hasta la peor toma la consideraremos como un atenuador de atenuación a<sub>3</sub> (unidades naturales). Nuevamente supondremos temperatura ambiente T<sub>0</sub>.
+En este sistema el factor de ruido global es:
+
+$$
+f_{r} = a_{1} + \frac{f_{2}-1}{1/a_{1}} + \frac{a_{3}-1}{(1/a_{1})g_{2}}
+$$
+
+Si suponemos que la temperatura de ruido de la antena es T<sub>0</sub>, la potencia de ruido en unidades naturales será (en la peor toma):
+
+$$
+n = kT_{0}B_{w}f_{r}\frac{g_{2}}{a_{1}a_{3}}
+$$
+
+Y si conocemos el nivel de señal (voltaje) en la toma (v) la relación portadora a ruido será:
+
+$$
+CNR (dB) = 10\log_{10}(\frac{v^{2}/z_{0}}{n})
+$$
+
+Normalmente, v lo podremos conocer, conociendo el valor de salida de la cabecera y restándole la atenuación de la peor toma. Así lo obtendremos en dBμV y lo deberemos convertir a unidades naturales. z<sub>0</sub> es la impedancia característica de los sistemas de TV (75Ω).
+
+Antes de terminar, es interesante que presentemos una fórmula que puede ser necesaria. Se trata de la fórmula que permite obtener la tensión de salida de una antena. Esta fórmula es interesante para saber si podemos utilizar determinados amplificadores (que requieren un nivel mínimo a su entrada para funcionar) y también se puede utilizar para hacer un cálculo más exacto de la relación CNR, teniendo en cuenta valores de temperatura de antena diferentes a T<sub>0</sub>. Para aplicarla debemos conocer el campo eléctrico (en V/m o dBμV/m) de la señal incidente en la antena. Como comentamos anteriormente, ese valor no siempre lo vamos a tener disponible.
+
+Si conocemos el campo eléctrico (e) de la señal de interés en la ubicación de la antena receptora es válida la expresión:
+
+$$
+v = e\sqrt{\frac{z_{0}}{4\pi}g_{ant}}\lambda
+$$
+
+Donde z<sub>0</sub> vuelven a ser 75Ω, g<sub>ant</sub> es la ganancia de la antena receptora (en unidades naturales) y λ es la longitud de onda (c/f) de la portadora que queremos recibir. El factor por el que se multiplica el campo eléctrico en la fórmula anterior se suele llamar “longitud efectiva” de la antena, porque tiene unidades de longitud y nos sirve para “multiplicar por el campo en V/m para convertirlo en V”:
+
+$$
+l_{ef} = \sqrt{\frac{z_{0}}{4\pi}g_{ant}}\lambda
+$$
+
+Con todo lo visto hasta ahora, tenemos los elementos básicos para afrontar el diseño de una distribución de RTV sencilla.
