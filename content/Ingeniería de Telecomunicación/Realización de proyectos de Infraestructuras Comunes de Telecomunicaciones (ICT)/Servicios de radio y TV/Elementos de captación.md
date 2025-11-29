@@ -77,7 +77,7 @@ El azimut muchas veces se da referido al norte. En este caso, sería de 180º + 
 Ahora debemos calcular la **elevación** (ángulo que debemos levantar la antena desde la horizontal. Para ello utilizamos la fórmula correspondiente:
 
 $$
-tg(\epsilon) = \frac{cos(\phi)cos(\lambda) - R/(R+h)}{\sqrt{1-cos^{3}(\phi)cos^{2}(\lambda)}}
+tg(\epsilon) = \frac{cos(\phi)cos(\lambda) - R/(R+h)}{\sqrt{1-cos^{2}(\phi)cos^{2}(\lambda)}}
 $$
 
 Donde R es el radio de la tierra (aproximadamente R = 6370 Km) y h es la altura del satélite sobre el punto de la tierra más cercano a él (punto sub-satelital, situado siempre en el ecuador); R+h es el radio de la órbita de los satélites geoestacionarios (aproximadamente R+h = 42200 Km). Introduciendo los datos del ejemplo se obtiene una elevación: ε = 36.68°.
