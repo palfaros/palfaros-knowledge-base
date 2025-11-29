@@ -4,265 +4,216 @@ date: 2025-11-29
 ---
 ## Cuestión 1
 
-Cuando una señal atraviesa un amplificador real…
+Al diseñar el cableado de una planta…
 
 Selecciona una:
-- La calidad siempre mejora.
-- Aumenta el nivel de la señal y el del ruido disminuye.
-- La relación señal a ruido no cambia.
-- La relación señal a ruido baja.
-
+- La unión entre RS y RTR puede discurrir, en parte, por dentro de las viviendas.
+- Las tomas de una vivienda se pueden cablear en serie, siempre que no haya más de 3 seguidas.
+- A cada toma llegan dos coaxiales porque el cableado está duplicado.
+- Ninguna de las anteriores es correcta.
 ### Respuesta
 
-La relación señal a ruido baja.
+Ninguna de las anteriores es correcta.
 
 ### Justificación
 
-Un amplificador real no es ideal: además de amplificar la señal, **añade su propio ruido interno** (térmico, del dispositivo, etc.). Eso significa que, aunque la señal se amplifica, el **ruido total a la salida es mayor** que el que tenía la señal originalmente.
+Vamos a analizar cada opción con cuidado:
 
-Como consecuencia, **la relación señal-a-ruido (SNR)**, que mide cuánta señal útil hay respecto al ruido, **empeora**.
-
-En un amplificador ideal la SNR no cambiaría, pero en la práctica **baja**.
+1. **“La unión entre RS y RTR puede discurrir, en parte, por dentro de las viviendas.”** Esto **no es correcto**, ya que el cableado principal (entre el RS —repartidor secundario— y el RTR —repartidor de torre—) debe ir por zonas comunes y no atravesar viviendas, por seguridad y normativas.
+2. **“Las tomas de una vivienda se pueden cablear en serie, siempre que no haya más de 3 seguidas.”** Esto **tampoco es correcto**, porque el cableado moderno de televisión o datos (coaxial o par trenzado) suele hacerse en **topología estrella**, no en serie, para asegurar la calidad de señal.
+3. **“A cada toma llegan dos coaxiales porque el cableado está duplicado.”** Esto **es incorrecto** como norma general. Normalmente cada toma recibe un solo cable coaxial desde el repartidor de la vivienda. El cable duplicado no es habitual.
 
 ## Cuestión 2
 
-Cuando una señal senoidal o una combinación de ellas pasa por un sistema no lineal…
+El cableado de enlace de una instalación de RTV…
 
 Seleccione una:
-- La señal siempre se atenúa.
-- La señal desaparece.
-- Aparecen frecuencias que no estaban presentes en la entrada.
-- Ninguna de las anteriores.
+- Une la arqueta de entrada con el RITI.
+- No es necesario que vaya entubado según la norma actual.
+- Debe ir entubado y, por eso, no es necesario utilizar cable con cubierta de intemperie.
+- Ninguna de las anteriores es correcta.
 
 ### Respuesta
 
-Aparecen frecuencias que no estaban presentes en la entrada.
+Ninguna de las anteriores es correcta.
 
 ### Justificación
 
-Un sistema no lineal genera **distorsión no lineal**, lo que provoca la aparición de **armónicos**, **intermodulación** y otras componentes en frecuencia que **no existían en la señal original**.
-
-Por ejemplo:
-
-- Si entra una senoide de frecuencia _f_, pueden aparecer armónicos: 2f, 3f, 4f…
-- Si entran dos senoides f₁ y f₂, aparecen frecuencias de intermodulación: f₁ ± f₂, 2f₁ ± f₂, etc.
-
-Así que lo característico de un sistema no lineal es **crear nuevas frecuencias**.
+Vamos a analizar cada opción con cuidado:
+1. **“Une la arqueta de entrada con el RITI.”** Incorrecta, porque no siempre se usa arqueta; depende de la captación (tejado o entrada subterránea).    
+2. **“No es necesario que vaya entubado según la norma actual.”** Incorrecta, el cableado **sí debe ir protegido**, normalmente en tubo.
+3. **“Debe ir entubado y, por eso, no es necesario utilizar cable con cubierta de intemperie.”** Parcialmente, como dije antes, **el cable debe ser adecuado a la situación**, incluso si va entubado, puede requerirse cubierta para exterior.
 
 ## Cuestión 3
 
-El código Morse es un ejemplo de…
+En una cabecera de diseño modular…
 
 Seleccione una:
-- Codificación de fuente.
-- Codificación de canal.
-- Codificación analógica.
-- Ninguna de las anteriores.
+- Cada módulo es llamado monocanal porque SIEMPRE amplifica un único canal.
+- Hay que utilizar, aparte, una centralita amplificadora para poder amplificar las señales de FM y de satélite.
+- Podremos tener módulos para amplificar FM, DAB, satélite (FI), un solo canal de TDT (monocanal) y varios canales de TDT (multicanal).
+- Ninguna de las anteriores es correcta.
 
 ### Respuesta
 
-Codificación de fuente.
+Podremos tener módulos para amplificar FM, DAB, satélite (FI), un solo canal de TDT (monocanal) y varios canales de TDT (multicanal).
 
 ### Justificación
 
-El código Morse asigna a cada carácter (letra, número, símbolo) una secuencia de puntos y rayas. Es un **método para representar la información original**, reduciendo su longitud promedio (códigos más cortos para letras frecuentes), así que se considera **codificación de fuente**.
-
-No es codificación de canal porque no añade redundancia para corregir errores, ni es codificación analógica porque el mensaje sigue siendo digital (discreto: punto/raya).
+Este es **el principio del diseño modular**: se pueden combinar distintos módulos según las señales que se quieran amplificar y distribuir.
 
 ## Cuestión 4
 
-En un canal de comunicaciones, la distorsión LINEAL provoca...
+En una vivienda con salón, cocina, dos habitaciones y dos baños, ¿Cuántas tomas de televisión, como mínimo, deberán ser instaladas en obra?
 
 Seleccione una:
-- Que algunas componentes frecuenciales de la señal de entrada se atenúen más que otras.
-- Una modificación de carácter aleatorio de la señal de entrada.
-- La aparición, en la señal de salida, de frecuencias diferentes a las presentes en la señal de entrada.
-- Ninguna de las anteriores.
+- 6.
+- 4.
+- 3.
+- 2.
 
 ### Respuesta
 
-Que algunas componentes frecuenciales de la señal de entrada se atenúen más que otras.
+4.
 
 ### Justificación
 
-La **distorsión lineal** ocurre cuando un canal tiene una **respuesta en frecuencia no plana** o un **retardo de grupo no constante**. Esto hace que:
-- Algunas frecuencias de la señal se atenúen más que otras (distorsión de amplitud).   
-- También puede haber diferentes retardos según la frecuencia (distorsión de fase).
-Pero **NO**:
-- Produce cambios aleatorios → eso sería **ruido**.
-- Genera nuevas frecuencias → eso ocurre en **distorsión no lineal**.
+La norma vigente pide, como mínimo, una toma por estancia computable (excluidos baños y trasteros, pero se incluye la cocina si es una estancia separada).
 
 ## Cuestión 5
 
-En un canal de comunicaciones, la distorsión no lineal provoca:
+En una vivienda que consta de salón, cocina, 3 habitaciones y 2 baños, ¿cuántas salidas habrá de tener el PAU de RTV?
 
 Seleccione una:
-- Que algunas componentes frecuenciales de la señal de entrada se atenúen más que otras.
-- Una modificación de carácter aleatorio de la señal de entrada.
-- La aparición, en la señal de salida, de frecuencias diferentes a las presentes en la señal de entrada.
-- Que algunas componentes frecuenciales de la señal de entrada se propaguen a mayor velocidad que otras.
+- 2.
+- 3.
+- 5.
+- 7.
 
 ### Respuesta
 
-La aparición, en la señal de salida, de frecuencias diferentes a las presentes en la señal de entrada.
+5.
 
 ### Justificación
 
-La **distorsión no lineal** es aquella en la que el sistema genera **nuevas componentes espectrales**:
-- Armónicos (2f, 3f, 4f…) si entra una sola frecuencia.
-- Productos de intermodulación (f₁ ± f₂, 2f₁ ± f₂…) si entran varias.
-El resto de opciones corresponden a otros fenómenos:
-- **a** → distorsión lineal (respuesta en frecuencia no plana).
-- **b** → ruido (carácter aleatorio).
-- **d** → distorsión de fase o dispersión (retardo de grupo dependiente de la frecuencia).
+Según la **normativa ICT 3.0** sobre instalaciones de RTV en viviendas:
+- Cada **estancia habitable** que deba disponer de toma de televisión requiere **una salida en el PAU** (Punto de Acceso de Usuario).
+- Habitaciones consideradas: salón, cocina (si está aislada), dormitorios. Los baños **no requieren toma de TV**.
+
+En este caso:
+- Salón → 1 salida.    
+- Cocina (aislada) → 1 salida.    
+- Dormitorio 1 → 1 salida.    
+- Dormitorio 2 → 1 salida.    
+- Dormitorio 3 → 1 salida.
 
 ## Cuestión 6
 
-En un sistema de telecomunicaciones formado por una red de amplificadores y atenuadores reales en cascada, ¿Qué ocurre con la relación señal a ruido (S/N) a medida que la señal va pasando por los distintos elementos?
+En viviendas unifamiliares se suele utilizar un amplificador de banda ancha que amplifica todos los canales de televisión a recibir (de hecho, amplifica toda la banda de televisión terrestre). Una ventaja será...
 
 Seleccione una:
-- Va mejorando.
-- Va empeorando.
-- No le afecta, se mantiene igual.
-- La S/N no se aplica a amplificadores y atenuadores.
+- La posible intermodulación entre las frecuencias de los diferentes canales ya que reforzará algunos de ellos.
+- Que si aparecen/desparecen canales NO habría que modificar la instalación.
+- Los armónicos generados, que nos permiten recibir un canal en diferentes frecuencias.
+- Ninguna de las anteriores.
 
 ### Respuesta
 
-Va empeorando.
+Que si aparecen/desparecen canales NO habría que modificar la instalación.
 
 ### Justificación
 
-En una cadena real de amplificadores y atenuadores:
-- Cada **amplificador real añade ruido propio** (térmico, ruido de dispositivo).
-- Los **atenuadores** reducen tanto la señal como el ruido… pero al reducir la señal, la S/N también empeora.   
-- A medida que la señal pasa por más etapas, se **acumula ruido** y la relación señal-ruido **empeora progresivamente**.
-
-Por eso, en sistemas reales (RF, fibra, redes de telecom…), es crítico colocar **amplificadores de bajo ruido (LNA)** al principio de la cadena.
+Al amplificar **toda la banda de televisión terrestre**, cualquier cambio en los canales no requiere cambiar el amplificador ni la instalación.
 
 ## Cuestión 7
 
-La codificación de vídeo MPEG-2 se utiliza en televisión digital terrestre como método de…
+Estamos en A Veiga (Ourense), donde las coordenadas geodésicas son: 42ºN, 7ºW. Queremos apuntar con una antena parabólica al satélite Hotbird6, del que sabemos que es geoestacionario y cuya longitud es 13ºE. La antena deberá apuntar:
 
 Seleccione una:
-- Codificación de fuente.
-- Codificación de canal.
-- Codificación analógica.
-- Ninguna de las anteriores.
+- al noreste.
+- al noroeste.
+- al sureste.
+- al suroeste.
 
 ### Respuesta
 
-Codificación de fuente.
+PENDIENTE
 
 ### Justificación
 
-MPEG-2 es un estándar de **compresión de vídeo y audio**, cuyo objetivo es **reducir la cantidad de datos necesarios** para representar el contenido multimedia sin (o con poca) pérdida perceptual.
-
-Eso es exactamente **codificación de fuente**: reducir redundancia y comprimir la información original.
-
-No añade redundancia para corrección de errores (eso sería codificación de canal), ni es un método analógico.
+PENDIENTE
 
 ## Cuestión 8
 
-Nos dicen que el campo eléctrico producido por una antena de telefonía móvil es de 50 dBµV…
+Estamos en Melbourne (Australia), donde las coordenadas geodésicas son, Longitud: 151º E, Latitud: 34º S. Queremos apuntar al satélite “INTELSAT-8” (geoestacionario, Longitud: 166º E). La parabólica deberá apuntar hacia….
 
 Seleccione una:
-- Incorrecto, el campo no se puede medir en decibelios.
-- Incorrecto, la unidad de campo eléctrico es V/m o dB V/m (o sus múltiplos y submúltiplos).
-- Correcto, aunque es un valor un poco bajo.
-- Ninguna de las anteriores.
+- el noroeste.
+- el noreste.
+- el suroeste.
+- el sureste.
 
 ### Respuesta
 
-Incorrecto, la unidad de campo eléctrico es V/m o dB V/m (o sus múltiplos y submúltiplos).
+PENDIENTE
 
 ### Justificación
 
-El campo eléctrico **siempre** debe expresarse con unidad de **voltios por metro (V/m)**.  
-En decibelios, se usa **dB V/m**, **dBµV/m**, etc.
-
-Un valor como **50 dBµV** _sin “/m”_ corresponde a una **tensión**, no a un campo eléctrico. Por tanto, está incorrectamente expresado.
+PENDIENTE
 
 ## Cuestión 9
 
-Nos dicen que el campo eléctrico producido por una antena de TV es de 60 dBµV/m…
+Estamos en Santiago de Chile, donde las coordenadas geodésicas son: latitud 33º S y longitud 70º W. Queremos apuntar al satélite Hispasat del que sabemos que es geoestacionario y su longitud es de 31º W. La parabólica deberá apuntar hacia….
 
 Seleccione una:
-- Incorrecto, el campo no se puede medir en decibelios.
-- Correcto, el campo en unidades naturales valdrá 10<sup>-3</sup> V/m.
-- Correcto, el campo en unidades naturales valdrá 10<sup>6</sup> mV/m.
-- Ninguna de las anteriores.
+- el noroeste.
+- el noreste.
+- el suroeste.
+- el sureste.
 
 ### Respuesta
 
-Correcto, el campo en unidades naturales valdrá 10<sup>-3</sup> V/m.
+PENDIENTE
 
 ### Justificación
 
-Dado un campo de **60 dBµV/m**, convertimos a unidades naturales:
-
-$$
-E = 60\ \text{dB}\,\mu\text{V/m} \Rightarrow 
-E_{\text{natural}} = 10^{\frac{60}{20}}\ \mu\text{V/m} = 10^{3}\ \mu\text{V/m}
-$$
-
-Pasamos a voltios por metro:
-
-$$
-10^{3}\ \mu\text{V/m} = 10^{3} \cdot 10^{-6}\ \text{V/m} = 10^{-3}\ \text{V/m}
-$$
-
-$$
-\boxed{E = 10^{-3}\ \text{V/m}}
-$$
-
-Por tanto, es correcto y equivale a **1 mV/m = 10⁻³ V/m**.
+PENDIENTE
 
 ## Cuestión 10
 
-Respecto a la forma de enviar la información en telegrafía antigua (puntos y rayas), hoy la llamaríamos PDM (modulación de pulsos por duración). Esto es un ejemplo de…
+Las antenas de recepción de radio FM…
 
 Seleccione una:
-- Codificación de fuente.
-- Codificación de canal.
-- Codificación analógica.
-- Ninguna de las anteriores.
+- Son omnidireccionales y, por eso, no es necesario apuntarlas al emisor más cercano.
+- Son directivas y, por eso, no es necesario apuntarlas al emisor más cercano.
+- Son omnidireccionales y, por eso, es necesario apuntarlas al emisor más cercano.
+- Son directivas y, por eso, es necesario apuntarlas al emisor más cercano.
 
 ### Respuesta
 
-Codificación de canal.
+Son omnidireccionales y, por eso, no es necesario apuntarlas al emisor más cercano.
 
 ### Justificación
 
-La telegrafía convierte información en pulsos modulados en el tiempo, que es **modulación de pulsos**, es decir, una forma de **adaptar la señal al canal**. No es codificación de fuente (no representa caracteres de manera más eficiente) ni codificación analógica en el sentido clásico..
+Son antenas omnidireccionales y no es necesario apuntarlas.
 
 ## Cuestión 11
 
-Si nos dicen que la potencia recibida por una antena es de -10 dBm, eso significa…
+Las antenas de recepción de TDT…
 
 Seleccione una:
-- Que no se recibe nada.
-- Que la potencia recibida es igual a 1 W.
-- Que la potencia recibida es igual a 1 mW.
-- Que la potencia recibida es igual a 0.1 mW.
+- Son omnidireccionales y, por eso, no es necesario apuntarlas al emisor más cercano.
+- Son directivas y, por eso, no es necesario apuntarlas al emisor más cercano.
+- Son omnidireccionales y, por eso, es necesario apuntarlas al emisor más cercano.
+- Son directivas y, por eso, es necesario apuntarlas al emisor más cercano.
 
 ### Respuesta
 
-Que la potencia recibida es igual a 0.1 mW.
+Son directivas y, por eso, es necesario apuntarlas al emisor más cercano.
 
 ### Justificación
 
-Dado una potencia de **-10 dBm**, convertimos a unidades naturales:
-
-$$
-P = -10\ \text{dBm} \Rightarrow 
-P_{\text{natural}} = 10^{\frac{-10}{10}}\ \text{mW} = 10^{-1}\ \text{mW}
-$$
-
-$$
-\boxed{P = 0.1\ \text{mW}}
-$$
-
-Por tanto, es correcto y equivale a **-10 dBm = 0.1 mW**.
+Se trata de antenas directivas, que deberemos apuntar hacia el centro emisor más cercano.
 
 ## Cuestión 12
 
