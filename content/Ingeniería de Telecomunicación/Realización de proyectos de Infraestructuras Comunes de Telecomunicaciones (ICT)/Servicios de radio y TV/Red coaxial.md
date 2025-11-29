@@ -173,3 +173,46 @@ La norma nos obliga a que en cada toma de TDT tengamos un nivel de señal entre 
 - Para que siempre estemos por debajo de 70 dBμV, la cabecera deberá **COMO MÁXIMO**, producir ese nivel en la **MEJOR TOMA**. Por tanto, el nivel en cabecera, debe cumplir la desigualdad L<sub>cab</sub> ≤ L<sub>max</sub> + AT<sub>min</sub> = 70 + 31.08 = 101.08 dBμV.
 
 Obviamente, este rango recién calculado es fundamental para el diseño de cabecera (recuérdese que lo habíamos dejado pendiente. Además de eso, podemos ver que nos ha dado un rango VIABLE, esto es: L<sub>cab</sub>(min) < L<sub>cab</sub>(max). No es difícil demostrar que si la diferencia entre la atenuación máxima y la mínima fuese mayor a 23 dB (70-47=excursión permitida en una toma) nos hubiese salido un rango imposible. En estos casos es cuando decimos que la instalación no es viable. Una instalación no viable puede aparecer cuando tenemos distribuciones muy grandes y para llegar a tener el valor mínimo permitido en la peor toma, necesitamos una salida tan alta que empezamos a saturar otras tomas de menor atenuación. En estos casos hay que cambiar el diseño. La solución más habitual suele ser introducir amplificación intermedia en algún registro secundario (amplificación de línea). Para evitar problemas de intermodulación no deberíamos tener más de dos amplificaciones de línea en la misma distribución.
+
+|                      |                       |                           |                           |
+| -------------------- | --------------------- | :-----------------------: | :-----------------------: |
+|                      |                       | **Frecuencia  (400 MHz)** | **Frecuencia  (862 MHz)** |
+| **Planta 3:**        |                       |                           |                           |
+| **Vivienda A (P3):** |                       |                           |                           |
+|                      | **Toma 1, V(A), P3:** |         32.35 dB          |         32.57 dB          |
+|                      | **Toma 2, V(A), P3:** |         33.23 dB          |         33.66 dB          |
+|                      | **Toma 3, V(A), P3:** |         33.07 dB          |         33.47 dB          |
+| **Vivienda B (P3):** |                       |                           |                           |
+|                      | **Toma 1, V(B), P3:** |         32.12 dB          |         32.28 dB          |
+|                      | **Toma 2, V(B), P3:** |         33.58 dB          |         34.10 dB          |
+|                      | **Toma 3, V(B), P3:** |         33.07 dB          |         33.47 dB          |
+| **Vivienda C (P3):** |                       |                           |                           |
+|                      | **Toma 1, V(C), P3:** |         32.21 dB          |         32.39 dB          |
+|                      | **Toma 2, V(C), P3:** |         33.49 dB          |         33.99 dB          |
+|                      | **Toma 3, V(C), P3:** |         33.32 dB          |         33.78 dB          |
+| **Planta 2:**        |                       |                           |                           |
+| **Vivienda A (P2):** |                       |                           |                           |
+|                      | **Toma 1, V(A), P2:** |         31.31 dB          |         31.62 dB          |
+|                      | **Toma 2, V(A), P2:** |         32.19 dB          |         32.71 dB          |
+|                      | **Toma 3, V(A), P2:** |         32.03 dB          |         32.52 dB          |
+| **Vivienda B (P2):** |                       |                           |                           |
+|                      | **Toma 1, V(B), P2:** |         31.08 dB          |         31.33 dB          |
+|                      | **Toma 2, V(B), P2:** |         32.54 dB          |         33.15 dB          |
+|                      | **Toma 3, V(B), P2:** |         32.03 dB          |         32.52 dB          |
+| **Vivienda C (P2):** |                       |                           |                           |
+|                      | **Toma 1, V(C), P2:** |         31.17 dB          |         31.44 dB          |
+|                      | **Toma 2, V(C), P2:** |         32.45 dB          |         33.04 dB          |
+|                      | **Toma 3, V(C), P2:** |         32.28 dB          |         32.83 dB          |
+| **Planta 1:**        |                       |                           |                           |
+| **Vivienda A (P1):** |                       |                           |                           |
+|                      | **Toma 1, V(A), P1:** |         33.97 dB          |         34.37 dB          |
+|                      | **Toma 2, V(A), P1:** |         34.85 dB          |         35.46 dB          |
+|                      | **Toma 3, V(A), P1:** |         34.69 dB          |         35.27 dB          |
+| **Vivienda B (P1):** |                       |                           |                           |
+|                      | **Toma 1, V(B), P1:** |         33.74 dB          |         34.08 dB          |
+|                      | **Toma 2, V(B), P1:** |         35.20 dB          |         35.90 dB          |
+|                      | **Toma 3, V(B), P1:** |         34.69 dB          |         35.27 dB          |
+| **Vivienda C (P1):** |                       |                           |                           |
+|                      | **Toma 1, V(C), P1:** |         33.83 dB          |         34.19 dB          |
+|                      | **Toma 2, V(C), P1:** |         35.11 dB          |         35.79 dB          |
+|                      | **Toma 3, V(C), P1:** |         34.94 dB          |         35.58 dB          |
