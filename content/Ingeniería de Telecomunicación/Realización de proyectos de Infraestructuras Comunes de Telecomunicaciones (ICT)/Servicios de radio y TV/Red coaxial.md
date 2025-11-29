@@ -64,7 +64,7 @@ A partir del plano (y de la escala) calculamos las distancias:
 - Dentro de la vivienda inferior izquierda: 0.20 m hasta la toma del salón, 12.30 m hasta el dormitorio principal y 8.10 hasta el dormitorio pequeño.
 - Dentro de la vivienda inferior derecha: 0.10 m hasta la toma del salón, 10.80 m hasta el dormitorio principal y 9.40 m hasta el dormitorio pequeño.
 
-Con estos datos apuntados vamos a elegir dispositivos para nuestra infraestructura (realmente sólo hemos dibujado canalizaciones y registros). El primer paso, ahora, es elegir derivadores. Como decíamos al principio del apartado: “En un edificio de varias plantas los derivadores se utilizan para equilibrar la instalación”. Eso significa que en las plantas altas se usan modelos con pérdidas de derivación altas mientras que en plantas bajas las pérdidas de derivación son menores. Para realizar esto hay varios métodos (incluso existe software de optimización) pero lo más simple (y que nos da soluciones correctas) es seguir las recomendaciones del fabricante. Si vemos la tabla que describe los derivadores de Televés con cuatro derivaciones (deben ser con 4 porque no existen derivadores con número par de derivaciones y tenemos tres viviendas por planta):
+Con estos datos apuntados vamos a elegir dispositivos para nuestra infraestructura (realmente sólo hemos dibujado canalizaciones y registros). El primer paso, ahora, es elegir **derivadores**. Como decíamos al principio del apartado: “En un edificio de varias plantas los derivadores se utilizan para equilibrar la instalación”. Eso significa que en las plantas altas se usan modelos con pérdidas de derivación altas mientras que en plantas bajas las pérdidas de derivación son menores. Para realizar esto hay varios métodos (incluso existe software de optimización) pero lo más simple (y que nos da soluciones correctas) es seguir las recomendaciones del fabricante. Si vemos la tabla que describe los derivadores de Televés con cuatro derivaciones (deben ser con 4 porque no existen derivadores con número par de derivaciones y tenemos tres viviendas por planta):
 
 ![[Televés_Derivadores_4D_Specs.png]]
 
@@ -80,14 +80,32 @@ Continuando con las recomendaciones del fabricante, proyectaremos un modelo 5445
 
 Por último, nótese que en cada RS realmente tendremos dos derivadores iguales debido a que la distribución de RTV estará duplicada.
 
-Ahora debemos elegir un PAU para el interior de cada RTR. De nuevo recurrimos al catálogo de Televés, donde tenemos los siguientes “PAU-repartidores”:
+Ahora debemos elegir un **PAU para el interior de cada RTR**. De nuevo recurrimos al catálogo de Televés, donde tenemos los siguientes “PAU-repartidores”:
 
 ![[Televés_PAU-repartidores_Specs.png]]
 
 Debemos tener como mínimo 3 salidas, el 5151 sería correcto pero, en previsión de algún crecimiento, podemos elegir el 5152 que nos sirve para todas las viviendas (9 viviendas en total).
 
-Respecto a las tomas, tenemos la siguiente tabla:
+Respecto a las **tomas**, tenemos la siguiente tabla:
 
 ![[Televés_BAT_Tomas_Specs.png]]
 
 Podemos ver que la toma 5226 tiene pérdidas muy bajas pero también vemos que tiene dos salidas (TV y SAT) que proporcionan señales separadas: en la salida TV no hay señal de satélite y en la salida SAT no hay señal de TDT (podemos verlo porque no nos dan dato de pérdida para estos casos). En este caso es más recomendable la toma 5229 que será más cómoda para el usuario. El resto son tomas con continuidad y no se deben utilizar en una distribución en estrella.
+
+**La última elección (o la primera, realmente no importa el orden) es la del cable coaxial**. Disponemos de una tabla con características:
+
+![[Televés_Cable_Specs.png]]
+
+Elegiremos el modelo más común T100, 2141. Vemos que casi todos los T-100 ofrecen las mismas pérdidas (iguales características eléctricas) porque la diferencia está en la cubierta. El 2141 tiene una cubierta normal para interiores. En algunos casos podemos necesitar utilizar el cable con cubierta de exteriores: 2155. Existen otros cables con menores pérdidas pero no suelen ser necesarios en circunstancias normales.
+
+Una vez realizadas estas elecciones (o simultáneamente a las mismas) deberíamos realizar un esquema de la instalación:
+
+![[Esquema_instalación.png]]
+
+Donde vemos todos los datos que hemos ido recopilando y también la distancia vertical entre cada dos registros secundarios. En este caso la consideramos constante e igual a 3 m.
+
+Otros detalles interesantes de la figura: 
+- Vemos la doble bajante.
+- Cómo cada PAU tiene dos entradas aunque sólo una esté activa y, por último
+- Cómo cada salida que no es utilizada se “completa” con un terminador (resistencia de 75 Ω, que asegura la ausencia de rebotes de señal).
+
