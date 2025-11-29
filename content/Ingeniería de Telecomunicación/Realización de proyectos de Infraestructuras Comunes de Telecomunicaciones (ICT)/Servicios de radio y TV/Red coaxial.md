@@ -207,6 +207,7 @@ Vemos que, de momento, nos salen números muy parecidos en todas las tomas. Eso 
 |                      | **Toma 1, V(C), P1:** |         33.83 dB          |         34.19 dB          |
 |                      | **Toma 2, V(C), P1:** |         35.11 dB          |         35.79 dB          |
 |                      | **Toma 3, V(C), P1:** |         34.94 dB          |         35.58 dB          |
+
 En la tabla anterior se han resaltado en negrita dos valores muy importantes: la atenuación máxima y mínima. Como sería de esperar, el mínimo corresponde a la menor frecuencia. Sin embargo, puede parecer una paradoja que el mínimo esté en la segunda planta y no en la más alta (más cerca de la cabecera). Este hecho es muy común y se debe a la gran atenuación en derivación de los derivadores de plantas altas. El dato realmente más importante, el que determina la viabilidad de la instalación, es la diferencia entre ellas. En este caso esa diferencia es baja (menor a 5 dB) dándonos una instalación bastante equilibrada. Ahora veremos cómo calcular el nivel de señal que debe proporcionar la cabecera y, de paso, sabremos si es viable.
 
 La norma nos obliga a que en cada toma de TDT tengamos un nivel de señal entre 47 y 70 dBμV. vamos a calcular los niveles de señal en cabecera que aseguran el cumplimiento de esa norma:
@@ -217,3 +218,7 @@ La norma nos obliga a que en cada toma de TDT tengamos un nivel de señal entre 
 Obviamente, este rango recién calculado es fundamental para el diseño de cabecera (recuérdese que lo habíamos dejado pendiente. Además de eso, podemos ver que nos ha dado un rango VIABLE, esto es: L<sub>cab</sub>(min) < L<sub>cab</sub>(max). No es difícil demostrar que si la diferencia entre la atenuación máxima y la mínima fuese mayor a 23 dB (70-47=excursión permitida en una toma) nos hubiese salido un rango imposible. En estos casos es cuando decimos que la instalación no es viable. Una instalación no viable puede aparecer cuando tenemos distribuciones muy grandes y para llegar a tener el valor mínimo permitido en la peor toma, necesitamos una salida tan alta que empezamos a saturar otras tomas de menor atenuación. En estos casos hay que cambiar el diseño. La solución más habitual suele ser introducir amplificación intermedia en algún registro secundario (amplificación de línea). Para evitar problemas de intermodulación no deberíamos tener más de dos amplificaciones de línea en la misma distribución.
 
 Nótese que la salida calculada para la cabecera es ESO: “salida de la cabecera”, no la salida del amplificador. Muchas veces después de la amplificación hay un repartidor necesario para producir la doble distribución. En ese caso, si el repartidor pierde 4 dB, la amplificación deberá compensarlo.
+
+### Cálculo relación portadora a ruido
+
+Por último, es necesario calcular la relación portadora a ruido en la peor toma. Para esto se suele utilizar la fórmula de Friis para el factor de ruido. Centrándonos en la peor toma para TDT, después de la antena tendremos:
