@@ -2,7 +2,6 @@
 title: Definición
 date: 2025-11-24
 ---
-
 Entendemos por servicio de Radio y Televisión (RTV) la correcta recepción de los canales de radio y televisión tanto por vía terrestre (antenas emisoras situadas en estaciones terrestres, generalmente torres de antenas ubicadas en alturas naturales cercanas a las poblaciones a las que dan servicio) como vía satélite.
 
 Antes de nada, debemos puntualizar que la recepción de satélite es opcional en una ICT. Esto es: no es obligatorio proyectarla ni instalarla. Aunque la mayoría de las veces sí se proyecta para después ser instalada o no, a criterio del promotor. Esto permite que, aunque no se instale inicialmente, sí que haya una guía para hacerlo en el futuro sin crear perturbaciones a los servicios terrestres que estarán siendo utilizados por los vecinos.

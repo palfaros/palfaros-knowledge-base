@@ -112,6 +112,8 @@ Podemos ver que la toma 5226 tiene pérdidas muy bajas pero también vemos que t
 
 Elegiremos el modelo más común T100, 2141. Vemos que casi todos los T-100 ofrecen las mismas pérdidas (iguales características eléctricas) porque la diferencia está en la cubierta. El 2141 tiene una cubierta normal para interiores. En algunos casos podemos necesitar utilizar el cable con cubierta de exteriores: 2155. Existen otros cables con menores pérdidas pero no suelen ser necesarios en circunstancias normales.
 
+#### Esquema instalación
+
 Una vez realizadas estas elecciones (o simultáneamente a las mismas) deberíamos realizar un esquema de la instalación:
 
 ![[Esquema_instalación.png]]
