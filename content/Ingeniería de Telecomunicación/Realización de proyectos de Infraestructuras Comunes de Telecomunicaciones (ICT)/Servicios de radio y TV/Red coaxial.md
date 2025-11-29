@@ -104,7 +104,7 @@ Respecto a las **tomas**, tenemos la siguiente tabla:
 
 Podemos ver que la toma 5226 tiene pérdidas muy bajas pero también vemos que tiene dos salidas (TV y SAT) que proporcionan señales separadas: en la salida TV no hay señal de satélite y en la salida SAT no hay señal de TDT (podemos verlo porque no nos dan dato de pérdida para estos casos). En este caso es más recomendable la toma 5229 que será más cómoda para el usuario. El resto son tomas con continuidad y no se deben utilizar en una distribución en estrella.
 
-#### Cable coaxial
+#### Cable
 
 **La última elección (o la primera, realmente no importa el orden) es la del cable coaxial**. Disponemos de una tabla con características:
 
@@ -129,7 +129,7 @@ Otros detalles interesantes de la figura:
 
 Vamos ahora a detallar el proceso de cálculo. Vamos a calcular la atenuación desde la cabecera hasta todas las tomas sólo para dos frecuencias: los extremos de la banda de TDT (400 y 862 MHz). El cálculo para otras frecuencias se haría exactamente igual, teniendo en cuenta que la atenuación del cable cambia y, tal vez, también cambie la de los dispositivos (derivadores, repartidores, tomas…).
 
-Comenzando el cálculo, vamos a la tabla mostrada en [[#Cable coaxial]] y descubrimos que, para la frecuencia de 400 MHz, la atenuación es de 0.12 dB/m (el valor listado es para 500 MHz pero lo tomamos porque es el más cercano). Para hacer el cálculo de atenuaciones vamos a “ir descendiendo” desde la cabecera y sumando los dB’s que correspondan. Para llegar a la entrada del primer derivador (planta 3) tenemos que recorrer 3m de cable, por tanto:
+Comenzando el cálculo, vamos a la tabla mostrada en [[#Cablel]] y descubrimos que, para la frecuencia de 400 MHz, la atenuación es de 0.12 dB/m (el valor listado es para 500 MHz pero lo tomamos porque es el más cercano). Para hacer el cálculo de atenuaciones vamos a “ir descendiendo” desde la cabecera y sumando los dB’s que correspondan. Para llegar a la entrada del primer derivador (planta 3) tenemos que recorrer 3m de cable, por tanto:
 
 $$
 A_{hasta\ entrada\ derivador\ P3} (dB)= 3 m · 0.12 dB/m = 0.36 dB
