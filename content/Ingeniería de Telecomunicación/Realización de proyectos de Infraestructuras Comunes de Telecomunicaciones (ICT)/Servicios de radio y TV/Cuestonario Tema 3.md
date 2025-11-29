@@ -137,11 +137,30 @@ Seleccione una:
 
 ### Respuesta
 
-PENDIENTE
+Al sureste.
 
 ### Justificación
 
-PENDIENTE
+Las coordenadas geodésicas son 42° N, 7° W. El convenio habitual es que la latitud norte es positiva y la sur negativa (en este caso λ<sub>rec</sub> = 42°, λ<sub>sat</sub> = 0 como siempre por ser geoestacionario). En cuanto a longitudes, cuando son hacia el este son positivas (φ<sub>rec</sub> = -7°, φ<sub>sat</sub> = 13°).
+
+Empezaremos por calcular el ángulo **azimut** (el giro sobre el plano horizontal, necesario para apuntar a ese satélite). El primer paso es calcular la longitud relativa del satélite respecto de la estación terrena (receptora en este caso): φ =φ<sub>sat</sub> - φ<sub>rec</sub> = 13º - (-7º) = 20°. Ahora podemos aplicar la fórmula del azimut (l es la latitud de la estación, la del satélite es 0° por ser geoestacionario):
+
+$$
+tg(A_{x}) = \frac{tg(\phi)}{sen(\lambda_{rec})} = \frac{tg(20º)}{sen(42º)}
+$$
+
+Lo que resulta en un Azimut de 28.5°. La fórmula produce ángulos REFERIDOS AL SUR donde además el sentido horario corresponde con ángulos negativos. El azimut muchas veces se da referido al norte. En este caso, sería de 180º - 28.5º = 151.5º. Esto se corresponde con dirección sureste.
+
+Otra forma de razonar sería:
+1. **Posición de la antena:**    
+    - Estamos en **A Veiga (42º N, 7º W)**: al **noroeste de Europa**.
+2. **Posición del satélite:**
+    - Hotbird6 está en **13º E**: **al este del meridiano de Greenwich**.
+3. **Dirección relativa:**
+    - Desde 7º Oeste hasta 13º Este: debemos mirar **hacia el este**.
+    - En cuanto al norte-sur, estamos a 42º N, y el satélite está sobre el **ecuador (0º latitud)**. Para apuntar hacia el satélite geostacionario, la elevación será **hacia el sur** (ya que los satélites geoestacionarios están sobre el ecuador).
+
+Combinando esto: **sur + este → sureste**
 
 ## Cuestión 8
 
@@ -155,11 +174,30 @@ Seleccione una:
 
 ### Respuesta
 
-PENDIENTE
+El noreste.
 
 ### Justificación
 
-PENDIENTE
+Las coordenadas geodésicas son 34° S, 151° E. El convenio habitual es que la latitud norte es positiva y la sur negativa (en este caso λ<sub>rec</sub> = -34°, λ<sub>sat</sub> = 0 como siempre por ser geoestacionario). En cuanto a longitudes, cuando son hacia el este son positivas (φ<sub>rec</sub> = 151°, φ<sub>sat</sub> = 166°).
+
+Empezaremos por calcular el ángulo **azimut** (el giro sobre el plano horizontal, necesario para apuntar a ese satélite). El primer paso es calcular la longitud relativa del satélite respecto de la estación terrena (receptora en este caso): φ =φ<sub>sat</sub> - φ<sub>rec</sub> = 166º - 151º = 15°. Ahora podemos aplicar la fórmula del azimut (l es la latitud de la estación, la del satélite es 0° por ser geoestacionario):
+
+$$
+tg(A_{x}) = \frac{tg(\phi)}{sen(\lambda_{rec})} = \frac{tg(15º)}{sen(-34º)}
+$$
+
+Lo que resulta en un Azimut de 154.4° (da -25.6º también, pero como estamos en el hemisferio sur, debemos apuntar hacia el norte, por lo que tenemos que coger el otro ángulo). La fórmula produce ángulos REFERIDOS AL SUR donde además el sentido horario corresponde con ángulos negativos. El azimut muchas veces se da referido al norte. En este caso, sería de 180º - 154.4º = 25.6º. Esto se corresponde con dirección noreste.
+
+Otra forma de razonar sería:
+1. **Posición de la antena:**    
+	- Melbourne: 34º S, 151º E → **hemisferio sur, este de Greenwich**.
+2. **Posición del satélite:**
+    - INTELSAT-8: 166º E → **al este de Melbourne**, y sobre el ecuador (latitud 0º).
+3. **Dirección relativa:**
+    - Longitud: 166º E > 151º E → mirar hacia **este**.
+    - Latitud: satélite sobre el ecuador → desde 34º S, debemos apuntar **hacia el norte** para alcanzar el ecuador..
+
+Combinando esto: **norte + este → noreste**
 
 ## Cuestión 9
 
@@ -173,11 +211,30 @@ Seleccione una:
 
 ### Respuesta
 
-PENDIENTE
+El noreste.
 
 ### Justificación
 
-PENDIENTE
+Las coordenadas geodésicas son 33° S, 70° W. El convenio habitual es que la latitud norte es positiva y la sur negativa (en este caso λ<sub>rec</sub> = -33°, λ<sub>sat</sub> = 0 como siempre por ser geoestacionario). En cuanto a longitudes, cuando son hacia el este son positivas (φ<sub>rec</sub> = -70°, φ<sub>sat</sub> = -31°).
+
+Empezaremos por calcular el ángulo **azimut** (el giro sobre el plano horizontal, necesario para apuntar a ese satélite). El primer paso es calcular la longitud relativa del satélite respecto de la estación terrena (receptora en este caso): φ =φ<sub>sat</sub> - φ<sub>rec</sub> = -31º - (-70º) = 39°. Ahora podemos aplicar la fórmula del azimut (l es la latitud de la estación, la del satélite es 0° por ser geoestacionario):
+
+$$
+tg(A_{x}) = \frac{tg(\phi)}{sen(\lambda_{rec})} = \frac{tg(39º)}{sen(-33º)}
+$$
+
+Lo que resulta en un Azimut de 123.3° (da -56.7º también, pero como estamos en el hemisferio sur, debemos apuntar hacia el norte, por lo que tenemos que coger el otro ángulo). La fórmula produce ángulos REFERIDOS AL SUR donde además el sentido horario corresponde con ángulos negativos. El azimut muchas veces se da referido al norte. En este caso, sería de 180º - 123.3º = 56.7º. Esto se corresponde con dirección noreste.
+
+Otra forma de razonar sería:
+1. **Posición de la antena:**    
+	- Santiago de Chile: **33º S, 70º W** → hemisferio sur y oeste.
+2. **Posición del satélite:**
+    - Hispasat: **31º W**, sobre el **ecuador (0º de latitud)** → geoestacionario.
+3. **Dirección relativa:**
+    - Longitud: 31º W > 70º W → satélite está **al este** de Santiago.
+    - Latitud: satélite sobre el ecuador → desde 33º S debemos apuntar **hacia el norte** para alcanzar el ecuador.
+
+Combinando esto: **norte + este → noreste**
 
 ## Cuestión 10
 
@@ -217,116 +274,78 @@ Se trata de antenas directivas, que deberemos apuntar hacia el centro emisor má
 
 ## Cuestión 12
 
-Si nos dicen que la potencia recibida por una antena es de 0 dBm, eso significa…
+Para amplificar conjuntamente varios canales de TDT…
 
 Seleccione una:
-- Que no se recibe nada.
-- Que la potencia recibida es igual a 1 W.
-- Que la potencia recibida es igual a 1 mW.
-- Que la potencia recibida es igual a 0.1 mW.
+- Deben ser consecutivos… sin canales vacíos intermedios.
+- Puede haber, como mucho, un canal intermedio vacío.
+- Nunca se puede hacer amplificación multicanal en TDT.
+- Ninguna de las anteriores es correcta.
 
 ### Respuesta
 
-Que la potencia recibida es igual a 1 mW.
+Deben ser consecutivos… sin canales vacíos intermedios.
 
 ### Justificación
 
-Dado una potencia de **0dBm**, convertimos a unidades naturales:
-
-$$
-P = 0\ \text{dBm} \Rightarrow 
-P_{\text{natural}} = 10^{\frac{0}{10}}\ \text{mW} = 1\ \text{mW}
-$$
-
-$$
-\boxed{P = 1\ \text{mW}}
-$$
-
-Por tanto, es correcto y equivale a **0 dBm = 1 mW**.
+NO debemos amplificar donde no hay señal porque generaríamos mucho ruido.
 
 ## Cuestión 13
 
-Supongamos que en una antena nos dicen que el campo eléctrico producido por una antena de TV es de 60 dBµV/m y nosotros medimos un nivel de tensión de 50 dBµV a su salida…
+Para el servicio de RTV terrena y satélite de una ICT en un edificio de nueva construcción, la norma indica que:
 
 Seleccione una:
-- Imposible… el nivel de señal no puede bajar así, en todo caso aumentará debido a la ganancia de la antena.
-- Incorrecto, las unidades son incorrectas.
-- Posible, las unidades son ahora de tensión (que es lo que se mide a la salida de la antena). El valor depende de las características de la misma.
-- Ninguna de las anteriores es correcta.
+- Han de instalarse obligatoriamente los elementos de captación de señales (antenas) tanto para las señales terrenas como provenientes de satélite.
+- Sólo hay que dejar la canalización para el servicio. Todos los demás elementos serán instalados a posteriori por la propiedad del inmueble.
+- Las redes de distribución, dispersión e interior de usuario estarán compuestas por dos cables (red duplicada), para permitir la recepción de dos posibles plataformas de satélite.
+- La distribución de tomas en el interior de las viviendas será en serie, permitiendo que varias tomas vayan sobre el mismo cable.
 
 ### Respuesta
 
-Posible, las unidades son ahora de tensión (que es lo que se mide a la salida de la antena). El valor depende de las características de la misma.
+Las redes de distribución, dispersión e interior de usuario estarán compuestas por dos cables (red duplicada), para permitir la recepción de dos posibles plataformas de satélite.
 
 ### Justificación
 
-- El **campo eléctrico** (en dBµV/m) mide la intensidad de la señal en el espacio.
-- La **tensión a la salida de la antena** depende de la **impedancia de la antena y del circuito de medida**, así como de su ganancia o pérdidas.
-- Por eso, es totalmente posible que el campo sea de **60 dBµV/m** y la tensión medida a la salida de la antena sea **50 dBµV**, sin que haya contradicción.
+La red coaxial se suele dividir en varias partes (seguimos la nomenclatura de la norma de ICT’s):
+
+- **Red de distribución**: tronco principal del árbol, baja en vertical desde la cabecera (a veces, puede ser horizontal, ejemplo: urbanizaciones de chalets). Por normativa constará de dos cables coaxiales (red duplicada). Más adelante se comentará el sentido de esta disposición.
+- **Red de dispersión**: son las “ramas principales” que parten del tronco para llevar la señal a cada usuario. En ICT’s los usuarios son viviendas o locales. Esta parte de la red también estará duplicada, llegando a cada usuario dos coaxiales de entrada.
+- **Red de usuario**: en cada unidad se distribuye la señal, obligatoriamente en estrella. En el reglamento de ICT’s se habla de “cableado interior de la vivienda”. Es muy importante la función del PAU (punto de acceso al usuario) que une la red de dispersión con la de usuario.
 
 ## Cuestión 14
 
-Una señal de 80 dBµV alimenta un sistema de impedancia característica 75 Ω. La potencia de entrada al sistema es de…
+Un repartidor…
 
 Seleccione una:
-- 85.33 pW.
-- 1.33 W.
-- -28.75 dBm.
+- “Reparte” señal a las viviendas de una misma planta y permite continuar hacia las siguientes plantas.
+- Tiene siempre un número par de salidas.
+- Amplifica la señal de TDT.
 - Ninguna de las anteriores es correcta.
 
 ### Respuesta
 
--28.75 dBm.
+- Ninguna de las anteriores es correcta.
 ### Justificación
 
-Se nos da:
-
-$$
-V = 80\ \text{dBµV}, \quad R = 75\ \Omega
-$$
-
-1. Convertimos de dBµV a voltios:
-
-$$
-V_{\text{µV}} = 10^{\frac{80}{20}} = 10^4\ \mu\text{V} = 10^4 \cdot 10^{-6}\ \text{V} = 0.01\ \text{V}
-$$
-
-2. Calculamos la potencia en vatios:
-
-$$
-P = \frac{V^2}{R} = \frac{(0.01)^2}{75} = \frac{0.0001}{75} \text{W}
-$$
-
-3. Convertimos a dBm:
-
-$$
-P_{\text{dBW}} = 10 \cdot \log_{10} \left( \frac{0.0001}{75} \right) = -58.75 \text{dBW} 
-$$
-
-$$
-P_{\text{dBm}} = P_{\text{dBW}} + 30 \text{dB} = -28.75 \text{dBm} 
-$$
-
-$$
-\boxed{P_{\text{dBm}} = -28.75\ \text{dBm}}
-$$
+Analicemos cada opción:
+1. **“Reparte” señal a las viviendas de una misma planta y permite continuar hacia las siguientes plantas.** El repartidor no permite continuar la señal a las siguientes plantas. Esa es la función del derivador.
+2. **“Tiene siempre un número par de salidas.”** El número de salidas depende del diseño; no es obligatorio que sea par.
+3. **“Amplifica la señal de TDT.”** El repartidor **distribuye** la señal, pero no la amplifica.
 
 ## Cuestión 15
 
-¿Qué edificios de nueva construcción NO precisan proyecto de ICT?
+¿Cuál de estas, NO es una función del PAU del servicio de RTV?
 
 Seleccione una:
-- Ninguno, todos lo precisan.
-- Los de menos de 20 viviendas.
-- Las viviendas unifamiliares independientes (no hay comunidad ni propiedad horizontal).
-- Ninguna de las anteriores.
+- Seleccionar una entre las dos señales de la doble bajante.
+- Separar el cableado comunitario del privado.
+- Repartir señal para todas las tomas.
+- Permitir que la señal continúe su camino hacia la planta inferior.
 
 ### Respuesta
 
-Las viviendas unifamiliares independientes (no hay comunidad ni propiedad horizontal).
+Permitir que la señal continúe su camino hacia la planta inferior.
 
 ### Justificación
 
-La **ICT (Infraestructura Común de Telecomunicaciones)** se aplica a los edificios **con varias viviendas o locales** que comparten instalaciones de telecomunicaciones en régimen de **propiedad horizontal o comunidad**.
-
-Por tanto, una **vivienda unifamiliar independiente**, al no existir comunidad ni elementos compartidos, **no necesita proyecto de ICT**.
+El PAU es un repartidor. La señal no continúa hacia la planta inferior. Esa es la función del derivador.
