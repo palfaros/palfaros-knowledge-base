@@ -36,27 +36,27 @@ El resultado es una elevación de 31.37º.
 
 **Por tanto, Elevación = 31.4º.**
 
-## Amplificadores y Atenuadores
+## Red Coaxial
 
-Dada una atenuación del cable coaxial de 0'15dB/m y los datos del siguiente esquema, calcula el nivel de señal a la salida
+### Pregunta 1
 
-![[Ejercicio_Amplificadores_Atenuadores.png]]
+*Realiza los cálculos de atenuación para la señal de televisión por satélite (Banda 950MHz-2150MHz).*
 
-**Solución**: 
-1. El nivel de la señal a la salida será 50dBµV+40dB-3dB-12dB-(atenuación del cable). 
-2. La atenuación del cable será (4+3+3+10)·0,15dB/m=3dB
-3. Por tanto el nivel de señal resultante es de **72dBµv**
+**Solución**: *PENDIENTE.*
 
-## Intermodulación
+### Pregunta 2
 
-Supongamos que se han instalado amplificadores con nivel de salida máximos:
-- Amplificadores monocanales: S<sub>max</sub>=114 dBμV (S/I=35dB).
-- Amplificadores FI (950-2150 MHz): S<sub>max</sub>=120 dBμV (S/I=35dB).
+*Calcula la respuesta amplitud frecuencia para el servicio de TDT del ejemplo visto durante el tema:*
+- *Opción 1: 0.25 dB para la mejor toma y 0.75 dB para la peor toma.*
+- *Opción 2: 0.35 dB para la mejor toma y 0.8 dB para la peor toma.*
+- *Opción 3: 0.15dB para la mejor toma y 0.5 dB para la peor toma.*
 
-Vamos a suponer que después de haber calculado la atenuación de la red de distribución obtenemos que los amplificadores tienen que tener los siguientes niveles de salida:
-- Banda UHF: 105 dBμV.
-- Banda FI: 115 dBμV.
+**Solución**: **0.25 dB para la mejor toma y 0.75 dB para la peor toma.** Para calcular la respuesta amplitud frecuencia necesitamos la atenuación en la peor y en la mejor toma para la frecuencia baja y la alta. Estos datos se pueden extraer fácilmente de la tabla calculada en:
+- Peor toma (Toma 2, V(B), P1): 35.20 dB (400 MHz), 35.90 dB (862 MHz). Por tanto, la respuesta amplitud frecuencia es 35.90 - 35.20 dB = 0.75 dB.
+- Mejor toma (Toma 1, V(B), P2): 31.08 dB (400 MHz), 31.33 dB (862 MHz). Por lo que la respuesta amplitud frecuencia es 31.33 - 31.08 dB = 0.25 dB.
 
-La relación señal/intermodulación será (o portadora/intermodulación si queremos ser estrictos) será por tanto:
-- Banda UHF: S/I = 35 dB + 2 ·  (**114 dBμV** - **105 dBμV**) = 35 dB + 18 dB = **53 dB**
-- Banda FI (suponemos que se amplifican 30 portadoras): S/I = 35 dB + 2 ·  (**120 dBμV** - 7.5log(30-1) - **115 dBμV**) = **35 dB** + 2 ·  (**120 dBμV** - 10.97 - **115 dBμV**) = 35 dB - 11.94 dB  = **23.06 dB**
+### Pregunta 3
+
+*¿Está este valor dentro de los límites especificados por la norma?*
+
+**Solución**: **Sí.** Consultando el R.D 346/2011, descubrimos que el máximo permitido es de 16 dB en la banda de 47-862MHz, por lo que estamos dentro de los límites.
