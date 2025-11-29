@@ -1,5 +1,5 @@
 ---
-title: Definición
+title: Definición RTV
 date: 2025-11-24
 ---
 Entendemos por servicio de Radio y Televisión (RTV) la correcta recepción de los canales de radio y televisión tanto por vía terrestre (antenas emisoras situadas en estaciones terrestres, generalmente torres de antenas ubicadas en alturas naturales cercanas a las poblaciones a las que dan servicio) como vía satélite.
