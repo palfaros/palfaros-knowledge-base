@@ -44,10 +44,12 @@ Vamos a continuar definiendo, los elementos que nos vamos a encontrar en esta pa
 Ahora, por fin, estamos preparados para aprender a afrontar el diseño de una instalación completa. Para realizar este diseño debemos seguir los siguientes pasos:
 - **Ubicar las tomas**: debemos estudiar los planos del edificio y decidir donde se van a ubicar las tomas de RTV. La norma vigente pide, como mínimo, una toma por estancia computable (excluidos baños y trasteros, pero se incluye la cocina si es una estancia separada). Aunque no hay nada escrito sobre donde colocarla, lo razonable es fijarse en la distribución de mobiliario pensada por el arquitecto (que debería estar dibujada en el plano) y colocarlas en lugares razonables: frente a las camas en los dormitorios, frente a los sofás en salones y similares… También debemos saber que la norma obliga, por razones obvias, a colocarlas cerca de las tomas de red eléctrica (máximo a 50 cm de la más cercana).
 - **Dibujar la instalación y calcular las distancias**: una vez ubicadas las tomas, deberemos “llegar a ellas”. Eso significa: localizar el RITS en la planta bajo-cubierta (a veces, el arquitecto lo habrá tenido en cuenta, otras veces deberemos negociar su ubicación), localizar una bajante adecuada (normalmente, habrá espacios pensados para las instalaciones de electricidad, fontanería… no está prohibido situar la bajante cerca de las cañerías pero es mejor evitarlo), localizar un registro secundario por planta, dibujar cableado desde cada registro secundario a la entrada de cada vivienda (RTR: registro de terminación de red, ahí dentro reside el PAU), finalmente dibujar cableado desde el RTR hasta las tomas. El dibujo se hará normalmente añadiendo una capa al fichero(s) en formato CAD (casi siempre AutoCAD). Debemos saber que la norma obliga a dedicar un tubo (ver capítulo 5) a la bajante de televisión, ese tubo albergará los dos coaxiales de la doble bajante. En el registro secundario tendremos dos derivadores iguales para generar las dispersiones. Los cables de dispersión irán, generalmente, dentro de tubos corrugados alojados en el suelo o por roza en la pared, SIEMPRE por zona común. A cada vivienda llegarán dos coaxiales (una de cada bajante) y el PAU seleccionará una, repartiendo además señal para todas las tomas. La acometida a cada toma se hará con tubos corrugados por el suelo o por roza en la pared. Deberemos calcular la distancia en metros de cada tramo de cable para hacer posible el cálculo de atenuaciones (normalmente las aplicaciones de CAD van a facilitar este paso).
-- **Calcular la atenuación de las tomas**: ahora es momento de calcular la atenuación (en dB, por supuesto) que habrá entre la salida de la cabecera (RITS) y cada toma. Cada tramo de cable introducirá una atenuación que podremos calcular conociendo la atenuación por metro y la distancia. Cada dispositivo (derivador, repartidor, toma) introducirá atenuaciones que vienen dadas en su documentación. Debemos saber que la atenuación dependerá de la frecuencia (mayor frecuencia ® mayor atenuación) y, por tanto, calcularla para varias frecuencias. La norma no especifica cuántas frecuencias incluir en el cálculo pero una elección razonable podría ser: frecuencia central de la banda de FM (97 MHz), frecuencia central de la banda de DAB (210 MHz), frecuencia mínima de la banda de TDT (400 MHz), frecuencia máxima de la banda de TDT (862 MHz inicialmente, 694 MHz tras los dos dividendos digitales), frecuencia intermedia mínima de satélite (1 GHz), frecuencia intermedia máxima de satélite (2 GHz).
+- **Calcular la atenuación de las tomas**: ahora es momento de calcular la atenuación (en dB, por supuesto) que habrá entre la salida de la cabecera (RITS) y cada toma. Cada tramo de cable introducirá una atenuación que podremos calcular conociendo la atenuación por metro y la distancia. Cada dispositivo (derivador, repartidor, toma) introducirá atenuaciones que vienen dadas en su documentación. Debemos saber que la atenuación dependerá de la frecuencia (a mayor frecuencia, mayor atenuación) y, por tanto, calcularla para varias frecuencias. La norma no especifica cuántas frecuencias incluir en el cálculo pero una elección razonable podría ser: frecuencia central de la banda de FM (97 MHz), frecuencia central de la banda de DAB (210 MHz), frecuencia mínima de la banda de TDT (400 MHz), frecuencia máxima de la banda de TDT (862 MHz inicialmente, 694 MHz tras los dos dividendos digitales), frecuencia intermedia mínima de satélite (1 GHz), frecuencia intermedia máxima de satélite (2 GHz).
 - **Comprobar la viabilidad de la instalación**: una vez se conocen las atenuaciones debemos aplicar éstas (y las recomendaciones de la norma en cuanto a niveles mínimos y máximos de señal) para calcular la amplificación necesaria en la cabecera. Este cálculo será fundamental para después diseñar la cabecera. Si la instalación no fuera viable, nos daríamos cuanta en este momento (no habría cabecera posible); en estos casos (puede ocurrir en casos muy extremos: “rascacielos”, urbanizaciones muy grandes…) es necesario cambiar la estructura: añadir amplificación intermedia, pasar a un esquema de varias cabeceras…
 
 Para ilustrar todo lo que acabamos de decir vamos a realizar un ejemplo práctico: volvemos al edificio de C/ Gran Vía 1, Vigo (realmente para esta parte no importa la situación sino las distribución interior, esto es: los planos). Lo primero es conocer los datos generales: número de plantas, número de viviendas, locales comerciales, ¿Existe planta tipo (planta cuya distribución se repite varias veces)?, ¿Qué plantas son diferentes a la planta tipo (muchas veces, la última)?
+
+### Ubicación registros y tomas
 
 Vamos a hacer el diseño suponiendo una distribución ficticia pero que podría ser perfectamente real. Sencilla, eso sí, ya que es un comienzo. Supondremos una planta baja sin dividir todavía (algo muy común en muchos edificios y que nos obligará a consultar la norma para saber qué hacer), después hay 3 plantas de 3 viviendas iguales entre sí (plantas tipo) y, por último un bajo cubierta para trasteros donde no harán falta tomas pero donde se ha alojado el RITS.
 
@@ -57,12 +59,18 @@ El plano de la planta tipo, al que ya hemos añadido el diseño de infraestructu
 
 Aproximadamente en el centro, en una pared común que rodea al ascensor vemos representados dos pequeños espacios que corresponden a pozos de servicio que atraviesan todas las plantas de la edificación para poder llevar los servicios necesarios: electricidad, telecomunicaciones… En uno de esos espacios colocamos el Registro Secundario (RS) que, según la norma, deberá estar cerrado con llave y tener al menos 150 mm de profundidad. Después, unimos ese RS con los tres Registros de Terminación de Red (RTR’s) que situamos en la pared divisoria de cada vivienda con la zona común. Normalmente, será cerca de la puerta de entrada (como en este caso) pero eso no es obligatorio. El RTR abre sin llave pero por dentro de la vivienda. Cada RTR debemos unirlo a todas las tomas de su vivienda. La toma formalmente se conoce como registro de toma o BAT (Base de Acceso Terminal). Nótese que se ha colocado una toma por estancia (mínimo de la norma), no cuentan baños ni trasteros y, aquí, la cocina tampoco porque no está separada del salón. En todo el diseño hemos supuesto que se utilizan tubos corrugados de plástico que se instalarán por el suelo, encima de la placa y debajo del azulejo o *parquet*. Al llegar a una toma o registro deberá hacerse una pequeña roza vertical en la pared.
 
+### Cálculo de distancias
+
 A partir del plano (y de la escala) calculamos las distancias:
 
 - Entre el RS y los RTR’s: 2.10 m hasta la vivienda situada en la parte superior del plano, 2 m hasta la vivienda inferior izquierda y 2.80 m hasta la vivienda inferior derecha.
 - Dentro de la vivienda superior: 2 m del RTR al salón, 9.30 m hasta el dormitorio principal y 8 m hasta el dormitorio pequeño.
 - Dentro de la vivienda inferior izquierda: 0.20 m hasta la toma del salón, 12.30 m hasta el dormitorio principal y 8.10 hasta el dormitorio pequeño.
 - Dentro de la vivienda inferior derecha: 0.10 m hasta la toma del salón, 10.80 m hasta el dormitorio principal y 9.40 m hasta el dormitorio pequeño.
+
+### Elección de dispositivos
+
+#### Derivadores
 
 Con estos datos apuntados vamos a elegir dispositivos para nuestra infraestructura (realmente sólo hemos dibujado canalizaciones y registros). El primer paso, ahora, es elegir **derivadores**. Como decíamos al principio del apartado: “En un edificio de varias plantas los derivadores se utilizan para equilibrar la instalación”. Eso significa que en las plantas altas se usan modelos con pérdidas de derivación altas mientras que en plantas bajas las pérdidas de derivación son menores. Para realizar esto hay varios métodos (incluso existe software de optimización) pero lo más simple (y que nos da soluciones correctas) es seguir las recomendaciones del fabricante. Si vemos la tabla que describe los derivadores de Televés con cuatro derivaciones (deben ser con 4 porque no existen derivadores con número par de derivaciones y tenemos tres viviendas por planta):
 
@@ -80,17 +88,23 @@ Continuando con las recomendaciones del fabricante, proyectaremos un modelo 5445
 
 Por último, nótese que en cada RS realmente tendremos dos derivadores iguales debido a que la distribución de RTV estará duplicada.
 
+#### PAUs
+
 Ahora debemos elegir un **PAU para el interior de cada RTR**. De nuevo recurrimos al catálogo de Televés, donde tenemos los siguientes “PAU-repartidores”:
 
 ![[Televés_PAU-repartidores_Specs.png]]
 
 Debemos tener como mínimo 3 salidas, el 5151 sería correcto pero, en previsión de algún crecimiento, podemos elegir el 5152 que nos sirve para todas las viviendas (9 viviendas en total).
 
+#### Tomas (BATs)
+
 Respecto a las **tomas**, tenemos la siguiente tabla:
 
 ![[Televés_BAT_Tomas_Specs.png]]
 
 Podemos ver que la toma 5226 tiene pérdidas muy bajas pero también vemos que tiene dos salidas (TV y SAT) que proporcionan señales separadas: en la salida TV no hay señal de satélite y en la salida SAT no hay señal de TDT (podemos verlo porque no nos dan dato de pérdida para estos casos). En este caso es más recomendable la toma 5229 que será más cómoda para el usuario. El resto son tomas con continuidad y no se deben utilizar en una distribución en estrella.
+
+#### Cable coaxial
 
 **La última elección (o la primera, realmente no importa el orden) es la del cable coaxial**. Disponemos de una tabla con características:
 
