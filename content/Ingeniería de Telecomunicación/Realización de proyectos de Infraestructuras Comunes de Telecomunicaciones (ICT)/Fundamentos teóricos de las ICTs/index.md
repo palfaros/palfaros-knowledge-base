@@ -20,4 +20,4 @@ Es un tema complejo sobre todo si no se tiene base teórica previa, pero sobre t
 - [[Cuestiones Tema 2]]
 - [[Ejemplo práctico]]
 - [[Caso Práctico]]
-- [[Cuestonario Temas 1 y 2]]
+- [[Cuestionario Temas 1 y 2]]
