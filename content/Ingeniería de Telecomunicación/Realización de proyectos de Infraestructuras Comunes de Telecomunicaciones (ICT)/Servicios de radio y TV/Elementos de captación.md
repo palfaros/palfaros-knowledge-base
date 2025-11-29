@@ -65,7 +65,7 @@ Vamos a exponer las fórmulas al mismo tiempo que realizamos un ejemplo. Para la
 Empezaremos por calcular el ángulo **azimut** (el giro sobre el plano horizontal, necesario para apuntar a ese satélite). El primer paso es calcular la longitud relativa del satélite respecto de la estación terrena (receptora en este caso): φ =φ<sub>sat</sub> - φ<sub>rec</sub> = -30º - (-8.71º) = -21.29°. Ahora podemos aplicar la fórmula del azimut (l es la latitud de la estación, la del satélite es 0° por ser geoestacionario):
 
 $$
-tg(A_{x}) = \frac{tg(\phi)}{sen(\lambda)} = \frac{tg(-21.29º)}{sen(42.22º)}
+tg(A_{x}) = \frac{tg(\phi)}{sen(\lambda_{rec})} = \frac{tg(-21.29º)}{sen(42.22º)}
 $$
 
 Lo que resulta en un Azimut de -30.11°. Ese dato es inútil si no sabemos que esta fórmula va a producir ángulos REFERIDOS AL SUR donde además el sentido horario corresponde con ángulos negativos. Por tanto el ángulo calculado se correspondería con la siguiente figura:
