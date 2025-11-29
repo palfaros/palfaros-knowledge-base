@@ -51,7 +51,8 @@ El resultado es una elevación de 31.37º.
 - *Opción 2: 0.35 dB para la mejor toma y 0.8 dB para la peor toma.*
 - *Opción 3: 0.15dB para la mejor toma y 0.5 dB para la peor toma.*
 
-**Solución**: **0.25 dB para la mejor toma y 0.75 dB para la peor toma.** Para calcular la respuesta amplitud frecuencia necesitamos la atenuación en la peor y en la mejor toma para la frecuencia baja y la alta. Estos datos se pueden extraer fácilmente de la tabla calculada en:
+**Solución**: **0.25 dB para la mejor toma y 0.75 dB para la peor toma.** 
+Para calcular la respuesta amplitud frecuencia necesitamos la atenuación en la peor y en la mejor toma para la frecuencia baja y la alta. Estos datos se pueden extraer fácilmente de la tabla calculada en:
 - Peor toma (Toma 2, V(B), P1): 35.20 dB (400 MHz), 35.90 dB (862 MHz). Por tanto, la respuesta amplitud frecuencia es 35.90 - 35.20 dB = 0.75 dB.
 - Mejor toma (Toma 1, V(B), P2): 31.08 dB (400 MHz), 31.33 dB (862 MHz). Por lo que la respuesta amplitud frecuencia es 31.33 - 31.08 dB = 0.25 dB.
 
@@ -60,3 +61,19 @@ El resultado es una elevación de 31.37º.
 *¿Está este valor dentro de los límites especificados por la norma?*
 
 **Solución**: **Sí.** Consultando el R.D 346/2011, descubrimos que el máximo permitido es de 16 dB en la banda de 47-862MHz, por lo que estamos dentro de los límites.
+
+### Pregunta 4
+
+*Calcula el factor de ruido, para el ejemplo visto en el tema, suponiendo:*
+
+- *Longitud del tramo de cable entre antena y cabecera de 5 m.*
+- *Atenuación del cable coaxial 0.15 dB/m.*
+- *Amplificador modelo 508912 (G=58 dB y F=9 dB).*
+
+**Solución**:
+El factor de ruido global es:
+
+$$
+f_{r} = a_{1} + \frac{f_{2}-1}{1/a_{1}} + \frac{a_{3}-1}{(1/a_{1})g_{2}}
+$$
+donde a<sub>1</sub> es la atenuación del
