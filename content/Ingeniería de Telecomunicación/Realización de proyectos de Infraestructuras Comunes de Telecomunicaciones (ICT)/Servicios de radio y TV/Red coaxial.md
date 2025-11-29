@@ -223,7 +223,7 @@ Nótese que la salida calculada para la cabecera es ESO: “salida de la cabecer
 
 Por último, es necesario calcular la relación portadora a ruido en la peor toma. Para esto se suele utilizar la fórmula de Friis para el factor de ruido. Centrándonos en la peor toma para TDT, después de la antena tendremos:
 
-- Un trozo de cable (atenuador) de longitud conocida y atenuación a1. Si suponemos que es un atenuador a temperatura ambiente T<sub>0</sub> (290 °K), su factor de ruido será a<sub>1</sub>.
+- Un trozo de cable (atenuador) de longitud conocida y atenuación a<sub>1</sub>. Si suponemos que es un atenuador a temperatura ambiente T<sub>0</sub> (290 °K), su factor de ruido será a<sub>1</sub>.
 - Un amplificador (el que hayamos elegido). A partir de los datos del fabricante debemos averiguar su ganancia (g<sub>2</sub>) y su factor de ruido f<sub>2</sub>. Normalmente los encontraremos publicados en dB, pero para este cálculo es mejor convertirlos a unidades naturales.
 - La parte de la red de distribución hasta la peor toma la consideraremos como un atenuador de atenuación a<sub>3</sub> (unidades naturales). Nuevamente supondremos temperatura ambiente T<sub>0</sub>.
 En este sistema el factor de ruido global es:
