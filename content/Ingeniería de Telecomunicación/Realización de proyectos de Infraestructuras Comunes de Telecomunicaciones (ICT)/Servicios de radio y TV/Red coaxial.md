@@ -70,7 +70,7 @@ A partir del plano (y de la escala) calculamos las distancias:
 
 ### Elección de dispositivos
 
-#### Derivadores
+#### Derivaciones
 
 Con estos datos apuntados vamos a elegir dispositivos para nuestra infraestructura (realmente sólo hemos dibujado canalizaciones y registros). El primer paso, ahora, es elegir **derivadores**. Como decíamos al principio del apartado: “En un edificio de varias plantas los derivadores se utilizan para equilibrar la instalación”. Eso significa que en las plantas altas se usan modelos con pérdidas de derivación altas mientras que en plantas bajas las pérdidas de derivación son menores. Para realizar esto hay varios métodos (incluso existe software de optimización) pero lo más simple (y que nos da soluciones correctas) es seguir las recomendaciones del fabricante. Si vemos la tabla que describe los derivadores de Televés con cuatro derivaciones (deben ser con 4 porque no existen derivadores con número par de derivaciones y tenemos tres viviendas por planta):
 
@@ -133,5 +133,29 @@ Comenzando el cálculo, vamos a la tabla mostrada en [[#Cable coaxial]] y desc
 
 $$
 A_{hasta\ entrada\ derivador\ P3} (dB)= 3 m · 0.12 dB/m = 0.36 dB
+$$
+
+En las derivaciones de dicho derivador tendremos una mayor atenuación, habrá que sumar la “atenuación en derivación”. Esa podemos verla en la tabla mostrada en [[#Derivaciones]] y es de 20 dB (debemos centrarnos en la columna del 5446, se trata de la atenuación IN-D1/D2/D3/D4 o “atenuación en derivación”, y para la frecuencia que nos ocupa). Por tanto:
+
+$$
+A_{hasta\ salida\ derivador\ P3} (dB)= A_{hasta\ entrada\ derivador\ P3} (dB) + 20 dB = 0.36 dB + 20 dB = 20.36 dB
+$$
+
+Vamos viendo que la componente principal se suele deber al derivador de esa planta. Ojo, para continuar hacia abajo hay que utilizar la atenuación “por inserción” o “de paso” de este mismo derivador (IN-OUT en la tabla). Ahora continuamos hacia la vivienda de la izquierda (en el esquema, en el plano es la superior). Nos faltan 2.10 m de cable hasta el PAU:
+
+$$
+A_{emtrada\ PAU,\ vivienda\ A,\ P3} (dB)= A_{hasta\ salida\ derivador\ P3} (dB) + 2.10 m · 0.12 dB/m = 20.36 dB + 0.252 dB = 20.61 dB
+$$
+
+Ahora hay que aplicar la atenuación que va a introducir el PAU que, realmente, es un repartidor y atenúa la señal. Consultamos la tabla mostrada en [[#PAUs]] y vemos que vale 7.5 dB. Debemos saber que “MATV” se refiere a todas las señales terrenas (radio y TV) mientas que “FI” se refiere a la señal de satélite. A la salida del PAU tendremos:
+
+$$
+A_{salida\ PAU,\ vivienda\ A,\ P3} (dB)= A_{entrada\ PAU,\ vivienda\ A,\ P3} (dB) + 7.5 dB = 20.61 dB + 7.5 dB = 28.11 dB
+$$
+
+Para llegar hasta la toma 1 (salón), deberemos recorrer 2 m de cable. Además la toma 5229 introducirá una pérdida de 4 dB (tabla mostrada en [[#Tomas (BATs)]]). Esa pérdida tan grande se debe a que realmente hay un repartidor interno que permite utilizar los dos conectores indistintamente. Tendremos finalmente:
+
+$$
+A_{toma\ 1,\ vivienda\ A,\ P3} (dB)= A_{salida\ PAU,\ vivienda\ A,\ P3} (dB) + 2 m · 0.12 dB/m + 4 dB = 28.11 dB + 0.24 dB + 4 dB = 32.35 dB
 $$
 
