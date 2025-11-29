@@ -70,10 +70,40 @@ Para calcular la respuesta amplitud frecuencia necesitamos la atenuación en la 
 - *Atenuación del cable coaxial 0.15 dB/m.*
 - *Amplificador modelo 508912 (G=58 dB y F=9 dB).*
 
-**Solución**:
+**Solución**: **9.75 dB.**
 El factor de ruido global es:
 
 $$
 f_{r} = a_{1} + \frac{f_{2}-1}{1/a_{1}} + \frac{a_{3}-1}{(1/a_{1})g_{2}}
 $$
-donde a<sub>1</sub> es la atenuación del
+donde:
+- a<sub>1</sub> es la atenuación del cableado entre antena y cabecera.
+- g<sub>2</sub> y f<sub>2</sub> son la ganancia y el factor de ruido del amplificador 508912
+- a<sub>3</sub> es la atenuación desde la cabecera hasta la peor toma, es decir: 35.90 dB.
+
+Por tanto,
+
+$$
+f_{r} = 10^{\frac{0.15 dB/m · 5 m}{10}} + \frac{10^{\frac{9 dB}{10}}-1}{1/10^{\frac{0.15 dB/m · 5 m}{10}}} + \frac{10^{\frac{35.90 dB}{10}}-1}{(1/10^{\frac{0.15 dB/m · 5 m}{10}})10^{\frac{58 dB}{10}}} = 1.19 + \frac{7.94-1}{1/1.19} + \frac{3889-1}{(1/1.19)630957} = 9.448 = 9.75 dB
+$$
+
+### Pregunta 5
+
+*Calcula la CNR en la peor toma para el ejemplo del tema.*
+
+*¿Está este valor dentro de los límites especificados por la norma?*
+
+**Solución**: **30.26 dB.**
+Tenemos todos los datos, la mayoría ya los utilizamos en el apartado anterior. T<sub>0</sub> es 290 K, B<sub>w</sub> es 8 MHz (canal de TDT) y k la constante de Boltzman: 1.381·10<sup>-23</sup> J/ºK.
+
+Aplicando la fórmula sale n = 4.13·10<sup>-11</sup> W.
+
+Con esto tenemos el denominador de la relación CNR. Para obtener la potencia de portadora debemos averiguar de alguna forma el nivel de señal. Nuestro cálculo definía un rango de 82.90-101.08 dBµV en la cabecera. Suponiendo el valor máximo: 101.08 dBµV, en la peor toma tendremos V = 101.08 dBµV – 35.90 dB = 65.18 dBµV (v=1.81 mV).
+
+Finalmente, sabiendo que la impedancia de los sistemas de TV es de 75 Ω, aplicamos la fórmula del texto:
+
+CNR=10·log<sub>10</sub>\[(v<sup>2</sup>/z<sub>o</sub>)/n\]
+
+Y obtenemos CNR = **30.26 dB**.
+
+Consultando el R.D. 346/2011, descubrimos que el valor mínimo para este caso es de 25 dB, por lo que **estamos dentro de los límites**.
