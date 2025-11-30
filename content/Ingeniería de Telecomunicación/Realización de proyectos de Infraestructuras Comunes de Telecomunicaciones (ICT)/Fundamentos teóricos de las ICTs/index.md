@@ -19,5 +19,5 @@ Es un tema complejo sobre todo si no se tiene base teórica previa, pero sobre t
 - [[Ruido térmico]]
 - [[Cuestiones Tema 2]]
 - [[Ejemplo práctico]]
-- [[Caso Práctico]]
+- [[Caso Práctico Tema 2]]
 - [[Cuestionario Temas 1 y 2]]

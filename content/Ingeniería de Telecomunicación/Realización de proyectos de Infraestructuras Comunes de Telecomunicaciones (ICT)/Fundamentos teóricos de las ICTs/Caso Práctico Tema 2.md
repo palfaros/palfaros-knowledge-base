@@ -1,5 +1,5 @@
 ---
-title: Caso Práctico
+title: Caso Práctico Tema 2
 date: 2025-11-19
 ---
 **En una vivienda unifamiliar se utiliza el amplificador de mástil Televés 5356 que tiene 40 dB de ganancia en toda la banda de TV y presenta un factor de ruido de 4 dB. Supondremos que la temperatura de ruido a la salida de la antena es de 50 ºK y que el nivel de señal en ese mismo punto es de 80 dBµV (impedancia de referencia 75 Ω). Además, sabemos que la antena está unida al amplificador por 1 m de cable T-100 (suponer 0.154 dB de atenuación por metro) a temperatura física 300 ºK.**
