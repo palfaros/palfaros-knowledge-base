@@ -126,11 +126,66 @@ Se instalará por tanto:
 
 ### Pregunta 7
 
-**Calcula la atenuación de la red de distribución/dispersión**
+**Calcula la atenuación de la red de distribución/dispersión.**
 
 **Respuesta**: 12,7 dB.
 **Justificación**: La atenuación máxima se corresponde a la acometida de red de distribución/dispersión desde el punto de interconexión hasta el PAU más alejado (vivienda 6ºD); cuya longitud es de 40 metros.
 
 Para el cálculo de la atenuación tomamos un valor típico de la atenuación de cable de pares trenzados de 31dB/100 metros a 250 MHz. Además hay que considerar además de la atenuación del cable. La atenuación del conector RJ45 macho del extremo de la acometida que se conecta al punto de interconexión.
 
-Atenuación= 40 x 0,31 + 0,3 = 12,7  dB < 31,30 dB o menor que 35,9 dB (norma UNE-EN 50173-1).
+Atenuación= 40 · 0,31 + 0,3 = 12,7  dB < 31,30 dB o menor que 35,9 dB (norma UNE-EN 50173-1).
+
+### Pregunta 8
+
+**Dimensiona:**
+#### El punto de interconexión ubicado en el RITI
+
+El número total de acometidas de cable UTP es de 36. Cada acometida debe de estar terminada en un conector hembra miniatura de 8 vías (RJ-45), por lo que el número de conectores hembra necesarios será de **36.**
+
+- Paneles de salida: Si se utilizan paneles de 24  conectores hembra, el número de paneles de salida será 36/24 = 2. También se puede usar uno de 24 conectores más otro de 16.
+- Paneles de entrada: Será necesario **dejar espacio** para los paneles de los operadores con capacidad para 36 · 1,5 = 54.
+
+Se puede reservar espacio por tanto para 2 paneles de 24 conectores más otro de 16 para el panel de conexión de entrada.
+
+#### La red interior de Usuario
+
+**El número de BAT a instalar es de: 175 BATs**.
+
+Instalaremos los siguientes BAT:
+- 1 BAT por cada estancia de la vivienda, y en dos de ellas, 2 BAT (BAT con dos tomas o conectores hembra). Como hay 5 estancias por vivienda, instalaremos 7 BAT por vivienda.
+- Suponemos 2 BAT por local  (BAT con dos tomas o conectores hembra )
+- Suponemos 1 BAT simple para la estancia común.
+
+Así, el número de BAT sería: 7 · 6 · 4 (viviendas) + 2 · 3 (locales) + 1 (estancia) = 175.
+
+Desde cada BAT deberá tenderse un cable de 4 pares de cable trenzado hasta el punto de acceso a usuario de cada vivienda, local o estancia común (PAU).
+
+Es necesario calcular el número de metros totales de cable. Para ello sería necesario contar con los planos de distribución de planta. En este caso, para simplificar suponemos lo siguiente:
+
+Suponemos las siguientes distancias desde el PAU de cada vivienda hasta cada BAT (a ver en el plano de la instalación): 10+10+8+8+12+11+6 = 65 m
+
+Suponemos que los locales no están cableados interiormente.
+
+El total de metros de cable de pares trenzados para la red interior es de = 65 · 6 · 4 + 12 + 28 = 1560 metros cable UTP.
+
+##### Conectores
+
+Cada uno de los cables de pares trenzados que constituyen la red interior de usuario terminará en un conector macho miniatura de 8 vías (RJ-45); (en el PAU).
+
+El número de cables por vivienda es igual al número de BAT, que es de 7.
+
+Por tanto, el número de conectores macho miniatura de 8 vías necesarias es igual al número de BAT, 175.
+
+##### Multiplexores
+
+El número de bocas hembra miniatura de 8 vías (RJ-45) de que deben disponer los multiplexores es igual al número de acometidas servidas por la red interior, que en este caso es de 7.
+
+Dado que existirá un multiplexor por cada PAU con red interior serán necesarios: 6·4 = 24. Multiplexores de 7 bocas conectores hembra miniatura de 8 vías (RJ-45).
+
+#### Atenuación de la red interior de usuario
+
+Se considera la atenuación del cable; la del conector RJ-45 macho de la roseta del PAU, la del multiplexor pasivo (equivalente a dos conectores RJ-45) y la de la toma.
+
+Para la de los conectores RJ-45 y la de las tomas podemos considerar una atenuación de 0,3 dB
+
+Atenuación máxima red interior usuario. Corresponde a la distancia de la toma más alejada del PAU hasta el mismo.  Supongamos 12 metros: 12 · 0,31 + 0,3 + 2 · 0,3 + 0,3 = 4,92 dB < 31,3 dB.
