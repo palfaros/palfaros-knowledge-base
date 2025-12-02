@@ -69,3 +69,25 @@ Tenemos un edificio de un solo portal con 6 plantas, 4 viviendas por planta, y u
 
 **Respuesta**: Estrella.
 **Justificación**: La topología de la red, al tratarse de una red de cable de pares trenzados UTP siempre será en estrella. La red de distribución por tanto continúa en el registro secundario de cada planta como red de dispersión hasta el  PAU de cada vivienda, formado una red en estrella.
+
+### Pregunta 4
+
+**¿Cuál es el número total de acometidas de la red?**
+
+**Respuesta**: 36
+**Justificación**: El número de **PAU** es: PAU= 3 (locales) + 1 (espacio común) + 6 x 4 (viviendas) = **28**
+Se pondrá de acuerdo al Reglamento:
+- 1 acometida por local.
+- 2 acometidas por cada estancia común.
+- 1 acometida por vivienda.
+Por tanto el total de acometidas lo vemos en el siguiente cuadro:
+
+|                                                |                 |                                |                  |                            |                                    |
+| ---------------------------------------------- | :-------------: | :----------------------------: | :--------------: | :------------------------: | :--------------------------------: |
+|                                                | N° de Viviendas | N° de Acometidas por Viv/local | Demanda Prevista | Factor de Ocupación de Red | Total Pares de Red de Distribución |
+| Vivienda                                       |       6x4       |               1                |        24        |            1,2             |                 29                 |
+| Locales (con distribución conocida)            |        3        |               1                |        3         |            1,2             |                 4                  |
+| Estancias o instalaciones comunes del Edificio |        1        |               2                |        2         |            1,2             |                 3                  |
+| Total                                          |                 |                                |        29        |                            |                 36                 |
+
+Se instalarán por tanto 36 acometidas de cable de pares trenzados UTP. Cada cable UTP está formado por 4 pares trenzados.
