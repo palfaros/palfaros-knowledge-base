@@ -91,3 +91,46 @@ Por tanto el total de acometidas lo vemos en el siguiente cuadro:
 | Total                                          |                 |                                |        29        |                            |                 36                 |
 
 Se instalarán por tanto 36 acometidas de cable de pares trenzados UTP. Cada cable UTP está formado por 4 pares trenzados.
+
+### Pregunta 5
+
+**¿Qué distribución propones de la red?**
+
+**Respuesta**: Hay que suministrar 36 acometidas de 4 pares trenzados. Se propone la siguiente distribución:
+
+|        |           |            |
+| :----: | :-------: | :--------: |
+| Planta | Necesidad | Asignación |
+|   6º   |     4     |     5      |
+|   5º   |     4     |     5      |
+|   4º   |     4     |     5      |
+|   3º   |     4     |     5      |
+|   2º   |     4     |     5      |
+|   1º   |     4     |     5      |
+|  Baja  |     5     |     6      |
+| TOTAL  |    29     |     36     |
+
+Se instalará por tanto:
+- 1 par de cables trenzados por cada vivienda (24 en total)
+- 1 par de cables trenzados por cada local (3 en total)
+- 2 pares de cables trenzados para la estancia común ( 2 en total)
+- 1 par de reserva para cada piso (6 en total)
+- 1 par de reserva para la planta baja (1 en total)
+
+### Pregunta 6
+
+**¿Cuántos metros totales de cable de pares trenzado hay que instalar en la red de distribución?**
+
+**Respuesta**: 929 metros.
+**Justificación**: El número de metros de cable de acometida de 4 pares trenzados será: 8 + 10 + 8 + 10 +10+ 10 (reserva) + 16 + 20 + 22 + 25 + 25 (reserva 1ª planta) +19 + 23 + 25 + 28 + 28 (reserva 2ª planta) + 22 + 26 + 28 + 31 + 31(reserva 3ª planta)+ 25 + 29 + 31 + 34 +34 (reserva 4ªplanta) + 28 + 32 + 34 + 37 +37 (reserva 5ª planta) + 31 + 35 + 37 + 40 + 40 (reserva 6 planta)= 929 m.
+
+### Pregunta 7
+
+**Calcula la atenuación de la red de distribución/dispersión**
+
+**Respuesta**: 12,7 dB.
+**Justificación**: La atenuación máxima se corresponde a la acometida de red de distribución/dispersión desde el punto de interconexión hasta el PAU más alejado (vivienda 6ºD); cuya longitud es de 40 metros.
+
+Para el cálculo de la atenuación tomamos un valor típico de la atenuación de cable de pares trenzados de 31dB/100 metros a 250 MHz. Además hay que considerar además de la atenuación del cable. La atenuación del conector RJ45 macho del extremo de la acometida que se conecta al punto de interconexión.
+
+Atenuación= 40 x 0,31 + 0,3 = 12,7  dB < 31,30 dB o menor que 35,9 dB (norma UNE-EN 50173-1).
