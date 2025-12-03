@@ -189,3 +189,25 @@ Se considera la atenuación del cable; la del conector RJ-45 macho de la roseta 
 Para la de los conectores RJ-45 y la de las tomas podemos considerar una atenuación de 0,3 dB
 
 Atenuación máxima red interior usuario. Corresponde a la distancia de la toma más alejada del PAU hasta el mismo.  Supongamos 12 metros: 12 · 0,31 + 0,3 + 2 · 0,3 + 0,3 = 4,92 dB < 31,3 dB.
+
+#### Cuadro resumen
+
+##### Red de Distribución/Dispersión
+
+|                                           |                                                             |
+| :---------------------------------------: | :---------------------------------------------------------: |
+|                 Material                  |                          Cantidad                           |
+| Cables, Red de Distribución y dispersión  |     929 m de cable de 4 pares trenzados UTP categoría 6     |
+| Regletas de salida Punto de Interconexión | 2 Paneles de 24 conectores macho miniatura de 8 vías (RJ45) |
+|           Conectores macho RJ45           |                             36                              |
+|        Puntos de Acceso al Usuario        |                             29                              |
+
+##### Red Interior de Usuario
+
+|                                |                                                      |
+| :----------------------------: | :--------------------------------------------------: |
+|            Material            |                       Cantidad                       |
+| Cables Red interior de usuario | 1560 m de cable de 4 pares trenzados UTP categoría 6 |
+|     Conectores macho RJ45      |                         175                          |
+|   Bases de Acceso al Usuario   |                         175                          |
+|    Multiplexores para PAUs     |                    24 de 7 bocas                     |
