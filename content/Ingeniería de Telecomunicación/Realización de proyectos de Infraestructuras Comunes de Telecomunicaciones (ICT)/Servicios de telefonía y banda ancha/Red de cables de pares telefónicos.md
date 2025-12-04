@@ -67,3 +67,27 @@ Para determinar el número de líneas necesarias, cada una formada por un par de
 5. Ascensores. (en función de su normativa específica).
 
 Si no existen operadores de servicio se dejarán las canalizaciones necesarias para atender las previsiones del apartado anterior dotadas con los correspondientes hilos-guía.
+
+### Dimensionamiento mínimo de la red de distribución
+
+#### Edificaciones con una vertical
+
+Conocida la necesidad futura a largo plazo, tanto por plantas como en el total de la edificación, o estimada dicha necesidad según lo indicado en el apartado anterior, se dimensionará la red de distribución con arreglo a los siguientes criterios:
+- La cifra de demanda prevista se multiplicará por el factor 1,2, lo que asegura una reserva suficiente para prever posibles averías de algunos pares o alguna desviación por exceso en la demanda de líneas.
+- Obtenido de esta forma el número teórico de pares, se utilizará el cable normalizado de capacidad igual o superior a dicho valor, o combinaciones de varios cables, teniendo en cuenta que para una distribución racional el cable máximo será de 100 pares, debiendo utilizarse el menor número posible de cables de acuerdo con la siguiente tabla:
+
+	![[Tipos_cable_pares.png]]
+
+El dimensionado de la red de distribución se proyectará con cable o cables multipares, cuyos pares estarán todos conectados en las regletas de salida del punto de interconexión.
+
+En el caso de **edificios con una red de distribución/dispersión inferior o igual a 30 pares, ésta podrá realizarse con cable de uno o dos pares** desde el punto de distribución instalado en el registro principal. Del registro principal partirán, en su caso, los cables de acometida que subirán por las plantas para acabar directamente en los PAU.
+
+Así, **si el número de pares en la red interior es menor a 30, se podrá diseñar una topología de red en estrella, y si es mayor en árbol-rama.**
+
+![[Cables_de_pares.png]]
+
+Los puntos de distribución estarán formados por las regletas de conexión en cantidad suficiente para agotar con holgura toda la posible demanda de la planta correspondiente. El número de regletas se hallará calculando el cociente entero redondeado por exceso que resulte de dividir el total de pares del cable, o de los cables, de distribución por el número de plantas y por cinco o diez, según el tipo de regleta a utilizar.
+
+#### Edificaciones con varias verticales
+
+La red de cada vertical será tratada como una red de distribución independiente, y se diseñará de acuerdo con el apartado anterior.
