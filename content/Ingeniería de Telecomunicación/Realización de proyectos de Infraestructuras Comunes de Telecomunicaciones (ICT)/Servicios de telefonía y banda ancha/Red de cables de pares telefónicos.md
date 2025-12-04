@@ -91,3 +91,36 @@ Los puntos de distribución estarán formados por las regletas de conexión en c
 #### Edificaciones con varias verticales
 
 La red de cada vertical será tratada como una red de distribución independiente, y se diseñará de acuerdo con el apartado anterior.
+
+### Dimensionamiento mínimo de la red de dispersión
+
+La red de distribución continúa como red de dispersión, instalándose los pares trenzados necesarios que cubran la demanda prevista como prolongación de la red de distribución. Irán desde el registro secundario y terminarán en el PAU de cada vivienda en la roseta correspondiente.
+
+Los pares trenzados de reserva se dejarán almacenados en los registros secundarios, con la longitud suficiente para poder llegar al PAU más alejado de la planta.
+
+![[Red_distribución_dispersión_telefonía.png]]
+
+### Dimensionamiento mínimo de la red interior de usuario
+
+- Viviendas: En la estancia principal (**salón**) **el número de registros de toma equipados con BAT será de dos como mínimo**. En uno de ellos se equipará BAT con dos tomas o conectores hembra alimentados por acometidas de pares trenzados independientes procedentes del PAU, pudiendo ser soportadas por canalizaciones independientes si lo requiere la ubicación elegida de las tomas. Una de éstas deberá situarse a menos de 50 centímetros de la toma de fibra óptica. En el resto de estancias, excluidos baños y trasteros, se dispondrá de registro de toma equipado con BAT. **Como mínimo, en otra de las estancias, en el registro de toma, se equipará BAT con dos tomas o conectores hembra,** alimentadas por acometidas de pares trenzados independientes procedentes del PAU, de las mismas características que el indicado para la estancia principal. **Cada una de las tomas dobles mencionadas en este párrafo se podrá sustituir por dos tomas simples.**
+- Locales u oficinas, cuando esté definida su distribución interior en estancias: El número de **registros de toma será de uno por cada estancia**, excluidos baños y trasteros, **equipados con BAT con dos tomas o conectores hembra**, alimentadas por acometidas de pares trenzados independientes procedentes del PAU.
+- Locales u oficinas, cuando no esté definida su distribución en planta: **No se instalará red interior de usuario**. En este caso, el diseño y dimensionamiento de la red interior de usuario, así como su realización futura, será responsabilidad de la propiedad del local u oficina, cuando se ejecute el proyecto de distribución en estancias.
+- Estancias o instalaciones comunes del edificio: El proyectista definirá el dimensionamiento de la red interior en estas estancias teniendo en cuenta la finalidad de las estancias y las prestaciones previstas para la edificación.
+
+### Particularidades de los conjuntos de viviendas unifamiliares
+
+En el caso de viviendas unifamiliares, se utilizará un RITU, donde se ubicarán los paneles de entrada. La red de distribución será similar a la ya indicada, con la singularidad de que el recorrido vertical de los cables se transformará en horizontal.
+
+En el caso de que no haya operadores y no vaya a instalarse este cableado en la ejecución de la ICT, deberemos proyectar las canalizaciones necesarias **provistas de hilos guía**.
+
+### Cálculo de atenuaciones
+
+La Orden ITC/1644/2011 en su punto 1.2.C.1) 3.i) requiere el cálculo de la atenuación de la red de de distribución-dispersión de cables trenzados y en el punto 1.2.C.2) 2.i) en el caso de la red interior de usuario, pero no indica ningún valor máximo de dicha atenuación.
+
+La norma UNE-EN 50173-1 establece, como valor máximo de atenuación para un canal de cable de pares trenzados de Clase E (100 m de longitud máxima) 35,9 dB a 250 MHz. Se puede tomar un valor típico de atenuación de los cables de pares trenzados de 31 dB/ 100 m a 250 MHz.
+
+Para el cálculo de la atenuación en la red de distribución-dispersión de cables de pares trenzados hay que considerar, además de la atenuación del cable, la del conector RJ45 macho del extremo de cada rama que se conecta al Punto de Interconexión.
+
+Para el cálculo de la atenuación en la red interior de usuario de cables de pares trenzados hay que considerar, además de la atenuación del cable, la del conector RJ45 macho de la roseta del PAU, la del multiplexor pasivo (equivalente a dos conectores RJ45) y la de la toma.
+
+Para los conectores RJ45 y las tomas se considera una atenuación de 0,3 dB. Dado que se dice que la longitud de la red de distribución/dispersión de cables trenzados debe ser inferior a 100 m se puede considerar este valor como el máximo de atenuación permitida que sería =100 · 0,31 + 0,3 = 31,30 dB.
