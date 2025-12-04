@@ -47,7 +47,7 @@ Los hilos conductores de cada rama de la red interior se conectarán a los 8 con
 
 ![[BAT_Pares_Trenzados.png]]
 
-A continuación se muestra un esquema general de un red UTP en el interior de un edificio.
+A continuación se muestra un esquema general de una red UTP en el interior de un edificio.
 
 ![[Esquema_red_UTP.png]]
 
