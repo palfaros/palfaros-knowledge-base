@@ -48,3 +48,22 @@ Las siguientes imágenes muestran y cable de pares telefónicos y el código de 
 Realizan la unión entre la red interior de usuario y cada uno de los terminales telefónicos.
 
 ![[BAT_Pares.png]]
+
+## Diseño y dimensionamiento de red
+
+### Previsión de la demanda
+
+Como criterio de referencia, la red de pares se utilizará en aquellas edificaciones en las que **la distancia entre el punto de interconexión y el punto de acceso al usuario más alejado sea superior a 100 metros.**
+
+Para determinar el número de líneas necesarias, cada una formada por un par de cobre, se aplicarán los valores siguientes:
+1. Viviendas: 2 líneas por cada vivienda.
+2. Locales comerciales u oficinas en edificaciones de viviendas:
+	1. Cuando esté definida la distribución en planta de los locales u oficinas, se considerarán 3 líneas para cada local u oficina.
+	2. Si sólo se conoce la superficie destinada a locales u oficinas: 1 línea por cada 33 m<sup>2</sup> útiles, como mínimo.
+3.  Locales comerciales u oficinas en edificaciones destinadas fundamentalmente a este fin:
+	1. Cuando esté definida la distribución en planta de los locales u oficinas, se considerarán 3 líneas para cada local u oficina.
+	2. Si sólo se conoce la superficie destinada a locales u oficinas,  e utilizará como base de diseño la consideración de 3 líneas por cada 100 m<sup>2</sup> o fracción.
+4. Para dar servicio a estancias o instalaciones comunes del edificio: 2 líneas para la edificación. Se excluye de las estancias comunes el ascensor.
+5. Ascensores. (en función de su normativa específica).
+
+Si no existen operadores de servicio se dejarán las canalizaciones necesarias para atender las previsiones del apartado anterior dotadas con los correspondientes hilos-guía.
