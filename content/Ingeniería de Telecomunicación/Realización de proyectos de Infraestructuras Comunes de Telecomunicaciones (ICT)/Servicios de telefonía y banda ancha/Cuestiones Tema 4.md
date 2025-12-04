@@ -251,4 +251,13 @@ Por tanto el total de acometidas lo vemos en el siguiente cuadro:
 - Opción 2: Indistintamente Estrella o árbol-rama
 
 **Respuesta**: Árbol-rama.
-**Justificación**: Como el numero de pares de la red es superior a 30 (72 en total) la topología será en Árbol-rama.
+**Justificación**: Como el número de pares de la red es superior a 30 (72 en total) la topología será en Árbol-rama.
+
+### Pregunta 3
+
+**Dimensiona el/los cables de pares que se utiliza para la red de distribución.**
+
+**Respuesta**: Se utiliza 1 cable de 75 pares.
+**Justificación**: Obtenido el valor del número de pares necesario (72) se utiliza el cable normalizado de capacidad igual o superior a dicho valor (75).
+
+![[Tipos_cable_pares.png]]
