@@ -211,3 +211,30 @@ Atenuación máxima red interior usuario. Corresponde a la distancia de la toma 
 |     Conectores macho RJ45      |                         175                          |
 |   Bases de Acceso al Usuario   |                         175                          |
 |    Multiplexores para PAUs     |                    24 de 7 bocas                     |
+## Red de cables de pares telefónicos
+
+### Pregunta 1
+
+Tenemos un edificio de un solo portal con 6 plantas, 4 viviendas por planta, y una planta baja con 3 locales comerciales y un espacio común. Las viviendas son idénticas con 5 estancias cada una.
+
+![[Cuestiones_UTP.png]]
+
+Supondremos por simplicidad el mismo edificio del ejemplo anterior, que si bien es cierto que debería instalarse una red de cable de pares trenzados y no de cable de pares, pues la longitud del punto de interconexión al PAU más alejado es menor de 100 metros, desde un punto de vista académico, realizaremos igualmente el ejemplo.
+
+**Calcula el número de pares totales de la red**
+
+**Respuesta**: 72
+**Justificación**: Se pondrá de acuerdo al Reglamento:
+- 3 líneas por local.
+- 2 líneas por cada estancia común.
+- 2 líneas por vivienda.
+Por tanto el total de acometidas lo vemos en el siguiente cuadro:
+
+|                                                |                 |                            |                  |                            |                                    |
+| ---------------------------------------------- | :-------------: | :------------------------: | :--------------: | :------------------------: | :--------------------------------: |
+|                                                | N° de Viviendas | N° de líneas por Viv/local | Demanda Prevista | Factor de Ocupación de Red | Total Pares de Red de Distribución |
+| Vivienda                                       |       6x4       |             2              |        48        |            1,2             |                 58                 |
+| Locales (con distribución conocida)            |        3        |             3              |        9         |            1,2             |                 11                 |
+| Estancias o instalaciones comunes del Edificio |        1        |             2              |        2         |            1,2             |                 3                  |
+| Total                                          |                 |                            |                  |                            |                 72                 |
+
