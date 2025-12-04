@@ -211,6 +211,7 @@ Atenuación máxima red interior usuario. Corresponde a la distancia de la toma 
 |     Conectores macho RJ45      |                         175                          |
 |   Bases de Acceso al Usuario   |                         175                          |
 |    Multiplexores para PAUs     |                    24 de 7 bocas                     |
+
 ## Red de cables de pares telefónicos
 
 ### Pregunta 1
@@ -261,3 +262,102 @@ Por tanto el total de acometidas lo vemos en el siguiente cuadro:
 **Justificación**: Obtenido el valor del número de pares necesario (72) se utiliza el cable normalizado de capacidad igual o superior a dicho valor (75).
 
 ![[Tipos_cable_pares.png]]
+
+### Pregunta 4
+
+**Dimensiona:**
+#### La asignación de pares por planta
+
+Depende del proyectista. Es necesario de todas maneras cumplir las necesidades de demanda calculadas. En este caso vamos a suponer la siguiente distribución:
+- Planta baja: 14 pares. Necesidad 11 pares. Quedan 3 pares de reserva en planta baja.
+- Resto de plantas: 10 pares por planta. Necesidad 8 pares por planta. Quedan 2 pares de reserva por planta.
+
+Quedaría un par libre.
+
+El regletero correspondiente al punto de interconexión es:
+
+|                    |             |
+| :----------------: | :---------: |
+| Pares del 1 al 10  |  Planta 6ª  |
+| Pares del 11 al 20 |  Planta 5ª  |
+| Pares del 21 al 30 |  Planta 4ª  |
+| Pares del 31 al 40 |  Planta 3ª  |
+| Pares del 41 al 50 |  Planta 2ª  |
+| Pares del 51 al 60 |  Planta 1ª  |
+| Pares del 61 al 74 | Planta baja |
+|       Par 75       |  Par libre  |
+
+#### El punto de interconexión de pares (registro principal)
+
+El número de regletas de salida se debe corresponder al número total del pares de la red de distribución, ya que todos deben estar conectados.
+
+En esta caso se ha instalado un cable de 75 pares, con lo que el número de regletas a equipar en el punto de interconexión es el resultado de dividir por 10 (regletas de 10 pares) el número total de pares del cable correspondiente a la red de distribución del edificio redondeado al número entero superior.
+
+Se necesitarán por tanto 75/10 = 8 regletas de 10 pares.
+
+Regletas de entrada: Es necesario calcular el espacio a reservar  para los paneles de conexión o regletas de entrada de los operadores.
+
+El número de regletas de entrada previsto para los operadores será el resultado de multiplicar por 1,5 el número de regletas de salida:
+
+8 x1,5= espacio para 12 regletas de 10 pares.
+
+#### El punto de distribución por planta
+
+El número de regletas del punto de distribución de cada planta se obtiene dividiendo el número de pares segregados en cada planta por 10 o por 5; según sean regletas de 10 o 5 pares respectivamente.
+
+En este caso:
+- Cada planta vivienda: 10 líneas/10= 1 regleta de 10 pares por planta.
+- Planta baja: 14 líneas/10= 2 regletas de 10 pares; o 1 regleta de 10 pares y 1 de 5 pares, o 3 regletas de 5 pares.
+
+#### La red de dispersión
+
+Se utilizan 31 cables de dos pares o 59 cables de 1 par.
+
+El número de pares de la red de dispersión es de 2 por vivienda y 3 como mínimo por local comercial y 2 para estancias comunes. En este caso será de 6x4 (viviendas) + 3x2 (locales)+ 1 (estancia común)= 31 cables de 2 pares.
+
+|           |            |           |            |           |            |           |            |
+| --------- | ---------- | --------- | ---------- | --------- | ---------- | --------- | ---------- |
+| Planta 6ª |            | Planta 5ª |            | Planta 4ª |            | Planta 3ª |            |
+| Par 1     | Piso 6ºA   | Par 11    | Piso 5ºA   | Par 21    | Piso 4ºA   | Par 31    | Piso 4ºA   |
+| Par 2     | Piso 6ºA   | Par 12    | Piso 5ºA   | Par 22    | Piso 4ºA   | Par 32    | Piso 4ºA   |
+| Par 3     | Piso 6ºB   | Par 13    | Piso 5ºB   | Par 23    | Piso 4ºB   | Par 33    | Piso 4ºB   |
+| Par 4     | Piso 6ºB   | Par 14    | Piso 5ºB   | Par 24    | Piso 4ºB   | Par 34    | Piso 4ºB   |
+| Par 5     | Piso 6ºC   | Par 15    | Piso 5ºC   | Par 25    | Piso 4ºC   | Par 35    | Piso 4ºC   |
+| Par 6     | Piso 6ºC   | Par 16    | Piso 5ºC   | Par 26    | Piso 4ºC   | Par 36    | Piso 4ºC   |
+| Par 7     | Piso 6ºD   | Par 17    | Piso 5ºD   | Par 27    | Piso 4ºD   | Par 37    | Piso 4ºD   |
+| Par 8     | Piso 6ºD   | Par 18    | Piso 5ºD   | Par 28    | Piso 4ºD   | Par 38    | Piso 4ºD   |
+| Par 9     | Rsv Piso 6 | Par 19    | Rsv Piso 5 | Par 29    | Rsv Piso 4 | Par 39    | Rsv Piso 4 |
+| Par 10    | Rsv Piso 6 | Par 20    | Rsv Piso 5 | Par 30    | Rsv Piso 4 | Par 40    | Rsv Piso 4 |
+
+| Planta 2ª |            | Planta 1ª |            | Planta Baja |           | Pares libre |       |
+|-----------|------------|-----------|------------|-------------|-----------|-------------|-------|
+| Par 41    | Piso 2ºA   | Par 51    | Piso 1ºA   | Par 61      | Local A   | Par 75      | Libre |
+| Par 42    | Piso 2ºA   | Par 52    | Piso 1ºA   | Par 62      | Local A   |             |       |
+| Par 43    | Piso 2ºB   | Par 53    | Piso 1ºB   | Par 63      | Local A   |             |       |
+| Par 44    | Piso 2ºB   | Par 54    | Piso 1ºB   | Par 64      | Local B   |             |       |
+| Par 45    | Piso 2ºC   | Par 55    | Piso 1ºC   | Par 65      | Local B   |             |       |
+| Par 46    | Piso 2ºC   | Par 56    | Piso 1ºC   | Par 66      | Local B   |             |       |
+| Par 47    | Piso 2ºD   | Par 57    | Piso 1ºD   | Par 67      | Local C   |             |       |
+| Par 48    | Piso 2ºD   | Par 58    | Piso 1ºD   | Par 68      | Local C   |             |       |
+| Par 49    | Rsv Piso 2 | Par 59    | Rsv Piso 1 | Par 69      | Local C   |             |       |
+| Par 50    | Rsv Piso 2 | Par 60    | Rsv Piso 1 | Par 70      | Est Comun |             |       |
+|           |            |           |            | Par 71      | Est Comun |             |       |
+|           |            |           |            | Par 72      | Rsv PB    |             |       |
+|           |            |           |            | Par 73      | Rsv PB    |             |       |
+|           |            |           |            | Par 74      | Rsv PB    |             |       |
+
+#### Red interior de usuario
+
+La red interior de usuario se instalará de cable de pares trenzados. La red interior de usuario será de pares trenzados si la red de distribución/dispersión es de pares trenzados, cable de pares o fibra óptica.
+
+#### Cuadro resumen
+
+##### Red de Distribución/Dispersión
+
+|                                           |                                                        |
+| :---------------------------------------: | :----------------------------------------------------: |
+|                 Material                  |                        Cantidad                        |
+| Cables, Red de Distribución y dispersión  | 25 m de cable de 75 pares<br>320 m de cable de 2 pares |
+| Regletas de salida Punto de Interconexión |                 8 regletas de 10 pares                 |
+|    Regletas de puntos de distribución     |                 8 regletas de 10 pares                 |
+|        Puntos de Acceso al Usuario        |                           59                           |
