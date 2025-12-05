@@ -94,3 +94,17 @@ En función de la configuración de la red de distribución, la red de dispersi�
 - Viviendas: Se instalarán, y alimentarán con el correspondiente cable coaxial desde el PAU, dos registros de toma, equipados con la correspondiente toma, en dos estancias diferentes de la vivienda.
 - Locales: No se instalará red interior de usuario. En este caso, el diseño y dimensionamiento de la red de cableado coaxial, así como su realización futura, será responsabilidad de la propiedad del local u oficina, cuando se ejecute el proyecto de distribución en estancias.
 - Estancias comunes: El proyectista definirá el dimensionamiento de la red interior en estas estancias teniendo en cuenta la finalidad de las estancias y las prestaciones previstas para la edificación.
+
+### Particularidades de los conjuntos de viviendas unifamiliares
+
+En el caso de viviendas unifamiliares, se utilizará un RITU, donde se ubicarán los paneles de entrada. La red de distribución será similar a la ya indicada, con la singularidad de que el recorrido vertical de los cables se transformará en horizontal.
+
+En este caso se utilizará la distribución **árbol rama a partir de 10 PAU’s**.
+
+En el caso de que no haya operadores y no vaya a instalarse este cableado en la ejecución de la ICT, deberemos proyectar las canalizaciones necesarias provistas de hilos-guía.
+
+### Cálculo de atenuaciones
+
+En caso de red de cable de pares no es necesario calcular la atenuación de la red de distribución-dispersión.
+
+Sólo se calcula la atenuación de la Red Interior de Usuario que sí es de cable de pares trenzados.

@@ -109,6 +109,7 @@ En el caso de viviendas unifamiliares, se utilizará un RITU, donde se ubicarán
 Los puntos de distribución podrán ubicarse en la medianería de dos viviendas, de manera alterna, de tal forma que, desde cada punto de distribución, se preste servicio a ambos. Cuando el número de pares de la red de distribución sea igual o inferior a 15, se instalará un único punto de distribución en el RITU del que partirán los cables de acometida a cada vivienda.
 
 En este caso se dejarán las canalizaciones necesarias para atender las previsiones calculadas, dotadas con los correspondientes hilos-guía.
+
 ### Cálculo de atenuaciones
 
 En caso de red de cable de pares no es necesario calcular la atenuación de la red de distribución-dispersión.
