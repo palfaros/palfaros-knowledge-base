@@ -33,3 +33,11 @@ Realiza la unión entre las redes de distribución y de dispersión de la ICT de
 - Cuando las fibras ópticas de las acometidas de la red de dispersión sean las mismas fibras ópticas de los cables de la red de distribución, dichas fibras estarán en paso en el punto de distribución. El punto de distribución estará formado por una o varias cajas de segregación en las que se dejarán almacenados, únicamente, los bucles de las fibras ópticas de reserva, con la longitud suficiente para poder llegar hasta el PAU más alejado de esa planta. Los extremos de las fibras ópticas de la red de dispersión se identificarán mediante etiquetas que indicarán los puntos de acceso al usuario a los que dan servicio. El diseño, dimensionado e instalación de los puntos de distribución será responsabilidad de la propiedad de la edificación.
 
 ![[Punto_distribución_fibra_óptica.png]]
+
+## Esquema general
+
+La siguiente imagen muestra un esquema general de una red de cables de fibra óptica.
+
+![[Esquema_red_cables_fibra_óptica.png]]
+
+
