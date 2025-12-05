@@ -389,3 +389,70 @@ Suponiendo el mismo edificio de las cuestiones anteriores donde ya calculamos la
 - 1 acometida por local.
 - 2 acometidas para estancias comunes de la edificación.
 - 1 acometida por vivienda.
+
+### Pregunta 3
+
+**Dimensiona:**
+#### El dimensionamiento de la red de distribución y dispersión
+
+El árbol de distribución partirá del Punto de Interconexión situado en el Registro Principal, ubicado en el RITI, discurrirán por las respectivas canalizaciones principales, derivándose, en cada Registro Secundario de planta, los cables coaxiales necesarios para atender a las necesidades de la misma.
+
+Se usan derivadores en cada Planta con un número de salidas igual al número de PAUs que alimentan. Desde el Registro Secundario de planta se tenderán los cables coaxiales de la red de dispersión, hasta los PAU de cada vivienda o local.
+
+![[Cuestiones_Red_Distribución_Coaxial.png]]
+
+|        |             |         |
+| :----: | :---------: | :-----: |
+| Planta |  Derivador  | Salidas |
+|   6ª   | Derivador 7 |    4    |
+|   5ª   | Derivador 6 |    4    |
+|   4ª   | Derivador 5 |    4    |
+|   3ª   | Derivador 4 |    4    |
+|   2ª   | Derivador 3 |    4    |
+|   1ª   | Derivador 2 |    4    |
+|  Baja  | Derivador 1 |    4    |
+
+#### La atenuación red de distribución y dispersión
+
+El árbol de distribución partirá del Punto de Interconexión situado en el Registro Principal, ubicado en el RITI, discurrirán por las respectivas canalizaciones principales, derivándose, en cada Registro Secundario de planta, los cables coaxiales necesarios para atender a las necesidades de la misma.
+
+En este caso se realizará un proceso similar al seguido para el cálculo de las atenuaciones que el seguido en el tema anterior en lo referente a RTV.
+
+A partir del esquema se elige la red de derivadores y se calcula la atenuación desde el PI al PAU más alejado (o mejor dicho a la peor toma).
+
+La atenuación de la red es debida a los metros de cable y la atenuación en paso de los derivadores. Además en este caso el reglamento obliga a incluir conectores F, con lo que será necesario sumar la atenuación de dichos conectores (aproximadamente 0,4 dB).
+
+Si la atenuación es superior a la indicada por el reglamento se revisará la composición de la red con el cambio de los derivadores a utilizar o el cable para conseguir menores pérdidas. Incluso pueden llegar a combinarse ambos tipos de redes (estrella y árbol-rama) si fuese necesario.
+
+Las atenuaciones máximas permitidas son:
+
+- Si Nº de PAUs ≤ 20. Configuración en estrella. Pérdida máxima de 20 dB entre RITI y PAU más alejado en cualquier punto de la banda 86-860 MHz.
+- Si Nº de PAUs > 20. Configuración en árbol-rama. Pérdida máxima de 36 dB en banda 86MHz – 860 MHz y 29 dB en la banda 5-65 MHz entre RITI y PAU más alejado.
+
+Con carácter general el tipo de cable será RG-59 (atenuación máxima a 862 MHz de 24,5 dB).
+
+La atenuación de los conectores F es de 0,4 dB aproximadamente.
+
+Vemos a modo de ejemplo la atenuación para la toma más alejada, suponiendo por simplicidad que usamos derivadores con pérdidas de inserción de 1dB en toda la banda y pérdidas de derivación de 10 dB (aunque lo normal sería utilizar derivadores diferentes; en las plantas inferiores con pérdidas de inserción pequeñas y con pérdidas de derivación mayores y en las plantas más altas o en la última planta pérdidas de inserción mayores pero menores pérdidas de derivación,…).
+
+|                         |                           |                            |
+| :---------------------: | :-----------------------: | :------------------------: |
+|    Distancia PAU 6ªD    |         40 metros         |                            |
+|       Frecuencia        |           5 MHz           |          860 MHz           |
+|  Pérdidas de inserción  |  1 dB · 6 plantas = 6 dB  |            6 dB            |
+| Pérdidas de derivación  |           10 dB           |           10 dB            |
+| 40 m cable coaxial RG59 | 0,06 dB/m · 40 m = 2,4 dB | 0,245 dB/m · 40 m = 9,8 dB |
+|     12 conectores F     |          4,8 dB           |           4,8 dB           |
+|          **Total**          |          **23,2 dB**          |          **30,6 dB**           |
+| **Valor máximo reglamento** |           **29 dB**           |           **36 dB**            |
+
+#### El punto de interconexión
+
+No hay que realizar diseño del punto de interconexión para la red de cable coaxial. Será necesario un cable para la red de árbol-rama que partiendo del punto de interconexión llegue al distribuidor de la última planta.
+
+### Pregunta 4
+
+**Dimensiona la red interior de usuario.**
+
+**Respuesta**: Se instalarán un total de 48 cables en las viviendas y un total de 48 BATs.
+**Justificación**: Se instalan 2 cables por Vivienda. En locales no se conoce distribución interior por lo que no se instalan. Cada cable termina en un BAT. Sería necesario igualmente calcular la atenuación de la red interior. Los cables de Red Interior parten del RTR hasta las dos bases (situadas en el salón y en el dormitorio principal).
