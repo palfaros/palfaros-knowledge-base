@@ -105,6 +105,13 @@ En el caso de que no haya operadores y no vaya a instalarse este cableado en la 
 
 ### Cálculo de atenuaciones
 
-En caso de red de cable de pares no es necesario calcular la atenuación de la red de distribución-dispersión.
+En el caso de la topología de red árbol - rama, debe definirse el tipo de derivadores y sus características para garantizar el cumplimiento de los valores de atenuación requeridos.
 
-Sólo se calcula la atenuación de la Red Interior de Usuario que sí es de cable de pares trenzados.
+La atenuación total de la red de cables coaxiales producida en las redes de distribución y dispersión debe de calcularse y su valor debe ser menor que el indicado en el reglamento, en función de la topología de éstas, se deberá cumplir:
+- Topología en estrella: La atenuación máxima entre el registro principal coaxial y el PAU más alejado no será superior a 20 dB en ningún punto de la banda 86 MHz - 860 MHz. (considerando una longitud máxima de cable RG-59 de 100 m y una atenuación de 0,14dB/m)
+- Topología en árbol-rama: La atenuación máxima entre el registro principal coaxial y el PAU más alejado no será superior a 36 dB en ningún punto de la banda 86 MHz - 860 MHz y a 29 dB en ningún punto de la banda 5 MHz - 65 MHz.
+- Casos singulares: Cuando la configuración de la edificación impida el cumplimiento de los requisitos de atenuación máxima en los dos casos anteriores, el proyectista adoptará los criterios de diseño que estime oportuno pudiendo combinar ambos tipos de topologías para proporcionar el servicio al 100% de los PAU de la edificación.
+
+El cálculo de la atenuación se realiza de la siguiente manera:
+- Distribución en estrella: En el caso de red en estrella, la atenuación será la del cable más la de un conector F, el situado en el extremo del Punto de Interconexión. El Reglamento también indica que el cable coaxial debe ser de tipo RG 59 y también define la atenuación máxima del cable de este tipo, 24,5dB a 825 MHz. Partiendo de los datos de los fabricantes de cable se tomará la atenuación del cable a utilizar, que deberá ser menor o igual a la especificada y se multiplicará por el número de metros desde el PI al PAU más alejado y se añadirá la atenuación de un conector F. La atenuación de los conectores F no está limitada en el Reglamento, pero su valor típico es de 0,4 dB.
+- Distribución en árbol-rama: Deben definirse el tipo de derivadores y sus características para garantizar el cumplimiento de los valores de atenuación requeridos. La atenuación de la red es debida a los metros de cable coaxial y a la atenuación en paso de los derivadores a instalar. Si la atenuación resulta superior a la indicada en el reglamento se revisará la composición de la misma con el cambio de derivadores de la red o a la utilización de un cable para la red de distribución, y acaso para la red de dispersión de menor pérdida. El Reglamento permite combinar ambos tipos de topologías (estrella y árbol rama) cuando no sea posible conseguir el cumplimiento de los valores máximos de atenuación con ninguna de ellas.
