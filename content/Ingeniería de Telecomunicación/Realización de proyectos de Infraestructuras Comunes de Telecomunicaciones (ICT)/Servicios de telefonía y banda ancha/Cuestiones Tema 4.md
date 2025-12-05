@@ -361,3 +361,31 @@ La red interior de usuario se instalará de cable de pares trenzados. La red int
 | Regletas de salida Punto de Interconexión |                 8 regletas de 10 pares                 |
 |    Regletas de puntos de distribución     |                 8 regletas de 10 pares                 |
 |        Puntos de Acceso al Usuario        |                           59                           |
+
+## Red de cable coaxial
+
+### Pregunta 1
+
+Tenemos un edificio de un solo portal con 6 plantas, 4 viviendas por planta, y una planta baja con 3 locales comerciales y un espacio común. Las viviendas son idénticas con 5 estancias cada una.
+
+![[Cuestiones_UTP.png]]
+
+Suponiendo el mismo edificio de las cuestiones anteriores donde ya calculamos la red de cable de pares trenzados y red de cable de pares. Vamos a responder a las siguientes preguntas relacionadas con la red de cable coaxial.
+
+**¿Cómo se puede diseñar la topología de la red de distribución/dispersión?**
+- Opción 1: Estrella
+- Opción 2: Árbol-rama
+- Opción 2: Indistintamente Estrella o árbol-rama
+
+**Respuesta**: Árbol-rama.
+**Justificación**: La topología de la red, al tratarse de una red de cables coaxiales será en estrella cuando el número de PAUs sea inferior a 20 y en árbol-rama cuando el número de PAU sea superior a 20. En este caso el número de **PAU** es: PAU= 3 (locales) + 1 (espacio común) + 6 x 4 (viviendas) = **28**. Por lo que la red de distribución es en árbol-rama.
+
+### Pregunta 2
+
+**Calcula el número de acometidas totales de la red.**
+
+**Respuesta**: 29.
+**Justificación**: Se pondrá de acuerdo al Reglamento:
+- 1 acometida por local.
+- 2 acometidas para estancias comunes de la edificación.
+- 1 acometida por vivienda.
