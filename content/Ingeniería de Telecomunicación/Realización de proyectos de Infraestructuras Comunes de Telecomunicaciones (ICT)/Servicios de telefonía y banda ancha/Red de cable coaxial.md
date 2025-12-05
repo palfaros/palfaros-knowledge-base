@@ -72,3 +72,25 @@ Para que la red interior sea capaz de atender la demanda a largo plazo del inmue
 3.  Para dar servicio a estancias o instalaciones comunes del edificio: Dos acometidas (2 coaxiales) para la edificación.
 
 Si no existen operadores de servicio se dejarán las canalizaciones necesarias para atender las previsiones del apartado anterior dotadas con los correspondientes hilos-guía.
+
+### Dimensionamiento mínimo de la red de distribución
+
+#### Edificaciones con una vertical
+
+- Configuración **en estrella**: Se empleará en **edificaciones con un número de PAU no superior a 20**. En el registro principal los cables serán terminados en un conector tipo F, mientras que en los PAU se conectarán a los distribuidores de cada usuario situados en los mismos.
+- Configuración en **árbol-rama**: Se empleará en **edificaciones con un número de PAU superior a 20**. La red de distribución se realizará con un único cable coaxial que saldrá del registro principal situado en el RITI y terminará en el último registro secundario. En cada registro secundario se insertará el derivador apropiado para alimentar los PAU de cada planta. En el panel de salida del registro principal, el cable coaxial que constituye la red de distribución será terminado en un conector tipo F.
+#### Edificaciones con varias verticales
+
+La red de cada vertical será tratada como una red de distribución independiente, y se diseñará, por tanto, de acuerdo con lo indicado en el apartado anterior.
+
+### Dimensionamiento mínimo de la red de dispersión
+
+En función de la configuración de la red de distribución, la red de dispersión se realizará:
+- Configuración en estrella: Se instalarán los cables coaxiales de acometida que cubran la demanda prevista como prolongación de la red de distribución (en paso en los registros secundarios), y terminarán en el PAU de cada vivienda conectándose al distribuidor encargado de repartir la señal en la red interior de cada usuario. Es decir, los cables coaxiales pasan por los registros secundarios y continúan hasta el PAU formando una única red de distribución/dispersión.
+- Configuración en árbol-rama: Se instalarán los cables coaxiales de acometida que cubran la demanda prevista, y conectándose cada uno de ellos al correspondiente puerto de derivación del derivador que actúa como punto de distribución en el registro secundario del que parten y terminarán en el PAU de cada vivienda conectándose al distribuidor encargado de repartir la señal en la red interior de cada usuario.
+
+### Dimensionamiento mínimo de la red interior de usuario
+
+- Viviendas: Se instalarán, y alimentarán con el correspondiente cable coaxial desde el PAU, dos registros de toma, equipados con la correspondiente toma, en dos estancias diferentes de la vivienda.
+- Locales: No se instalará red interior de usuario. En este caso, el diseño y dimensionamiento de la red de cableado coaxial, así como su realización futura, será responsabilidad de la propiedad del local u oficina, cuando se ejecute el proyecto de distribución en estancias.
+- Estancias comunes: El proyectista definirá el dimensionamiento de la red interior en estas estancias teniendo en cuenta la finalidad de las estancias y las prestaciones previstas para la edificación.
