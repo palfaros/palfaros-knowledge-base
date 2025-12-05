@@ -33,3 +33,29 @@ Realiza la unión entre las redes de distribución y de dispersión de la ICT de
 - Red de distribución en árbol-rama: En este caso, el punto de distribución estará constituido por uno o varios derivadores con el número más reducido posible de salidas, terminadas en un conector tipo F con pin, capaz de alimentar a todos los PAU’s que atienda la red de dispersión que nace en el registro secundario; las salidas no utilizadas serán terminadas con una carga tipo F. La siguiente imagen muestra un esquema con este tipo de red de distribución.
 
 ![[Punto_distribución_coaxial_arbol_rama.png]]
+
+### Punto de acceso al usuario (PAU)
+
+Realiza la unión entre la red de dispersión y la red interior de usuario de la ICT del inmueble. Permite la delimitación de responsabilidades en cuanto a la generación, localización y reparación de averías entre la propiedad del inmueble o la comunidad de propietarios y el usuario final del servicio. Se ubicará en el interior de cada domicilio de usuario.
+
+Por ley, el PAU debe ser un repartidor de dos salidas, al cual llega el cable de la red de Distribución/dispersión o red de dispersión, según el caso y del cual salen los dos cables que constituyen la red interior de usuario.
+
+Ese distribuidor inductivo de dos salidas simétrico termina en un conector tipo F hembra, en cuya entrada se terminará el cable coaxial de la red de dispersión, debidamente conectorizado, para su posterior conexión a las correspondientes ramas de la red interior de usuario.
+
+Los extremos de las diferentes ramas de la red interior de usuario de cables coaxiales, ubicados en el interior del registro de terminación de red, debidamente conectorizados, se conectarán al divisor simétrico identificando la BAT a la que prestan servicio.
+
+![[Distribuidor_PAU.png]]
+
+### Bases de acceso terminal (BAT))
+
+En el caso de cableado coaxial, los cables se conectarán a los terminales tipo F de toma final con carga de cierre apropiado de la BAT en que terminen.
+
+## Esquema general
+
+La siguiente imagen muestra un esquema general de una **red de cables coaxiales con topología en estrella**.
+
+![[Esquema_red_coaxial_estrella.png]]
+
+La siguiente imagen muestra un esquema general de una **red de cables coaxiales con topología en árbol-rama**.
+
+![[Esquema_red_coaxial_árbol_rama.png]]
