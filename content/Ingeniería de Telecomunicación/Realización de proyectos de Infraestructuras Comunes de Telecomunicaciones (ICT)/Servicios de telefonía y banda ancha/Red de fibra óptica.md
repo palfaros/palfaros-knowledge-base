@@ -25,3 +25,11 @@ La conexión entre el panel común de conectores de salida de la red del edifici
 Los repartidores de conectores de entrada de todos los operadores y el panel común de conectores de salida, estarán situados en el registro principal óptico ubicado en el RITI o RITU. El espacio interior previsto para el registro principal óptico deberá ser suficiente para permitir la instalación de una cantidad de conectores de entrada que sea dos veces la cantidad de conectores de salida que se instalen en el punto de interconexión, así como un espacio adicional para el guiado de los cordones o latiguillos de interconexión y el almacenamiento de la longitud sobrante de cable.
 
 ![[Regleta_conexión_fibra_óptica.png]]
+
+### Punto de distribución
+
+Realiza la unión entre las redes de distribución y de dispersión de la ICT del inmueble. Para la fibra se distinguen dos casos:
+- Cuando las fibras ópticas de la red de distribución sean distintas de los cables de acometida de fibra óptica de la red de dispersión, el punto de distribución estará formado por una o varias cajas de segregación en las que terminarán ambos tipos de fibras. En cada caja de segregación se almacenarán los empalmes entre las fibras ópticas de distribución y las de las acometidas. En cualquier caso, en el punto de distribución se almacenarán bucles de fibra óptica con la holgura suficiente para poder reconfigurar las conexiones entre las fibras ópticas de la red de distribución y las de la red de dispersión (cortar y empalmar o conectar).
+- Cuando las fibras ópticas de la red de distribución sean distintas de los cables de acometida de fibra óptica de la red de dispersión, el punto de distribución estará formado por una o varias cajas de segregación en las que terminarán ambos tipos de fibras. En cada caja de segregación se almacenarán los empalmes entre las fibras ópticas de distribución y las de las acometidas. En cualquier caso, en el punto de distribución se almacenarán bucles de fibra óptica con la holgura suficiente para poder reconfigurar las conexiones entre las fibras ópticas de la red de distribución y las de la red de dispersión (cortar y empalmar o conectar).
+
+![[Punto_distribución_fibra_óptica.png]]
