@@ -69,7 +69,7 @@ Para que la red interior sea capaz de atender la demanda a largo plazo del inmue
 2. Locales comerciales u oficinas:
 	1. Cuando esté definida la distribución en planta de los locales u oficinas: una acometida (1 coaxial) por cada local u oficina.
 	2. Cuando no esté definida la distribución en planta de locales u oficinas, en el registro secundario de la planta se dejará disponible una acometida (1 coaxial) por cada 100 m<sup>2</sup>.
-3.  Para dar servicio a estancias o instalaciones comunes del edificio: Dos acometidas (2 coaxiales) para la edificación.
+3. Para dar servicio a estancias o instalaciones comunes del edificio: Dos acometidas (2 coaxiales) para la edificación.
 
 Si no existen operadores de servicio se dejarán las canalizaciones necesarias para atender las previsiones del apartado anterior dotadas con los correspondientes hilos-guía.
 
