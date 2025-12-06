@@ -67,3 +67,41 @@ La siguiente imagen muestra un esquema general de una red de cables de fibra óp
 La siguiente imagen muestra un esquema general de la ubicación de elementos en el Registro de Terminación de red.
 
 ![[Esquema_ubicación_elementos_RTR.png]]
+
+## Diseño y dimensionamiento de red
+
+### Previsión de la demanda
+
+Para que la red interior sea capaz de atender la demanda a largo plazo del inmueble, se realizará una evaluación de las necesidades. Se aplicarán las normas siguientes
+
+Cada acometida óptica estará constituida por dos fibras ópticas.
+
+1. Viviendas: Se considerará **1 acometida óptica por cada vivienda**.
+2. En el caso de locales u oficinas en edificaciones de viviendas:
+	1. Cuando esté definida la distribución en planta de los locales u oficinas, se considerará **1 acometida óptica por cada local u oficina**.
+	2. Cuando no esté definida la distribución en planta de los locales u oficinas, en el registro secundario de la planta (o en el RITI en el caso de edificaciones con un número de PAU inferior a 15) se dejará disponible **1 acceso o acometida óptica por cada 100 m<sup>2</sup> o fracción**.
+3.  En el caso de locales u oficinas en edificaciones destinadas fundamentalmente a este fin:
+	1. Cuando esté definida la distribución en planta de los locales u oficinas, se considerarán **2 acometidas ópticas por cada local u oficina.**
+	2. Cuando no esté definida la distribución en planta de los locales u oficinas, se considerarán **2 acometidas ópticas por cada 100 m<sup>2</sup> o fracción**.
+4.  Para dar servicio a estancias o instalaciones comunes del edificio: 2 acometidas ópticas para la edificación. Se excluye de las estancias comunes el ascensor.
+5. Ascensores. (en función de su normativa específica).
+
+Si en el proyecto no se instala el cableado de fibra óptica, se dejarán las canalizaciones necesarias para atender las previsiones del apartado anterior dotadas con los correspondientes hilos-guía.
+
+### Dimensionamiento mínimo de la red de distribución
+
+#### Edificaciones con una vertical
+
+Conocida la necesidad futura a medio y largo plazo, tanto por plantas como en el total de la edificación, o estimada dicha necesidad según lo indicado en el apartado anterior, se dimensionará la red de distribución con arreglo a los siguientes criterios:
+
+- La cifra de demanda prevista se multiplicará por el factor 1,2 lo que asegura una reserva suficiente para prever posibles averías de algunas fibras ópticas o alguna desviación por exceso sobre la demanda prevista.
+- Obtenido de esta forma el número teórico de fibras ópticas necesarias, se utilizará el cable multifibra normalizado de capacidad igual o superior a dicho valor o combinaciones de varios cables normalizados, teniendo también en cuenta la técnica de instalación que se vaya a utilizar para la extracción de las fibras ópticas correspondientes a cada registro secundario.
+
+Las fibras sobrantes, distribuidas de manera uniforme en los diferentes registros secundarios, quedarán disponibles correctamente alojadas en los mismos, para su utilización en el momento apropiado.
+
+En el caso de edificios con una red de distribución/dispersión que dé servicio a un número de PAU inferior o igual a 20, la red de distribución/dispersión podrá realizarse con cables de acometida de dos fibras ópticas directamente desde el punto de distribución ubicado en el registro principal. De él saldrán, en su caso, los cables de acometida que subirán a las plantas para acabar directamente en los PAU.
+
+Para el caso de edificios con una red de distribución/dispersión que dé servicio a un número de PAU superior a 20, la red de distribución/dispersión podrá realizarse también con cables de acometida de dos fibras ópticas directamente desde el punto de distribución ubicado en el registro principal, siempre y cuando la canalización principal que se diseñe lo permita, y así quede justificado en el proyecto.
+#### Edificaciones con varias verticales
+
+La red de cada vertical será tratada como una red de distribución independiente, y se diseñará, por tanto, de acuerdo con lo indicado en el apartado anterior.
