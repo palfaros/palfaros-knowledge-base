@@ -118,6 +118,8 @@ En este caso, la red interior de usuario **se realizará con cable de pares tre
 - Locales u oficinas, cuando no esté definida su distribución en planta: **No se instalará red interior de usuario**. En este caso, el diseño y dimensionamiento de la red interior de usuario, así como su realización futura, será responsabilidad de la propiedad del local u oficina, cuando se ejecute el proyecto de distribución en estancias.
 - Estancias o instalaciones comunes del edificio: El proyectista definirá el dimensionamiento de la red interior en estas estancias teniendo en cuenta la finalidad de las estancias y las prestaciones previstas para la edificación.
 
+![[Esquema_red_usuario_red_fibra.png]]
+
 ### Particularidades de los conjuntos de viviendas unifamiliares
 
 En el caso de viviendas unifamiliares, se utilizará un RITU, donde se ubicarán los paneles de entrada. La red de distribución será similar a la ya indicada, con la singularidad de que el recorrido vertical de los cables se transformará en horizontal
@@ -125,3 +127,30 @@ En el caso de viviendas unifamiliares, se utilizará un RITU, donde se ubicarán
 Los puntos de distribución podrán ubicarse en la medianería de dos viviendas, de manera alterna, de tal forma que, desde cada punto, se pueda prestar servicio a ambas.
 
 Cuando el número de PAU a los que da servicio la red de distribución/dispersión sea inferior o igual a 15, la red de distribución/dispersión podrá realizarse con cables de acometida de dos fibras ópticas directamente desde el punto de distribución ubicado en el recinto de instalaciones de telecomunicaciones. De él saldrán, en su caso, los cables de acometida (interior o exterior) hasta el PAU de cada vivienda.
+
+### Cálculo de atenuaciones
+
+El R.D. establece un valor de atenuación máxima recomendada de la red de distribución y dispersión no superior a 1,55 dB. En ningún caso superior a 2 dB.
+
+Las medidas se realizarán desde las regletas de salida de fibra óptica, situadas en el registro principal óptico del RITI, hasta los conectores ópticos de la roseta de los PAU situada en el registro de terminación de red de cada vivienda, local o estancia común.
+
+En la especificación de los materiales solo se especifica el nivel de atenuación de los conectores.
+
+En caso de empalme de fibras este puede ser realizado por fusión o por medio mecánico. El método de fusión requiere la utilización de herramientas especiales de las que debe disponer el instalador. El método de empalme mecánico no requiere de dichas herramientas, pero su atenuación es mayor que la del empalme de fusión.
+
+A priori se desconoce el equipamiento de que puede disponer el instalador por lo que cabe pensar que los empalmes van a ser realizados por medios mecánicos (se obtendrá un valor de atenuación mayor que si se realizara por fusión).
+
+En cualquiera de los casos la atenuación de los empalmes depende de la calidad del mismo por lo que, al realizar los cálculos nos situaremos en el peor de los casos para que, si garantizamos la atenuación en el peor de los casos, cualquier mejora en la calidad de éstos dará un mejor resultado final.
+
+- Distribución en estrella: En el caso de red en estrella, la atenuación será la del cable más la de un conector SC/APC, el situado en el extremo del Punto de Interconexión.
+- Distribución en árbol-rama: En este caso se realizará un empalme entre las fibras de la red de la distribución con las fibras de la red de dispersión situando el mismo en la caja de segregación instalada en el Registro Secundario de planta.
+
+Como valores típicos, tenemos los siguientes:
+
+|                    |                     |
+| :----------------: | :-----------------: |
+|      Elemento      |     Atenuación      |
+|  Conector SC/APC   |    0,2 - 0,3 dB     |
+|   Cable de F.O.    | 0,40 dB/km @1310 nm |
+| Empalme por fusión |   0,03 - 0,05 dB    |
+|  Empalme mecánico  |    0,06 - 0,2 dB    |
