@@ -34,10 +34,36 @@ Realiza la unión entre las redes de distribución y de dispersión de la ICT de
 
 ![[Punto_distribución_fibra_óptica.png]]
 
+### Punto de acceso al usuario (PAU)
+
+Realiza la unión entre la red de dispersión y la red interior de usuario de la ICT del inmueble
+
+El punto de acceso al usuario (PAU) estará formado por:
+- La roseta con tantos conectores SC/APC (y los correspondientes adaptadores) de terminación como fibras ópticas de los cables de acometida se hayan instalado en la red de dispersión.
+- La unidad de terminación de red óptica que se conectará por una parte a la roseta descrita en el párrafo anterior y, por otra, a la red interior de usuario de la ICT. Esta unidad de terminación será la que proporcione al usuario final los puntos de acceso a los diferentes servicios, con sus facilidades simultáneas como “medio de corte” y “punto de prueba”.
+
+**La red de interior de usuario será de pares trenzados, salvo en la estancia principal (salón) que se instalará una acometida de fibra óptica**. En los extremos de las diferentes ramas de la red interior de usuario de pares trenzados, ubicados en el registro de terminación de red, se equiparán conectores macho miniatura de ocho vías (RJ45); en estos extremos se dejará una longitud de cable sobrante con la suficiente holgura como para llegar a cualquiera de las partes interiores de los diferentes compartimentos del registro de terminación de red. Estos mismos extremos se identificarán mediante etiquetas que indicarán la ubicación del conector de las bases de acceso de terminal (BAT) a las que dan servicio.
+
+Asimismo, para que exista una continuidad entre las regletas de salida del punto de interconexión y algunas de las bases de acceso de terminal (BAT) de la red interior de usuario de pares trenzados, se instalará en el registro de terminación de red un accesorio multiplexor pasivo que, por una parte, estará equipado con un latiguillo flexible terminado en un conector macho miniatura de ocho vías, enchufado a su vez en un conector o roseta de terminación de una de las líneas de la red de dispersión y, por otra parte, tenga como mínimo tantas bocas hembra miniatura de ocho vías (RJ45) como estancias servidas por la red interior de usuario de pares trenzados.
+
+|                                                |                                        |                                              |                                                                      |
+| ---------------------------------------------- | -------------------------------------- | -------------------------------------------- | -------------------------------------------------------------------- |
+| Realización del Punto de Acceso al Usuario<br> |                                        |                                              |                                                                      |
+|                                                | Medio portador en la Red de dispersión | Medio portador en la Red interior de usuario | Elementos adaptadores en el PAU                                      |
+|                                                | Cable de F.O                           | Cables trenzados                             | Roseta óptica ONT Switch Multiplexor pasivo<br>Conectores macho RJ45 |
+
+### Bases de acceso terminal (BAT))
+
+Como es el caso del cableado de pares trenzados, los hilos conductores de cada rama de la red interior se conectarán a los 8 contactos del conector RJ-45 hembra miniatura de 8 vías de la BAT en que terminen.
+
+Además en relación a la toma de fibra óptica ubicada en la estancia principal, la fibra se terminará en un BAT de fibra óptica con adaptador de tipo SC/APC.
+
 ## Esquema general
 
 La siguiente imagen muestra un esquema general de una red de cables de fibra óptica.
 
 ![[Esquema_red_cables_fibra_óptica.png]]
 
+La siguiente imagen muestra un esquema general de la ubicación de elementos en el Registro de Terminación de red.
 
+![[Esquema_ubicación_elementos_RTR.png]]
