@@ -105,3 +105,23 @@ Para el caso de edificios con una red de distribución/dispersión que dé servi
 #### Edificaciones con varias verticales
 
 La red de cada vertical será tratada como una red de distribución independiente, y se diseñará, por tanto, de acuerdo con lo indicado en el apartado anterior.
+
+### Dimensionamiento mínimo de la red de dispersión
+
+Se instalarán tantos cables de fibra óptica de acometida como resulten necesarios para cubrir la demanda prevista en cada vivienda o local, y terminarán en el PAU de cada vivienda en la roseta correspondiente. El empalme o continuidad de paso de estas fibras ópticas en los puntos de distribución, se realizará según lo indicado en el apartado de [[#Previsión de la demanda]].
+
+### Dimensionamiento mínimo de la red interior de usuario
+
+En este caso, la red interior de usuario **se realizará con cable de pares trenzados, salvo en la estancia principal (salón) que se instalará una acometida de fibra óptica**, de acuerdo a lo siguiente:
+- Viviendas: En la **estancia principal de las viviendas (salón)**, próxima al registro BAT de pares trenzados con dos tomas, **se dispondrá una roseta de fibra óptica o BAT de fibra óptica, terminado con un adaptador SC/APC**. Este adaptador estará alimentado con una acometida de fibra óptica que terminará en un conector SC/APC conectado a uno de los adaptadores SC/APC de la roseta de fibra óptica situada en el PAU. El cable de fibra óptica individual para instalación en la red interior de usuario será de 1 **fibra óptica**. El resto de la red interior de usuario se realizará con cable de pares trenzados y su dimensionamiento será similar a la red de pares trenzados, esto es: En la estancia principal (salón) el número de registros de toma equipados con BAT será de dos como mínimo. En uno de ellos se equipará BAT con dos tomas o conectores hembra alimentados por acometidas de pares trenzados independientes procedentes del PAU, pudiendo ser soportadas por canalizaciones independientes si lo requiere la ubicación elegida de las tomas. Una de éstas deberá situarse a menos de 50 centímetros de la toma de fibra óptica. En el resto de estancias, excluidos baños y trasteros, se dispondrá de registro de toma equipado con BAT. Como mínimo, en otra de las estancias, en el registro de toma, se equipará BAT con dos tomas o conectores hembra, alimentadas por acometidas de pares trenzados independientes procedentes del PAU, de las mismas características que el indicado para la estancia principal. Cada una de las tomas dobles mencionadas en este párrafo se podrá sustituir por dos tomas simples.
+- Locales u oficinas, cuando esté definida su distribución interior en estancias: El número de **registros de toma será de uno por cada estancia**, excluidos baños y trasteros, **equipados con BAT con dos tomas o conectores hembra**, alimentadas por acometidas de pares trenzados independientes procedentes del PAU.
+- Locales u oficinas, cuando no esté definida su distribución en planta: **No se instalará red interior de usuario**. En este caso, el diseño y dimensionamiento de la red interior de usuario, así como su realización futura, será responsabilidad de la propiedad del local u oficina, cuando se ejecute el proyecto de distribución en estancias.
+- Estancias o instalaciones comunes del edificio: El proyectista definirá el dimensionamiento de la red interior en estas estancias teniendo en cuenta la finalidad de las estancias y las prestaciones previstas para la edificación.
+
+### Particularidades de los conjuntos de viviendas unifamiliares
+
+En el caso de viviendas unifamiliares, se utilizará un RITU, donde se ubicarán los paneles de entrada. La red de distribución será similar a la ya indicada, con la singularidad de que el recorrido vertical de los cables se transformará en horizontal
+
+Los puntos de distribución podrán ubicarse en la medianería de dos viviendas, de manera alterna, de tal forma que, desde cada punto, se pueda prestar servicio a ambas.
+
+Cuando el número de PAU a los que da servicio la red de distribución/dispersión sea inferior o igual a 15, la red de distribución/dispersión podrá realizarse con cables de acometida de dos fibras ópticas directamente desde el punto de distribución ubicado en el recinto de instalaciones de telecomunicaciones. De él saldrán, en su caso, los cables de acometida (interior o exterior) hasta el PAU de cada vivienda.
