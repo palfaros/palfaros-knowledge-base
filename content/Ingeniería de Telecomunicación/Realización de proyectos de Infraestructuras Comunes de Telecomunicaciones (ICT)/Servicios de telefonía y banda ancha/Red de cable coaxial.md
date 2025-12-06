@@ -46,7 +46,7 @@ Los extremos de las diferentes ramas de la red interior de usuario de cables coa
 
 ![[Distribuidor_PAU.png]]
 
-### Bases de acceso terminal (BAT))
+### Bases de acceso terminal (BAT)
 
 En el caso de cableado coaxial, los cables se conectarán a los terminales tipo F de toma final con carga de cierre apropiado de la BAT en que terminen.
 
