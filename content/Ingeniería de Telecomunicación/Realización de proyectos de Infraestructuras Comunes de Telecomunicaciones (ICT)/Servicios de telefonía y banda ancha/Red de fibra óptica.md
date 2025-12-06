@@ -52,7 +52,7 @@ Asimismo, para que exista una continuidad entre las regletas de salida del punto
 |                                                | Medio portador en la Red de dispersión | Medio portador en la Red interior de usuario | Elementos adaptadores en el PAU                                      |
 |                                                | Cable de F.O                           | Cables trenzados                             | Roseta óptica ONT Switch Multiplexor pasivo<br>Conectores macho RJ45 |
 
-### Bases de acceso terminal (BAT))
+### Bases de acceso terminal (BAT)
 
 Como es el caso del cableado de pares trenzados, los hilos conductores de cada rama de la red interior se conectarán a los 8 contactos del conector RJ-45 hembra miniatura de 8 vías de la BAT en que terminen.
 
