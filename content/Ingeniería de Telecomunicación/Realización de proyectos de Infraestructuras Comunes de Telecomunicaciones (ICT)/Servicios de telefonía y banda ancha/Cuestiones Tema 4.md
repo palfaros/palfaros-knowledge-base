@@ -239,11 +239,6 @@ Por tanto el total de acometidas lo vemos en el siguiente cuadro:
 | Estancias o instalaciones comunes del Edificio |        1        |             2              |        2         |            1,2             |                 3                  |
 | Total                                          |                 |                            |                  |                            |                 72                 |
 
-**¿Cómo se puede diseñar la topología de la red de distribución/dispersión?**
-- Opción 1: Estrella
-- Opción 2: Árbol-rama
-- Opción 3: Indistintamente Estrella o árbol-rama
-
 ### Pregunta 2
 
 **¿Cómo se puede diseñar la topología de la red de distribución/dispersión?**
