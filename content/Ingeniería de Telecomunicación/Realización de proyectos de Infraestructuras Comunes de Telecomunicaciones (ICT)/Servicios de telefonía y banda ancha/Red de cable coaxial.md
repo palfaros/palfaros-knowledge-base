@@ -1,5 +1,5 @@
 ---
-title: Red de cables coaxial
+title: Red de cable coaxial
 date: 2025-12-05
 ---
 Se trata del vehículo tradicional para redes de banda ancha y TV (redes “de cable” con tecnología HFC).
