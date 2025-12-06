@@ -65,7 +65,7 @@ Tenemos un edificio de un solo portal con 6 plantas, 4 viviendas por planta, y u
 **¿Cómo se puede diseñar la topología de la red de distribución/dispersión?**
 - Opción 1: Estrella
 - Opción 2: Árbol-rama
-- Opción 2: Indistintamente Estrella o árbol-rama
+- Opción 3: Indistintamente Estrella o árbol-rama
 
 **Respuesta**: Estrella.
 **Justificación**: La topología de la red, al tratarse de una red de cable de pares trenzados UTP siempre será en estrella. La red de distribución por tanto continúa en el registro secundario de cada planta como red de dispersión hasta el  PAU de cada vivienda, formado una red en estrella.
@@ -242,14 +242,14 @@ Por tanto el total de acometidas lo vemos en el siguiente cuadro:
 **¿Cómo se puede diseñar la topología de la red de distribución/dispersión?**
 - Opción 1: Estrella
 - Opción 2: Árbol-rama
-- Opción 2: Indistintamente Estrella o árbol-rama
+- Opción 3: Indistintamente Estrella o árbol-rama
 
 ### Pregunta 2
 
 **¿Cómo se puede diseñar la topología de la red de distribución/dispersión?**
 - Opción 1: Estrella
 - Opción 2: Árbol-rama
-- Opción 2: Indistintamente Estrella o árbol-rama
+- Opción 3: Indistintamente Estrella o árbol-rama
 
 **Respuesta**: Árbol-rama.
 **Justificación**: Como el número de pares de la red es superior a 30 (72 en total) la topología será en Árbol-rama.
@@ -375,7 +375,7 @@ Suponiendo el mismo edificio de las cuestiones anteriores donde ya calculamos la
 **¿Cómo se puede diseñar la topología de la red de distribución/dispersión?**
 - Opción 1: Estrella
 - Opción 2: Árbol-rama
-- Opción 2: Indistintamente Estrella o árbol-rama
+- Opción 3: Indistintamente Estrella o árbol-rama
 
 **Respuesta**: Árbol-rama.
 **Justificación**: La topología de la red, al tratarse de una red de cables coaxiales será en estrella cuando el número de PAUs sea inferior a 20 y en árbol-rama cuando el número de PAU sea superior a 20. En este caso el número de **PAU** es: PAU= 3 (locales) + 1 (espacio común) + 6 x 4 (viviendas) = **28**. Por lo que la red de distribución es en árbol-rama.
@@ -456,3 +456,113 @@ No hay que realizar diseño del punto de interconexión para la red de cable coa
 
 **Respuesta**: Se instalarán un total de 48 cables en las viviendas y un total de 48 BATs.
 **Justificación**: Se instalan 2 cables por Vivienda. En locales no se conoce distribución interior por lo que no se instalan. Cada cable termina en un BAT. Sería necesario igualmente calcular la atenuación de la red interior. Los cables de Red Interior parten del RTR hasta las dos bases (situadas en el salón y en el dormitorio principal).
+
+## Red de fibra óptica
+
+### Pregunta 1
+
+Tenemos un edificio de un solo portal con 6 plantas, 4 viviendas por planta, y una planta baja con 3 locales comerciales y un espacio común. Las viviendas son idénticas con 5 estancias cada una.
+
+![[Cuestiones_UTP.png]]
+
+Suponiendo el mismo edificio de las cuestiones anteriores, vamos a responder a las siguientes preguntas relacionadas con la red de fibra óptica.
+
+**¿Cómo se puede diseñar la topología de la red de distribución/dispersión?**
+- Opción 1: Estrella
+- Opción 2: Árbol-rama
+- Opción 3: Indistintamente Estrella o árbol-rama
+
+**Respuesta**: Árbol-rama.
+**Justificación**: Por ser el número de PAU superior a 15 (28 recuerda que habíamos calculado) será necesario realizar la Red de distribución en árbol-rama. El árbol de distribución partirá del Punto de Interconexión situado en el Registro Principal, ubicado en el RITI, discurrirán por las respectivas canalizaciones principales, derivándose, en cada Registro Secundario de planta, los cables de fibra óptica necesarios para atender a las necesidades de la misma. Desde el Registro Secundario de planta se tenderán los cables de fibra óptica de la red de dispersión, hasta los PAU de cada vivienda o local.
+
+### Pregunta 2
+
+**Calcula el número de acometidas totales de la red.**
+
+**Respuesta**: 36.
+**Justificación**: Se pondrá de acuerdo al Reglamento:
+- 1 acometida por local.
+- 2 acometidas para estancias comunes de la edificación.
+- 1 acometida por vivienda.
+Recordatorio: 1 acometida = 1 cable de 2 fibras ópticas.
+
+|                                                |                 |                                |                  |                            |                                    |
+| ---------------------------------------------- | :-------------: | :----------------------------: | :--------------: | :------------------------: | :--------------------------------: |
+|                                                | N° de Viviendas | N° de acometidas por Viv/local | Demanda Prevista | Factor de Ocupación de Red | Total Pares de Red de Distribución |
+| Vivienda                                       |       6x4       |               1                |        24        |            1,2             |                 29                 |
+| Locales (con distribución conocida)            |        3        |               1                |        3         |            1,2             |                 4                  |
+| Estancias o instalaciones comunes del Edificio |        1        |               2                |        2         |            1,2             |                 3                  |
+| Total                                          |                 |                                |                  |                            |                 36                 |
+
+### Pregunta 3
+
+**Dimensiona el/los cables de fibras ópticas que se utiliza para la red de distribución.**
+
+**Respuesta**: 1 cable/s multifibra: 48 acometidas con un total de 96 fibras ópticas.
+**Justificación**: Obtenido el valor del número de acometidas se utiliza el cable normalizado de capacidad igual o superior a dicho valor (48) (o bien un cable multifibra de 24 acometidas y otro de 16 acometidas). Cada acometida tiene 2 cables de fibra óptica.
+
+### Pregunta 4
+
+**¿Qué distribución propones de la red?**
+
+Hay que suministrar 48 acometidas de fibra óptica. Se propone la siguiente distribución:
+
+|            |           |            |
+| :--------: | :-------: | :--------: |
+| **Planta** | Necesidad | Asignación |
+|   **6ª**   |     4     |     7      |
+|   **5ª**   |     4     |     7      |
+|   **4ª**   |     4     |     7      |
+|   **3ª**   |     4     |     7      |
+|   **2ª**   |     4     |     6      |
+|   **1ª**   |     4     |     6      |
+|  **Baja**  |     5     |     8      |
+| **TOTAL**  |  **29**   |   **48**   |
+
+### Pregunta 5
+
+**Calcula la atenuación de la red de distribución/dispersión.**
+
+Como valores típicos tenemos:
+
+|                    |                     |
+| :----------------: | :-----------------: |
+|      Elemento      |     Atenuación      |
+|  Conector SC/APC   |    0,2 - 0,3 dB     |
+|   Cable de F.O.    | 0,40 dB/km @1310 nm |
+| Empalme por fusión |   0,03 - 0,05 dB    |
+|  Empalme mecánico  |    0,06 - 0,2 dB    |
+
+La atenuación máxima se corresponde a la acometida de red de distribución/dispersión desde el punto de interconexión hasta el PAU más alejado (vivienda 6ºD); cuya longitud es de 40 metros.
+
+Suponemos un empalme mecánico:
+
+Atenuación= 0,3 dB (Conector SC/APC) +  0,04 km · 0,40 dB/km (Cable F.O.) + 0,2 dB (Empalme mecánico) = 0,3 dB + 0,016 dB + 0,2 dB = 0,516 dB < 1,5 dB.
+
+La red prevista cumple la atenuación requerida.
+
+### Pregunta 6
+
+**Dimensiona:**
+#### El punto de interconexión en el RITI
+
+En este caso la red de distribución está formada por un cable con 48 acometidas, que requieren 2 paneles de 24 conectores dobles SC/APC.
+
+Además es necesario dejar espacio para operadores equivalente a 4 paneles de 24 conectores dobles.
+#### La red dispersión
+
+En este caso es necesario tender una acometida óptica desde la Caja de segregación situada en el Registro Secundario hasta el PAU de cada vivienda, local o estancia común.
+
+Se trataría de un cable de acometida de 2 fibras.
+
+Serán, por tanto necesarios 4 cables de acometida por planta, es decir un total de 6 x 4 =24 cables de acometida de 2 fibras para configurar la red de dispersión de las plantas, 3 para los locales y 2 para la estancia común.
+
+### Pregunta 7
+
+**¿La red interior de usuario se instalará de?**
+- Opción 1: Cable de pares trenzados
+- Opción 2: Cable de fibra óptica
+- Opción 3: Cable coaxial
+
+**Respuesta**: Cable de pares trenzados.
+**Justificación**: La red de interior de usuario será de pares trenzados, salvo en la estancia principal (salón) que se instalará una acometida de fibra óptica.
