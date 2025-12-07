@@ -16,7 +16,44 @@ Estas especificaciones técnicas establecen los requisitos mínimos que, desde u
 
 ## Elementos de la ICT para la captación, adaptación y distribución de señales de radiodifusión sonora y TV
 
-sss
+
+La ICT para la captación, adaptación y distribución de señales de radiodifusión sonora y de televisión procedentes de emisiones terrestres y de satélite, estará formada por los siguientes elementos:
+
+### Captación de señales
+
+Son elementos encargados de recibir y captar las señales de radiodifusión sonora y televisión procedentes de emisiones terrestres y de satélite: antenas, mástiles,…
+
+### Equipamiento de cabecera
+
+Es el conjunto de dispositivos encargados de recibir las señales provenientes de los diferentes conjuntos captadores de señales de radiodifusión sonora y televisión y adecuarlas para su distribución al usuario en las condiciones de calidad y cantidad deseadas; se encargará de entregar el conjunto de señales a la red de distribución.
+
+### Red
+
+Es el conjunto de elementos necesarios para asegurar la distribución de las señales desde el equipo de cabecera hasta las tomas de usuario.
+
+Esta red se estructura en tres tramos determinados, red de distribución, red de dispersión y red interior, con dos puntos de referencia llamados punto de acceso al usuario y toma de usuario.
+
+#### Red de distribución
+
+Es la parte de la red que enlaza el equipo de cabecera con la red de dispersión. Finaliza en derivadores que permiten la segregación de las señales a la red de dispersión.
+
+Tiene como función principal llevar a cada planta de la edificación las señales necesarias para alimentar la red de dispersión. La infraestructura que la soporta está compuesta por la canalización principal, que une los recintos de instalaciones de telecomunicación inferior y superior y por los registros principales.
+
+#### Red de dispersión
+
+Es la parte de la red que enlaza la red de distribución con la red interior de usuario. Comienza en los derivadores que proporcionan la señal procedente de la red de distribución, y finaliza en los puntos de acceso al usuario.
+
+Se encarga, dentro de cada planta de la edificación, de llevar las señales de los diferentes servicios de telecomunicación hasta los PAU de cada usuario.
+
+La infraestructura que la soporta está formada por la canalización secundaria y los registros secundarios.
+
+#### Red interior de usuario
+
+Es la parte de la red que tiene como función principal distribuir las señales de los diferentes servicios de telecomunicación en el interior de cada vivienda, oficina, local o estancia común de la edificación, desde los PAU hasta las diferentes bases de acceso de terminal (BAT) de cada usuario. La infraestructura que la soporta está formada por la canalización interior de usuario y los registros de terminación de red y de toma.
+
+El  Punto de acceso al usuario (PAU) es el elemento en el que comienza la red interior del domicilio del usuario. Se ubicará en el interior del domicilio del usuario y permitirá a éste la selección del cable de la red de dispersión que desee.
+
+La toma de usuario (base de acceso de terminal o BAT) es el dispositivo que permite la conexión a la red de los equipos de usuario para acceder a los diferentes servicios que esta proporciona.
 
 ## Elementos de la ICT para el acceso a los servicios de telecomunicaciones de telefonía disponible al público y de banda ancha
 
