@@ -155,3 +155,36 @@ Los elementos de obra civil que soportan las ICT son:
 
 A continuación indicamos los diversos elementos que componen la ICT:
 
+### Arqueta de entrada
+
+Es el recinto que permite establecer la unión entre las redes de alimentación de los servicios de telecomunicación de los distintos operadores y la infraestructura común de telecomunicación de la edificación.
+
+Se encuentra en la parte inferior exterior de la edificación y a ella confluyen, por un lado, las canalizaciones de los distintos operadores y, por otro, la canalización externa de la ICT de la edificación.
+
+Su construcción corresponde a la propiedad de la edificación y, salvo que cuente con la autorización de la propiedad, sólo podrá ser utilizada para dar servicio a la edificación de la que forma parte.
+
+![[Arqueta de entrada.png]]
+
+### Canalización externa
+
+Está constituida por los tubos que discurren por la zona exterior de la edificación desde la arqueta de entrada hasta el punto de entrada general de la edificación. Es la encargada de introducir en la edificación las redes de alimentación de los servicios de telecomunicación de los diferentes operadores.
+
+Su construcción corresponde a la propiedad de la edificación.
+
+### Punto de entrada general
+
+Es el lugar por donde la canalización externa que proviene de la arqueta de entrada accede a la zona común de la edificación.
+
+### Canalización de enlace
+
+Para el caso de edificaciones de viviendas, podemos distinguir dos canalizaciones de enlace teniendo en cuenta el lugar por el que se acceda a la edificación:
+- Entrada a la edificación por la parte inferior: es la que soporta los cables de la red de alimentación desde el punto de entrada general hasta el registro principal ubicado en el recinto de instalaciones de telecomunicación inferior (RITI).
+- Entrada a la edificación por la parte superior: es la que soporta los cables que van desde los sistemas de captación hasta el recinto de instalaciones de telecomunicación superior (RITS), entrando en la edificación mediante el correspondiente elemento pasamuros.
+
+Para el caso de conjuntos de viviendas unifamiliares, la canalización exterior es la que soporta los cables de la red de alimentación de los diferentes servicios de telecomunicación desde el punto de entrada general hasta los registros principales, y desde los sistemas de captación hasta el elemento pasamuros, habitualmente situados en el recinto de instalaciones de telecomunicación único (RITU).
+
+Estará constituida por los sistemas de conducción de cables de entrada y los elementos de registro intermedios (registros de enlace) que sean precisos para poder facilitar el tendido de los cables de alimentación.
+
+Su construcción y mantenimiento corresponden a la propiedad de la edificación.
+
+
