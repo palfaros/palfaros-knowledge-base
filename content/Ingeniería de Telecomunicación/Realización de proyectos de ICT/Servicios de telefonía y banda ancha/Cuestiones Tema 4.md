@@ -468,7 +468,7 @@ Suponiendo el mismo edificio de las cuestiones anteriores, vamos a responder a l
 - Opción 3: Indistintamente Estrella o árbol-rama
 
 **Respuesta**: Árbol-rama.
-**Justificación**: Por ser el número de PAU superior a 15 (28 recuerda que habíamos calculado) será necesario realizar la Red de distribución en árbol-rama. El árbol de distribución partirá del Punto de Interconexión situado en el Registro Principal, ubicado en el RITI, discurrirán por las respectivas canalizaciones principales, derivándose, en cada Registro Secundario de planta, los cables de fibra óptica necesarios para atender a las necesidades de la misma. Desde el Registro Secundario de planta se tenderán los cables de fibra óptica de la red de dispersión, hasta los PAU de cada vivienda o local.
+**Justificación**: Por ser el número de PAU superior a 20 (28 recuerda que habíamos calculado) será necesario realizar la Red de distribución en árbol-rama. El árbol de distribución partirá del Punto de Interconexión situado en el Registro Principal, ubicado en el RITI, discurrirán por las respectivas canalizaciones principales, derivándose, en cada Registro Secundario de planta, los cables de fibra óptica necesarios para atender a las necesidades de la misma. Desde el Registro Secundario de planta se tenderán los cables de fibra óptica de la red de dispersión, hasta los PAU de cada vivienda o local.
 
 ### Pregunta 2
 
