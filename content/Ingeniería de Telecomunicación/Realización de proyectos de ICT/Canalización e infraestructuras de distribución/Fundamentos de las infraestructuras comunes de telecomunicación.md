@@ -226,3 +226,32 @@ Para edificios o conjuntos inmobiliarios de más de tres alturas y planta baja y
  Para los casos de edificaciones de pisos de hasta cuarenta y cinco PAU[^1] y de conjuntos de viviendas unifamiliares de hasta veinte PAU, los recintos superior, inferior y único podrán ser realizados mediante armarios ignífugos de tipo modular.
 
 [^1]: Aún cuando a cada servicio le corresponde un punto de acceso al usuario, en los apartados en los que se incluye una referencia a esta nota, se entenderá un único punto de acceso al usuario por cada vivienda, oficina, local comercial o estancia común de la edificación.
+
+### Canalización principal
+
+Es la que soporta la red de distribución de la ICT de la edificación, conectando el RITI y el RITS entre sí y éstos con los registros secundarios.
+
+En ella se intercalan los registros secundarios, que conectan la canalización principal y las secundarias. También se utilizan para seccionar o cambiar de dirección la canalización principal.
+
+En el caso de acceso inalámbrico de servicios distintos de los de radiodifusión sonora y televisión, la canalización principal tiene como misión añadida la de hacer posible el traslado de las señales desde el RITS hasta el RITI.
+
+### Canalización secundaria
+
+Es la que soporta la red de dispersión de la edificación. Une los registros secundarios con los registros de terminación de red.
+
+En ella se intercalan los registros de paso, que son los elementos que facilitan el tendido de los cables entre los registros secundarios y de terminación de red.
+
+Los registros de terminación de red son los elementos que conectan las canalizaciones secundarias con las canalizaciones interiores de usuario. En estos registros se alojan los correspondientes puntos de acceso a los usuarios. Estos registros se ubicarán siempre en el interior de la vivienda, oficina, o estancia común de la edificación.
+
+### Canalización interior de usuario
+
+Es la que soporta la red interior de usuario, conectando los registros de terminación de red y los registros de toma.
+
+En ella se intercalan los registros de paso que son los elementos que facilitan el tendido de los cables de la red interior de usuario.
+
+Los registros de toma son los elementos que alojan las bases de acceso terminal (BAT), o tomas de usuario, que permiten al usuario efectuar la conexión de los equipos terminales de telecomunicación o los módulos de abonado con la ICT, para acceder a los servicios proporcionados por ella.
+
+La siguiente imagen muestra un resumen de las canalizaciones e infraestructuras de distribución que existen en una ICT.
+
+
+![[Esquema_general_canalizaciones_ICT.png]]
