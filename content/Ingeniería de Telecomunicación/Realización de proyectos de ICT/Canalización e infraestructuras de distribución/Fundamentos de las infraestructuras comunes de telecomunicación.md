@@ -146,3 +146,12 @@ El diseño, dimensionado e instalación de las bases de acceso de terminal será
 En el caso de viviendas unifamiliares son igualmente válidos los conceptos definidos.
 
 ## Canalizaciones e infraestructuras de obra civil
+
+Con objeto de conseguir una integración total de las diferentes redes de telecomunicación en los inmuebles y viviendas unifamiliares, se deberán incluir dentro de un proyecto específico e independiente del arquitectónico, los elementos específicos de obra civil que las soportan, como cualquier otra infraestructura común del edificio (agua, gas electricidad,…) dentro del proyecto arquitectónico.
+
+Los elementos de obra civil que soportan las ICT son:
+- **Canalizaciones**: mediante tubos (la más habitual), galerías o canaletas.
+- **Recintos**: ya sean recintos o arquetas.
+
+A continuación indicamos los diversos elementos que componen la ICT:
+
