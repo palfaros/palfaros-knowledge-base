@@ -203,12 +203,26 @@ Los Recintos de Instalaciones de Telecomunicaciones pueden ser:
 
 #### Recinto inferior (RITI)
 
+Es el local o habitáculo donde se instalarán los registros principales correspondientes a los distintos operadores de los servicios de telefonía disponible al público y de telecomunicaciones de banda ancha, y los posibles elementos necesarios para el suministro de estos servicios.
+
+Asimismo, de este recinto arranca la canalización principal de la ICT de la edificación.
+
+Los registros principales para los servicios de telefonía disponible al público y de banda ancha son las envolventes que contienen los puntos de interconexión entre las redes de alimentación de los diferentes operadores y la de distribución de la edificación.
 
 #### Recinto superior (RITS)
 
+ Es el local o habitáculo donde se instalarán los elementos necesarios para el suministro de los servicios de RTV y, en su caso, elementos de los servicios de acceso inalámbrico (SAI).
+
+En él se alojarán los elementos necesarios para adecuar las señales procedentes de los sistemas de captación de emisiones radioeléctricas de RTV, para su distribución por la ICT de la edificación o, en el caso de servicios de acceso inalámbrico, los elementos necesarios para trasladar las señales recibidas hasta el RITI.
 
 #### Recinto único (RITU)
 
+Para el caso de edificios o conjuntos inmobiliarios de hasta tres alturas y planta baja y un máximo de 16 PAU  y para conjuntos de viviendas unifamiliares, se establece la posibilidad de construir un único recinto de instalaciones de telecomunicación (RITU), que acumule la funcionalidad de los dos descritos anteriormente.
+
+Para edificios o conjuntos inmobiliarios de más de tres alturas y planta baja y un máximo de 16 PAU, y para aquéllos que dispongan entre 17 y 30 PAU, sin limitación en el n.º de alturas, se establece la posibilidad de construir un único recinto de instalaciones de telecomunicación ampliado (RITU-A).
 
 #### Recinto modular (RITM)
 
+ Para los casos de edificaciones de pisos de hasta cuarenta y cinco PAU[^1] y de conjuntos de viviendas unifamiliares de hasta veinte PAU, los recintos superior, inferior y único podrán ser realizados mediante armarios ignífugos de tipo modular.
+
+[^1]: Aún cuando a cada servicio le corresponde un punto de acceso al usuario, en los apartados en los que se incluye una referencia a esta nota, se entenderá un único punto de acceso al usuario por cada vivienda, oficina, local comercial o estancia común de la edificación.
