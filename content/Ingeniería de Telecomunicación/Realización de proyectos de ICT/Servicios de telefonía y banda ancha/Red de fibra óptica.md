@@ -79,7 +79,7 @@ Cada acometida óptica estará constituida por dos fibras ópticas.
 1. Viviendas: Se considerará **1 acometida óptica por cada vivienda**.
 2. En el caso de locales u oficinas en edificaciones de viviendas:
 	1. Cuando esté definida la distribución en planta de los locales u oficinas, se considerará **1 acometida óptica por cada local u oficina**.
-	2. Cuando no esté definida la distribución en planta de los locales u oficinas, en el registro secundario de la planta (o en el RITI en el caso de edificaciones con un número de PAU inferior a 15) se dejará disponible **1 acceso o acometida óptica por cada 100 m<sup>2</sup> o fracción**.
+	2. Cuando no esté definida la distribución en planta de los locales u oficinas, en el registro secundario de la planta (o en el RITI en el caso de edificaciones con un número de PAU inferior a 20) se dejará disponible **1 acceso o acometida óptica por cada 100 m<sup>2</sup> o fracción**.
 3.  En el caso de locales u oficinas en edificaciones destinadas fundamentalmente a este fin:
 	1. Cuando esté definida la distribución en planta de los locales u oficinas, se considerarán **2 acometidas ópticas por cada local u oficina.**
 	2. Cuando no esté definida la distribución en planta de los locales u oficinas, se considerarán **2 acometidas ópticas por cada 100 m<sup>2</sup> o fracción**.
@@ -126,7 +126,7 @@ En el caso de viviendas unifamiliares, se utilizará un RITU, donde se ubicarán
 
 Los puntos de distribución podrán ubicarse en la medianería de dos viviendas, de manera alterna, de tal forma que, desde cada punto, se pueda prestar servicio a ambas.
 
-Cuando el número de PAU a los que da servicio la red de distribución/dispersión sea inferior o igual a 15, la red de distribución/dispersión podrá realizarse con cables de acometida de dos fibras ópticas directamente desde el punto de distribución ubicado en el recinto de instalaciones de telecomunicaciones. De él saldrán, en su caso, los cables de acometida (interior o exterior) hasta el PAU de cada vivienda.
+Cuando el número de PAU a los que da servicio la red de distribución/dispersión sea inferior o igual a 20, la red de distribución/dispersión podrá realizarse con cables de acometida de dos fibras ópticas directamente desde el punto de distribución ubicado en el recinto de instalaciones de telecomunicaciones. De él saldrán, en su caso, los cables de acometida (interior o exterior) hasta el PAU de cada vivienda.
 
 ### Cálculo de atenuaciones
 
