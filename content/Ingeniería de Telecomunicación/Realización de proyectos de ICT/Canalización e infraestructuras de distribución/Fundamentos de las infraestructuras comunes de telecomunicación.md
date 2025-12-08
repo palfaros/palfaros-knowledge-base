@@ -163,7 +163,7 @@ Se encuentra en la parte inferior exterior de la edificación y a ella confluyen
 
 Su construcción corresponde a la propiedad de la edificación y, salvo que cuente con la autorización de la propiedad, sólo podrá ser utilizada para dar servicio a la edificación de la que forma parte.
 
-![[Arqueta de entrada.png]]
+![[Arqueta_de_entrada.png]]
 
 ### Canalización externa
 
