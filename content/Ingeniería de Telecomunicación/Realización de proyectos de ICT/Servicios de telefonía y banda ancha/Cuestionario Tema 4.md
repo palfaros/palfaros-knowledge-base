@@ -93,11 +93,11 @@ Seleccione una:
 - Ninguna de las anteriores es correcta.
 ### Respuesta
 
-La topología de la red será siempre árbol-rama.
+La topología de la red será siempre en estrella.
 
 ### Justificación
 
-La topología de la red, al tratarse de una red de fibra óptica será en estrella cuando el número de PAUs sea inferior a 15 y en árbol-rama cuando el número de PAU sea superior a 15. En este caso el número de **PAU** es: PAU = 2 (locales) + 2 (espacio común) + 7 x 2 (viviendas) = **18**. Por lo que la red de distribución es en árbol-rama.
+La topología de la red, al tratarse de una red de fibra óptica será en estrella cuando el número de PAUs sea inferior a 20 y en árbol-rama cuando el número de PAU sea superior a 20. En este caso el número de **PAU** es: PAU = 2 (locales) + 2 (espacio común) + 7 x 2 (viviendas) = **18**. Por lo que la red de distribución es en estrella.
 
 ## Cuestión 5
 
