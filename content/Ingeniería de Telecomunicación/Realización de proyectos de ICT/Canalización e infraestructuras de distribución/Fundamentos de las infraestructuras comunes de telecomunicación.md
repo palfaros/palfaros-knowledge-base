@@ -187,4 +187,28 @@ Estará constituida por los sistemas de conducción de cables de entrada y los e
 
 Su construcción y mantenimiento corresponden a la propiedad de la edificación.
 
+### Recintos de instalaciones de telecomunicaciones
+
+Se trata de cuartos de telecomunicaciones donde los diversos operadores albergarán sus sistemas y equipos, así como los elementos necesarios para el suministro de sus servicios.
+
+Los recintos de instalaciones de telecomunicación estarán situados en zonas comunes de la edificación, y su titularidad, construcción y mantenimiento corresponde a la edificación.
+
+Los Recintos de Instalaciones de Telecomunicaciones pueden ser:
+- En función de las características del edificio:
+	- Un Recinto Único (o recinto único ampliado): RITU (o RITU-A).
+	- Dos recintos, RITI y RITS, separados.
+- En función de su aspecto constructivo:
+	- De obra.
+	- Modulares.
+
+#### Recinto inferior (RITI)
+
+
+#### Recinto superior (RITS)
+
+
+#### Recinto único (RITU)
+
+
+#### Recinto modular (RITM)
 
