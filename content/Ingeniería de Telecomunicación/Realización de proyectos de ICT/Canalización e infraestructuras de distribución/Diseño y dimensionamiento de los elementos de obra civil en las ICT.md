@@ -216,3 +216,41 @@ Si se precisara alimentar eléctricamente cualquier otro dispositivo situado en 
 
 Los citados cuadros de protección se situarán lo más próximo posible a la puerta de entrada, tendrán tapa y podrán ir instalados de forma empotrada o superficial. Podrán ser de material plástico no propagador de la llama o metálico. Deberán tener un grado de protección mínimo IP 4X + IK 05. Dispondrán de bornas para la conexión del cable de puesta a tierra.
 - En cada recinto habrá, como mínimo, dos bases de enchufe con toma de tierra y de capacidad mínima de 16 A. Se dotará con cables de cobre con aislamiento de 450/750 V y de 2 x 2,5 + T mm<sup>2</sup> de sección. En el recinto superior se dispondrá, además, las bases de toma de corriente necesarias para alimentar las cabeceras de RTV.
+
+### Alumbrado
+
+Se habilitarán los medios para que en los RIT exista un nivel medio de iluminación de 300 lux, así como un aparato de alumbrado de emergencia que, en cualquier caso, cumplirá las prescripciones del vigente Reglamento de Baja Tensión.
+
+### Identificación de la instalación
+
+En todos los recintos de instalaciones de telecomunicación existirá una placa de dimensiones mínimas de 200 x 200 mm (ancho x alto), resistente al fuego y situada en lugar visible entre 1.200 y 1.800 mm de altura, donde aparezca el número de registro asignado por la Jefatura Provincial de Inspección de Telecomunicaciones al proyecto técnico de la instalación.
+
+## Registros principales
+
+Para diseñar el equipamiento del RITI hay que considerar que pueden existir los accesos por tres medios:
+- Cable de pares
+- Cable coaxial
+- Cable de fibra óptica
+
+Y por tanto hay que establecer la previsión de espacio en el RIT para los Registros Principales de los tres tipos de acceso posibles.
+
+![[Registro_principal.png]]
+
+### Registro principal para cables de pares trenzados
+
+El registro principal de cables de pares trenzados contará con el espacio suficiente para albergar los pares de las redes de alimentación y los paneles de conexión de salida; en el cálculo del espacio necesario se tendrá en cuenta que el número total de pares (para todos los operadores del servicio) de los paneles o regletas de entrada será como mínimo una y media veces el número de conectores de los paneles de salida, salvo en el caso de edificaciones o conjuntos inmobiliarios con un número de PAU igual o menor que 10, en los que será, como mínimo, dos veces el número de conectores de los paneles o regletas de salida.
+
+### Registro principal para cables de pares
+
+El registro principal para cables de pares debe tener las dimensiones suficientes para alojar las regletas del punto de interconexión, así como las guías y soportes necesarios para el encaminamiento de cables y puentes, teniendo en cuenta que el número de pares de las regletas de salida será igual a la suma total de los pares de la red de distribución y que el de las regletas de entrada será 1,5 veces el de salida, salvo en el caso de edificios o conjuntos inmobiliarios con un número de PAU igual o menor que 10, en los que será, como mínimo, dos veces el número de pares de las regletas de salida.
+
+### Registro principal para cables coaxiales de los servicios de TBA
+
+El registro principal de cables coaxiales contará con el espacio suficiente para permitir la instalación de elementos de reparto (derivadores o distribuidores) con tantas salidas como conectores de salida se instalen en el punto de interconexión y, en su caso, de los elementos amplificadores necesarios.
+
+### Registro principal para cables de fibra óptica
+
+El registro principal de cables de fibra óptica contará con el espacio suficiente para alojar el repartidor de conectores de entrada, que hará las veces de panel de conexión y el panel de conectores de salida. El espacio interior previsto para el registro principal óptico deberá ser suficiente para permitir la instalación de una cantidad de conectores de entrada que sea dos veces la cantidad de conectores de salida que se instalen en el punto de interconexión. A su vez, se deberá disponer de espacio suficiente para permitir la instalación de elementos de almacenamiento de la longitud sobrante de los latiguillos de interconexión.
+
+
+
