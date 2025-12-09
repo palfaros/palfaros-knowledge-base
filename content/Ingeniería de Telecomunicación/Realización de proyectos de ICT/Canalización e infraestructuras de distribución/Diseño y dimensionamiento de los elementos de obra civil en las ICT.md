@@ -189,3 +189,30 @@ Se debe evitar, en la medida de lo posible, que los recintos se encuentren en la
 
 El recinto dispondrá de ventilación natural directa, ventilación natural forzada por medio de conducto vertical y aspirador estático, o de ventilación mecánica que permita una renovación total del aire del local al menos dos veces por hora.
 
+### Reglamento Electrotécnico
+
+Las instalaciones eléctricas de los recintos deberán cumplir lo dispuesto en el Reglamento Electrotécnico para Baja Tensión, aprobado por el Real Decreto 842/2002, de 2 de agosto (REBT).
+
+Hay que prever el siguiente equipamiento eléctrico dentro de la propia infraestructura eléctrica del edificio:
+- En el lugar de centralización de **contadores**, deberá preverse espacio suficiente para la colocación de, al menos, dos contadores de energía eléctrica para su utilización por posibles compañías operadoras de servicios de telecomunicación. Asimismo y con la misma finalidad, desde el lugar de centralización de contadores se instalarán al menos dos canalizaciones hasta el RITI, o hasta el RITU en los casos en que proceda, y una hasta el RITS, todas ellas de 32 mm de diámetro exterior mínimo.
+- Desde el Cuadro de Servicios Generales de la edificación se alimentarán también los servicios de telecomunicación, para lo cual estará dotado con al menos los siguientes elementos:
+	- Cajas para los posibles interruptores de control de potencia (I.C.P.).
+	- Interruptor general automático de corte omnipolar: tensión nominal 230/400 V<sub>ca</sub>, intensidad nominal mínima 25 A, poder de corte 4.500 A.
+	- Interruptor diferencial de corte omnipolar: tensión nominal 230/400 V<sub>ca</sub>, intensidad nominal mínima 25 A, intensidad de defecto 300 mA de tipo selectivo o retardado.
+	- Dispositivo de protección contra sobretensiones transitorias.
+	- Tantos elementos de seccionamiento como se considere necesario.
+- Canalización eléctrica de servicio: Se habilitará una canalización eléctrica directa desde el Cuadro de Servicios Generales de la edificación hasta cada recinto, constituida por cables de cobre con aislamiento de 450/750 V y de 2 x 6 + T mm<sup>2</sup> de sección mínimas; irá en el interior de un tubo de 32 mm de diámetro exterior mínimo o canal de sección equivalente, de forma empotrada o superficial.
+
+La citada canalización finalizará en el correspondiente **cuadro de protección**, que tendrá las dimensiones suficientes para instalar en su interior las protecciones mínimas, y una previsión para su ampliación en un 50 por 100. Las protecciones mínimas serán:
+
+- Interruptor general automático de corte omnipolar: tensión nominal 230/400 V<sub>ca</sub>, intensidad nominal mínima 25 A, poder de corte suficiente para la intensidad de cortocircuito que pueda producirse en el punto de su instalación, de 4.500 A como mínimo.
+- Interruptor diferencial de corte omnipolar: tensión nominal 230/400 V<sub>ca</sub>, intensidad nominal mínima 25 A, intensidad de defecto 30 mA.
+- Interruptor magnetotérmico de corte omnipolar para la protección del alumbrado del recinto: tensión nominal 230/400 V<sub>ca</sub>, intensidad nominal 10 A, poder de corte mínimo 4.500 A.
+- Interruptor magnetotérmico de corte omnipolar para la protección de las bases de toma de corriente del recinto: tensión nominal 230/400 V<sub>ca</sub>, intensidad nominal 16 A, poder de corte mínimo 4.500 A.
+
+En el recinto superior, además, se dispondrá de un interruptor magnetotérmico de corte omnipolar para la protección de los equipos de cabecera de la infraestructura de radiodifusión y televisión: tensión nominal 230/400 V<sub>ca</sub>, intensidad nominal 16 A, poder de corte mínimo 4.500 A.
+
+Si se precisara alimentar eléctricamente cualquier otro dispositivo situado en cualquiera de los recintos, se dotará el cuadro eléctrico correspondiente con las protecciones adecuadas.
+
+Los citados cuadros de protección se situarán lo más próximo posible a la puerta de entrada, tendrán tapa y podrán ir instalados de forma empotrada o superficial. Podrán ser de material plástico no propagador de la llama o metálico. Deberán tener un grado de protección mínimo IP 4X + IK 05. Dispondrán de bornas para la conexión del cable de puesta a tierra.
+- En cada recinto habrá, como mínimo, dos bases de enchufe con toma de tierra y de capacidad mínima de 16 A. Se dotará con cables de cobre con aislamiento de 450/750 V y de 2 x 2,5 + T mm<sup>2</sup> de sección. En el recinto superior se dispondrá, además, las bases de toma de corriente necesarias para alimentar las cabeceras de RTV.
