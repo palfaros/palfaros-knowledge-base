@@ -25,18 +25,49 @@ Une cada definición con el enunciado adecuado:
 
 ### Pregunta 1
 
-El diámetro exterior de los tubos de la canalización externa será siempre de 63mm.
+**El diámetro exterior de los tubos de la canalización externa será siempre de 63mm.**
 
 **Respuesta**: Verdadero
 
 ### Pregunta 2
 
-El diámetro exterior de los tubos de la canalización de enlace inferior será siempre de 63mm.
+**El diámetro exterior de los tubos de la canalización de enlace inferior será siempre de 63mm.**
 
 **Respuesta**: Falso
 
 ### Pregunta 3
 
-El diámetro exterior de los tubos de la canalización de enlace superior será de 40mm.
+**El diámetro exterior de los tubos de la canalización de enlace superior será de 40mm.**
 
 **Respuesta**: Verdadero
+
+### Pregunta 4
+
+**Un edificio consta de una planta baja con 3 locales comerciales y 5 plantas con 2 viviendas por planta y 5 estancias por vivienda.**
+
+**Responde a las siguientes preguntas:**
+
+#### Arqueta de entrada
+
+**Indica las dimensiones mínimas en milímetros de la arqueta de entrada:**
+
+**Respuesta**: Como el número de PAUs es 3 (Locales) + 5·2 (Viviendas) = 13, es decir, inferior a 20 PAUs, las dimensiones mínimas de la arqueta de entrada son **400 mm (Longitud) x 400 mm (Anchura) x 600 mm (Profundidad)**.
+
+#### RITU/RITI
+
+**¿Se puede instalar un RITU?**
+
+**Respuesta**: No.
+**Justificación**: Por ser superior a 10 PAUs no se puede instalar un RITU.
+
+#### RITI
+
+**¿El RITI puede ser un armario modular?**
+
+**Respuesta**: Sí.
+**Justificación**: Por ser inferior a 45 PAUs puede ser modular.
+
+**Dimensiones mínimas, en milímetros, del RITI:**
+
+**Respuesta**: Como el número de PAUs es 3 (Locales) + 5·2 (Viviendas) = 13, es decir, inferior a 20 PAUs, las dimensiones mínimas de la arqueta de entrada son **2000 mm (Longitud) x 1000 mm (Anchura) x 500 mm (Profundidad)**.
+
