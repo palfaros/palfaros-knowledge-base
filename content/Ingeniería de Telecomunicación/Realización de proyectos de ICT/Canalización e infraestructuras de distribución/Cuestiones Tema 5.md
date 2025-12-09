@@ -20,3 +20,23 @@ Une cada definición con el enunciado adecuado:
 - **Canalización externa**. Canalización desde la arqueta de entrada hasta el punto de entrada general de la edificación.
 - **Canalización secundaria**. Une los registros secundarios con los registros de terminación de red.
 - **Canalización principal**. Conecta el RITI y el RITS entre sí, y estos con los registros secundarios.
+
+## Diseño y dimensionamiento de los elementos de obra civil en las ICT
+
+### Pregunta 1
+
+El diámetro exterior de los tubos de la canalización externa será siempre de 63mm.
+
+**Respuesta**: Verdadero
+
+### Pregunta 2
+
+El diámetro exterior de los tubos de la canalización de enlace inferior será siempre de 63mm.
+
+**Respuesta**: Falso
+
+### Pregunta 3
+
+El diámetro exterior de los tubos de la canalización de enlace superior será de 40mm.
+
+**Respuesta**: Verdadero
