@@ -132,3 +132,38 @@ En el **RITI** se instalarán:
 En el **RITS** se instalarán:
 - Los equipos de cabecera de TV.
 - Espacio reservado para equipo de cabecera de TV satélite.
+
+### Dimensionares
+
+Los recintos de instalaciones de telecomunicación (RITI, RITS) tendrán las dimensiones mínimas siguientes, y deberán ser accesibles toda su anchura:
+
+|            |             |              |                  |
+| :--------: | :---------: | :----------: | :--------------: |
+| Nº de PAU  | Altura (mm) | Anchura (mm) | Profundidad (mm) |
+|  Hasta 20  |    2000     |     1000     |       500        |
+| De 21 a 45 |    2000     |     1500     |       500        |
+| De 46 a 74 |    2000     |     2000     |       500        |
+| Más de 74  |    2300     |     2000     |       2000       |
+
+En el caso de RITU las medidas mínimas, serán de:
+
+|                                       |             |              |                  |
+| :-----------------------------------: | :---------: | :----------: | :--------------: |
+|               Nº de PAU               | Altura (mm) | Anchura (mm) | Profundidad (mm) |
+| Hasta 5 (Edificios sin zonas comunes) |    1000     |     500      |       300        |
+| Hasta 5 (Edificios con zonas comunes) |    1000     |     1000     |       500        |
+|               De 6 a 16               |    2000     |     1000     |       500        |
+|              De 17 a 30               |    2000     |     1500     |       500        |
+|               Más de 30               |    2000     |     2000     |       1500       |
+
+En el caso de RITU-A las medidas mínimas, serán de:
+
+|                                                            |             |              |                  |
+| :--------------------------------------------------------: | :---------: | :----------: | :--------------: |
+|                         Nº de PAU                          | Altura (mm) | Anchura (mm) | Profundidad (mm) |
+| Hasta 16 (Edificios con planta baja y más de tres alturas) |    2000     |     1000     |       500        |
+|         De 17 a 20 (Edificios de cualquier altura)         |    2000     |     1500     |       500        |
+|         De 21 a 30 (Edificios de cualquier altura)         |    2000     |     3000     |       500        |
+
+Las dimensiones de anchura y altura de los recintos podrán ser modificadas, a criterio del proyectista, siempre que la superficie accesible y la profundidad mínima se mantengan.
+
