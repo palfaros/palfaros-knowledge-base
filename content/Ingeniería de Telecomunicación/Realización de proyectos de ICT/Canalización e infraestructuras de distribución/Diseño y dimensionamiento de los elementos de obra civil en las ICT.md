@@ -111,3 +111,24 @@ En caso de tubos superficiales, sus fijaciones serán igual que en la canalizaci
 Cuando sean necesarios, también se colocarán registros de enlace en los mismos casos que la canalización inferior y sus dimensiones mínimas serán 360 x 360 x 120 mm (altura x anchura x profundidad).
 
 ![[Registro_enlace.png]]
+
+## Recintos de instalaciones de telecomunicación
+
+Los recintos de telecomunicaciones son la parte más importante de las infraestructuras de obra civil, porque satisfacen a una demanda de los operadores de disponer de un cuarto de telecomunicaciones en los edificios para la instalación de los equipos y sistemas necesarios de sus servicios.
+
+Los recintos dispondrán de espacios delimitados en planta para cada tipo de servicio de telecomunicación y estarán equipados con un sistema de bandejas, bandejas en escalera o canales para el tendido de los cables oportunos, disponiéndose en todo el perímetro interior a 300 mm del techo. Esto no será de aplicación a los recintos de tipo modular (RITM).
+
+Los recintos tendrán una puerta de acceso metálica de dimensiones mínimas 180 x 80 cm en el caso de recintos de acceso lateral, y 80 x 80 cm para recintos de acceso superior o inferior, con apertura hacia el exterior. Debido a que los recintos se sitúan en zonas comunes de la edificación, dicha puerta dispondrá de cerradura con llave común para los distintos usuarios autorizados.
+
+A los efectos especificados en el Documento Básico DB-SI (Seguridad en caso de incendio) del vigente Código Técnico de la Edificación, los recintos de telecomunicación, excepto los modulares, tendrán la misma consideración que los locales de contadores de electricidad y que los cuadros generales de distribución.
+
+![[Recinto_instalaciones_telecomunicación.png]]
+
+En el **RITI** se instalarán:
+- El registro principal para red de cable de pares/cable de pares trenzados.
+- El registro principal para red de cable coaxial.
+- El registro principal para red de cable fibra óptica.
+
+En el **RITS** se instalarán:
+- Los equipos de cabecera de TV.
+- Espacio reservado para equipo de cabecera de TV satélite.
