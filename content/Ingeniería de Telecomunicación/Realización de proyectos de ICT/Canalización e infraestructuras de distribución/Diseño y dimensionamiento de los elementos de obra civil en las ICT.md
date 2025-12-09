@@ -51,3 +51,63 @@ Se colocarán arquetas de paso, intercaladas en la canalización externa, con di
 El reglamento es flexible en cuanto a la realización de la canalización de enlace, permitiendo la instalación de cables con protección mecánica (tubos o canales), sin protección mecánica (bandejas portacables en montaje superficial, aéreo o en huecos de la construcción), o incluso fijar los cables a la pared o techo. En estos dos últimos casos es necesario garantizar la protección mecánica y la  inaccesibilidad a los cables de telecomunicación, disponiéndolos o bien de protección mecánica adicional o emplazándolos en alguna ubicación no sujeta a riesgos mecánicos.
 
 La utilización de canales facilita los cambios de dirección mientras que con los tubos es necesaria la utilización de registros de enlace.
+
+## Para la entrada inferior de la edificación
+
+### Uso de tubos
+
+En el caso de utilización de tubos, a diferencia de la canalización externa, cuyos tubos son de diámetro fijo, los de canalización de enlace pueden ser de distinto diámetro en función del calibre de los cables que lleguen a la edificación (oscilan entre 40-63 mm).
+
+El proyectista realizará la selección adecuada dependiendo de los cables que discurren por cada canalización, considerando una ocupación máxima de las mismas del 50%.
+
+Los tubos de reserva serán, como mínimo, iguales al de mayor diámetro que se haya seleccionado anteriormente.
+
+En los tramos de canalización superficial con tubos, éstos deberán fijarse mediante grapas, bridas, abrazaderas, perfiles o sujeciones separadas, como máximo, 1 metro.
+
+Cuando la canalización sea mediante tubos, se colocarán registros de enlace (armarios, arquetas o cajas de derivación) en los siguientes casos:
+- Cada 30 m de longitud en canalización empotrada o 50 m en canalización por superficie.
+- Cada 50 m de longitud en canalización subterránea para tramos totalmente rectos.
+- En el punto de intersección de dos tramos rectos no alineados.
+- Dentro de los 600 mm antes de la intersección en un solo tramo de los dos que se encuentren. En este último caso, la curva en la intersección tendrá un radio mínimo de 350 mm y no presentará deformaciones en la parte cóncava del tubo.
+
+Las dimensiones mínimas de estos registros de enlace serán 450 x 450 x 120 mm (altura x anchura x profundidad) para el caso de registros en pared. Para el caso de arquetas las dimensiones interiores mínimas serán 400 x 400 x 400 mm.
+
+### Uso de canales
+
+En el caso de canales se dispondrán cuatro espacios independientes, en una o varios canales; el proyectista realizará la selección adecuada dependiendo de los cables que discurren por cada canal, en función del número y diámetro de los cables que va a soportar cada canal, siendo la superficie útil necesaria mínima de 335 mm<sup>2</sup>.
+
+![[Canales.png]]
+
+La sección útil de cada espacio (S<sub>i</sub>) se determinará según la siguiente fórmula:
+
+$$
+S_i > C · S_j
+$$
+
+Siendo:
+- C = 2 para cables coaxiales, o C = 1,82 para el resto de cables.
+- S<sub>j</sub> = suma de las secciones de los cables que se instalen en ese espacio
+
+Para seleccionar la canal o canales a instalar, se tendrá en cuenta que la dimensión interior menor de cada espacio será 1,3 veces el diámetro del cable mayor a instalar en él.
+
+Cuando la canalización sea mediante canales, en los puntos de encuentro en tramos no alineados se colocarán accesorios de cambio de dirección con un radio mínimo de 350 mm.
+
+### Uso de bandejas
+
+En el caso de que se utilicen bandejas, para la determinación de sus espacios y dimensiones se seguirán los criterios indicados para el cálculo de canales.
+
+En los casos en que existan curvas en la canalización de enlace, éstas se harán mediante los accesorios adecuados garantizando el radio de curvatura necesario de los cables.
+
+![[Bandejas.png]]
+
+## Para la entrada superior de la edificación
+
+En esta canalización, los cables discurrirán entre los elementos de captación (antenas) y el punto de entrada a la edificación (pasamuros). Se realizará mediante:
+- 2 Tubos de 40 mm de diámetro (empotrados o superficiales), o bien
+- Canal y bandeja de 3.000 mm<sup>2</sup> con 2 compartimentos.
+
+En caso de tubos superficiales, sus fijaciones serán igual que en la canalización inferior, es decir, fijados mediante grapas, bridas, abrazaderas, perfiles o sujeciones separadas, como máximo, 1 metro.
+
+Cuando sean necesarios, también se colocarán registros de enlace en los mismos casos que la canalización inferior y sus dimensiones mínimas serán 360 x 360 x 120 mm (altura x anchura x profundidad).
+
+![[Registro_enlace.png]]
