@@ -133,7 +133,7 @@ En el **RITS** se instalarán:
 - Los equipos de cabecera de TV.
 - Espacio reservado para equipo de cabecera de TV satélite.
 
-### Dimensionares
+### Dimensiones
 
 Los recintos de instalaciones de telecomunicación (RITI, RITS) tendrán las dimensiones mínimas siguientes, y deberán ser accesibles toda su anchura:
 
@@ -166,4 +166,26 @@ En el caso de RITU-A las medidas mínimas, serán de:
 |         De 21 a 30 (Edificios de cualquier altura)         |    2000     |     3000     |       500        |
 
 Las dimensiones de anchura y altura de los recintos podrán ser modificadas, a criterio del proyectista, siempre que la superficie accesible y la profundidad mínima se mantengan.
+
+### Características constructivas
+
+Los recintos de instalaciones de telecomunicación, excepto los RITM, deberán tener las siguientes características constructivas mínimas:
+- Solado: pavimento rígido que disipe cargas electrostáticas.
+- Paredes y techo con capacidad portante suficiente.
+
+### Ubicación del recinto
+
+Los recintos estarán situados en zona comunitaria.
+
+El RITI (o el RITU, en los casos que proceda) estará a ser posible sobre la rasante; de estar a nivel inferior, se le dotará de sumidero con desagüe que impida la acumulación de aguas.
+
+El RITS estará preferentemente en la cubierta o azotea y nunca por debajo de la última planta de la edificación.
+
+En los casos en que pudiera haber un centro de transformación de energía próximo, caseta de maquinaria de ascensores o maquinaria de aire acondicionado, los recintos de instalaciones de telecomunicación se distanciarán de éstos un mínimo de 2 metros, o bien se les dotará de una protección contra campo electromagnético.
+
+Se debe evitar, en la medida de lo posible, que los recintos se encuentren en la proyección vertical de canalizaciones o desagües y, en todo caso, se debe garantizar su protección frente a la humedad.
+
+### Ventilación
+
+El recinto dispondrá de ventilación natural directa, ventilación natural forzada por medio de conducto vertical y aspirador estático, o de ventilación mecánica que permita una renovación total del aire del local al menos dos veces por hora.
 
