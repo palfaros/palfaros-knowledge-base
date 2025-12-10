@@ -270,7 +270,6 @@ En el caso de viviendas unifamiliares, la canalización deberá ser lo más rect
 
 Su dimensionamiento irá en función del número de viviendas, oficinas, locales o estancias comunes de la edificación (PAU). El número de canalizaciones dependerá de la configuración de la estructura propia de la edificación. Se realizará mediante tubos de 50 mm de diámetro exterior y de pared interior lisa. El número de cables por tubo será tal que la suma de las superficies de las secciones transversales de todos ellos no superará el 50 % de la superficie de la sección transversal útil del tubo. Su dimensionamiento mínimo será como sigue:
 
-
 |            |                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | :--------: | :--------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Nº de PAU  |               Nº de tubos                | Utilización                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
@@ -320,3 +319,45 @@ Las dimensiones mínimas serán:
 Si en algún registro secundario fuera preciso instalar algún amplificador o igualador, se utilizarán registros complementarios como los utilizados en cada cambio de dirección o bifurcación de la canalización principal y en cada tramo de 30 m de canalización principal, sólo para estos usos. Los cambios de dirección con canales y bandejas se harán mediante los accesorios adecuados garantizando el radio de curvatura necesario de los cables.
 
 En los casos en que se utilicen un RITI situado en la planta baja, o un RITS situado en la última planta de viviendas, podrá habilitarse una parte de éste en la que se realicen las funciones de registro secundario de planta desde donde saldrá la red de dispersión de los distintos servicios hacia las viviendas, oficinas, locales o estancias comunes de la edificación situados en dichas plantas.
+
+## Canalización secundaria
+
+Del registro secundario podrán salir varias canalizaciones secundarias que deberán ser de capacidad suficiente para alojar todos los cables para los servicios de telecomunicación de las viviendas a las que sirvan. Esta canalización puede materializarse mediante tubos o canales.
+
+![[Canalización_secundaria.png]]
+
+Si es mediante tubos, en sus tramos comunitarios la canalización secundaria será como mínimo de 4 tubos, que se destinarán a lo siguiente:
+- Uno para cables de pares o pares trenzados.
+- Uno para cables coaxiales de servicios de TBA.
+- Uno para cables coaxiales de servicios de RTV.
+- Uno para cables de fibra óptica.
+
+Su número, en función del tipo de cables que alojen y del número de PAU que atiendan, y sus dimensiones mínimas se determinarán por separado de acuerdo con la siguiente tabla:
+
+|                                        |                                                                                              |                                                                                              |                                                                 |                                                                 |
+| :------------------------------------: | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: |
+| Diámetro exterior mínimo del tubo (mm) | Número PAU atendidos por cables de pares trenzados/pares + fibra óptica (Acometida interior) | Número PAU atendidos por cables de pares trenzados/pares + fibra óptica (Acometida exterior) | Número PAU atendidos por cables de coaxiales para servicios TBA | Número PAU atendidos por cables de coaxiales para servicios RTV |
+|                   25                   |                                              3                                               |                                              2                                               |                                2                                |                                2                                |
+|                   32                   |                                              6                                               |                                              4                                               |                                6                                |                                6                                |
+|                   40                   |                                              8                                               |                                              6                                               |                                8                                |                                8                                |
+
+Si la canalización es mediante canales, en los tramos comunitarios tendrá 4 espacios independientes con la asignación antedicha y dimensionados según las mismas reglas establecidas para la canalización de enlace y/o canalización principal. En los tramos de acceso a las viviendas, se dispondrán de tres espacios independientes y se dimensionarán de acuerdo con las citadas reglas.
+
+Para la distribución o acceso a las viviendas en edificaciones de pisos, se colocará en la derivación un registro de paso tipo A (ver apartado PENDIENTE) del que saldrán a la vivienda 3 tubos de 25 mm de diámetro exterior, con la siguiente utilización:
+- Uno para cables de pares o pares trenzados y para los cables de fibra óptica.
+- Uno para cables coaxiales de servicios de TBA.
+- Uno para cables coaxiales de servicios de RTV.
+
+**Para el caso de edificaciones con un número de viviendas por planta inferior a seis o en el caso de viviendas unifamiliares**, se podrá prescindir del registro de paso citado, por lo que las **canalizaciones se establecerán entre los registros secundario y de terminación de red mediante 3 tubos de 25 mm de diámetro**, o canales equivalentes con tres espacios delimitados, cuya utilización será la indicada en el párrafo anterior.
+
+Esta simplificación podrá ser efectuada siempre que la distancia entre dichos registros no supere los 15 metros; en caso contrario habrán de instalarse registros de paso que faciliten las tareas de instalación y mantenimiento.
+
+En los casos en que existan curvas en la canalización secundaria, el radio de curvatura será tal, que los cables en la instalación no tengan un radio de curvatura inferior a 2 cm.
+
+La siguiente imagen muestra un esquema de canalización secundaria en una planta con un número de PAU inferior a 6.
+
+![[Esquema_canalización_secundaria_planta_PAU_menor_6.png]]
+
+La siguiente imagen muestra un esquema de canalización secundaria en una planta con un número de PAU igual o superior a 6.
+
+![[Esquema_canalización_secundaria_planta_PAU_mayor_igual_6.png]]
