@@ -71,3 +71,15 @@ Une cada definición con el enunciado adecuado:
 
 **Respuesta**: Como el número de PAUs es 3 (Locales) + 5·2 (Viviendas) = 13, es decir, inferior a 20 PAUs, las dimensiones mínimas de la arqueta de entrada son **2000 mm (Longitud) x 1000 mm (Anchura) x 500 mm (Profundidad)**.
 
+### Pregunta 5
+
+En un edificio formado por planta baja con tres locales comerciales y 5 plantas con 2 viviendas por planta, cada una con 5 estancias:
+
+La canalización principal estará formada por un mínimo de **6**  tubos de **50**  mm con la siguiente asignación:
+- 1 tubo/s para RTV
+- 1 tubo/s para cables de pares trenzados
+- 2 tubo/s para cable coaxial
+- 1 tubo/s para cable de fibra óptica
+- 1 tubo/s de reserva
+
+**Justificación**: El número de PAUs es 3 (Locales) + 5·2 (Viviendas) = 13.
