@@ -290,3 +290,33 @@ Para su dimensionamiento se aplicarán los mismos criterios y las mismas reglas 
 En el caso de que por cada compartimento discurrieran más de ocho cables, éstos se encintarán en grupos de ocho como máximo, identificándolos convenientemente.
 
 La canalización principal se instalará, siempre que la edificación lo permita, en espacios previstos para el paso de instalaciones de este tipo, como galerías de servicio o pasos registrables en las zonas comunes de la edificación.
+
+## Registros secundarios
+
+En la canalización principal se intercalan los registros secundarios, que conectan la canalización principal y las secundarias. También se utilizan para seccionar o cambiar de dirección la canalización principal.
+
+![[Registro_secundario_ejemplo.png]]
+
+Los registros secundarios se ubicarán en zona comunitaria y de fácil acceso, y deberán estar dotados con el correspondiente sistema de cierre y, en los casos en los que en su interior se aloje algún elemento de conexión, dispondrá de llave que deberá estar en posesión de la propiedad de la edificación. Se colocará un registro secundario en los siguientes casos:
+- En los puntos de encuentro entre una canalización principal y una secundaria en el caso de edificaciones de viviendas, y en los puntos de segregación hacia las viviendas, en el caso de viviendas unifamiliares. Deberán disponer de espacios delimitados para cada uno de los servicios. Alojarán, al menos, los derivadores de la red de RTV y de la red de cables coaxiales de TBA cuando proceda, así como las regletas o cajas de segregación que constituyen el punto de distribución de cables de pares y de fibra óptica (cuando proceda) y el paso de cables de pares trenzados, coaxiales (cuando proceda) y de fibra óptica (cuando proceda).
+- En cada cambio de dirección o bifurcación de la canalización principal.
+- En cada tramo de 30 m de canalización principal.
+- En los casos de cambio en el tipo de conducción.
+
+Las dimensiones mínimas serán:
+- 450 x 450 x 150 mm:
+	- En edificaciones con un número de PAU por planta igual o menor que tres, y hasta un total de 20 en la edificación.
+	- En edificaciones con un número de PAU por planta igual o menor que cuatro, y un número de plantas igual o menor que cinco.
+	- En edificaciones, en cada cambio de dirección o bifurcación de la canalización principal y en cada tramo de 30 m de canalización principal.
+	- En viviendas unifamiliares.
+- 500 x 700 x 150 mm (formato horizontal o vertical):
+	- En edificaciones con un número de PAU comprendido entre 21 y 30.
+	- En edificaciones con un número de PAU  menor o igual a 20 en los que se superen las limitaciones establecidas en el apartado anterior en cuanto a número de viviendas por planta o número de plantas.
+- 550 x 1000 x 150 mm (formato horizontal o vertical):
+	- En edificaciones con número de PAU mayor de 30.
+- Arquetas de 400 x 400 x 400 mm:
+	- En edificaciones, en cada cambio de dirección o bifurcación de la canalización principal, cuando la canalización sea subterránea.
+
+Si en algún registro secundario fuera preciso instalar algún amplificador o igualador, se utilizarán registros complementarios como los utilizados en cada cambio de dirección o bifurcación de la canalización principal y en cada tramo de 30 m de canalización principal, sólo para estos usos. Los cambios de dirección con canales y bandejas se harán mediante los accesorios adecuados garantizando el radio de curvatura necesario de los cables.
+
+En los casos en que se utilicen un RITI situado en la planta baja, o un RITS situado en la última planta de viviendas, podrá habilitarse una parte de éste en la que se realicen las funciones de registro secundario de planta desde donde saldrá la red de dispersión de los distintos servicios hacia las viviendas, oficinas, locales o estancias comunes de la edificación situados en dichas plantas.
