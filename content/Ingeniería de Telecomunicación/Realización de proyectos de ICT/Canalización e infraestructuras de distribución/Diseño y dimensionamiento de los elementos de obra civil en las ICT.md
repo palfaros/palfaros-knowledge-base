@@ -380,3 +380,19 @@ Se admitirá un máximo de dos curvas de noventa grados entre dos registros de p
 Los registros se colocarán empotrados. Cuando vayan intercalados en la canalización secundaria, se ubicarán en lugares de uso comunitario, con su arista más próxima al encuentro entre dos paramentos a una distancia mínima de 100 mm.
 
 En canalizaciones secundarias mediante canales, los registros de paso serán los correspondientes a las canales utilizadas.
+
+## Registros de terminación de red (RTR)
+
+Estarán en el interior de la vivienda, local, oficina o estancia común de la edificación y empotrados en la pared y en montaje superficial cuando sea mediante canal; dispondrán de las entradas necesarias para la canalización secundaria y las de interior de usuario que accedan a ellos. Las dimensiones mínimas del mismo serán las siguientes:
+1. Para una opción empotrable en tabique y disposición del equipamiento principalmente en vertical, 500 x 600 x 80 mm (siendo esta última dimensión la profundidad). Deberán instalarse dos tomas de corriente o bases de enchufe.
+2. Alternativamente, será admisible la ejecución del RTR mediante la disposición de dos envolventes de 500 x 300 x 80 mm (siendo esta última dimensión la profundidad), colocadas de forma adyacente y dotadas de las correspondientes comunicaciones que permitan el paso entre ellas. Una de ellas estará dedicada en su integridad a la instalación de los equipos activos. Deberán instalarse dos tomas de corriente o bases de enchufe.
+3. Para un opción empotrable en otro elemento constructivo (columna, altillo accesible, etc.) y disposición del equipamiento principalmente en horizontal, 300 x 400 x 300 mm (siendo esta última dimensión la profundidad). Deberán instalarse dos tomas de corriente o bases de enchufe.
+4. Si se opta por independizar los servicios de telefonía disponible al público y telecomunicaciones de banda ancha (SDTP y TBA) de los servicios dedicados a radiodifusión sonora y televisión (RTV) en dos envolventes independientes, la primera de ellas mantendrá las dimensiones y requisitos de la envolvente única en cualquiera de las opciones anteriores, y la dedicada a RTV tendrá unas dimensiones mínimas de 200 x 300 x 60 mm (siendo esta última dimensión la profundidad), debiendo disponer de una toma de corriente o base de enchufe. Ambos envolventes deberán estar comunicadas entre ellas.
+
+En las envolventes de las opciones primera y tercera y en la envolvente dedicada a SDTP y TBA de la opción cuarta, se instalarán los diversos elementos de su interior de tal forma que quede un volumen libre de cables y dispositivos para la futura instalación, en su caso, de elementos de terminación de red, formado por una superficie en el panel del fondo de la envolvente de dimensiones mínimas de 300 x 500 mm y su proyección perpendicular hasta la tapa de la misma, cuando la disposición del equipamiento es principalmente en vertical, o un volumen proporcional cuando la disposición del equipamiento es principalmente en horizontal.
+
+Las tapas de las envolventes de los registros, deberán ser de fácil apertura con tapa abatible y, en los casos en que estén destinados a albergar equipos activos, dispondrán de una rejilla de ventilación capaz de evacuar el calor producido por la potencia disipada por éstos (estimada en 25 W). En cualquier caso, las envolventes de los registros deberán ser de un material resistente que soporte las temperaturas derivadas del funcionamiento de los dispositivos, que en su caso, se instalen en su interior.
+
+Todas las envolventes se instalarán a una distancia mínima de 200 mm y máxima de 2.300 mm del suelo.
+
+![[Registros_terminación_red_RTR.png]]
