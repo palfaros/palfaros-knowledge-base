@@ -406,3 +406,20 @@ En el caso de que se realice mediante canales, éstas se instalarán en montaje 
 En el caso particular de canalizaciones interiores de usuario en locales comerciales u oficinas se admite también el uso de bandejas disponiéndolas de protección mecánica adicional y/o ubicándolas donde no estén sujetas a ningún riesgo mecánico. Las bandejas serán dimensionadas y compartimentadas como los canales.
 
 ![[Canalización_secundaria_y_red_interior_usuario.png]]
+
+## Registros de toma
+
+Irán empotrados en la pared. En locales u oficinas, podrán ir también empotrados en el suelo o montados en torretas. Estas cajas o registros deberán disponer de los medios adecuados para la fijación del elemento de conexión (BAT o toma de usuario).
+
+En viviendas se colocarán, al menos, los siguientes registros de toma:
+- En cada una de las dos estancias principales: 2 registros para tomas de cables de pares trenzados, 1 registro para toma de cables coaxiales para servicios de TBA y 1 registro para toma de cables coaxiales para servicios de RTV. En una de las estancias principales, preferiblemente el salón, 1 registro para toma de cable de fibra óptica.
+- En el resto de las estancias, excluidos baños y trasteros: 1 registro para toma de cables de pares trenzados y 1 registro para toma de cables coaxiales para servicios de RTV.
+- En la cercanía del PAU: 1 registro para toma configurable.
+
+En locales y oficinas, cuando estén distribuidos en estancias, y en las estancias comunes de la edificación, habrá un mínimo de tres registros de toma empotrados o superficiales, uno para cada tipo de cable (pares trenzados, coaxiales para servicios TBA y coaxiales para servicios RTV).
+
+Cuando no esté definida la distribución en planta de los locales u oficinas, no se instalarán registros de toma. El diseño y dimensionamiento de los registros de toma, así como su realización futura, será responsabilidad de la propiedad del local u oficina, cuando se ejecute el proyecto de distribución en estancias.
+
+Los registros de toma tendrán en sus inmediaciones (máximo 500 mm) una toma de corriente alterna, o base de enchufe.
+
+![[Registros_toma.png]]
