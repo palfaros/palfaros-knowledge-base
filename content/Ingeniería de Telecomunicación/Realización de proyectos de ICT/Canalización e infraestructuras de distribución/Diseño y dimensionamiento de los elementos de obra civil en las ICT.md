@@ -361,3 +361,22 @@ La siguiente imagen muestra un esquema de canalización secundaria en una planta
 La siguiente imagen muestra un esquema de canalización secundaria en una planta con un número de PAU igual o superior a 6.
 
 ![[Esquema_canalización_secundaria_planta_PAU_mayor_igual_6.png]]
+
+## Registros de paso
+
+Los registros de paso son cajas con entradas laterales preiniciadas e iguales en sus cuatro paredes, a las que se podrán acoplar conos ajustables multidiámetro para entrada de tubos. Se definen tres tipos de las siguientes dimensiones mínimas, número de entradas mínimas de cada lateral y diámetro de las entradas:
+
+|          |                                                   |                                |                               |
+| :------: | :-----------------------------------------------: | :----------------------------: | :---------------------------: |
+| Registro | Dimensiones (mm) (altura x anchura x profundidad) | Nº de entradas en cada lateral | Diámetro máximo del tubo (mm) |
+|  Tipo A  |                  360 x 360 x 120                  |               6                |              40               |
+|  Tipo B  |                  100 x 100 x 40                   |               3                |              25               |
+|  Tipo C  |                  100 x 160 x 40                   |               3                |              25               |
+
+Además de los casos indicados en el apartado anterior, se colocará como mínimo un registro de paso cada 15 m de longitud de las canalizaciones secundarias y de interior de usuario y en los cambios de dirección de radio inferior a 120 mm para viviendas o 250 mm para locales u oficinas y estancias comunes de la edificación. Estos registros de paso serán del tipo A para canalizaciones secundarias en tramos comunitarios, del tipo B para canalizaciones secundarias en los tramos de acceso a las viviendas y para canalizaciones interiores de usuario que alojan cables de pares trenzados, y del tipo C para las canalizaciones interiores de usuario que alojan cables coaxiales.
+
+Se admitirá un máximo de dos curvas de noventa grados entre dos registros de paso, pero respetando que su radio de curvatura no produzca a su vez en lo cables, radios de curvatura inferiores a 2 cm.
+
+Los registros se colocarán empotrados. Cuando vayan intercalados en la canalización secundaria, se ubicarán en lugares de uso comunitario, con su arista más próxima al encuentro entre dos paramentos a una distancia mínima de 100 mm.
+
+En canalizaciones secundarias mediante canales, los registros de paso serán los correspondientes a las canales utilizadas.
