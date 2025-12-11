@@ -396,3 +396,13 @@ Las tapas de las envolventes de los registros, deberán ser de fácil apertura c
 Todas las envolventes se instalarán a una distancia mínima de 200 mm y máxima de 2.300 mm del suelo.
 
 ![[Registros_terminación_red_RTR.png]]
+
+## Canalización interior de usuario
+
+Estará realizada con tubos o canales y utilizará configuración en estrella, generalmente con tramos horizontales y verticales. En el caso de que se realice mediante tubos, éstos serán rígidos o curvables, que irán empotrados por el interior de la vivienda, y unirán los registros de terminación de red con los distintos registros de toma, mediante tubos independientes de 20 mm de diámetro exterior mínimo.
+
+En el caso de que se realice mediante canales, éstas se instalarán en montaje superficial o enrasado, uniendo los registros de terminación de red con los distintos registros de toma. Dispondrán, como mínimo, de 3 espacios independientes que alojarán únicamente cables para servicios de telecomunicación, uno para cables de pares trenzados para servicios de TBA, otro para cables coaxiales para servicios de TBA y otro para servicios de RTV. Para el dimensionado, se aplicarán las mismas reglas indicadas para la canalización de enlace inferior.
+
+En el caso particular de canalizaciones interiores de usuario en locales comerciales u oficinas se admite también el uso de bandejas disponiéndolas de protección mecánica adicional y/o ubicándolas donde no estén sujetas a ningún riesgo mecánico. Las bandejas serán dimensionadas y compartimentadas como los canales.
+
+![[Canalización_secundaria_y_red_interior_usuario.png]]
