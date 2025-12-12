@@ -223,7 +223,7 @@ Para edificios o conjuntos inmobiliarios de más de tres alturas y planta baja y
 
 #### Recinto modular (RITM)
 
- Para los casos de edificaciones de pisos de hasta cuarenta y cinco PAU[^1] y de conjuntos de viviendas unifamiliares de hasta veinte PAU, los recintos superior, inferior y único podrán ser realizados mediante armarios ignífugos de tipo modular.
+Para los casos de edificaciones de pisos de hasta cuarenta y cinco PAU[^1] y de conjuntos de viviendas unifamiliares de hasta veinte PAU, los recintos superior, inferior y único podrán ser realizados mediante armarios ignífugos de tipo modular.
 
 [^1]: Aún cuando a cada servicio le corresponde un punto de acceso al usuario, en los apartados en los que se incluye una referencia a esta nota, se entenderá un único punto de acceso al usuario por cada vivienda, oficina, local comercial o estancia común de la edificación.
 
