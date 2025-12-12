@@ -63,3 +63,19 @@ Las bandejas serán conformes a lo establecido en la norma UNE EN 61537 (Conducc
 | Resistencia a la corrosión de tubos metálicos (Para instalaciones en intemperie, la resistencia a la corrosión será de clase 5) |               2                |
 |                                            Resistencia a la propagación de la llama                                             |         No propagador          |
 
+## Registros de enlace, armarios para registros modulares
+
+### Registros de enlace
+
+Se considerarán conformes los registros de enlace de características equivalentes a los clasificados según la tabla siguiente, que cumplan con la UNE EN 60670-1 (Cajas y envolventes para accesorios eléctricos en instalaciones eléctricas fijas para uso doméstico y análogos. Parte 1: Requisitos generales) o con la UNE EN 62208 (Envolventes vacías destinadas a los conjuntos de aparamenta de baja tensión. Requisitos generales). Cuando estén en el exterior de los edificios serán conformes al ensayo 8.11 de la citada norma.
+
+|              |          |          |          |
+| :----------: | :------: | :------: | :------: |
+|              |          | Interior | Exterior |
+|  UNE 20324   | 1ª cifra |    3     |    5     |
+|  UNE 20324   | 2ª cifra |    X     |    5     |
+| UNE EN 50102 |    IK    |    7     |    10    |
+
+### Armarios para recintos modulares
+
+En el caso de utilización de armarios para implementar los recintos modulares, éstos tendrán un grado de protección mínimo IP 55, según CEI 60529 (Grados de protección proporcionados por las envolventes (Código IP)), y un grado IK10, según UNE EN 50102 (Grados de protección proporcionados por las envolventes de materiales eléctricos contra los impactos mecánicos externos (código IK)), para ubicación en exterior, e IP 33, según CEI 60529, y un grado IK.7, según UNE EN 50102, para ubicación en el interior, con ventilación suficiente debido a la existencia de elementos activos.
