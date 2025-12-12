@@ -343,7 +343,7 @@ Su número, en función del tipo de cables que alojen y del número de PAU que a
 
 Si la canalización es mediante canales, en los tramos comunitarios tendrá 4 espacios independientes con la asignación antedicha y dimensionados según las mismas reglas establecidas para la canalización de enlace y/o canalización principal. En los tramos de acceso a las viviendas, se dispondrán de tres espacios independientes y se dimensionarán de acuerdo con las citadas reglas.
 
-Para la distribución o acceso a las viviendas en edificaciones de pisos, se colocará en la derivación un registro de paso tipo A (ver apartado PENDIENTE) del que saldrán a la vivienda 3 tubos de 25 mm de diámetro exterior, con la siguiente utilización:
+Para la distribución o acceso a las viviendas en edificaciones de pisos, se colocará en la derivación un registro de paso tipo A (ver apartado [[#Registros de paso]]) del que saldrán a la vivienda 3 tubos de 25 mm de diámetro exterior, con la siguiente utilización:
 - Uno para cables de pares o pares trenzados y para los cables de fibra óptica.
 - Uno para cables coaxiales de servicios de TBA.
 - Uno para cables coaxiales de servicios de RTV.
