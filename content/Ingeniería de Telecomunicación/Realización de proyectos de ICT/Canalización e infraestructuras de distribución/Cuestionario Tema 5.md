@@ -164,7 +164,7 @@ Seleccione una:
 
 ### Respuesta
 
-Exclusivamente por 12 tubos de 25mm que parten desde el registro secundario a cada uno de las viviendas en grupos de 3 tubos.
+Ninguna de las respuestas es correcta
 
 ### Justificación
 
@@ -178,6 +178,8 @@ Para el caso de edificaciones con un número de viviendas por planta inferior a 
 La siguiente imagen muestra un esquema de canalización secundaria en una planta con un número de PAU inferior a 6.
 
 ![[Esquema_canalización_secundaria_planta_PAU_menor_6.png]]
+
+**Sin embargo, la respuesta no es correcta por el uso de la palabra *exclusivamente*. Realmente hay dos opciones, la habitual que son 3 tubos desde el Registro Secundario hasta cada PAU de mínimo 25 mm (aunque pueden instalarse de 32mm) y la otra que es compartiendo canalización  (menos habitual aunque teóricamente viable).**
 
 
 ## Cuestión 9
