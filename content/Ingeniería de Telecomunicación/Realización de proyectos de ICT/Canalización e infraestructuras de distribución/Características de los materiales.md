@@ -31,3 +31,35 @@ Los tubos serán conformes a lo establecido en la parte correspondiente de la no
 | Resistencia a la corrosión de tubos metálicos (Para instalaciones en intemperie, la resistencia a la corrosión será de protección elevada (clase 4)) | Protección interior y exterior media (Clase 2) | Protección interior y exterior media (Clase 2) | Protección interior y exterior media (Clase 2) |
 |                                                                Propiedades eléctricas                                                                |       Continuidad<br>Eléctrica/Aislante        |                 No declaradas                  |                 No declaradas                  |
 |                                                       Resistencia a la propagación de la llama                                                       |                 No propagador                  |                 No propagador                  |                  No declarada                  |
+
+### Canales
+
+Las canales serán conformes a lo establecido en la serie de normas UNE EN 50085 y sus características mínimas serán las siguientes:
+
+|                                                 |                                   |                                   |
+| :---------------------------------------------: | :-------------------------------: | :-------------------------------: |
+|                 Características                 |   Tubos de montaje superficial    |    Tubos de montaje empotrado     |
+|               Dimensión del canal               |  Altura = 17 mm<br>Base = 50 mm   | Altura > 17 mm o<br>Base > 50 mm  |
+|             Resistencia al impacto              |            Muy ligera             |               Media               |
+|      Temperatura de instalación y servicio      |        -15 °C = T = 60 °C         |         -5 °C = T = 60 °C         |
+|             Propiedades eléctricas              | Continuidad<br>eléctrica/Aislante | Continuidad<br>eléctrica/Aislante |
+| Resistencia a la penetración de objetos sólidos |            IP 4X o XXD            |        No inferior a IP 2X        |
+|      Resistencia a la penetración del agua      |           No declarada            |           No declaradas           |
+|    Resistencia a la propagación de la llama     |           No propagador           |           No propagador           |
+
+Las canales metálicas deberán presentar, como mínimo, una resistencia a la corrosión equivalente la exigida para otros sistemas de conducción de cables.
+
+### Bandejas
+
+Las bandejas serán conformes a lo establecido en la norma UNE EN 61537 (Conducción de cables. Sistemas de bandejas y de bandejas de escalera) y sus características mínimas serán las siguientes:
+
+
+|                                                                                                                                 |                                |
+| :-----------------------------------------------------------------------------------------------------------------------------: | :----------------------------: |
+|                                                         Características                                                         |            Bandejas            |
+|                                                     Resistencia al impacto                                                      |             = 2 J              |
+|                                              Temperatura de instalación y servicio                                              |       -5 °C = T = 60 °C        |
+|                                                     Propiedades eléctricas                                                      | Continuidad Eléctrica/Aislante |
+| Resistencia a la corrosión de tubos metálicos (Para instalaciones en intemperie, la resistencia a la corrosión será de clase 5) |               2                |
+|                                            Resistencia a la propagación de la llama                                             |         No propagador          |
+
