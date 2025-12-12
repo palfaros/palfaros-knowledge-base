@@ -11,9 +11,10 @@ Selecciona una:
 - RITI
 - RITS
 - Arqueta de entrada
+
 ### Respuesta
 
-Arqueta de entrada
+Arqueta de entrada.
 
 ### Justificación
 
@@ -28,6 +29,7 @@ Seleccione una:
 - Edificio de 9 plantas con 8 viviendas por planta, planta baja con tres locales comerciales
 - Edificio de 5 plantas con 8 viviendas por planta; planta baja con tres locales comerciales
 - Ninguna de las respuestas es correcta
+
 ### Respuesta
 
 Edificio de 9 plantas con 8 viviendas por planta, planta baja con tres locales comerciales.
