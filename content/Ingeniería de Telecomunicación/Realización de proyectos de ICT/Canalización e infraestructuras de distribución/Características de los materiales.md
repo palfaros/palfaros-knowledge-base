@@ -79,3 +79,28 @@ Se considerarán conformes los registros de enlace de características equivalen
 ### Armarios para recintos modulares
 
 En el caso de utilización de armarios para implementar los recintos modulares, éstos tendrán un grado de protección mínimo IP 55, según CEI 60529 (Grados de protección proporcionados por las envolventes (Código IP)), y un grado IK10, según UNE EN 50102 (Grados de protección proporcionados por las envolventes de materiales eléctricos contra los impactos mecánicos externos (código IK)), para ubicación en exterior, e IP 33, según CEI 60529, y un grado IK.7, según UNE EN 50102, para ubicación en el interior, con ventilación suficiente debido a la existencia de elementos activos.
+
+## Registro principal, secundario y registros de paso, terminación de red y toma
+
+### Registro principal
+
+Se considerarán conformes los registros principales para cables de pares trenzados (o pares), cables coaxiales para servicios de TBA y cables de fibra óptica de características equivalentes a los clasificados según la siguiente tabla, que cumplan con alguna de las siguientes normas UNE EN 60670-1 (Cajas y envolventes para accesorios eléctricos en instalaciones eléctricas fijas para uso doméstico y análogos. Parte 1: Requisitos generales) o UNE EN 62208 (Envolventes vacías destinadas a los conjuntos de aparamenta de baja tensión. Requisitos generales). Cuando estén en el exterior de los edificios los registros principales conformes a la UNE EN 62208, cumplirán con el ensayo 9.11 de la citada norma. Su grado de protección será:
+
+|              |          |          |          |
+| :----------: | :------: | :------: | :------: |
+|              |          | Interior | Exterior |
+|  UNE 20324   | 1ª cifra |    3     |    5     |
+|  UNE 20324   | 2ª cifra |    X     |    5     |
+| UNE EN 50102 |    IK    |    7     |    10    |
+
+### Registros secundarios
+
+Se podrán realizar:
+- Practicando en el muro o pared de la zona comunitaria de cada planta (descansillos) un hueco de 150 mm de profundidad a una distancia mínima de 300 mm del techo en su parte más alta. Las paredes del fondo y laterales deberán quedar perfectamente enlucidas y, en la del fondo, se adaptará una placa de material aislante (madera o plástico) para sujetar con tornillos los elementos de conexión correspondientes. Deberán quedar perfectamente cerrados asegurando un grado de protección IP 3X, según UNE 20324 (Grados de protección proporcionados por las envolventes (Código IP)), y un grado IK.7, según UNE EN 50102 (Grados de protección proporcionados por las envolventes de materiales eléctricos contra los impactos mecánicos externos (código IK)), con puerta de plástico o con chapa de metal que garantice la solidez e indeformabilidad del conjunto. Cuando la canalización principal esté construida mediante conducto de obra las tapas o puertas de registro secundario tendrán una resistencia al fuego mínima, EI 30.
+- Empotrando en el muro o montando en superficie, una caja con la correspondiente puerta o tapa que tendrá un grado de protección IP 3X, según UNE 20324, y un grado IK.7, según UNE EN 50102. Para el caso de viviendas unifamiliares en las que el registro esté colocado en el exterior, el grado de protección será IP 55 IK 10. Se considerarán conformes los registros secundarios de características equivalentes a los clasificados anteriormente que cumplan con la UNE EN 62208 (Envolventes vacías destinadas a los conjuntos de aparamenta de baja tensión. Requisitos generales) o con la UNE EN 60670-1 (Cajas y envolventes para accesorios eléctricos en instalaciones eléctricas fijas para uso doméstico y análogos. Parte 1: Requisitos generales).
+
+Las puertas de los registros dispondrán de cerradura con llave de apertura.
+
+### Registros de paso, terminación de red y toma
+
+Si se materializan mediante cajas, se consideran como conformes los productos de características equivalentes a los clasificados a continuación, que cumplan con alguna de las normas siguientes UNE EN 60670-1 (Cajas y envolventes para accesorios eléctricos en instalaciones eléctricas fijas para uso doméstico y análogos. Parte 1: Requisitos generales) o UNE EN 62208 (Envolventes vacías destinadas a los conjuntos de aparamenta de baja tensión. Requisitos generales) o UNE EN 62208 (Envolventes vacías destinadas a los conjuntos de aparamenta de baja tensión. Requisitos generales). Deberán tener un grado de protección IP 33, según UNE 20324 (Grados de protección proporcionados por las envolventes (Código IP)), y un grado IK.5, según UNE EN 50102 (Grados de protección proporcionados por las envolventes de materiales eléctricos contra los impactos mecánicos externos (código IK)). En todos los casos estarán provistos de tapa de material plástico o metálico.
