@@ -162,28 +162,21 @@ Seleccione una:
 
 ### Respuesta
 
-Exclusivamente por 4 tubos comunitarios de 25mm de diámetro, que partirán del registro secundario y recorrerán toda la planta; un registro de paso por vivienda y 3 tubos de 25 mm desde el registro de paso a cada vivienda.
-
-Exclusivamente por 4 tubos comunitarios de 25mm de diámetro, que partirán del registro secundario y recorrerán toda la planta; un registro de paso por vivienda y 3 tubos de 25 mm desde el registro de paso a cada vivienda
+Exclusivamente por 12 tubos de 25mm que parten desde el registro secundario a cada uno de las viviendas en grupos de 3 tubos.
 
 ### Justificación
 
-Si es mediante tubos, en sus tramos comunitarios la canalización secundaria será como mínimo de 4 tubos, que se destinarán a lo siguiente:
-- Uno para cables de pares o pares trenzados.
+La edificación cuenta con 4 viviendas por planta.
+
+Para el caso de edificaciones con un número de viviendas por planta inferior a seis, se podrá prescindir del registro de paso por lo que las **canalizaciones se establecerán entre los registros secundario y de terminación de red mediante 3 tubos de 25 mm de diámetro**, o canales equivalentes con tres espacios delimitados, con la siguiente utilización:
+- Uno para cables de pares o pares trenzados y para los cables de fibra óptica.
 - Uno para cables coaxiales de servicios de TBA.
 - Uno para cables coaxiales de servicios de RTV.
-- Uno para cables de fibra óptica.
 
-Su número, en función del tipo de cables que alojen y del número de PAU que atiendan, y sus dimensiones mínimas se determinarán por separado de acuerdo con la siguiente tabla:
+La siguiente imagen muestra un esquema de canalización secundaria en una planta con un número de PAU inferior a 6.
 
-|                                        |                                                                                              |                                                                                              |                                                                 |                                                                 |
-| :------------------------------------: | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: |
-| Diámetro exterior mínimo del tubo (mm) | Número PAU atendidos por cables de pares trenzados/pares + fibra óptica (Acometida interior) | Número PAU atendidos por cables de pares trenzados/pares + fibra óptica (Acometida exterior) | Número PAU atendidos por cables de coaxiales para servicios TBA | Número PAU atendidos por cables de coaxiales para servicios RTV |
-|                   25                   |                                              3                                               |                                              2                                               |                                2                                |                                2                                |
-|                   32                   |                                              6                                               |                                              4                                               |                                6                                |                                6                                |
-|                   40                   |                                              8                                               |                                              6                                               |                                8                                |                                8                                |
+![[Esquema_canalización_secundaria_planta_PAU_menor_6.png]]
 
-El número de PAUs de la edificación será: 4 · 4 = 16 PAUs, con 4 PAUs por planta. Por tanto, se utilizarán, como mínimo, 4 de tubos de 63 mm de diámetro exterior. 
 
 ## Cuestión 9
 
