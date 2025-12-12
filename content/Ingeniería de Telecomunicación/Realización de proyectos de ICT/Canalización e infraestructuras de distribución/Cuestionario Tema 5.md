@@ -43,7 +43,7 @@ Se entiende un único punto de acceso al usuario por cada vivienda, oficina, loc
 
 Si calculamos el número de PAUs de cada caso:
 - Edificio de 10 plantas con 4 viviendas por planta, planta baja con cuatro locales comerciales: 4 · 10 + 4 = 44. RITM es válido.
-- Edificio de 9 plantas con 8 viviendas por planta, planta baja con tres locales comerciales: 9 · 8 + 3 = 72 +3 = 75. RITM no es válido. Es obligatorio construir un RITI de obra
+- Edificio de 9 plantas con 8 viviendas por planta, planta baja con tres locales comerciales: 9 · 8 + 3 = 72 +3 = 75. RITM no es válido. Es obligatorio construir un RITI de obra.
 - Edificio de 5 plantas con 8 viviendas por planta; planta baja con tres locales comerciales: 5 · 8 +3 = 43. RITM es válido.
 
 
