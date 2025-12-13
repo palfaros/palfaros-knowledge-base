@@ -38,8 +38,8 @@ Con respecto a los dispositivos no explicitados en el esquema (PAUs y tomas), se
 - PAU Repartidor de 5 direcciones: [Televés 5454](https://www.televes.com/es/5454-repartidor-con-pau-easyf-5d-5-2400mhz-11-13db.htmll)
 - Tomas: [Televés 5229](https://www.televes.com/es/5229xx-toma-terminal-toma-terminal-2-conectores-fm-tv-sat-planta-1.html)
 
-Los PAUs escogidos pertenecen a la misma serie que los derviadores: *Serie EasyF*.
-Las toma escogida es Terrestre + Satélite con 2 Conectores CEI.
+Los PAUs escogidos pertenecen a la misma serie que los derivadores: *Serie EasyF*.
+Las toma escogida es Terrestre + Satélite con 2 Conectores CEI, terminal y no separadora. 
 
 ## Apartado B
 
