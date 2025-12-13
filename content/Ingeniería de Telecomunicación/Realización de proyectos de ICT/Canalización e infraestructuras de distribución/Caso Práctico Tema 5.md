@@ -109,7 +109,19 @@ La **canalización principal** se realizará mediante tubos. Su dimensionamiento
 
 **Dimensionamiento y características de la canalización secundaria**
 
-PENDIENTE
+La edificación cuenta con 3 viviendas por planta y el número de plantas es 4.
+
+Para el caso de edificaciones con un número de viviendas por planta inferior a seis, se podrá prescindir del registro de paso por lo que las **canalizaciones se establecerán entre los registros secundario y de terminación de red mediante 3 tubos de 25 mm de diámetro**, o canales equivalentes con tres espacios delimitados, con la siguiente utilización:
+
+- Uno para cables de pares o pares trenzados y para los cables de fibra óptica.
+- Uno para cables coaxiales de servicios de TBA.
+- Uno para cables coaxiales de servicios de RTV.
+
+La siguiente imagen muestra un esquema de la canalización secundaria que conectará el registro secundario de cada planta con cada vivienda.
+
+![[Esquema_canalización_secundaria_planta_PAU_menor_6.png]]
+
+**Por tanto, en cada planta se utilizarán 9 tubos de 25 mm de diámetro que partirán desde el registro secundario a cada uno de las viviendas en grupos de 3 tubos. Al existir 4 plantas con 3 viviendas, en total se utilizarán 36 tubos de 25 mm diámetro.**
 
 ## Apartado G
 
