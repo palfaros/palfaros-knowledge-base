@@ -47,19 +47,63 @@ El número de PAUs de la edificación es 15. Por tanto, **se utilizarán, como m
 
 **Dimensionamiento de la canalización de enlace superior e inferior**
 
-PENDIENTE
+La **canalización de enlace superior** estará formada por 2 tubos de 40 mm de diámetro superficiales, fijados mediante grapas, bridas, abrazaderas, perfiles o sujeciones separadas, como máximo, 1 metro. Se colocará un registro de enlace de dimensiones mínimas 360 x 360 x 120 mm para la intersección de tramos rectos no alineados.
+
+La **canalización de enlace inferior** se realizará mediante tubos de entre 40 y 63 mm de diámetro. Se colocará un registro de enlace en el punto de intersección entre la canalización externa y la canalización de enlace inferior, al tratarse de dos tramos rectos no alineados. Este registro de enlace irá en pared, con dimensiones mínimas 450 x 450 x 120 mm.
 
 ## Apartado D
 
 **Dimensionamiento y características del RITI y del RITS**
 
-PENDIENTE
+Los recintos de instalaciones de telecomunicación (RITI, RITS) tendrán las dimensiones mínimas siguientes, y deberán ser accesibles toda su anchura:
+
+|            |             |              |                  |
+| :--------: | :---------: | :----------: | :--------------: |
+| Nº de PAU  | Altura (mm) | Anchura (mm) | Profundidad (mm) |
+|  Hasta 20  |    2000     |     1000     |       500        |
+| De 21 a 45 |    2000     |     1500     |       500        |
+| De 46 a 74 |    2000     |     2000     |       500        |
+| Más de 74  |    2300     |     2000     |       2000       |
+
+El número de PAUs de la edificación es 15 (inferior a 20). Por tanto, **las dimensiones mínimas del RITI y el RITS serán 2000 x 1000 x 500 mm**.
+
+El RITI se ubicará sobre la rasante. El RITS se ubicará en la cubierta o, como punto más bajo, en la planta ático.
+
+Al tratarse de una edificación con un número de PAUs inferior a 45, no es necesario construir RITI y RITS de obra, por lo que se utilizarán armarios modulares. Los recintos tendrán una puerta de acceso metálica de dimensiones mínimas 180 x 80 cm, que dispondrá de cerradura con llave común para los distintos usuarios autorizados.
+
+En el RITI se instalarán:
+
+- El registro principal para red de cable de pares/cable de pares trenzados.
+- El registro principal para red de cable coaxial.
+- El registro principal para red de cable fibra óptica.
+
+En el RITS se instalarán:
+
+- Los equipos de cabecera de TV.
+- Espacio reservado para equipo de cabecera de TV satélite.
 
 ## Apartado E
 
 **Dimensionamiento y características de la canalización principal**
 
-PENDIENTE
+La **canalización principal** se realizará mediante tubos. Su dimensionamiento irá en función del número de viviendas, oficinas, locales o estancias comunes de la edificación (PAU). El número de canalizaciones dependerá de la configuración de la estructura propia de la edificación. Se realizará mediante tubos de 50 mm de diámetro exterior y de pared interior lisa. El número de cables por tubo será tal que la suma de las superficies de las secciones transversales de todos ellos no superará el 50 % de la superficie de la sección transversal útil del tubo. Su dimensionamiento mínimo será como sigue:
+
+|            |                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| :--------: | :--------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nº de PAU  |               Nº de tubos                | Utilización                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|  Hasta 10  |                    5                     | 1 tubo RTV<br>1 tubo cables de pares/ pares trenzados<br>1 tubo cables coaxiales<br>1 tubo cable de fibra óptica<br>1 tubo de reserva                                                                                                                                                                                                                                                                                                                                                      |
+| De 11 a 20 |                    6                     | 1 tubo RTV<br>1 tubo cable de pares/ pares trenzados<br>2 tubos cables coaxiales<br>1 tubo cable de fibra óptica<br>1 tubo de reserva                                                                                                                                                                                                                                                                                                                                                      |
+| De 21 a 30 |                    7                     | 1 tubo RTV<br>2 tubos cable de pares/ pares trenzados<br>1 tubo cable coaxial<br>1 tubo cable de fibra<br>2 tubos de reserva                                                                                                                                                                                                                                                                                                                                                               |
+| Más de 30  | Cálculo específico en el proyecto de ICT | \* Cálculo específico: se realizará en varias verticales, o bien se proyectará en función de las características constructivas del edificio y en coordinación con el proyecto arquitectónico de la obra, garantizando en todo momento la capacidad mínima de:<br><br>1 tubo RTV<br>1 tubo/20 PAU o fracción cable de pares trenzados o 2 tubos cable de pares<br>1 tubo cable coaxial<br>1 tubo cable de fibra óptica<br>1 tubo de reserva por cada 15 PAU  o fracción, con un mínimo de 3 |
+
+**El número de PAUs de la edificación es 15. Por tanto, la canalización principal estará formada por un mínimo de 6 tubos de 50  mm con la siguiente asignación:**
+
+- **1 tubo/s para RTV**
+- **1 tubo/s para cables de pares trenzados**
+- **2 tubo/s para cable coaxial**
+- **1 tubo/s para cable de fibra óptica**
+- **1 tubo/s de reserva**
+
 
 ## Apartado F
 
