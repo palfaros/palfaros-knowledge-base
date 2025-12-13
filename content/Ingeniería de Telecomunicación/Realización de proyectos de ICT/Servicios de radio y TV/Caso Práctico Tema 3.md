@@ -33,6 +33,16 @@ Las especificaciones de los derivadores son las siguientes:
 
 **La elección de derivadores es correcta, ya que los derivadores situados en las plantas más altas tienen menores pérdidas de paso y mayores pérdidas de derivación (mayor potencia de señal recibida), mientras que los derivadores situados en las plantas bajas tienen mayores pérdidas de paso y menores pérdidas de derivación (menor potencia de señal recibida).**
 
+Con respecto a los dispositivos no explicitados en el esquema (PAUs y tomas), se han escogido los siguientes:
+- PAU Repartidor de 4 direcciones: [Televés 544902](https://www.televes.com/es/544902-repartidor-con-pau-easyf-4d-5-2400mhz-9-7-5db.html)
+- PAU Repartidor de 5 direcciones: [Televés 5454](https://www.televes.com/es/5454-repartidor-con-pau-easyf-5d-5-2400mhz-11-13db.htmll)
+- Tomas Planta 3 y Planta Ático: [Televés 5227](https://www.televes.com/es/5227xx-toma-paso-toma-de-paso-2-conectores-fm-tv-sat-plantas-3-5.html)
+- Tomas Planta 2: [Televés 5228](https://www.televes.com/es/5228xx-toma-paso-toma-de-paso-2-conectores-fm-tv-sat-planta-2.html)
+- Tomas Planta 1: [Televés 5229](https://www.televes.com/es/5229xx-toma-terminal-toma-terminal-2-conectores-fm-tv-sat-planta-1.html)
+
+Los PAUs escogidos pertenecen a la misma serie que los derviadores: *Serie EasyF*.
+Las tomas escogidas son Terrestre + Satélite con 2 Conectores CEI.
+
 ## Apartado B
 
 **Con ayuda del esquema y de las características publicadas en la Web para los dispositivos elegidos, calculad las pérdidas para todas las tomas para las frecuencias de 470 MHz y 862 MHz (extremos de la banda de TDT). ¿Cuál es la mejor atenuación?, ¿Cuál es la peor?, a partir de los resultados anteriores calculad el rango permitido para las señales de TDT a la salida de la cabecera.**
