@@ -213,7 +213,7 @@ El número de PAUs de la edificación será: 4 · 4 + 2 = 18 PAUs. Por tanto, se
 
 ## Cuestión 10
 
-En un edificio de 6 plantas; 4 viviendas por planta y 3 locales comerciales, la canalización principal::
+En un edificio de 6 plantas; 4 viviendas por planta y 3 locales comerciales, la canalización principal:
 
 Seleccione una:
 - Estará formada por un mínimo de 6 tubos de 50 mm de diámetro
