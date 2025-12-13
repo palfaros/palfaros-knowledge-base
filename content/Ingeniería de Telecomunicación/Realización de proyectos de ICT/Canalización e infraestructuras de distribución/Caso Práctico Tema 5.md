@@ -104,7 +104,6 @@ La **canalización principal** se realizará mediante tubos. Su dimensionamiento
 - **1 tubo/s para cable de fibra óptica**
 - **1 tubo/s de reserva**
 
-
 ## Apartado F
 
 **Dimensionamiento y características de la canalización secundaria**
@@ -150,7 +149,6 @@ En cuanto a las dimensiones, la normativa indica que las dimensiones mínimas se
 	- En edificaciones, en cada cambio de dirección o bifurcación de la canalización principal, cuando la canalización sea subterránea.
 
 **El número de PAUs de la edificación es 15. Por tanto, las dimensiones de los 6 registros secundarios serán 450 x 450 x 150 mm, al tratarse de una edificación con hasta 3 PAUs por planta y un total inferior a 20, así como un único cambio de dirección en la canalización principal, siendo esta canalización no subterránea.**
-
 
 ## Apartado H
 
