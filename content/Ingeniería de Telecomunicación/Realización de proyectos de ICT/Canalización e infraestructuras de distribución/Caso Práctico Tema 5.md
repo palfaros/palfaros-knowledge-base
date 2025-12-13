@@ -16,7 +16,16 @@ date: 2025-12-13
 
 **Dimensiones de la arqueta de entrada**
 
-El total de PAUs del edificio es 3·3 (Viviendas Plantas) + 3 (Viviendas Ático) + 1 (Local comercial) = 13 PAUs. Si asumimos 2 PAUs adicionales para las estancias comunes, el total de PAUs del edificio es 15.
+En función del número de puntos de acceso al usuario de la edificación a los que da servicio, la arqueta (o arquetas, si procede) de entrada deberá tener las dimensiones interiores mínimas que se indican a continuación, con dos puntos para el tendido de los cables.
+
+|                                 |                                                      |
+| :-----------------------------: | :--------------------------------------------------: |
+| Número de PAU de la edificación | Dimensiones en mm (longitud x anchura x profundidad) |
+|            Hasta 20             |                   400 x 400 x 600                    |
+|           De 21 a 100           |                   600 x 600 x 800                    |
+|           Más de 100            |                   800 x 700 x 820                    |
+
+El total de PAUs del edificio es 3·3 (Viviendas Plantas) + 3 (Viviendas Ático) + 1 (Local comercial) = 13 PAUs. Si asumimos 2 PAUs adicionales para las estancias comunes, el total de PAUs del edificio es 15. **Por tanto, las dimensiones de la arqueta de entrada serán 400 x 400 x 600 mm.**
 
 ## Apartado B
 
