@@ -127,7 +127,30 @@ La siguiente imagen muestra un esquema de la canalización secundaria que conect
 
 **Dimensionamiento de los registros secundarios. Número de registros secundarios que se colocarán**
 
-PENDIENTE
+La normativa indica que se colocará un registro secundario en los siguientes casos:
+- En los puntos de encuentro entre una canalización principal y una secundaria en el caso de edificaciones de viviendas, y en los puntos de segregación hacia las viviendas, en el caso de viviendas unifamiliares. Deberán disponer de espacios delimitados para cada uno de los servicios. Alojarán, al menos, los derivadores de la red de RTV y de la red de cables coaxiales de TBA cuando proceda, así como las regletas o cajas de segregación que constituyen el punto de distribución de cables de pares y de fibra óptica (cuando proceda) y el paso de cables de pares trenzados, coaxiales (cuando proceda) y de fibra óptica (cuando proceda).
+- En cada cambio de dirección o bifurcación de la canalización principal.
+- En cada tramo de 30 m de canalización principal.
+- En los casos de cambio en el tipo de conducción.
+
+**El primero  y el segundo de los casos son los únicos que aplican, debido a las características de la edificación. El edificio cuenta con: planta baja, 3 plantas de viviendas y planta ático. Por tanto, deben colocarse 5 registros secundarios, uno por cada planta. Por otro lado, el RITI se ubica en un punto que requiere un cambio de dirección en la canalización principal para llegar a cada una de las plantas, de forma que es necesario un registro secundario adicional. De esta forma, se colocará un total de 6 registros secundarios.**
+
+En cuanto a las dimensiones, la normativa indica que las dimensiones mínimas serán:
+- 450 x 450 x 150 mm:
+	- En edificaciones con un número de PAU por planta igual o menor que tres, y hasta un total de 20 en la edificación.
+	- En edificaciones con un número de PAU por planta igual o menor que cuatro, y un número de plantas igual o menor que cinco.
+	- En edificaciones, en cada cambio de dirección o bifurcación de la canalización principal y en cada tramo de 30 m de canalización principal.
+	- En viviendas unifamiliares.
+- 500 x 700 x 150 mm (formato horizontal o vertical):
+	- En edificaciones con un número de PAU comprendido entre 21 y 30.
+	- En edificaciones con un número de PAU  menor o igual a 20 en los que se superen las limitaciones establecidas en el apartado anterior en cuanto a número de viviendas por planta o número de plantas.
+- 550 x 1000 x 150 mm (formato horizontal o vertical):
+	- En edificaciones con número de PAU mayor de 30.
+- Arquetas de 400 x 400 x 400 mm:
+	- En edificaciones, en cada cambio de dirección o bifurcación de la canalización principal, cuando la canalización sea subterránea.
+
+**El número de PAUs de la edificación es 15. Por tanto, las dimensiones de los 6 registros secundarios serán 450 x 450 x 150 mm, al tratarse de una edificación con hasta 3 PAUs por planta y un total inferior a 20, así como un único cambio de dirección en la canalización principal, siendo esta canalización no subterránea.**
+
 
 ## Apartado H
 
