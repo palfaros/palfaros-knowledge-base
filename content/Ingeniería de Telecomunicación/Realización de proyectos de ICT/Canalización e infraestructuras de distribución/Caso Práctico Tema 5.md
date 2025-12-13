@@ -166,4 +166,8 @@ La normativa indica las siguiente dimensiones mínimas para los registros de ter
 
 **Dimensionamiento de la red interior de usuario**
 
-PENDIENTE
+La canalización de la red interior de usuario se realizará mediante tubos, utilizando configuración en estrella, combinando tramos horizontales y verticales. Dichos tubos serán rígidos o curvables, irán empotrados por el interior de la vivienda, y unirán los registros de terminación de red con los distintos registros de toma, mediante tubos independientes de 20 mm de diámetro exterior mínimo.
+
+En cuanto a los registros de toma, en viviendas se colocarán, al menos, los siguientes registros de toma:
+- En cada una de las dos estancias principales: 2 registros para tomas de cables de pares trenzados, 1 registro para toma de cables coaxiales para servicios de TBA y 1 registro para toma de cables coaxiales para servicios de RTV. En una de las estancias principales, preferiblemente el salón, 1 registro para toma de cable de fibra óptica.
+- En el resto de las estancias, excluidos baños y trasteros: 1 registro para toma de cables de pares trenzados y 1 registro para toma de cables coaxiales para servicios de RTV.
