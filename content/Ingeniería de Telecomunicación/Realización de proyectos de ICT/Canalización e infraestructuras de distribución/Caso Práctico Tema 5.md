@@ -154,7 +154,13 @@ En cuanto a las dimensiones, la normativa indica que las dimensiones mínimas se
 
 **Dimensionamiento del registro de terminación de red**
 
-PENDIENTE
+La normativa indica las siguiente dimensiones mínimas para los registros de terminación de red (RTR):
+1. Para una opción empotrable en tabique y disposición del equipamiento principalmente en vertical, 500 x 600 x 80 mm (siendo esta última dimensión la profundidad). Deberán instalarse dos tomas de corriente o bases de enchufe.
+2. Alternativamente, será admisible la ejecución del RTR mediante la disposición de dos envolventes de 500 x 300 x 80 mm (siendo esta última dimensión la profundidad), colocadas de forma adyacente y dotadas de las correspondientes comunicaciones que permitan el paso entre ellas. Una de ellas estará dedicada en su integridad a la instalación de los equipos activos. Deberán instalarse dos tomas de corriente o bases de enchufe.
+3. Para un opción empotrable en otro elemento constructivo (columna, altillo accesible, etc.) y disposición del equipamiento principalmente en horizontal, 300 x 400 x 300 mm (siendo esta última dimensión la profundidad). Deberán instalarse dos tomas de corriente o bases de enchufe.
+4. Si se opta por independizar los servicios de telefonía disponible al público y telecomunicaciones de banda ancha (SDTP y TBA) de los servicios dedicados a radiodifusión sonora y televisión (RTV) en dos envolventes independientes, la primera de ellas mantendrá las dimensiones y requisitos de la envolvente única en cualquiera de las opciones anteriores, y la dedicada a RTV tendrá unas dimensiones mínimas de 200 x 300 x 60 mm (siendo esta última dimensión la profundidad), debiendo disponer de una toma de corriente o base de enchufe. Ambos envolventes deberán estar comunicadas entre ellas.
+
+**Se ha optado por un registro de terminación de red empotrable para cada vivienda y para el local comercial, de disposición vertical y con dimensiones 500 x 600 x 80 mm.**
 
 ## Apartado I
 
