@@ -1241,3 +1241,141 @@ Una vez se dispone de la topología completa de la red hacia cada toma y las pé
 |              |            |                | Pérdidas 10,12 metros de cable coaxial               |       10,12        |  1,21   |  1,52   |
 |              |            |                | Pérdidas derivación toma Televés 5229                |                    |  4,00   |  4,00   |
 |              |            |                | Atenuación Total                                     |                    |  40,58  |  41,38  |
+
+En resumen, la atenuación en cada toma es la siguiente:
+
+|              |            |                |                  |         |         |
+| ------------ | ---------- | -------------- | ---------------- | :-----: | :-----: |
+|              |            |                |                  | 470 MHz | 862 MHz |
+| Planta Ático |            |                |                  |         |         |
+|              | Vivienda 1 |                |                  |         |         |
+|              |            | Toma 1, V1, PA |                  |         |         |
+|              |            |                | Atenuación Total |  35,20  |  35,50  |
+|              |            | Toma 2, V1, PA |                  |         |         |
+|              |            |                | Atenuación Total |  35,24  |  35,55  |
+|              |            | Toma 3, V1, PA |                  |         |         |
+|              |            |                | Atenuación Total |  35,37  |  35,71  |
+|              |            | Toma 4, V1, PA |                  |         |         |
+|              |            |                | Atenuación Total |  35,29  |  35,62  |
+|              | Vivienda 2 |                |                  |         |         |
+|              |            | Toma 1, V2, PA |                  |         |         |
+|              |            |                | Atenuación Total |  35,50  |  35,88  |
+|              |            | Toma 2, V2, PA |                  |         |         |
+|              |            |                | Atenuación Total |  35,92  |  36,40  |
+|              |            | Toma 3, V2, PA |                  |         |         |
+|              |            |                | Atenuación Total |  36,07  |  36,58  |
+|              | Vivienda 3 |                |                  |         |         |
+|              |            | Toma 1, V3, PA |                  |         |         |
+|              |            |                | Atenuación Total |  35,90  |  36,37  |
+|              |            | Toma 2, V3, PA |                  |         |         |
+|              |            |                | Atenuación Total |  35,54  |  35,92  |
+|              |            | Toma 3, V3, PA |                  |         |         |
+|              |            |                | Atenuación Total |  35,75  |  36,19  |
+|              |            | Toma 4, V3, PA |                  |         |         |
+|              |            |                | Atenuación Total |  36,01  |  36,51  |
+| Planta 3     |            |                |                  |         |         |
+|              | Vivienda 1 |                |                  |         |         |
+|              |            | Toma 1, V1, P3 |                  |         |         |
+|              |            |                | Atenuación Total |  37,31  |  37,93  |
+|              |            | Toma 2, V1, P3 |                  |         |         |
+|              |            |                | Atenuación Total |  36,37  |  36,77  |
+|              |            | Toma 3, V1, P3 |                  |         |         |
+|              |            |                | Atenuación Total |  36,60  |  37,05  |
+|              |            | Toma 4, V1, P3 |                  |         |         |
+|              |            |                | Atenuación Total |  36,57  |  37,01  |
+|              |            | Toma 5, V1, P3 |                  |         |         |
+|              |            |                | Atenuación Total |  36,42  |  36,82  |
+|              | Vivienda 2 |                |                  |         |         |
+|              |            | Toma 1, V2, P3 |                  |         |         |
+|              |            |                | Atenuación Total |  **32,54**  |  32,98  |
+|              |            | Toma 2, V2, P3 |                  |         |         |
+|              |            |                | Atenuación Total |  32,63  |  33,09  |
+|              |            | Toma 3, V2, P3 |                  |         |         |
+|              |            |                | Atenuación Total |  33,18  |  33,77  |
+|              |            | Toma 4, V2, P3 |                  |         |         |
+|              |            |                | Atenuación Total |  33,20  |  33,81  |
+|              | Vivienda 3 |                |                  |         |         |
+|              |            | Toma 1, V3, P3 |                  |         |         |
+|              |            |                | Atenuación Total |  37,17  |  37,76  |
+|              |            | Toma 2, V3, P3 |                  |         |         |
+|              |            |                | Atenuación Total |  36,60  |  37,05  |
+|              |            | Toma 3, V3, P3 |                  |         |         |
+|              |            |                | Atenuación Total |  36,96  |  37,51  |
+|              |            | Toma 4, V3, P3 |                  |         |         |
+|              |            |                | Atenuación Total |  37,10  |  37,68  |
+|              |            | Toma 5, V3, P3 |                  |         |         |
+|              |            |                | Atenuación Total |  37,30  |  37,92  |
+| Planta 2     |            |                |                  |         |         |
+|              | Vivienda 1 |                |                  |         |         |
+|              |            | Toma 1, V1, P2 |                  |         |         |
+|              |            |                | Atenuación Total |  40,95  | **41,66**  |
+|              |            | Toma 2, V1, P2 |                  |         |         |
+|              |            |                | Atenuación Total |  40,01  |  40,49  |
+|              |            | Toma 3, V1, P2 |                  |         |         |
+|              |            |                | Atenuación Total |  40,24  |  40,77  |
+|              |            | Toma 4, V1, P2 |                  |         |         |
+|              |            |                | Atenuación Total |  40,21  |  40,73  |
+|              |            | Toma 5, V1, P2 |                  |         |         |
+|              |            |                | Atenuación Total |  40,06  |  40,55  |
+|              | Vivienda 2 |                |                  |         |         |
+|              |            | Toma 1, V2, P2 |                  |         |         |
+|              |            |                | Atenuación Total |  36,19  |  36,71  |
+|              |            | Toma 2, V2, P2 |                  |         |         |
+|              |            |                | Atenuación Total |  36,27  |  36,81  |
+|              |            | Toma 3, V2, P2 |                  |         |         |
+|              |            |                | Atenuación Total |  36,82  |  37,50  |
+|              |            | Toma 4, V2, P2 |                  |         |         |
+|              |            |                | Atenuación Total |  36,85  |  37,53  |
+|              | Vivienda 3 |                |                  |         |         |
+|              |            | Toma 1, V3, P2 |                  |         |         |
+|              |            |                | Atenuación Total |  40,81  |  41,49  |
+|              |            | Toma 2, V3, P2 |                  |         |         |
+|              |            |                | Atenuación Total |  40,24  |  40,78  |
+|              |            | Toma 3, V3, P2 |                  |         |         |
+|              |            |                | Atenuación Total |  40,61  |  41,23  |
+|              |            | Toma 4, V3, P2 |                  |         |         |
+|              |            |                | Atenuación Total |  40,75  |  41,41  |
+|              |            | Toma 5, V3, P2 |                  |         |         |
+|              |            |                | Atenuación Total |  40,94  |  41,65  |
+| Planta 1     |            |                |                  |         |         |
+|              | Vivienda 1 |                |                  |         |         |
+|              |            | Toma 1, V1, P1 |                  |         |         |
+|              |            |                | Atenuación Total |  40,59  |  41,39  |
+|              |            | Toma 2, V1, P1 |                  |         |         |
+|              |            |                | Atenuación Total |  39,66  |  40,22  |
+|              |            | Toma 3, V1, P1 |                  |         |         |
+|              |            |                | Atenuación Total |  39,88  |  40,50  |
+|              |            | Toma 4, V1, P1 |                  |         |         |
+|              |            |                | Atenuación Total |  39,85  |  40,46  |
+|              |            | Toma 5, V1, P1 |                  |         |         |
+|              |            |                | Atenuación Total |  39,70  |  40,28  |
+|              | Vivienda 2 |                |                  |         |         |
+|              |            | Toma 1, V2, P1 |                  |         |         |
+|              |            |                | Atenuación Total |  35,83  |  36,44  |
+|              |            | Toma 2, V2, P1 |                  |         |         |
+|              |            |                | Atenuación Total |  35,91  |  36,54  |
+|              |            | Toma 3, V2, P1 |                  |         |         |
+|              |            |                | Atenuación Total |  36,46  |  37,23  |
+|              |            | Toma 4, V2, P1 |                  |         |         |
+|              |            |                | Atenuación Total |  36,49  |  37,26  |
+|              | Vivienda 3 |                |                  |         |         |
+|              |            | Toma 1, V3, P1 |                  |         |         |
+|              |            |                | Atenuación Total |  40,45  |  41,21  |
+|              |            | Toma 2, V3, P1 |                  |         |         |
+|              |            |                | Atenuación Total |  39,88  |  40,51  |
+|              |            | Toma 3, V3, P1 |                  |         |         |
+|              |            |                | Atenuación Total |  40,25  |  40,96  |
+|              |            | Toma 4, V3, P1 |                  |         |         |
+|              |            |                | Atenuación Total |  40,39  |  41,14  |
+|              |            | Toma 5, V3, P1 |                  |         |         |
+|              |            |                | Atenuación Total |  40,58  |  41,38  |
+
+La **mejor atenuación** es la de la **Toma 1 de la Vivienda 2 de la Planta 3**, de **32,59 dB**.
+La **peor atenuación** es la de la **Toma 1 de la Vivienda 1 de la Planta 2**, de **41,66 dB**.
+
+La norma nos obliga a que, en cada toma de TDT, tengamos un nivel de señal entre 47 y 70 dBμV. vamos a calcular los niveles de señal en cabecera que aseguran el cumplimiento de esa norma:
+
+- Para que siempre estemos por encima de 47 dBμV, la cabecera deberá **COMO MÍNIMO**, producir ese nivel en la **PEOR TOMA**. Por tanto, el nivel en cabecera, debe cumplir la desigualdad L<sub>cab</sub> ≥ L<sub>min</sub> + AT<sub>max</sub> = 47 + 41,66 = 88,66 dBμV.
+- Para que siempre estemos por debajo de 70 dBμV, la cabecera deberá **COMO MÁXIMO**, producir ese nivel en la **MEJOR TOMA**. Por tanto, el nivel en cabecera, debe cumplir la desigualdad L<sub>cab</sub> ≤ L<sub>max</sub> + AT<sub>min</sub> = 70 + 32,59 = 102,59 dBμV.
+
+**El rango permitido en la cabecera es 88,66 - 102,59 dBμV**. Por tanto, la instalación es viable.
