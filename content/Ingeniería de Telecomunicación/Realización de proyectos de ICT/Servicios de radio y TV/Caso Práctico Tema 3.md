@@ -1373,7 +1373,7 @@ En resumen, la atenuación en cada toma es la siguiente:
 La **mejor atenuación** es la de la **Toma 1 de la Vivienda 2 de la Planta 3**, de **32,59 dB**.
 La **peor atenuación** es la de la **Toma 1 de la Vivienda 1 de la Planta 2**, de **41,66 dB**.
 
-La norma nos obliga a que, en cada toma de TDT, tengamos un nivel de señal entre 47 y 70 dBμV. vamos a calcular los niveles de señal en cabecera que aseguran el cumplimiento de esa norma:
+La norma nos obliga a que, en cada toma de TDT, tengamos un nivel de señal entre 47 y 70 dBμV. Vamos a calcular los niveles de señal en cabecera que aseguran el cumplimiento de esa norma:
 
 - Para que siempre estemos por encima de 47 dBμV, la cabecera deberá **COMO MÍNIMO**, producir ese nivel en la **PEOR TOMA**. Por tanto, el nivel en cabecera, debe cumplir la desigualdad L<sub>cab</sub> ≥ L<sub>min</sub> + AT<sub>max</sub> = 47 + 41,66 = 88,66 dBμV.
 - Para que siempre estemos por debajo de 70 dBμV, la cabecera deberá **COMO MÁXIMO**, producir ese nivel en la **MEJOR TOMA**. Por tanto, el nivel en cabecera, debe cumplir la desigualdad L<sub>cab</sub> ≤ L<sub>max</sub> + AT<sub>min</sub> = 70 + 32,59 = 102,59 dBμV.
