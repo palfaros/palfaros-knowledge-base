@@ -35,7 +35,7 @@ Las especificaciones de los derivadores son las siguientes:
 
 Con respecto a los dispositivos no explicitados en el esquema (PAUs y tomas), se han escogido los siguientes:
 - PAU Repartidor de 4 direcciones: [Televés 544902](https://www.televes.com/es/544902-repartidor-con-pau-easyf-4d-5-2400mhz-9-7-5db.html)
-- PAU Repartidor de 5 direcciones: [Televés 5454](https://www.televes.com/es/5454-repartidor-con-pau-easyf-5d-5-2400mhz-11-13db.htmll)
+- PAU Repartidor de 5 direcciones: [Televés 5454](https://www.televes.com/es/5454-repartidor-con-pau-easyf-5d-5-2400mhz-11-13db.html)
 - Tomas: [Televés 5229](https://www.televes.com/es/5229xx-toma-terminal-toma-terminal-2-conectores-fm-tv-sat-planta-1.html)
 
 Los PAUs escogidos pertenecen a la misma serie que los derivadores: *Serie EasyF*.
