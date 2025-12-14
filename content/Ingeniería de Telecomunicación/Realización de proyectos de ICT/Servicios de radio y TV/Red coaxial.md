@@ -210,7 +210,7 @@ Vemos que, de momento, nos salen números muy parecidos en todas las tomas. Eso 
 
 En la tabla anterior se han resaltado en negrita dos valores muy importantes: la atenuación máxima y mínima. Como sería de esperar, el mínimo corresponde a la menor frecuencia. Sin embargo, puede parecer una paradoja que el mínimo esté en la segunda planta y no en la más alta (más cerca de la cabecera). Este hecho es muy común y se debe a la gran atenuación en derivación de los derivadores de plantas altas. El dato realmente más importante, el que determina la viabilidad de la instalación, es la diferencia entre ellas. En este caso esa diferencia es baja (menor a 5 dB) dándonos una instalación bastante equilibrada. Ahora veremos cómo calcular el nivel de señal que debe proporcionar la cabecera y, de paso, sabremos si es viable.
 
-La norma nos obliga a que en cada toma de TDT tengamos un nivel de señal entre 47 y 70 dBμV. vamos a calcular los niveles de señal en cabecera que aseguran el cumplimiento de esa norma:
+La norma nos obliga a que en cada toma de TDT tengamos un nivel de señal entre 47 y 70 dBμV. Vamos a calcular los niveles de señal en cabecera que aseguran el cumplimiento de esa norma:
 
 - Para que siempre estemos por encima de 47 dBμV, la cabecera deberá **COMO MÍNIMO**, producir ese nivel en la **PEOR TOMA**. Por tanto, el nivel en cabecera, debe cumplir la desigualdad L<sub>cab</sub> ≥ L<sub>min</sub> + AT<sub>max</sub> = 47 + 35.90 = 82.90 dBμV.
 - Para que siempre estemos por debajo de 70 dBμV, la cabecera deberá **COMO MÁXIMO**, producir ese nivel en la **MEJOR TOMA**. Por tanto, el nivel en cabecera, debe cumplir la desigualdad L<sub>cab</sub> ≤ L<sub>max</sub> + AT<sub>min</sub> = 70 + 31.08 = 101.08 dBμV.
