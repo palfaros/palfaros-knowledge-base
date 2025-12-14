@@ -128,6 +128,135 @@ En primer lugar, se va a realizar una lista con todos los elementos de atenuaci�
 			- Pérdidas 8,81 metros de cable coaxial
 			- Pérdidas derivación toma Televés 5229
 - Planta 3:
+	- Vivienda 1:
+		- Toma 1:
+			- Pérdidas 3 metros de cable coaxial
+			- Pérdidas de paso derivador Televés 5446 (4D)
+			- Pérdidas 2,85 metros de cable coaxial
+			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas 1,12 metros de cable coaxial
+			- Pérdidas de inserción o paso PAU Televés 5454 (5D)
+			- Pérdidas 13,92 metros de cable coaxial
+			- Pérdidas derivación toma Televés 5229
+		- Toma 2:
+			- Pérdidas 3 metros de cable coaxial
+			- Pérdidas de paso derivador Televés 5446 (4D)
+			- Pérdidas 2,85 metros de cable coaxial
+			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas 1,12 metros de cable coaxial
+			- Pérdidas de inserción o paso PAU Televés 5454 (5D)
+			- Pérdidas 6,13 metros de cable coaxial
+			- Pérdidas derivación toma Televés 5229
+		- Toma 3:
+			- Pérdidas 3 metros de cable coaxial
+			- Pérdidas de paso derivador Televés 5446 (4D)
+			- Pérdidas 2,85 metros de cable coaxial
+			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas 1,12 metros de cable coaxial
+			- Pérdidas de inserción o paso PAU Televés 5454 (5D)
+			- Pérdidas 8,00 metros de cable coaxial
+			- Pérdidas derivación toma Televés 5229
+		- Toma 4:
+			- Pérdidas 3 metros de cable coaxial
+			- Pérdidas de paso derivador Televés 5446 (4D)
+			- Pérdidas 2,85 metros de cable coaxial
+			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas 1,12 metros de cable coaxial
+			- Pérdidas de inserción o paso PAU Televés 5454 (5D)
+			- Pérdidas 7,74 metros de cable coaxial
+			- Pérdidas derivación toma Televés 5229
+		- Toma 5:
+			- Pérdidas 3 metros de cable coaxial
+			- Pérdidas de paso derivador Televés 5446 (4D)
+			- Pérdidas 2,85 metros de cable coaxial
+			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas 1,12 metros de cable coaxial
+			- Pérdidas de inserción o paso PAU Televés 5454 (5D)
+			- Pérdidas 6,51 metros de cable coaxial
+			- Pérdidas derivación toma Televés 5229
+	- Vivienda 2:
+		- Toma 1:
+			- Pérdidas 3 metros de cable coaxial
+			- Pérdidas de paso derivador Televés 5446 (4D)
+			- Pérdidas 2,85 metros de cable coaxial
+			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas 4,49 metros de cable coaxial
+			- Pérdidas de inserción o paso PAU Televés 544902 (4D)
+			- Pérdidas 4,20 metros de cable coaxial
+			- Pérdidas derivación toma Televés 5229
+		- Toma 2:
+			- Pérdidas 3 metros de cable coaxial
+			- Pérdidas de paso derivador Televés 5446 (4D)
+			- Pérdidas 2,85 metros de cable coaxial
+			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas 4,49 metros de cable coaxial
+			- Pérdidas de inserción o paso PAU Televés 544902 (4D)
+			- Pérdidas 4,90 metros de cable coaxial
+			- Pérdidas derivación toma Televés 5229
+		- Toma 3:
+			- Pérdidas 3 metros de cable coaxial
+			- Pérdidas de paso derivador Televés 5446 (4D)
+			- Pérdidas 2,85 metros de cable coaxial
+			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas 4,49 metros de cable coaxial
+			- Pérdidas de inserción o paso PAU Televés 544902 (4D)
+			- Pérdidas 9,49 metros de cable coaxial
+			- Pérdidas derivación toma Televés 5229
+		- Toma 4:
+			- Pérdidas 3 metros de cable coaxial
+			- Pérdidas de paso derivador Televés 5446 (4D)
+			- Pérdidas 2,85 metros de cable coaxial
+			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas 4,49 metros de cable coaxial
+			- Pérdidas de inserción o paso PAU Televés 544902 (4D)
+			- Pérdidas 9,70 metros de cable coaxial
+			- Pérdidas derivación toma Televés 5229
+	- Vivienda 3:
+		- Toma 1:
+			- Pérdidas 3 metros de cable coaxial
+			- Pérdidas de paso derivador Televés 5446 (4D)
+			- Pérdidas 2,85 metros de cable coaxial
+			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas 4,84 metros de cable coaxial
+			- Pérdidas de inserción o paso PAU Televés 5454 (5D)
+			- Pérdidas 9,03 metros de cable coaxial
+			- Pérdidas derivación toma Televés 5229
+		- Toma 2:
+			- Pérdidas 3 metros de cable coaxial
+			- Pérdidas de paso derivador Televés 5446 (4D)
+			- Pérdidas 2,85 metros de cable coaxial
+			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas 4,84 metros de cable coaxial
+			- Pérdidas de inserción o paso PAU Televés 5454 (5D)
+			- Pérdidas 4,31 metros de cable coaxial
+			- Pérdidas derivación toma Televés 5229
+		- Toma 3:
+			- Pérdidas 3 metros de cable coaxial
+			- Pérdidas de paso derivador Televés 5446 (4D)
+			- Pérdidas 2,85 metros de cable coaxial
+			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas 4,84 metros de cable coaxial
+			- Pérdidas de inserción o paso PAU Televés 5454 (5D)
+			- Pérdidas 7,35 metros de cable coaxial
+			- Pérdidas derivación toma Televés 5229
+		- Toma 4:
+			- Pérdidas 3 metros de cable coaxial
+			- Pérdidas de paso derivador Televés 5446 (4D)
+			- Pérdidas 2,85 metros de cable coaxial
+			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas 4,84 metros de cable coaxial
+			- Pérdidas de inserción o paso PAU Televés 5454 (5D)
+			- Pérdidas 8,51 metros de cable coaxial
+			- Pérdidas derivación toma Televés 5229
+		- Toma 5:
+			- Pérdidas 3 metros de cable coaxial
+			- Pérdidas de paso derivador Televés 5446 (4D)
+			- Pérdidas 2,85 metros de cable coaxial
+			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas 4,84 metros de cable coaxial
+			- Pérdidas de inserción o paso PAU Televés 5454 (5D)
+			- Pérdidas 10,12 metros de cable coaxial
+			- Pérdidas derivación toma Televés 5229
 - Planta 2:
 - Planta 1:
 
