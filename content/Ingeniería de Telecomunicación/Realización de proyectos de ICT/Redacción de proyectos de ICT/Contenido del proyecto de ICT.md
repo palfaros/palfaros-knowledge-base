@@ -7,3 +7,16 @@ El contenido exacto del proyecto de ICT viene definido en la legislación. La *
 En consecuencia, la estructura se establece con carácter imperativo y el contenido con carácter de contenido mínimo.
 
 Si el proyecto es más amplio deberá, en todo caso, ajustar su estructura, en la medida de lo posible, a lo establecido en el anexo I de la orden ITC/1644/2011 que se incluye a continuación.
+
+## Índice del proyecto ICT
+
+
+## Criterios a la hora de elaborar el proyecto de ICT
+
+### Memoria
+
+### Planos
+
+### Pliego de condiciones
+
+### Presupuesto y medidas
