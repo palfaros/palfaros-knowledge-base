@@ -2,6 +2,8 @@
 title: Introducción
 date: 2025-12-15
 ---
+## Introducción
+
 El artículo 9 del [**RD 346/2011**](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-5834), establece que, con objeto de garantizar que las redes de telecomunicaciones en el interior de los edificios cumplan con las normas técnicas establecidas en el reglamento, deberán contar con el correspondiente proyecto técnico.
 
 En este proyecto técnico se describirán, detalladamente, todos los elementos que componen la instalación y su ubicación y dimensiones, con mención de las normas que cumplen.
