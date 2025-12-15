@@ -10,6 +10,10 @@ Si el proyecto es más amplio deberá, en todo caso, ajustar su estructura, en l
 
 ## Índice del proyecto ICT
 
+**Proyecto técnico de infraestructura común de telecomunicación**
+
+
+
 
 ## Criterios a la hora de elaborar el proyecto de ICT
 
