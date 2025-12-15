@@ -24,6 +24,20 @@ El proyecto técnico de ejecución incluirá, al menos, los siguientes documento
 - Pliego de condiciones: se determinarán las calidades de los materiales y equipos y las condiciones de montaje.
 - Presupuesto: se especificará el número de unidades y precio de la unidad de cada una de las partes en que puedan descomponerse los trabajos, y deberán quedar definidas las características, modelos, tipos y dimensiones de cada uno de los elementos.
 
+## Proceso de consulta e intercambio de información
+
+Tal como señalamos anteriormente, el Real Decreto 346/2011, establece un procedimiento de consulta e intercambio de información entre los proyectistas de las ICT y los operadores de telecomunicaciones. La finalidad es:
+- Posibilitar que las infraestructuras de telecomunicación, que deben incorporarse a dichas edificaciones, permitan que la oferta de servicios de telecomunicación sea lo más amplia posible. La consulta del proyectista de la ICT incluirá una pregunta relativa a los tipos de redes que, formando parte del proyecto técnico original de la ICT, no tienen previsto utilizar para proporcionar servicios de telecomunicación a sus potenciales usuarios.
+- Confirmar la ubicación más idónea de la arqueta de entrada de la ICT.
+
+Este proceso de consulta e intercambio de información es gestionado por la Secretaría de Estado de Telecomunicaciones a través de los procedimientos y formularios establecidos al efecto en la sede electrónica del Ministerio de Industria, Turismo y Comercio y consiste en:
+- El envío, de forma electrónica, por parte del proyectista de la ICT, de una petición de información dirigida a los operadores, en el que se incluye la localización de la ICT y la situación propuesta de la arqueta de entrada, los datos del promotor y los datos del proyectista autor de la consulta, así como una pregunta relativa a los tipos de redes del citado Reglamento.
+- En función de la localización de la edificación objeto del proceso de consulta, la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información reenviará, de forma electrónica, la consulta a todos los operadores con red interesados.
+- En un plazo no superior a 30 días naturales, los operadores con red habrán de responder, de forma electrónica, a la consulta recibida. En su respuesta se incluirán los datos de una persona de contacto para resolver las posibles dudas del proyectista, así como si lo estima conveniente, un fichero con el plano de la ubicación alternativa de la arqueta de entrada de la ICT, a la propuesta por el proyectista de la ICT.
+- La Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información reenviará, de forma electrónica, las respuestas recibidas de todos los operadores consultados al proyectista autor de la consulta. Transcurrido el plazo de 30 días sin haber recibido respuesta alguna, comunicará esta circunstancia al proyectista.
+
+La consulta deberá efectuarse **inmediatamente antes del momento del comienzo de las obras de ejecución** de la edificación proyectada, haciéndolo coincidir con el proceso de replanteo de la obra. Su resultado deberá reflejarse en la correspondiente acta de replanteo y, si procede, en función de las respuestas de los operadores, provocará que se realicen las modificaciones oportunas en el proyecto técnico, mediante el anexo correspondiente.
+
 ## Manual de usuario
 
 Una vez finalizada la ejecución de la ICT, el director de obra, si existe, o en su defecto, la empresa instaladora, realizará un manual de usuario que describirá de forma exhaustiva y didáctica las posibilidades y funcionalidades que ofrece la infraestructura a los usuarios finales, así como las recomendaciones en cuanto a uso y mantenimiento de la misma. (Anexo VI orden ITC 1644/2011). El promotor de la edificación entregará, con la vivienda, a cada uno de los propietarios, un ejemplar del manual de usuario.
