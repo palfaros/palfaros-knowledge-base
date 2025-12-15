@@ -12,6 +12,40 @@ Si el proyecto es más amplio deberá, en todo caso, ajustar su estructura, en l
 
 **Proyecto técnico de infraestructura común de telecomunicación**
 
+<style>
+.pre-ict {
+  font-family: var(--font-text);
+  font-size: 1em;
+  line-height: 1.6;
+  white-space: pre;
+}
+</style>
+
+<pre class="pre-ict">
+1. Memoria
+	1.1 Datos generales
+		1.1.A Datos del promotor.
+		1.1.B Descripción del edificio o complejo urbano, con indicación del número bloques, portales, escaleras, plantas, viviendas por planta, dependencias de cada vivienda, locales comerciales, oficinas, etc.
+		1.1.C Aplicación de la Ley de Propiedad Horizontal.
+		1.1.D Objeto del Proyecto Técnico.
+	1.2 Elementos que constituyen la infraestructura común de telecomunicación.
+		1.2.A Captación y distribución de radiodifusión sonora y televisión terrestres.
+			a) Consideraciones sobre el diseño.
+			b) Señales de radiodifusión sonora y televisión terrestres que se reciben en el emplazamiento de las antenas receptoras.
+			c) Selección de emplazamiento y parámetros de las antenas receptoras.
+			d) Cálculo de los soportes para la instalación de las antenas receptoras.
+			e) Plan de frecuencias.
+			f) Número de tomas.
+			g) Cálculo de parámetros básicos de la instalación:
+				1) Número de repartidores, derivadores, según su ubicación en la red, PAU y sus características, así como las de los cables utilizados.
+				2) Cálculo de la atenuación desde los amplificadores de cabecera hasta las tomas de usuario, en la banda 15 MHz–862 MHz.
+				3) Respuesta amplitud frecuencia (Variación máxima de la atenuación a diversas frecuencias en el mejor y en el peor caso).
+				4) Amplificadores necesarios (número, situación en la red y tensión máxima de salida).
+				5) Niveles de señal en toma de usuario en el mejor y peor caso.
+				6) Relación señal / ruido en la peor toma.
+				7) Productos de Intermodulación.
+				8) Número máximo de canales de televisión distribuibles según el Reglamento.
+</pre>
 
 
 
