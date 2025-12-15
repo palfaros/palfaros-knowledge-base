@@ -23,3 +23,7 @@ El proyecto técnico de ejecución incluirá, al menos, los siguientes documento
 - Planos: indicarán, al menos, los siguientes datos: esquemas de principio de la instalación; tipo, número, características y situación de los elementos de la infraestructura, canalizaciones de telecomunicación de la edificación; situación y ordenación de los recintos de instalaciones de telecomunicaciones; otras instalaciones previstas en la edificación que pudieran interferir o ser interferidas en su funcionamiento con la infraestructura; y detalles de ejecución de puntos singulares, cuando así se requiera por su índole.
 - Pliego de condiciones: se determinarán las calidades de los materiales y equipos y las condiciones de montaje.
 - Presupuesto: se especificará el número de unidades y precio de la unidad de cada una de las partes en que puedan descomponerse los trabajos, y deberán quedar definidas las características, modelos, tipos y dimensiones de cada uno de los elementos.
+
+## Manual de usuario
+
+Una vez finalizada la ejecución de la ICT, el director de obra, si existe, o en su defecto, la empresa instaladora, realizará un manual de usuario que describirá de forma exhaustiva y didáctica las posibilidades y funcionalidades que ofrece la infraestructura a los usuarios finales, así como las recomendaciones en cuanto a uso y mantenimiento de la misma. (Anexo VI orden ITC 1644/2011). El promotor de la edificación entregará, con la vivienda, a cada uno de los propietarios, un ejemplar del manual de usuario.
