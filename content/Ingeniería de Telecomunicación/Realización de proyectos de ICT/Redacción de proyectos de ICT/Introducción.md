@@ -38,6 +38,10 @@ Este proceso de consulta e intercambio de información es gestionado por la Secr
 
 La consulta deberá efectuarse **inmediatamente antes del momento del comienzo de las obras de ejecución** de la edificación proyectada, haciéndolo coincidir con el proceso de replanteo de la obra. Su resultado deberá reflejarse en la correspondiente acta de replanteo y, si procede, en función de las respuestas de los operadores, provocará que se realicen las modificaciones oportunas en el proyecto técnico, mediante el anexo correspondiente.
 
+## Ejecución del proyecto
+
+En el momento del inicio de los trabajos de ejecución de las obras de la ICT, el promotor encargará al director de obra de la ICT, si existe, o en caso contrario a otro técnico la realización del replanteo de la obra. Dicho replanteo quedará reflejado en un acta, firmada por su autor y por el promotor de la edificación, en la que figurará una declaración expresa de validez del proyecto original o, si las circunstancias hubieren variado y fuera necesario la actualización de éste, la forma en que se va a acometer dicha actualización, bien como modificación del proyecto, o bien como anexo al proyecto original.
+
 ## Manual de usuario
 
 Una vez finalizada la ejecución de la ICT, el director de obra, si existe, o en su defecto, la empresa instaladora, realizará un manual de usuario que describirá de forma exhaustiva y didáctica las posibilidades y funcionalidades que ofrece la infraestructura a los usuarios finales, así como las recomendaciones en cuanto a uso y mantenimiento de la misma. (Anexo VI orden ITC 1644/2011). El promotor de la edificación entregará, con la vivienda, a cada uno de los propietarios, un ejemplar del manual de usuario.
