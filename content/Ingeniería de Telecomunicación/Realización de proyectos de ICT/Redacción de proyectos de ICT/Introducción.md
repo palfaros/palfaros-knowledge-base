@@ -42,6 +42,29 @@ La consulta deberá efectuarse **inmediatamente antes del momento del comienzo 
 
 En el momento del inicio de los trabajos de ejecución de las obras de la ICT, el promotor encargará al director de obra de la ICT, si existe, o en caso contrario a otro técnico la realización del replanteo de la obra. Dicho replanteo quedará reflejado en un acta, firmada por su autor y por el promotor de la edificación, en la que figurará una declaración expresa de validez del proyecto original o, si las circunstancias hubieren variado y fuera necesario la actualización de éste, la forma en que se va a acometer dicha actualización, bien como modificación del proyecto, o bien como anexo al proyecto original.
 
+Una copia del **acta de replanteo** deberá ser presentada de forma electrónica en el registro electrónico del Ministerio de Industria, Turismo y Comercio, en un plazo no superior a 15 días naturales a partir de la fecha de su firma.
+
+Deberá realizarse una **modificación del proyecto técnico de la ICT** en los siguientes casos:
+- Cuando la edificación en construcción presente cambios.
+- Se contemplen nuevos servicios de telecomunicación, no reflejados en el proyecto técnico, en la ICT proyectada.
+- El aumento o la disminución, en la ICT proyectada, de más del 12 por 100 en el número de puntos de acceso a usuarios.
+- En el caso de las infraestructuras destinadas a soportar los servicios de radiodifusión sonora y televisión procedentes de emisiones tanto terrenales como de satélite, cuando la incorporación de nuevos canales radioeléctricos de televisión a la infraestructura, suponga una ocupación superior al 3 por 100 del ancho de banda de cualquiera de los cables de la red de distribución.
+- Cuando se modifique el número de recintos de instalaciones de telecomunicación en la ICT proyectada.
+
+En otro caso, si los cambios fueren de menor entidad o si fueran motivados por el resultado del proceso de consulta e intercambio de información se realizará un **anexo al proyecto original**. Este anexo será realizado por el autor del acta de replanteo y adjuntado a la misma. El acta modelo de acta de replanteo puede encontrarse en el anexo III de la orden ITC 1644/2011.
+
+Finalizados los trabajos de ejecución del proyecto técnico mencionado, la empresa instaladora de telecomunicación que ha ejecutado la ICT entregará un **boletín de instalación**, como garantía de que ésta se ajusta al proyecto técnico. Además cumplimentará y firmará el protocolo de pruebas incluido en el anexo V de la orden ITC 1644/2011 si no existe director de obra.
+
+Si existe director de obra este expedirá un **certificado de fin de obra**, según anexo IV de la orden ITC 1644/2011 y supervisará  el protocolo de pruebas realizado y firmado por la empresa instaladora para comprobar la correcta ejecución de la instalación, ambos, como garantías de que la instalación se ajusta al proyecto técnico.
+
+La **dirección de obra** será obligatoria, al menos, en los siguientes casos:
+- Cuando el proyecto técnico se refiera a la realización de ICT en edificios de más de 20 viviendas.
+- Que en la ICT se incluyan elementos activos en la red de distribución.
+- Cuando el proyecto técnico de ICT incluya las instalaciones de Hogar Digital (anexo V del R.D 346/2011)
+- Cuando el proyecto técnico se refiera a la realización de infraestructuras comunes de telecomunicaciones en edificios de uso no residencial.
+
+En los supuestos de edificios de nueva construcción, será requisito imprescindible para la concesión de la licencia de primera ocupación la presentación ante la Administración competente, junto con el certificado de fin de obra relativo a la edificación, del citado boletín de instalación de telecomunicaciones o bien del, del certificado de fin de obra (si existe director de obra), sellados por la Jefatura Provincial de Inspección de Telecomunicaciones correspondiente.
+
 ## Manual de usuario
 
 Una vez finalizada la ejecución de la ICT, el director de obra, si existe, o en su defecto, la empresa instaladora, realizará un manual de usuario que describirá de forma exhaustiva y didáctica las posibilidades y funcionalidades que ofrece la infraestructura a los usuarios finales, así como las recomendaciones en cuanto a uso y mantenimiento de la misma. (Anexo VI orden ITC 1644/2011). El promotor de la edificación entregará, con la vivienda, a cada uno de los propietarios, un ejemplar del manual de usuario.
