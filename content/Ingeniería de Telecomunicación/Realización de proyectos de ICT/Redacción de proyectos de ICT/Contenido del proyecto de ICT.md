@@ -44,7 +44,14 @@ Si el proyecto es más amplio deberá, en todo caso, ajustar su estructura, en l
 				5) Niveles de señal en toma de usuario en el mejor y peor caso.
 				6) Relación señal / ruido en la peor toma.
 				7) Productos de Intermodulación.
-				8) Número máximo de canales de televisión distribuibles según el Reglamento.
+				8) En el caso de utilización de amplificadores de red de distribución, y con el fin de facilitar al titular de la propiedad, la información necesaria respecto a posibles ampliaciones de la infraestructura, se incluirá detalle relativo al número máximo de canales de televisión incluyendo los considerados en el proyecto original, que puede distribuir la instalación, manteniendo sus características dentro de los límites establecidos en el anexo I del Reglamento.
+			h) Descripción de los elementos componentes de la instalación.
+				1\) Sistemas captadores.
+				2\) Amplificadores.
+				3\) Mezcladores.
+				4\) Distribuidores, derivadores, PAUs.
+				5\) Cables.
+				6\) Materiales complementarios.
 </pre>
 
 
