@@ -240,10 +240,16 @@ Se adjunta modelo de tabla de la orden ITC 1644/2011 normalizada que contiene lo
 
 ![[Modelo_tabla_datos_proyecto.png]]
 
-### Memoria
+### 1. Memoria
 
-### Planos
+### 2. Planos
 
-### Pliego de condiciones
+### 3. Pliego de condiciones
 
-### Presupuesto y medidas
+### 4. Presupuesto y medidas
+
+Los materiales objeto del Proyecto Técnico serán genéricos, salvo cuando, por razones especiales, se decida que sean referidos a un fabricante concreto, utilizándose precios de mercado. Este apartado constituye un elemento importante para poder realizar la comprobación de las partidas instaladas e identificar los materiales utilizados en cada caso en la instalación.
+
+En él se especificará el número de unidades y precio unitario de cada una de las partes en que puedan descomponerse los trabajos, que deberá responder al coste de material, su instalación o conexión, cuando proceda.
+
+Pueden redactarse tantos presupuestos parciales como conjuntos de obra distintos puedan establecerse por la disposición y situación de la edificación o por la especialidad en que puedan evaluarse. Como resumen, deberá establecerse un presupuesto general en el que consten, como partidas, los importes de cada presupuesto parcial.
