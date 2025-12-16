@@ -46,6 +46,28 @@ Si el proyecto es más amplio deberá, en todo caso, ajustar su estructura, en l
 				7) Productos de Intermodulación.
 				8) En el caso de utilización de amplificadores de red de distribución, y con el fin de facilitar al titular de la propiedad, la información necesaria respecto a posibles ampliaciones de la infraestructura, se incluirá detalle relativo al número máximo de canales de televisión incluyendo los considerados en el proyecto original, que puede distribuir la instalación, manteniendo sus características dentro de los límites establecidos en el anexo I del Reglamento.
 			h) Descripción de los elementos componentes de la instalación.
+				1 - Sistemas captadores.
+				2.- Amplificadores.
+				3.- Mezcladores.
+				4.- Distribuidores, derivadores, PAUs.
+				5.- Cables.
+				6.- Materiales complementarios.
+		1.2.B Distribución de radiodifusión sonora y televisión por satélite.
+			a) Selección del emplazamiento y parámetros de las antenas receptoras de la señal de satélite.
+			b) Cálculo de los soportes para la instalación de las antenas receptoras de la señal de satélite.
+			c) Previsión para incorporar las señales de satélite.
+			d) Mezcla de las señales de radiodifusión sonora y televisión por satélite con las terrestres.
+			e) Cálculo de parámetros básicos de la instalación:
+			f) Descripción de los elementos componentes de la instalación (cuando proceda):
+				9\) Número de repartidores, derivadores, según su ubicación en la red, PAU y sus características, así como las de los cables utilizados.
+				10) Cálculo de la atenuación desde los amplificadores de cabecera hasta las tomas de usuario, en la banda 15 MHz–862 MHz.
+				11) Respuesta amplitud frecuencia (Variación máxima de la atenuación a diversas frecuencias en el mejor y en el peor caso).
+				12) Amplificadores necesarios (número, situación en la red y tensión máxima de salida).
+				13) Niveles de señal en toma de usuario en el mejor y peor caso.
+				14) Relación señal / ruido en la peor toma.
+				15) Productos de Intermodulación.
+				16) En el caso de utilización de amplificadores de red de distribución, y con el fin de facilitar al titular de la propiedad, la información necesaria respecto a posibles ampliaciones de la infraestructura, se incluirá detalle relativo al número máximo de canales de televisión incluyendo los considerados en el proyecto original, que puede distribuir la instalación, manteniendo sus características dentro de los límites establecidos en el anexo I del Reglamento.
+			h) Descripción de los elementos componentes de la instalación.
 				1\) Sistemas captadores.
 				2\) Amplificadores.
 				3\) Mezcladores.
