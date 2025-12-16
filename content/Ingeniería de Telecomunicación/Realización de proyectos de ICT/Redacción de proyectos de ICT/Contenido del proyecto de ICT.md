@@ -162,6 +162,24 @@ Si el proyecto es más amplio deberá, en todo caso, ajustar su estructura, en l
 				3.- Registros de los diversos tipos.
 				4.- Material de equipamiento de los recintos.
 
+2. Planos
+	2.1 Plano general de situación del edificio.
+	2.2 Planos descriptivos de la infraestructura para la instalación de las redes de telecomunicación que constituyen la ICT.
+		2.2.A Instalaciones de ICT en planta sótano o garaje (en su caso).
+		2.2.B Instalaciones de ICT en planta baja.
+		2.2.C Instalaciones de ICT en planta tipo.
+		2.2.D Instalaciones de ICT en plantas singulares.
+		2.2.E Instalaciones de ICT en ático (cuando proceda).
+		2.2.F Instalaciones de ICT en planta cubierta o bajo cubierta.
+		2.2.G Instalaciones de ICT en sección (cuando la estructura del edificio lo permita).
+		2.2.H Instalaciones para servicios de Hogar Digital y otros servicios.
+	2.3 Esquemas de principio.
+		2.3.A Esquema general de la infraestructura proyectada para el edificio, con las diferentes canalizaciones y registros identificados para cada red de telecomunicación incluida en la ICT.
+		2.3.B Esquemas de principio de la instalación de Radiodifusión Sonora y Televisión, mostrando todo el material activo y pasivo (con su identificación con relación a lo indicado en Memoria y Pliego de Condiciones) y acotaciones en metros.
+		2.3.C Esquemas de principio de cada una de las redes para el acceso a los servicios de telefonía disponible al público y de banda ancha, mostrando la asignación de cables por planta y por vivienda, así como las características de los cables y demás elementos utilizados en los puntos de interconexión, distribución y de acceso al usuario (con su identificación con relación a lo indicado en Memoria y Pliego de Condiciones) y acotaciones en metros.
+		2.3.D Esquemas de principio de la instalación proyectada para cualquier otra red incluida en la ICT.
+		2.3.E Esquema de distribución de equipos en el interior del Registro de Terminación de Red.
+
 </pre>
 
 
