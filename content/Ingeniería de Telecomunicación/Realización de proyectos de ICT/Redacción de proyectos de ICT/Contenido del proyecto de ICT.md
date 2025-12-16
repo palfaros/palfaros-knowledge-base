@@ -228,9 +228,17 @@ Si el proyecto es más amplio deberá, en todo caso, ajustar su estructura, en l
 
 </pre>
 
-
-
 ## Criterios a la hora de elaborar el proyecto de ICT
+
+Se expondrán a continuación algunos criterios a contemplar para la elaboración del proyecto según la estructura mostrada en el apartado anterior.
+
+**Proyecto técnico de infraestructura común de telecomunicación**
+
+### Portada/Introducción
+
+Se adjunta modelo de tabla de la orden ITC 1644/2011 normalizada que contiene los  datos del proyecto:
+
+![[Modelo_tabla_datos_proyecto.png]]
 
 ### Memoria
 
