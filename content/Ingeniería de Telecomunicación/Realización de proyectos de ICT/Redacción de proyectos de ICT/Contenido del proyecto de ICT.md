@@ -192,11 +192,9 @@ Si el proyecto es más amplio deberá, en todo caso, ajustar su estructura, en l
 				1.- Características de los cables.
 				2.- Características de los elementos activos (si existen).
 				3.- Características de los elementos pasivos.
-
 			b) Redes de Cables Coaxiales.
 				1.- Características de los cables.
 				2.- Características de los elementos pasivos.
-
 			c) Redes de Cables de Fibra Óptica.
 				1.- Características de los cables.
 				2.- Características de los elementos pasivos.
