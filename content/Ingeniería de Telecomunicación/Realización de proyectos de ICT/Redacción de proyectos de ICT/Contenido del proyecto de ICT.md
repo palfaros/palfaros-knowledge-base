@@ -180,6 +180,54 @@ Si el proyecto es más amplio deberá, en todo caso, ajustar su estructura, en l
 		2.3.D Esquemas de principio de la instalación proyectada para cualquier otra red incluida en la ICT.
 		2.3.E Esquema de distribución de equipos en el interior del Registro de Terminación de Red.
 
+3. Pliego de condiciones
+	3.1 Condiciones particulares:
+		3.1.A Radiodifusión sonora y televisión.
+			a) Condicionantes de acceso a los sistemas de captación.
+			b) Características de los sistemas de captación.
+			c) Características de los elementos activos.
+			d) Características de los elementos pasivos.
+		3.1.B Distribución de los servicios de telecomunicaciones de telefonía disponible al público (STDP) y de banda ancha (TBA).
+			a) Redes de cables de Pares o Pares Trenzados.
+				1.- Características de los cables.
+				2.- Características de los elementos activos (si existen).
+				3.- Características de los elementos pasivos.
+
+			b) Redes de Cables Coaxiales.
+				1.- Características de los cables.
+				2.- Características de los elementos pasivos.
+
+			c) Redes de Cables de Fibra Óptica.
+				1.- Características de los cables.
+				2.- Características de los elementos pasivos.
+				3.- Características de los empalmes de fibra en la instalación (si procede).
+		3.1.C Infraestructuras de Hogar Digital (cuando se incluyan en el proyecto).
+		3.1.D Infraestructura.
+			a) Condicionantes a tener en cuenta para su ubicación.
+			b) Características de las arquetas.
+			c) Características de la canalización externa, de enlace, principal, secundaria e interior de usuario.
+			d) Condicionantes a tener en cuenta en la distribución interior de los RIT. Instalación y ubicación de los diferentes equipos.
+			e) Características de los registros de enlace, secundarios, de paso, de terminación de red y toma.
+		3.1.E Cuadros de medidas.
+			a) Cuadro de medidas a satisfacer en las tomas de televisión terrestre, incluyendo también el margen del espectro radioeléctrico comprendido entre 950 MHz y 2150 MHz.
+			b) Cuadro de medidas de las redes de telecomunicaciones de telefonía disponible al público y de banda ancha.
+				1.- Redes de Cables de Pares o Pares Trenzados.
+				2.- Redes de Cables Coaxiales.
+				3.- Redes de Cables de Fibra Óptica.
+		3.1.F Utilización de elementos no comunes del edificio o conjunto de edificaciones (si existe).
+			a) Descripción de los elementos y de su uso.
+			b) Determinación de las servidumbres impuestas a los elementos.
+		3.1.G Estimación de los residuos generados por la instalación de la ICT.
+	3.2 Condiciones generales.
+		3.2.A Reglamento de ICT y Normas Anexas.
+		3.2.B Normativa vigente sobre Prevención de Riesgos Laborales.
+		3.2.C Normativa sobre protección contra campos electromagnéticos.
+		3.2.D Secreto de las comunicaciones.
+		3.2.E Normativa sobre gestión de residuos.
+		3.2.F Normativa en materia de protección contra incendios.
+
+4. Presupuesto y medidas
+
 </pre>
 
 
