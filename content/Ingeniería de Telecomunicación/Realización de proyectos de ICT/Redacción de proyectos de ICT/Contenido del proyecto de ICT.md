@@ -242,6 +242,27 @@ Se adjunta modelo de tabla de la orden ITC 1644/2011 normalizada que contiene lo
 
 ### 1. Memoria
 
+El objeto de la memoria es la descripción del edificio o conjunto de edificios para el que se redacta el Proyecto Técnico, descripción de los servicios que se incluyen en la ICT, así como las señales, entradas y demás datos de partida, cálculos o sus resultados, que determinen las características y cantidad de los materiales a emplear, ubicación en las diferentes redes y la forma y características de la instalación. Por tanto lo que sigue debe responder a estos condicionantes.
+
+#### 1.1 Datos generales
+
+##### 1.1.A Datos del promotor.
+
+##### 1.1.B Descripción del edificio o complejo urbano, con indicación del número bloques, portales, escaleras, plantas, viviendas por planta, dependencias de cada vivienda, locales comerciales, oficinas, etc.
+
+##### 1.1.C Aplicación de la Ley de Propiedad Horizontal.
+
+La ley de propiedad horizontal, Ley 49/1960, modificada por la Ley 8/1999, tiene por objeto la regulación entre copropietarios sometidos a su régimen, derechos y obligaciones.
+
+La Comunidad de Propietarios se define en la escritura de División Horizontal que es la que hace nacer a la luz pública la edificación resultante del Proyecto de Edificación.
+
+El número de comunidades de propietarios que puedan resultar de un proyecto arquitectónico es muy variado pudiendo ser una sola o varias, según considere el promotor que es el responsable de establecer los principios de esta Escritura de División Horizontal, que resulte adecuado para la vida diaria y la administración de cada uno de los edificios, bloques o elementos que constituyen el proyecto arquitectónico.
+
+Por todo ello, sobre todo en los casos de edificios que puedan ser susceptibles de estar constituidos por más de una Comunidad de Propietarios, es necesario conocer los planes del promotor, antes de proceder al diseño de la ICT y en base a las indicaciones recibidas proceder estableciendo, cuando sean necesarias las servidumbres correspondientes.
+
+##### 1.1.D Objeto del Proyecto Técnico.
+
+
 ### 2. Planos
 
 En este capítulo se incluyen los planos y esquemas de principio necesarios para la instalación de la infraestructura objeto del Proyecto Técnico. Constituyen la herramienta para que el constructor pueda ubicar en los lugares adecuados los elementos requeridos en la memoria, de acuerdo con las características de los mismos incluidas en el Pliego de Condiciones. Deben ser, por tanto, claros y precisos. Delineados por medios electrónicos o manuales eliminando dudas en su interpretación. Los reflejados a continuación, considerados como mínimos, podrán ser complementados con otros planos que a juicio del proyectista sean necesarios en cada caso concreto. Es importante señalar que se deben incluir junto a los planos del edificio, que muestren la ubicación de los recintos, las canalizaciones, registros y bases de acceso terminal, los esquemas básicos de las infraestructuras de radiodifusión sonora y televisión y de los servicios de telecomunicaciones de telefonía disponible al público y de banda ancha. El esquema de la infraestructura tiene por objeto mostrar las canalizaciones, recintos, registros y bases de acceso terminal. El esquema de radiodifusión sonora y televisión tiene por objeto mostrar los elementos de esta infraestructura, desde los elementos de captación de las señales hasta las bases de acceso de los terminales. El esquema de telecomunicaciones de telefonía disponible al público y de banda ancha tiene por objeto mostrar la distribución de los cables y demás elementos de la redes de telefonía disponible al público y de banda ancha del edificio o conjunto de edificaciones y su asignación a cada vivienda. Se incluirán, al menos, los siguientes planos:
