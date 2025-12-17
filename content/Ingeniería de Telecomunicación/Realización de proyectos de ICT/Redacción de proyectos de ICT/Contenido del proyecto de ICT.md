@@ -311,6 +311,23 @@ El Pliego de Condiciones constituirá la parte del Proyecto Técnico en la que s
 
 ##### 3.1.G Estimación de los residuos generados por la instalación de la ICT.
 
+#### 3.2 Condiciones generales.
+
+En este apartado se recogerán, como ya se ha indicado, las Normas y requisitos legales que sean de aplicación, con carácter general, a la ICT proyectada. Se deberán incluir referencias específicas, al menos, a:
+##### 3.2.A Reglamento de ICT y Normas Anexas.
+##### 3.2.B Normativa vigente sobre Prevención de Riesgos Laborales
+
+Acompañada de una relación exhaustiva de las actividades y tareas que deben realizarse para la ejecución de las infraestructuras proyectadas, así como para el mantenimiento posterior de las mismas, para que el responsable de la redacción del Estudio de Seguridad y Salud o el Estudio Básico de Seguridad y Salud evalúe los riesgos que se derivan de las mismas y establezca las medidas preventivas adecuadas que deben ser incluidas en el Plan de Seguridad y Salud de la Obra e implementadas por parte del coordinador de seguridad y salud de la obra en cuestión. Especial atención deberá observarse en relación con las actividades y tareas a realizar, en fase de mantenimiento de la infraestructura. Sobre la cubierta de la edificación y el acceso a la misma, al objeto de que se garantice la permanencia con carácter indefinido de las medidas de protección que se hayan definido como necesarias para realizar las citadas actividades o tareas. Esta información se podrá incluir en forma de apéndice o anexo al proyecto, en orden a facilitar su entrega al responsable o encargado de realizar los citados estudios.
+##### 3.2.C Normativa sobre protección contra campos electromagnéticos.
+
+##### 3.2.D Secreto de las comunicaciones.
+
+##### 3.2.E Normativa sobre gestión de residuos.
+
+##### 3.2.F Normativa en materia de protección contra incendios
+
+Deberá incluirse una declaración de que todos los materiales prescritos cumplen la normativa vigente en materia de protección contra incendios. En el diseño de las canalizaciones se tendrá en cuenta el mantenimiento de la resistencia al fuego de los elementos de compartimentación, en coordinación con el responsable del proyecto de edificación.
+
 ### 4. Presupuesto y medidas
 
 Los materiales objeto del Proyecto Técnico serán genéricos, salvo cuando, por razones especiales, se decida que sean referidos a un fabricante concreto, utilizándose precios de mercado. Este apartado constituye un elemento importante para poder realizar la comprobación de las partidas instaladas e identificar los materiales utilizados en cada caso en la instalación.
