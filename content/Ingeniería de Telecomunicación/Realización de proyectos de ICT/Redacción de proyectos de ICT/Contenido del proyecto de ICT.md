@@ -244,6 +244,42 @@ Se adjunta modelo de tabla de la orden ITC 1644/2011 normalizada que contiene lo
 
 ### 2. Planos
 
+En este capítulo se incluyen los planos y esquemas de principio necesarios para la instalación de la infraestructura objeto del Proyecto Técnico. Constituyen la herramienta para que el constructor pueda ubicar en los lugares adecuados los elementos requeridos en la memoria, de acuerdo con las características de los mismos incluidas en el Pliego de Condiciones. Deben ser, por tanto, claros y precisos. Delineados por medios electrónicos o manuales eliminando dudas en su interpretación. Los reflejados a continuación, considerados como mínimos, podrán ser complementados con otros planos que a juicio del proyectista sean necesarios en cada caso concreto. Es importante señalar que se deben incluir junto a los planos del edificio, que muestren la ubicación de los recintos, las canalizaciones, registros y bases de acceso terminal, los esquemas básicos de las infraestructuras de radiodifusión sonora y televisión y de los servicios de telecomunicaciones de telefonía disponible al público y de banda ancha. El esquema de la infraestructura tiene por objeto mostrar las canalizaciones, recintos, registros y bases de acceso terminal. El esquema de radiodifusión sonora y televisión tiene por objeto mostrar los elementos de esta infraestructura, desde los elementos de captación de las señales hasta las bases de acceso de los terminales. El esquema de telecomunicaciones de telefonía disponible al público y de banda ancha tiene por objeto mostrar la distribución de los cables y demás elementos de la redes de telefonía disponible al público y de banda ancha del edificio o conjunto de edificaciones y su asignación a cada vivienda. Se incluirán, al menos, los siguientes planos:
+
+#### 2.1 Plano general de situación del edificio.
+
+#### 2.2 Planos descriptivos de la infraestructura para la instalación de las redes de telecomunicación que constituyen la ICT.
+
+##### 2.2.A Instalaciones de ICT en planta sótano o garaje (en su caso).
+
+##### 2.2.B Instalaciones de ICT en planta baja.
+
+##### 2.2.C Instalaciones de ICT en planta tipo.
+
+##### 2.2.D Instalaciones de ICT en plantas singulares.
+
+##### 2.2.E Instalaciones de ICT en ático (cuando proceda).
+
+##### 2.2.F Instalaciones de ICT en planta cubierta o bajo cubierta.
+
+##### 2.2.G Instalaciones de ICT en sección (cuando la estructura del edificio lo permita).
+
+##### 2.2.H Instalaciones para servicios de Hogar Digital, y otros servicios.
+
+Cuando sea posible, estas instalaciones se podrán incluir en los planos de las instalaciones comunitarias de la ICT, siempre que queden debidamente diferenciadas. Si ello no fuera posible o adecuado, por su complejidad, se incluirán en planos separados. Las instalaciones interiores de las viviendas o locales se mostrarán en planos separados.
+
+#### 2.3. Esquemas de principio.
+
+##### 2.3.A Esquema general de la infraestructura proyectada para el edificio, con las diferentes canalizaciones y registros identificados para cada red de telecomunicación incluida en la ICT.
+
+##### 2.3.B Esquemas de principio de la instalación de Radiodifusión Sonora y Televisión, mostrando todo el material activo y pasivo (con su identificación con relación a lo indicado en Memoria y Pliego de Condiciones) y acotaciones en metros.
+
+##### 2.3.C Esquemas de principio de cada una de las redes para el acceso a los servicios de telefonía disponible al público y de banda ancha, mostrando la asignación de cables por planta y por vivienda así como las características de los cables, y demás elementos utilizados en los puntos de interconexión, distribución y de acceso al usuario (con su identificación con relación a lo indicado en Memoria y Pliego de Condiciones) y acotaciones en metros.
+
+##### 2.3.D Esquemas de principio de la instalación proyectada para cualquier otra red incluida en la ICT.
+
+##### 2.3.E Esquema de distribución de equipos en el interior del Registro de Terminación de Red.
+
 ### 3. Pliego de condiciones
 
 El Pliego de Condiciones constituirá la parte del Proyecto Técnico en la que se describan los materiales, de forma genérica o bien particularizada de productos de fabricantes concretos, si así lo requiriese el promotor, en el entendimiento que resultan de obligado cumplimiento las Normas anexas al Reglamento y sólo cuando los requerimientos utilizados por el proyectista en cuanto a características técnicas resulten más estrictos que las de dichas Normas, o en los casos no contemplados en las mismas, o cuando éstas resulten de difícil cumplimiento será necesario incidir en las mismas. Para todos aquellos materiales necesarios cuyas características no están definidas en las Normas, se hará mención especial de sus características para que así sea tenido en cuenta por el instalador a la hora de su selección. También se hará mención expresa de las características de la instalación y peculiaridades que el proyectista, en función de su criterio o a petición del promotor, determine deben cumplirse en aquellos puntos no existentes en la Norma o que se requieran condiciones más restrictivas que lo indicado en aquélla. Se completará con aquellas recomendaciones específicas que deban ser tenidas en cuenta de la legislación de aplicación, así como con una relación nominativa de las Normas, legislaciones y recomendaciones que, con carácter genérico, deban ser tenidas en cuenta en este tipo de instalaciones
