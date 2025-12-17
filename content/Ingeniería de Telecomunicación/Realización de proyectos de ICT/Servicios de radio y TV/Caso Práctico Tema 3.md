@@ -31,7 +31,7 @@ Las especificaciones de los derivadores son las siguientes:
 | 544402 |         4         |            3.5            |            4.2            |               13                |              12.5               |
 | 542503 |         2         |          3 ... 4          |            4.5            |               14                |               12                |
 
-**La elección de derivadores parece correcta, ya que los derivadores situados en las plantas más altas tienen menores pérdidas de paso y mayores pérdidas de derivación (mayor potencia de señal recibida), mientras que los derivadores situados en las plantas bajas tienen mayores pérdidas de paso y menores pérdidas de derivación (menor potencia de señal recibida). Sin embargo, el fabricante Televés recomienda utilizar el derivador 544402 únicamente para la primera planta, en este caso, la planta baja. Por tanto, la elección correcta sería 5425 en planta baja (P1), 5445 en primera y segunda planta (P2 y P3), 5446 en tercero y ático (P4 y P5).**
+**La elección de derivadores parece correcta, ya que los derivadores situados en las plantas más altas tienen menores pérdidas de paso y mayores pérdidas de derivación (mayor potencia de señal recibida), mientras que los derivadores situados en las plantas bajas tienen mayores pérdidas de paso y menores pérdidas de derivación (menor potencia de señal recibida). Sin embargo, el fabricante Televés recomienda utilizar el derivador 544402 únicamente para la primera planta, en este caso, la planta baja y el derivador 544502 en segunda y tercera planta, en este caso, planta primera y segunda. Por tanto, la elección correcta sería 5425 en planta baja (P1), 5445 en primera y segunda planta (P2 y P3), 5446 en tercero y ático (P4 y P5).**
 
 Los derivadores utilizados finalmente serán los siguientes:
 - Planta Ático: Televés 5446 (4 salidas). La referencia más actualizada es la siguiente: [Ref. 544602](https://www.televes.com/es/544602-derivador-easyf-4d-5-2400mhz-20db.html).
@@ -140,7 +140,7 @@ En primer lugar, se va a realizar una lista con todos los elementos de atenuaci�
 			- Pérdidas 3 metros de cable coaxial
 			- Pérdidas de paso derivador Televés 5446 (4D)
 			- Pérdidas 2,85 metros de cable coaxial
-			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas de derivación derivador Televés 5446 (4D)
 			- Pérdidas 1,12 metros de cable coaxial
 			- Pérdidas de inserción o paso PAU Televés 5454 (5D)
 			- Pérdidas 13,92 metros de cable coaxial
@@ -149,7 +149,7 @@ En primer lugar, se va a realizar una lista con todos los elementos de atenuaci�
 			- Pérdidas 3 metros de cable coaxial
 			- Pérdidas de paso derivador Televés 5446 (4D)
 			- Pérdidas 2,85 metros de cable coaxial
-			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas de derivación derivador Televés 5446 (4D)
 			- Pérdidas 1,12 metros de cable coaxial
 			- Pérdidas de inserción o paso PAU Televés 5454 (5D)
 			- Pérdidas 6,13 metros de cable coaxial
@@ -158,7 +158,7 @@ En primer lugar, se va a realizar una lista con todos los elementos de atenuaci�
 			- Pérdidas 3 metros de cable coaxial
 			- Pérdidas de paso derivador Televés 5446 (4D)
 			- Pérdidas 2,85 metros de cable coaxial
-			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas de derivación derivador Televés 5446 (4D)
 			- Pérdidas 1,12 metros de cable coaxial
 			- Pérdidas de inserción o paso PAU Televés 5454 (5D)
 			- Pérdidas 8,00 metros de cable coaxial
@@ -167,7 +167,7 @@ En primer lugar, se va a realizar una lista con todos los elementos de atenuaci�
 			- Pérdidas 3 metros de cable coaxial
 			- Pérdidas de paso derivador Televés 5446 (4D)
 			- Pérdidas 2,85 metros de cable coaxial
-			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas de derivación derivador Televés 5446 (4D)
 			- Pérdidas 1,12 metros de cable coaxial
 			- Pérdidas de inserción o paso PAU Televés 5454 (5D)
 			- Pérdidas 7,74 metros de cable coaxial
@@ -176,7 +176,7 @@ En primer lugar, se va a realizar una lista con todos los elementos de atenuaci�
 			- Pérdidas 3 metros de cable coaxial
 			- Pérdidas de paso derivador Televés 5446 (4D)
 			- Pérdidas 2,85 metros de cable coaxial
-			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas de derivación derivador Televés 5446 (4D)
 			- Pérdidas 1,12 metros de cable coaxial
 			- Pérdidas de inserción o paso PAU Televés 5454 (5D)
 			- Pérdidas 6,51 metros de cable coaxial
@@ -186,7 +186,7 @@ En primer lugar, se va a realizar una lista con todos los elementos de atenuaci�
 			- Pérdidas 3 metros de cable coaxial
 			- Pérdidas de paso derivador Televés 5446 (4D)
 			- Pérdidas 2,85 metros de cable coaxial
-			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas de derivación derivador Televés 5446 (4D)
 			- Pérdidas 4,49 metros de cable coaxial
 			- Pérdidas de inserción o paso PAU Televés 544902 (4D)
 			- Pérdidas 4,20 metros de cable coaxial
@@ -195,7 +195,7 @@ En primer lugar, se va a realizar una lista con todos los elementos de atenuaci�
 			- Pérdidas 3 metros de cable coaxial
 			- Pérdidas de paso derivador Televés 5446 (4D)
 			- Pérdidas 2,85 metros de cable coaxial
-			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas de derivación derivador Televés 5446 (4D)
 			- Pérdidas 4,49 metros de cable coaxial
 			- Pérdidas de inserción o paso PAU Televés 544902 (4D)
 			- Pérdidas 4,90 metros de cable coaxial
@@ -204,7 +204,7 @@ En primer lugar, se va a realizar una lista con todos los elementos de atenuaci�
 			- Pérdidas 3 metros de cable coaxial
 			- Pérdidas de paso derivador Televés 5446 (4D)
 			- Pérdidas 2,85 metros de cable coaxial
-			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas de derivación derivador Televés 5446 (4D)
 			- Pérdidas 4,49 metros de cable coaxial
 			- Pérdidas de inserción o paso PAU Televés 544902 (4D)
 			- Pérdidas 9,49 metros de cable coaxial
@@ -213,7 +213,7 @@ En primer lugar, se va a realizar una lista con todos los elementos de atenuaci�
 			- Pérdidas 3 metros de cable coaxial
 			- Pérdidas de paso derivador Televés 5446 (4D)
 			- Pérdidas 2,85 metros de cable coaxial
-			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas de derivación derivador Televés 5446 (4D)
 			- Pérdidas 4,49 metros de cable coaxial
 			- Pérdidas de inserción o paso PAU Televés 544902 (4D)
 			- Pérdidas 9,70 metros de cable coaxial
@@ -223,7 +223,7 @@ En primer lugar, se va a realizar una lista con todos los elementos de atenuaci�
 			- Pérdidas 3 metros de cable coaxial
 			- Pérdidas de paso derivador Televés 5446 (4D)
 			- Pérdidas 2,85 metros de cable coaxial
-			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas de derivación derivador Televés 5446 (4D)
 			- Pérdidas 4,84 metros de cable coaxial
 			- Pérdidas de inserción o paso PAU Televés 5454 (5D)
 			- Pérdidas 9,03 metros de cable coaxial
@@ -232,7 +232,7 @@ En primer lugar, se va a realizar una lista con todos los elementos de atenuaci�
 			- Pérdidas 3 metros de cable coaxial
 			- Pérdidas de paso derivador Televés 5446 (4D)
 			- Pérdidas 2,85 metros de cable coaxial
-			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas de derivación derivador Televés 5446 (4D)
 			- Pérdidas 4,84 metros de cable coaxial
 			- Pérdidas de inserción o paso PAU Televés 5454 (5D)
 			- Pérdidas 4,31 metros de cable coaxial
@@ -241,7 +241,7 @@ En primer lugar, se va a realizar una lista con todos los elementos de atenuaci�
 			- Pérdidas 3 metros de cable coaxial
 			- Pérdidas de paso derivador Televés 5446 (4D)
 			- Pérdidas 2,85 metros de cable coaxial
-			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas de derivación derivador Televés 5446 (4D)
 			- Pérdidas 4,84 metros de cable coaxial
 			- Pérdidas de inserción o paso PAU Televés 5454 (5D)
 			- Pérdidas 7,35 metros de cable coaxial
@@ -250,7 +250,7 @@ En primer lugar, se va a realizar una lista con todos los elementos de atenuaci�
 			- Pérdidas 3 metros de cable coaxial
 			- Pérdidas de paso derivador Televés 5446 (4D)
 			- Pérdidas 2,85 metros de cable coaxial
-			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas de derivación derivador Televés 5446 (4D)
 			- Pérdidas 4,84 metros de cable coaxial
 			- Pérdidas de inserción o paso PAU Televés 5454 (5D)
 			- Pérdidas 8,51 metros de cable coaxial
@@ -259,7 +259,7 @@ En primer lugar, se va a realizar una lista con todos los elementos de atenuaci�
 			- Pérdidas 3 metros de cable coaxial
 			- Pérdidas de paso derivador Televés 5446 (4D)
 			- Pérdidas 2,85 metros de cable coaxial
-			- Pérdidas de derivación derivador Televés 5445 (4D)
+			- Pérdidas de derivación derivador Televés 5446 (4D)
 			- Pérdidas 4,84 metros de cable coaxial
 			- Pérdidas de inserción o paso PAU Televés 5454 (5D)
 			- Pérdidas 10,12 metros de cable coaxial
@@ -738,7 +738,7 @@ Una vez se dispone de la topología completa de la red hacia cada toma y las pé
 |              |            |                | Pérdidas 3 metros de cable coaxial                   |         3          |  0,36   |  0,45   |
 |              |            |                | Pérdidas de paso derivador Televés 5446 (4D)         |                    |  0,80   |  0,80   |
 |              |            |                | Pérdidas 2,85 metros de cable coaxial                |        2,85        |  0,34   |  0,43   |
-|              |            |                | Pérdidas de derivación derivador Televés 5445 (4D)   |                    |  17,00  |  17,00  |
+|              |            |                | Pérdidas de derivación derivador Televés 5446 (4D)   |                    |  21,00  |  21,00  |
 |              |            |                | Pérdidas 1,12 metros de cable coaxial                |        1,12        |  0,13   |  0,17   |
 |              |            |                | Pérdidas de inserción o paso PAU Televés 5454 (5D)   |                    |  13,00  |  13,00  |
 |              |            |                | Pérdidas 13,92 metros de cable coaxial               |       13,92        |  1,67   |  2,09   |
@@ -748,7 +748,7 @@ Una vez se dispone de la topología completa de la red hacia cada toma y las pé
 |              |            |                | Pérdidas 3 metros de cable coaxial                   |         3          |  0,36   |  0,45   |
 |              |            |                | Pérdidas de paso derivador Televés 5446 (4D)         |                    |  0,80   |  0,80   |
 |              |            |                | Pérdidas 2,85 metros de cable coaxial                |        2,85        |  0,34   |  0,43   |
-|              |            |                | Pérdidas de derivación derivador Televés 5445 (4D)   |                    |  17,00  |  17,00  |
+|              |            |                | Pérdidas de derivación derivador Televés 5446 (4D)   |                    |  21,00  |  21,00  |
 |              |            |                | Pérdidas 1,12 metros de cable coaxial                |        1,12        |  0,13   |  0,17   |
 |              |            |                | Pérdidas de inserción o paso PAU Televés 5454 (5D)   |                    |  13,00  |  13,00  |
 |              |            |                | Pérdidas 6,13 metros de cable coaxial                |        6,13        |  0,74   |  0,92   |
@@ -758,7 +758,7 @@ Una vez se dispone de la topología completa de la red hacia cada toma y las pé
 |              |            |                | Pérdidas 3 metros de cable coaxial                   |         3          |  0,36   |  0,45   |
 |              |            |                | Pérdidas de paso derivador Televés 5446 (4D)         |                    |  0,80   |  0,80   |
 |              |            |                | Pérdidas 2,85 metros de cable coaxial                |        2,85        |  0,34   |  0,43   |
-|              |            |                | Pérdidas de derivación derivador Televés 5445 (4D)   |                    |  17,00  |  17,00  |
+|              |            |                | Pérdidas de derivación derivador Televés 5446 (4D)   |                    |  21,00  |  21,00  |
 |              |            |                | Pérdidas 1,12 metros de cable coaxial                |        1,12        |  0,13   |  0,17   |
 |              |            |                | Pérdidas de inserción o paso PAU Televés 5454 (5D)   |                    |  13,00  |  13,00  |
 |              |            |                | Pérdidas 8,00 metros de cable coaxial                |         8          |  0,96   |  1,20   |
@@ -768,7 +768,7 @@ Una vez se dispone de la topología completa de la red hacia cada toma y las pé
 |              |            |                | Pérdidas 3 metros de cable coaxial                   |         3          |  0,36   |  0,45   |
 |              |            |                | Pérdidas de paso derivador Televés 5446 (4D)         |                    |  0,80   |  0,80   |
 |              |            |                | Pérdidas 2,85 metros de cable coaxial                |        2,85        |  0,34   |  0,43   |
-|              |            |                | Pérdidas de derivación derivador Televés 5445 (4D)   |                    |  17,00  |  17,00  |
+|              |            |                | Pérdidas de derivación derivador Televés 5446 (4D)   |                    |  21,00  |  21,00  |
 |              |            |                | Pérdidas 1,12 metros de cable coaxial                |        1,12        |  0,13   |  0,17   |
 |              |            |                | Pérdidas de inserción o paso PAU Televés 5454 (5D)   |                    |  13,00  |  13,00  |
 |              |            |                | Pérdidas 7,74 metros de cable coaxial                |        7,74        |  0,93   |  1,16   |
@@ -778,7 +778,7 @@ Una vez se dispone de la topología completa de la red hacia cada toma y las pé
 |              |            |                | Pérdidas 3 metros de cable coaxial                   |         3          |  0,36   |  0,45   |
 |              |            |                | Pérdidas de paso derivador Televés 5446 (4D)         |                    |  0,80   |  0,80   |
 |              |            |                | Pérdidas 2,85 metros de cable coaxial                |        2,85        |  0,34   |  0,43   |
-|              |            |                | Pérdidas de derivación derivador Televés 5445 (4D)   |                    |  17,00  |  17,00  |
+|              |            |                | Pérdidas de derivación derivador Televés 5446 (4D)   |                    |  21,00  |  21,00  |
 |              |            |                | Pérdidas 1,12 metros de cable coaxial                |        1,12        |  0,13   |  0,17   |
 |              |            |                | Pérdidas de inserción o paso PAU Televés 5454 (5D)   |                    |  13,00  |  13,00  |
 |              |            |                | Pérdidas 6,51 metros de cable coaxial                |        6,51        |  0,78   |  0,98   |
@@ -789,7 +789,7 @@ Una vez se dispone de la topología completa de la red hacia cada toma y las pé
 |              |            |                | Pérdidas 3 metros de cable coaxial                   |         3          |  0,36   |  0,45   |
 |              |            |                | Pérdidas de paso derivador Televés 5446 (4D)         |                    |  0,80   |  0,80   |
 |              |            |                | Pérdidas 2,85 metros de cable coaxial                |        2,85        |  0,34   |  0,43   |
-|              |            |                | Pérdidas de derivación derivador Televés 5445 (4D)   |                    |  17,00  |  17,00  |
+|              |            |                | Pérdidas de derivación derivador Televés 5446 (4D)   |                    |  21,00  |  21,00  |
 |              |            |                | Pérdidas 4,49 metros de cable coaxial                |        4,49        |  0,54   |  0,67   |
 |              |            |                | Pérdidas de inserción o paso PAU Televés 544902 (4D) |                    |  9,00   |  9,00   |
 |              |            |                | Pérdidas 4,20 metros de cable coaxial                |        4,2         |  0,50   |  0,63   |
@@ -799,7 +799,7 @@ Una vez se dispone de la topología completa de la red hacia cada toma y las pé
 |              |            |                | Pérdidas 3 metros de cable coaxial                   |         3          |  0,36   |  0,45   |
 |              |            |                | Pérdidas de paso derivador Televés 5446 (4D)         |                    |  0,80   |  0,80   |
 |              |            |                | Pérdidas 2,85 metros de cable coaxial                |        2,85        |  0,34   |  0,43   |
-|              |            |                | Pérdidas de derivación derivador Televés 5445 (4D)   |                    |  17,00  |  17,00  |
+|              |            |                | Pérdidas de derivación derivador Televés 5446 (4D)   |                    |  21,00  |  21,00  |
 |              |            |                | Pérdidas 4,49 metros de cable coaxial                |        4,49        |  0,54   |  0,67   |
 |              |            |                | Pérdidas de inserción o paso PAU Televés 544902 (4D) |                    |  9,00   |  9,00   |
 |              |            |                | Pérdidas 4,90 metros de cable coaxial                |        4,9         |  0,59   |  0,74   |
@@ -809,7 +809,7 @@ Una vez se dispone de la topología completa de la red hacia cada toma y las pé
 |              |            |                | Pérdidas 3 metros de cable coaxial                   |         3          |  0,36   |  0,45   |
 |              |            |                | Pérdidas de paso derivador Televés 5446 (4D)         |                    |  0,80   |  0,80   |
 |              |            |                | Pérdidas 2,85 metros de cable coaxial                |        2,85        |  0,34   |  0,43   |
-|              |            |                | Pérdidas de derivación derivador Televés 5445 (4D)   |                    |  17,00  |  17,00  |
+|              |            |                | Pérdidas de derivación derivador Televés 5446 (4D)   |                    |  21,00  |  21,00  |
 |              |            |                | Pérdidas 4,49 metros de cable coaxial                |        4,49        |  0,54   |  0,67   |
 |              |            |                | Pérdidas de inserción o paso PAU Televés 544902 (4D) |                    |  9,00   |  9,00   |
 |              |            |                | Pérdidas 9,49 metros de cable coaxial                |        9,49        |  1,14   |  1,42   |
@@ -819,7 +819,7 @@ Una vez se dispone de la topología completa de la red hacia cada toma y las pé
 |              |            |                | Pérdidas 3 metros de cable coaxial                   |         3          |  0,36   |  0,45   |
 |              |            |                | Pérdidas de paso derivador Televés 5446 (4D)         |                    |  0,80   |  0,80   |
 |              |            |                | Pérdidas 2,85 metros de cable coaxial                |        2,85        |  0,34   |  0,43   |
-|              |            |                | Pérdidas de derivación derivador Televés 5445 (4D)   |                    |  17,00  |  17,00  |
+|              |            |                | Pérdidas de derivación derivador Televés 5446 (4D)   |                    |  21,00  |  21,00  |
 |              |            |                | Pérdidas 4,49 metros de cable coaxial                |        4,49        |  0,54   |  0,67   |
 |              |            |                | Pérdidas de inserción o paso PAU Televés 544902 (4D) |                    |  9,00   |  9,00   |
 |              |            |                | Pérdidas 9,70 metros de cable coaxial                |        9,7         |  1,16   |  1,46   |
@@ -830,52 +830,52 @@ Una vez se dispone de la topología completa de la red hacia cada toma y las pé
 |              |            |                | Pérdidas 3 metros de cable coaxial                   |         3          |  0,36   |  0,45   |
 |              |            |                | Pérdidas de paso derivador Televés 5446 (4D)         |                    |  0,80   |  0,80   |
 |              |            |                | Pérdidas 2,85 metros de cable coaxial                |        2,85        |  0,34   |  0,43   |
-|              |            |                | Pérdidas de derivación derivador Televés 5445 (4D)   |                    |  17,00  |  17,00  |
+|              |            |                | Pérdidas de derivación derivador Televés 5446 (4D)   |                    |  21,00  |  21,00  |
 |              |            |                | Pérdidas 4,84 metros de cable coaxial                |        4,84        |  0,58   |  0,73   |
 |              |            |                | Pérdidas de inserción o paso PAU Televés 5454 (5D)   |                    |  13,00  |  13,00  |
 |              |            |                | Pérdidas 9,03 metros de cable coaxial                |        9,03        |  1,08   |  1,35   |
 |              |            |                | Pérdidas derivación toma Televés 5229                |                    |  4,00   |  4,00   |
-|              |            |                | Atenuación Total                                     |                    |  37,17  |  37,76  |
+|              |            |                | Atenuación Total                                     |                    |  41,17  |  41,76  |
 |              |            | Toma 2, V3, P3 |                                                      |                    |         |         |
 |              |            |                | Pérdidas 3 metros de cable coaxial                   |         3          |  0,36   |  0,45   |
 |              |            |                | Pérdidas de paso derivador Televés 5446 (4D)         |                    |  0,80   |  0,80   |
 |              |            |                | Pérdidas 2,85 metros de cable coaxial                |        2,85        |  0,34   |  0,43   |
-|              |            |                | Pérdidas de derivación derivador Televés 5445 (4D)   |                    |  17,00  |  17,00  |
+|              |            |                | Pérdidas de derivación derivador Televés 5446 (4D)   |                    |  21,00  |  21,00  |
 |              |            |                | Pérdidas 4,84 metros de cable coaxial                |        4,84        |  0,58   |  0,73   |
 |              |            |                | Pérdidas de inserción o paso PAU Televés 5454 (5D)   |                    |  13,00  |  13,00  |
 |              |            |                | Pérdidas 4,31 metros de cable coaxial                |        4,31        |  0,52   |  0,65   |
 |              |            |                | Pérdidas derivación toma Televés 5229                |                    |  4,00   |  4,00   |
-|              |            |                | Atenuación Total                                     |                    |  36,60  |  37,05  |
+|              |            |                | Atenuación Total                                     |                    |  40,60  |  41,05  |
 |              |            | Toma 3, V3, P3 |                                                      |                    |         |         |
 |              |            |                | Pérdidas 3 metros de cable coaxial                   |         3          |  0,36   |  0,45   |
 |              |            |                | Pérdidas de paso derivador Televés 5446 (4D)         |                    |  0,80   |  0,80   |
 |              |            |                | Pérdidas 2,85 metros de cable coaxial                |        2,85        |  0,34   |  0,43   |
-|              |            |                | Pérdidas de derivación derivador Televés 5445 (4D)   |                    |  17,00  |  17,00  |
+|              |            |                | Pérdidas de derivación derivador Televés 5446 (4D)   |                    |  21,00  |  21,00  |
 |              |            |                | Pérdidas 4,84 metros de cable coaxial                |        4,84        |  0,58   |  0,73   |
 |              |            |                | Pérdidas de inserción o paso PAU Televés 5454 (5D)   |                    |  13,00  |  13,00  |
 |              |            |                | Pérdidas 7,35 metros de cable coaxial                |        7,35        |  0,88   |  1,10   |
 |              |            |                | Pérdidas derivación toma Televés 5229                |                    |  4,00   |  4,00   |
-|              |            |                | Atenuación Total                                     |                    |  36,96  |  37,51  |
+|              |            |                | Atenuación Total                                     |                    |  40,96  |  41,51  |
 |              |            | Toma 4, V3, P3 |                                                      |                    |         |         |
 |              |            |                | Pérdidas 3 metros de cable coaxial                   |         3          |  0,36   |  0,45   |
 |              |            |                | Pérdidas de paso derivador Televés 5446 (4D)         |                    |  0,80   |  0,80   |
 |              |            |                | Pérdidas 2,85 metros de cable coaxial                |        2,85        |  0,34   |  0,43   |
-|              |            |                | Pérdidas de derivación derivador Televés 5445 (4D)   |                    |  17,00  |  17,00  |
+|              |            |                | Pérdidas de derivación derivador Televés 5446 (4D)   |                    |  21,00  |  21,00  |
 |              |            |                | Pérdidas 4,84 metros de cable coaxial                |        4,84        |  0,58   |  0,73   |
 |              |            |                | Pérdidas de inserción o paso PAU Televés 5454 (5D)   |                    |  13,00  |  13,00  |
 |              |            |                | Pérdidas 8,51 metros de cable coaxial                |        8,51        |  1,02   |  1,28   |
 |              |            |                | Pérdidas derivación toma Televés 5229                |                    |  4,00   |  4,00   |
-|              |            |                | Atenuación Total                                     |                    |  37,10  |  37,68  |
+|              |            |                | Atenuación Total                                     |                    |  41,10  |  41,68  |
 |              |            | Toma 5, V3, P3 |                                                      |                    |         |         |
 |              |            |                | Pérdidas 3 metros de cable coaxial                   |         3          |  0,36   |  0,45   |
 |              |            |                | Pérdidas de paso derivador Televés 5446 (4D)         |                    |  0,80   |  0,80   |
 |              |            |                | Pérdidas 2,85 metros de cable coaxial                |        2,85        |  0,34   |  0,43   |
-|              |            |                | Pérdidas de derivación derivador Televés 5445 (4D)   |                    |  17,00  |  17,00  |
+|              |            |                | Pérdidas de derivación derivador Televés 5446 (4D)   |                    |  21,00  |  21,00  |
 |              |            |                | Pérdidas 4,84 metros de cable coaxial                |        4,84        |  0,58   |  0,73   |
 |              |            |                | Pérdidas de inserción o paso PAU Televés 5454 (5D)   |                    |  13,00  |  13,00  |
 |              |            |                | Pérdidas 10,12 metros de cable coaxial               |       10,12        |  1,21   |  1,52   |
 |              |            |                | Pérdidas derivación toma Televés 5229                |                    |  4,00   |  4,00   |
-|              |            |                | Atenuación Total                                     |                    |  37,30  |  37,92  |
+|              |            |                | Atenuación Total                                     |                    |  41,30  |  41,92  |
 | Planta 2     |            |                |                                                      |                    |         |         |
 |              | Vivienda 1 |                |                                                      |                    |         |         |
 |              |            | Toma 1, V1, P2 |                                                      |                    |         |         |
@@ -1251,131 +1251,131 @@ Una vez se dispone de la topología completa de la red hacia cada toma y las pé
 
 En resumen, la atenuación en cada toma es la siguiente:
 
-|              |            |                |                  |         |         |
-| ------------ | ---------- | -------------- | ---------------- | :-----: | :-----: |
-|              |            |                |                  | 470 MHz | 862 MHz |
-| Planta Ático |            |                |                  |         |         |
-|              | Vivienda 1 |                |                  |         |         |
-|              |            | Toma 1, V1, PA |                  |         |         |
-|              |            |                | Atenuación Total |  35,20  |  35,50  |
-|              |            | Toma 2, V1, PA |                  |         |         |
-|              |            |                | Atenuación Total |  35,24  |  35,55  |
-|              |            | Toma 3, V1, PA |                  |         |         |
-|              |            |                | Atenuación Total |  35,37  |  35,71  |
-|              |            | Toma 4, V1, PA |                  |         |         |
-|              |            |                | Atenuación Total |  35,29  |  35,62  |
-|              | Vivienda 2 |                |                  |         |         |
-|              |            | Toma 1, V2, PA |                  |         |         |
-|              |            |                | Atenuación Total |  35,50  |  35,88  |
-|              |            | Toma 2, V2, PA |                  |         |         |
-|              |            |                | Atenuación Total |  35,92  |  36,40  |
-|              |            | Toma 3, V2, PA |                  |         |         |
-|              |            |                | Atenuación Total |  36,07  |  36,58  |
-|              | Vivienda 3 |                |                  |         |         |
-|              |            | Toma 1, V3, PA |                  |         |         |
-|              |            |                | Atenuación Total |  35,90  |  36,37  |
-|              |            | Toma 2, V3, PA |                  |         |         |
-|              |            |                | Atenuación Total |  35,54  |  35,92  |
-|              |            | Toma 3, V3, PA |                  |         |         |
-|              |            |                | Atenuación Total |  35,75  |  36,19  |
-|              |            | Toma 4, V3, PA |                  |         |         |
-|              |            |                | Atenuación Total |  36,01  |  36,51  |
-| Planta 3     |            |                |                  |         |         |
-|              | Vivienda 1 |                |                  |         |         |
-|              |            | Toma 1, V1, P3 |                  |         |         |
-|              |            |                | Atenuación Total |  37,31  |  37,93  |
-|              |            | Toma 2, V1, P3 |                  |         |         |
-|              |            |                | Atenuación Total |  36,37  |  36,77  |
-|              |            | Toma 3, V1, P3 |                  |         |         |
-|              |            |                | Atenuación Total |  36,60  |  37,05  |
-|              |            | Toma 4, V1, P3 |                  |         |         |
-|              |            |                | Atenuación Total |  36,57  |  37,01  |
-|              |            | Toma 5, V1, P3 |                  |         |         |
-|              |            |                | Atenuación Total |  36,42  |  36,82  |
-|              | Vivienda 2 |                |                  |         |         |
-|              |            | Toma 1, V2, P3 |                  |         |         |
-|              |            |                | Atenuación Total |  **32,54**  |  32,98  |
-|              |            | Toma 2, V2, P3 |                  |         |         |
-|              |            |                | Atenuación Total |  32,63  |  33,09  |
-|              |            | Toma 3, V2, P3 |                  |         |         |
-|              |            |                | Atenuación Total |  33,18  |  33,77  |
-|              |            | Toma 4, V2, P3 |                  |         |         |
-|              |            |                | Atenuación Total |  33,20  |  33,81  |
-|              | Vivienda 3 |                |                  |         |         |
-|              |            | Toma 1, V3, P3 |                  |         |         |
-|              |            |                | Atenuación Total |  37,17  |  37,76  |
-|              |            | Toma 2, V3, P3 |                  |         |         |
-|              |            |                | Atenuación Total |  36,60  |  37,05  |
-|              |            | Toma 3, V3, P3 |                  |         |         |
-|              |            |                | Atenuación Total |  36,96  |  37,51  |
-|              |            | Toma 4, V3, P3 |                  |         |         |
-|              |            |                | Atenuación Total |  37,10  |  37,68  |
-|              |            | Toma 5, V3, P3 |                  |         |         |
-|              |            |                | Atenuación Total |  37,30  |  37,92  |
-| Planta 2     |            |                |                  |         |         |
-|              | Vivienda 1 |                |                  |         |         |
-|              |            | Toma 1, V1, P2 |                  |         |         |
-|              |            |                | Atenuación Total |  40,95  | **41,66**  |
-|              |            | Toma 2, V1, P2 |                  |         |         |
-|              |            |                | Atenuación Total |  40,01  |  40,49  |
-|              |            | Toma 3, V1, P2 |                  |         |         |
-|              |            |                | Atenuación Total |  40,24  |  40,77  |
-|              |            | Toma 4, V1, P2 |                  |         |         |
-|              |            |                | Atenuación Total |  40,21  |  40,73  |
-|              |            | Toma 5, V1, P2 |                  |         |         |
-|              |            |                | Atenuación Total |  40,06  |  40,55  |
-|              | Vivienda 2 |                |                  |         |         |
-|              |            | Toma 1, V2, P2 |                  |         |         |
-|              |            |                | Atenuación Total |  36,19  |  36,71  |
-|              |            | Toma 2, V2, P2 |                  |         |         |
-|              |            |                | Atenuación Total |  36,27  |  36,81  |
-|              |            | Toma 3, V2, P2 |                  |         |         |
-|              |            |                | Atenuación Total |  36,82  |  37,50  |
-|              |            | Toma 4, V2, P2 |                  |         |         |
-|              |            |                | Atenuación Total |  36,85  |  37,53  |
-|              | Vivienda 3 |                |                  |         |         |
-|              |            | Toma 1, V3, P2 |                  |         |         |
-|              |            |                | Atenuación Total |  40,81  |  41,49  |
-|              |            | Toma 2, V3, P2 |                  |         |         |
-|              |            |                | Atenuación Total |  40,24  |  40,78  |
-|              |            | Toma 3, V3, P2 |                  |         |         |
-|              |            |                | Atenuación Total |  40,61  |  41,23  |
-|              |            | Toma 4, V3, P2 |                  |         |         |
-|              |            |                | Atenuación Total |  40,75  |  41,41  |
-|              |            | Toma 5, V3, P2 |                  |         |         |
-|              |            |                | Atenuación Total |  40,94  |  41,65  |
-| Planta 1     |            |                |                  |         |         |
-|              | Vivienda 1 |                |                  |         |         |
-|              |            | Toma 1, V1, P1 |                  |         |         |
-|              |            |                | Atenuación Total |  40,59  |  41,39  |
-|              |            | Toma 2, V1, P1 |                  |         |         |
-|              |            |                | Atenuación Total |  39,66  |  40,22  |
-|              |            | Toma 3, V1, P1 |                  |         |         |
-|              |            |                | Atenuación Total |  39,88  |  40,50  |
-|              |            | Toma 4, V1, P1 |                  |         |         |
-|              |            |                | Atenuación Total |  39,85  |  40,46  |
-|              |            | Toma 5, V1, P1 |                  |         |         |
-|              |            |                | Atenuación Total |  39,70  |  40,28  |
-|              | Vivienda 2 |                |                  |         |         |
-|              |            | Toma 1, V2, P1 |                  |         |         |
-|              |            |                | Atenuación Total |  35,83  |  36,44  |
-|              |            | Toma 2, V2, P1 |                  |         |         |
-|              |            |                | Atenuación Total |  35,91  |  36,54  |
-|              |            | Toma 3, V2, P1 |                  |         |         |
-|              |            |                | Atenuación Total |  36,46  |  37,23  |
-|              |            | Toma 4, V2, P1 |                  |         |         |
-|              |            |                | Atenuación Total |  36,49  |  37,26  |
-|              | Vivienda 3 |                |                  |         |         |
-|              |            | Toma 1, V3, P1 |                  |         |         |
-|              |            |                | Atenuación Total |  40,45  |  41,21  |
-|              |            | Toma 2, V3, P1 |                  |         |         |
-|              |            |                | Atenuación Total |  39,88  |  40,51  |
-|              |            | Toma 3, V3, P1 |                  |         |         |
-|              |            |                | Atenuación Total |  40,25  |  40,96  |
-|              |            | Toma 4, V3, P1 |                  |         |         |
-|              |            |                | Atenuación Total |  40,39  |  41,14  |
-|              |            | Toma 5, V3, P1 |                  |         |         |
-|              |            |                | Atenuación Total |  40,58  |  41,38  |
+|              |            |                |                  |           |           |
+| ------------ | ---------- | -------------- | ---------------- | :-------: | :-------: |
+|              |            |                |                  |  470 MHz  |  862 MHz  |
+| Planta Ático |            |                |                  |           |           |
+|              | Vivienda 1 |                |                  |           |           |
+|              |            | Toma 1, V1, PA |                  |           |           |
+|              |            |                | Atenuación Total |   35,20   |   35,50   |
+|              |            | Toma 2, V1, PA |                  |           |           |
+|              |            |                | Atenuación Total |   35,24   |   35,55   |
+|              |            | Toma 3, V1, PA |                  |           |           |
+|              |            |                | Atenuación Total |   35,37   |   35,71   |
+|              |            | Toma 4, V1, PA |                  |           |           |
+|              |            |                | Atenuación Total |   35,29   |   35,62   |
+|              | Vivienda 2 |                |                  |           |           |
+|              |            | Toma 1, V2, PA |                  |           |           |
+|              |            |                | Atenuación Total |   35,50   |   35,88   |
+|              |            | Toma 2, V2, PA |                  |           |           |
+|              |            |                | Atenuación Total |   35,92   |   36,40   |
+|              |            | Toma 3, V2, PA |                  |           |           |
+|              |            |                | Atenuación Total |   36,07   |   36,58   |
+|              | Vivienda 3 |                |                  |           |           |
+|              |            | Toma 1, V3, PA |                  |           |           |
+|              |            |                | Atenuación Total |   35,90   |   36,37   |
+|              |            | Toma 2, V3, PA |                  |           |           |
+|              |            |                | Atenuación Total |   35,54   |   35,92   |
+|              |            | Toma 3, V3, PA |                  |           |           |
+|              |            |                | Atenuación Total |   35,75   |   36,19   |
+|              |            | Toma 4, V3, PA |                  |           |           |
+|              |            |                | Atenuación Total |   36,01   |   36,51   |
+| Planta 3     |            |                |                  |           |           |
+|              | Vivienda 1 |                |                  |           |           |
+|              |            | Toma 1, V1, P3 |                  |           |           |
+|              |            |                | Atenuación Total |   41,31   |   41,93   |
+|              |            | Toma 2, V1, P3 |                  |           |           |
+|              |            |                | Atenuación Total |   40,37   |   40,77   |
+|              |            | Toma 3, V1, P3 |                  |           |           |
+|              |            |                | Atenuación Total |   40,60   |   41,05   |
+|              |            | Toma 4, V1, P3 |                  |           |           |
+|              |            |                | Atenuación Total |   40,57   |   41,01   |
+|              |            | Toma 5, V1, P3 |                  |           |           |
+|              |            |                | Atenuación Total |   40,42   |   40,82   |
+|              | Vivienda 2 |                |                  |           |           |
+|              |            | Toma 1, V2, P3 |                  |           |           |
+|              |            |                | Atenuación Total | **32,54** |   32,98   |
+|              |            | Toma 2, V2, P3 |                  |           |           |
+|              |            |                | Atenuación Total |   32,63   |   33,09   |
+|              |            | Toma 3, V2, P3 |                  |           |           |
+|              |            |                | Atenuación Total |   33,18   |   33,77   |
+|              |            | Toma 4, V2, P3 |                  |           |           |
+|              |            |                | Atenuación Total |   33,20   |   33,81   |
+|              | Vivienda 3 |                |                  |           |           |
+|              |            | Toma 1, V3, P3 |                  |           |           |
+|              |            |                | Atenuación Total |   37,17   |   37,76   |
+|              |            | Toma 2, V3, P3 |                  |           |           |
+|              |            |                | Atenuación Total |   36,60   |   37,05   |
+|              |            | Toma 3, V3, P3 |                  |           |           |
+|              |            |                | Atenuación Total |   36,96   |   37,51   |
+|              |            | Toma 4, V3, P3 |                  |           |           |
+|              |            |                | Atenuación Total |   37,10   |   37,68   |
+|              |            | Toma 5, V3, P3 |                  |           |           |
+|              |            |                | Atenuación Total |   37,30   |   37,92   |
+| Planta 2     |            |                |                  |           |           |
+|              | Vivienda 1 |                |                  |           |           |
+|              |            | Toma 1, V1, P2 |                  |           |           |
+|              |            |                | Atenuación Total |   40,95   | **41,66** |
+|              |            | Toma 2, V1, P2 |                  |           |           |
+|              |            |                | Atenuación Total |   40,01   |   40,49   |
+|              |            | Toma 3, V1, P2 |                  |           |           |
+|              |            |                | Atenuación Total |   40,24   |   40,77   |
+|              |            | Toma 4, V1, P2 |                  |           |           |
+|              |            |                | Atenuación Total |   40,21   |   40,73   |
+|              |            | Toma 5, V1, P2 |                  |           |           |
+|              |            |                | Atenuación Total |   40,06   |   40,55   |
+|              | Vivienda 2 |                |                  |           |           |
+|              |            | Toma 1, V2, P2 |                  |           |           |
+|              |            |                | Atenuación Total |   36,19   |   36,71   |
+|              |            | Toma 2, V2, P2 |                  |           |           |
+|              |            |                | Atenuación Total |   36,27   |   36,81   |
+|              |            | Toma 3, V2, P2 |                  |           |           |
+|              |            |                | Atenuación Total |   36,82   |   37,50   |
+|              |            | Toma 4, V2, P2 |                  |           |           |
+|              |            |                | Atenuación Total |   36,85   |   37,53   |
+|              | Vivienda 3 |                |                  |           |           |
+|              |            | Toma 1, V3, P2 |                  |           |           |
+|              |            |                | Atenuación Total |   40,81   |   41,49   |
+|              |            | Toma 2, V3, P2 |                  |           |           |
+|              |            |                | Atenuación Total |   40,24   |   40,78   |
+|              |            | Toma 3, V3, P2 |                  |           |           |
+|              |            |                | Atenuación Total |   40,61   |   41,23   |
+|              |            | Toma 4, V3, P2 |                  |           |           |
+|              |            |                | Atenuación Total |   40,75   |   41,41   |
+|              |            | Toma 5, V3, P2 |                  |           |           |
+|              |            |                | Atenuación Total |   40,94   |   41,65   |
+| Planta 1     |            |                |                  |           |           |
+|              | Vivienda 1 |                |                  |           |           |
+|              |            | Toma 1, V1, P1 |                  |           |           |
+|              |            |                | Atenuación Total |   40,59   |   41,39   |
+|              |            | Toma 2, V1, P1 |                  |           |           |
+|              |            |                | Atenuación Total |   39,66   |   40,22   |
+|              |            | Toma 3, V1, P1 |                  |           |           |
+|              |            |                | Atenuación Total |   39,88   |   40,50   |
+|              |            | Toma 4, V1, P1 |                  |           |           |
+|              |            |                | Atenuación Total |   39,85   |   40,46   |
+|              |            | Toma 5, V1, P1 |                  |           |           |
+|              |            |                | Atenuación Total |   39,70   |   40,28   |
+|              | Vivienda 2 |                |                  |           |           |
+|              |            | Toma 1, V2, P1 |                  |           |           |
+|              |            |                | Atenuación Total |   35,83   |   36,44   |
+|              |            | Toma 2, V2, P1 |                  |           |           |
+|              |            |                | Atenuación Total |   35,91   |   36,54   |
+|              |            | Toma 3, V2, P1 |                  |           |           |
+|              |            |                | Atenuación Total |   36,46   |   37,23   |
+|              |            | Toma 4, V2, P1 |                  |           |           |
+|              |            |                | Atenuación Total |   36,49   |   37,26   |
+|              | Vivienda 3 |                |                  |           |           |
+|              |            | Toma 1, V3, P1 |                  |           |           |
+|              |            |                | Atenuación Total |   40,45   |   41,21   |
+|              |            | Toma 2, V3, P1 |                  |           |           |
+|              |            |                | Atenuación Total |   39,88   |   40,51   |
+|              |            | Toma 3, V3, P1 |                  |           |           |
+|              |            |                | Atenuación Total |   40,25   |   40,96   |
+|              |            | Toma 4, V3, P1 |                  |           |           |
+|              |            |                | Atenuación Total |   40,39   |   41,14   |
+|              |            | Toma 5, V3, P1 |                  |           |           |
+|              |            |                | Atenuación Total |   40,58   |   41,38   |
 
 La **mejor atenuación** es la de la **Toma 1 de la Vivienda 2 de la Planta 3**, de **32,59 dB**.
 La **peor atenuación** es la de la **Toma 1 de la Vivienda 1 de la Planta 2**, de **41,66 dB**.
