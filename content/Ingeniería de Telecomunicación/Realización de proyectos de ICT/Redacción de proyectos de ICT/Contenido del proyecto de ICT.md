@@ -270,6 +270,10 @@ El Pliego de Condiciones constituirá la parte del Proyecto Técnico en la que s
 
 ###### b) Redes de Cables Coaxiales.
 
+1) Características de los cables.
+2) Características de los elementos activos (si existen).
+3) Características de los elementos pasivos.
+
 1) Características de los cables.
 2) Características de los elementos pasivos.
 
