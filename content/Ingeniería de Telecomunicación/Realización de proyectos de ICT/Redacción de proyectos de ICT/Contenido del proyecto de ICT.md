@@ -246,6 +246,71 @@ Se adjunta modelo de tabla de la orden ITC 1644/2011 normalizada que contiene lo
 
 ### 3. Pliego de condiciones
 
+El Pliego de Condiciones constituirá la parte del Proyecto Técnico en la que se describan los materiales, de forma genérica o bien particularizada de productos de fabricantes concretos, si así lo requiriese el promotor, en el entendimiento que resultan de obligado cumplimiento las Normas anexas al Reglamento y sólo cuando los requerimientos utilizados por el proyectista en cuanto a características técnicas resulten más estrictos que las de dichas Normas, o en los casos no contemplados en las mismas, o cuando éstas resulten de difícil cumplimiento será necesario incidir en las mismas. Para todos aquellos materiales necesarios cuyas características no están definidas en las Normas, se hará mención especial de sus características para que así sea tenido en cuenta por el instalador a la hora de su selección. También se hará mención expresa de las características de la instalación y peculiaridades que el proyectista, en función de su criterio o a petición del promotor, determine deben cumplirse en aquellos puntos no existentes en la Norma o que se requieran condiciones más restrictivas que lo indicado en aquélla. Se completará con aquellas recomendaciones específicas que deban ser tenidas en cuenta de la legislación de aplicación, así como con una relación nominativa de las Normas, legislaciones y recomendaciones que, con carácter genérico, deban ser tenidas en cuenta en este tipo de instalaciones
+
+#### 3.1 Condiciones particulares:
+
+##### 3.1.A Radiodifusión sonora y televisión.
+
+###### a) Condicionantes de acceso a los sistemas de captación.
+
+###### b) Características de los sistemas de captación.
+
+###### c) Características de los elementos activos.
+
+###### d) Características de los elementos pasivos.
+
+##### 3.1.B Distribución de los servicios de telecomunicaciones de telefonía disponible al público (STDP) y de banda ancha (TBA).
+
+###### a) Redes de cables de Pares o Pares Trenzados.
+
+1) Características de los cables.
+2) Características de los elementos activos (si existen).
+3) Características de los elementos pasivos.
+
+###### b) Redes de Cables Coaxiales.
+
+1) Características de los cables.
+2) Características de los elementos pasivos.
+
+###### c) Redes de cables de Fibra Óptica.
+
+1) Características de los cables.
+2) Características de los elementos pasivos.
+3) Características de los empalmes de fibra en la instalación (si procede).
+
+##### 3.1.C Infraestructuras de Hogar Digital (cuando se incluyan en el proyecto).
+
+##### 3.1.D Infraestructura.
+
+###### a) Condicionantes a tener en cuenta para su ubicación.
+
+###### b) Características de las arquetas.
+
+###### c) Características de la canalización externa, de enlace, principal, secundaria e interior de usuario.
+
+###### d) Condicionantes a tener en cuenta en la distribución interior de los RIT. Instalación y ubicación de los diferentes equipos.
+
+###### e) Características de los registros de enlace, secundarios, de paso, de terminación de red y toma.
+
+##### 3.1.E Cuadros de medidas.
+
+###### a) Cuadro de medidas a satisfacer en las tomas de televisión terrestre, incluyendo también el margen del espectro radioeléctrico comprendido entre 950 MHz y 2150 MHz.
+
+###### b) Cuadro de medidas de las redes de telecomunicaciones de telefonía disponible al público y de banda ancha.
+
+1) Redes de Cables de Pares o Pares Trenzados.
+2) Redes de Cables Coaxiales.
+3) Redes de Cables de Fibra Óptica.
+
+##### 3.1.F Utilización de elementos no comunes del edificio o conjunto de edificaciones (si existe).
+
+###### a) Descripción de los elementos y de su uso.
+
+###### b) Determinación de las servidumbres impuestas a los elementos.
+
+##### 3.1.G Estimación de los residuos generados por la instalación de la ICT.
+
 ### 4. Presupuesto y medidas
 
 Los materiales objeto del Proyecto Técnico serán genéricos, salvo cuando, por razones especiales, se decida que sean referidos a un fabricante concreto, utilizándose precios de mercado. Este apartado constituye un elemento importante para poder realizar la comprobación de las partidas instaladas e identificar los materiales utilizados en cada caso en la instalación.
