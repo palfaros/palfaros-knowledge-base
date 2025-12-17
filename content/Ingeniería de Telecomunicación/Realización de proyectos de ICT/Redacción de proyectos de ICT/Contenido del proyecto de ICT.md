@@ -271,17 +271,13 @@ El Pliego de Condiciones constituirá la parte del Proyecto Técnico en la que s
 ###### b) Redes de Cables Coaxiales.
 
 1) Características de los cables.
-2) Características de los elementos activos (si existen).
-3) Características de los elementos pasivos.
-
-1) Características de los cables.
-2) Características de los elementos pasivos.
+2) Características de los elementos activos.
 
 ###### c) Redes de cables de Fibra Óptica.
 
-1) Características de los cables.
-2) Características de los elementos pasivos.
-3) Características de los empalmes de fibra en la instalación (si procede).
+1) Características de los cables.
+2) Características de los elementos activos.
+3) Características de los empalmes de fibra en la instalación (si procede).
 
 ##### 3.1.C Infraestructuras de Hogar Digital (cuando se incluyan en el proyecto).
 
@@ -303,9 +299,9 @@ El Pliego de Condiciones constituirá la parte del Proyecto Técnico en la que s
 
 ###### b) Cuadro de medidas de las redes de telecomunicaciones de telefonía disponible al público y de banda ancha.
 
-1) Redes de Cables de Pares o Pares Trenzados.
-2) Redes de Cables Coaxiales.
-3) Redes de Cables de Fibra Óptica.
+1) Redes de Cables de Pares o Pares Trenzados.
+2) Redes de Cables Coaxiales.
+3) Redes de Cables de Fibra Óptica.
 
 ##### 3.1.F Utilización de elementos no comunes del edificio o conjunto de edificaciones (si existe).
 
