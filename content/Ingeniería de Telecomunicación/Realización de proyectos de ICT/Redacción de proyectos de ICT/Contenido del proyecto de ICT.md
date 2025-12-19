@@ -617,6 +617,53 @@ Al final de cada apartado debe aparecer un resumen de los materiales necesarios 
 
 ###### 6.iv) Puntos de Acceso al usuario (PAU).
 
+###### c) Redes de Cables de Fibra Óptica.
+
+###### 1) Establecimiento de la topología de la red de cables de fibra óptica.
+
+El R.D. 346/2011 establece que la red de distribución/dispersión de cable de fibra óptica se realizará normalmente mediante un cable multifibra normalizado que tenga capacidad suficiente para cubrir la demanda prevista, extrayéndose las fibras ópticas correspondientes a cada planta en los registros secundarios, donde se realizará el empalme con las fibras ópticas de la red de dispersión bien con fusión o con empalme mecánico. De todas formas en edificios con un número de PAU menor o igual que 15, la topología puede ser en estrella desde el punto de interconexión hasta el PAU de cada usuario.
+
+###### 2) Cálculo y dimensionamiento de las redes de distribución y dispersión de cables de fibra óptica, y tipos de cables.
+
+Se calcularán el número de acometidas necesarias. Cada acometida está compuesta por un cable de 2 fibras ópticas.
+
+###### 3) Cálculo de los parámetros básicos de la instalación:
+
+###### 3.i) Cálculo de la atenuación de las redes de distribución y dispersión de fibra óptica.
+
+Se calculará la atenuación de la red de distribución y dispersión de fibra óptica, desde el registro principal hasta el PAU de cada una de las viviendas, considerando la atenuación del cable, más la atenuación de los conector SC/APC y los empalmes si los hubiera. Se verificará que no se supera el valor máximo de 1,55 dB establecido en el anexo II del Real Decreto.
+
+###### 3.ii) Otros cálculos.
+
+###### 4)  Estructura de distribución y conexión.
+
+En este apartado se establecerá la distribución de acometidas de cables de fibra óptica de la red de distribución/dispersión y la forma en que se realizan las conexiones en el punto de interconexión, en el punto de distribución (si existe) y en el punto de acceso al usuario, tanto en el caso de la configuración en estrella como en el caso de configuración en árbol-rama (cable multifibra en la red de distribución y empalmes entre fibras de esta red y las redes de dispersión).
+
+###### 5) Dimensionamiento de:
+
+###### 5.i) Punto de Interconexión.
+
+Será necesario calcular no solo los materiales, número y características, para configurar el punto de interconexión de las redes de salida sino también el espacio necesario para las regletas de entrada de los operadores (apartado 2.5 anexo II del Real Decreto).
+
+###### 5.ii) Puntos de Distribución de cada planta.
+
+En el caso de distribución en estrella, no existen puntos de distribución de planta.
+
+En el caso de distribución árbol-rama, el punto de distribución se realiza instalando cajas de segregación en el interior de los registros secundarios de planta.
+
+###### 6) Resumen de los materiales necesarios para las redes de distribución y dispersión de cables de fibra óptica.
+
+Al final de cada apartado debe aparecer un resumen de los materiales necesarios y sus características básicas
+
+###### 6.i) Cables.
+
+###### 6.ii) Panel de conectores de salida.
+
+###### 6.iii) Cajas de segregación.
+
+###### 6.iv) Conectores.
+
+###### 6.v) Puntos de Acceso al Usuario (PAU).
 
 
 ### 2. Planos
