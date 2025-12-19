@@ -517,9 +517,107 @@ En la mayor parte de los edificios en todo caso la distancia será menor que 100
 Para el caso de redes de cable de pares se deberá tener en cuenta asimismo que el R.D. 346/2011 establece claramente que la red de distribución se proyectará con cables multipares, si bien permite (“esta podrá realizarse”) que se realice con cable de pares cuando el número de pares en la red de distribución/dispersión sea inferior o igual a 30.
 
 Surgen por tanto dos topologías diferentes:
+- Edificios con red de distribución inferior o igual a 30 pares. La topología de la red podrá ser en estrella.
+- Edificios con red de distribución superior a 30 pares. En este caso la topología de la red es obligatoriamente árbol-rama, con cable multipar; debiéndose describir oportunamente el tipo de cable a realizar.
 
-Edificios con red de distribución inferior o igual a 30 pares. La topología de la red podrá ser en estrella
-Edificios con red de distribución superior a 30 pares. En este caso la topología de la red es obligatoriamente árbol-rama, con cable multipar; debiéndose describir oportunamente el tipo de cable a realizar.
+Señalar
+###### 1) Establecimiento de la topología de la red de cables de pares.
+
+Como hemos señalado anteriormente se especificará si la red es de cable de pares trenzados UTP categoría 6 o de pares trenzados en función de la distancia del punto de interconexión al PAU más alejado.
+
+###### 2) Cálculo y dimensionamiento de las redes de distribución y dispersión de cables de pares, y tipos de cables.
+
+Se calcularán el número de acometidas de cable de pares trenzados o el número de pares necesarios, y el cable normalizado de pares utilizado.
+
+###### 3) Cálculo de los parámetros básicos de la instalación:
+
+###### 3.i) Cálculo de la atenuación de las redes de distribución y dispersión de cables de pares (para el caso de pares trenzados).
+
+Se calculará la atenuación de la red de distribución y dispersión de cable de pares trenzados, en cada uno de las viviendas, considerando la atenuación del cable, la conexión en el punto de interconexión y en el panel de salida y se indicarán en una tabla. A pesar que el reglamento no fija atenuaciones máximas, se verificará que no supera las de la norma UNE.
+
+Recordemos que la norma UNE-EN 50173-1 establece, como valor máximo de atenuación para un canal de cable de pares trenzados de Clase E (100 m de longitud máxima) 35,9 dB a 250 MHz.
+
+Para los conectores RJ45 y las tomas se considera una atenuación de 0,3 dB. Se puede tomar un valor típico de atenuación de los cables de pares trenzados de 31 dB/ 100 m a 250 MHz. Dado que se dice que la longitud de la red de distribución/dispersión de cables trenzados debe ser inferior a 100 m se puede considerar este valor como el máximo de atenuación permitida que sería =100 x 0,31 + 0,3 = 31,30.
+
+###### 3.ii) Otros cálculos.
+
+###### 4) Estructura de distribución y conexión.
+
+En este apartado se establecerá la distribución de acometidas de pares trenzados (o cables de pares) de la red de distribución/dispersión.
+
+###### 5) Dimensionamiento de:
+
+###### 5.i) Punto de Interconexión.
+
+ Será necesario calcular no solo los materiales, número y características, para configurar el punto de interconexión de las redes de salida sino también el espacio necesario para las regletas de entrada de los operadores (apartado 2.5 anexo II del Real Decreto).
+
+###### 5.ii) Puntos de Distribución de cada planta
+
+Dimensionamiento de los registros de cada planta del inmueble(apartados 2.5, 3.3. y 5.2  anexo II del Real Decreto).
+
+###### 6) Resumen de los materiales necesarios para la red de cables de pares.
+
+Al final de cada apartado debe aparecer un resumen de los materiales necesarios y sus características básicas.
+###### 6.i) Cables.
+
+###### 6.ii) Regletas o Paneles de salida del Punto de Interconexión.
+
+###### 6.iii) Regletas de los Puntos de Distribución.
+
+###### 6.iv) Conectores.
+
+###### 6.v) Puntos de Acceso al Usuario (PAU).
+
+###### b) Redes de Cables Coaxiales.
+
+###### 1) Establecimiento de la topología de la red de cables coaxiales.
+
+El R.D. 346/2011 establece que la red de distribución/dispersión de cables coaxiales tendrá configuración en estrella en edificaciones con un número de PAU igual o menor que 20, mientras que la configuración en árbol-rama, con un solo cable coaxial, se utilizará en edificaciones con un número de PAU superior a 20.
+
+###### 2) Cálculo y dimensionamiento de las redes de distribución y dispersión de cables coaxiales y tipos de cables.
+
+Se calcularán el número de acometidas de cable coaxial necesarias.
+
+###### 3) Cálculo de los parámetros básicos de la instalación:
+###### 3.i) Cálculo de la atenuación de las redes de distribución y dispersión de cables coaxiales.
+
+Se calculará la atenuación de la red de distribución y dispersión de cable de coaxial, desde el registro principal hasta el PAU de cada una de las viviendas, considerando la atenuación del cable, la atenuación del distribuidor de 2 salidas que se instalará en cada Registro de Terminación de Red y la atenuación de los conectores F y se indicarán en una tabla. Se verificará que no se supera el valor máximo de 20dB establecido en el anexo II del Real Decreto.
+
+###### 3.ii) Otros cálculos.
+
+###### 4) Estructura de distribución y conexión.
+
+En este apartado se establecerá la distribución de acometidas de cables coaxiales de la red de distribución/dispersión y la forma en que se realizan las conexiones en el punto de interconexión, en el punto de distribución (si existe) y en el punto de acceso al usuario, tanto en el caso de la configuración en estrella como en el caso de configuración en árbol-rama.
+
+###### 5) Dimensionamiento de:
+
+###### 5.i) Punto de Interconexión.
+
+Será necesario calcular no solo los materiales, número y características, para configurar el punto de interconexión de las redes de salida sino también el espacio necesario para las regletas de entrada de los operadores (apartado 2.5 anexo II del Real Decreto).
+
+En el caso de distribución en estrella, en el proyecto se indican el número de acometidas que constituyen la red de distribución para que el operador instale un derivador con un número de salidas suficiente para conectar los cables de distribución.
+
+En el caso de distribución árbol-rama, el derivador debe disponer de tantas salidas como árboles constituyen la red de distribución.
+
+###### 5.ii) Puntos de Distribución de cada planta.
+
+En el caso de distribución en estrella, no existen puntos de distribución de planta.
+
+En el caso de distribución árbol-rama, el punto de distribución se realiza instalando en el registro secundario de planta un derivador con un número de salidas mayor o igual que el número de PAU de cada planta.
+
+###### 6) Resumen de los materiales necesarios para las redes de distribución y dispersión de cables coaxiales.
+
+Al final de cada apartado debe aparecer un resumen de los materiales necesarios y sus características básicas.
+
+###### 6.i) Cables.
+
+###### 6.ii) Elementos pasivos.
+
+###### 6.iii) Conectores.
+
+###### 6.iv) Puntos de Acceso al usuario (PAU).
+
+
 
 ### 2. Planos
 
