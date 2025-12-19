@@ -436,13 +436,65 @@ Puede entenderse que se satisface este punto calculando los valores de los esfue
 Con carácter general y salvo que los fabricantes en sus catálogos den otros valores, los valores típicos que se suelen obtener de los cálculos para sistemas situados a más de 20 metros del suelo (150 Km/h) son:
 
 |                     |                                  |                                   |
-| ------------------- | -------------------------------- | --------------------------------- |
+| ------------------- | :------------------------------: | :-------------------------------: |
 |                     | Antenas de 80-120 cm de diámetro | Antenas de 120-150 cm de diámetro |
-| Esfuerzo horizontal | 422 kg                           | 614 kg                            |
-| Esfuerzo vertical   | 158 kg                           | 290 kg                            |
-| Momento             | 553 kg · m                       | 956 kg · m                        |
+| Esfuerzo horizontal |              422 kg              |              614 kg               |
+| Esfuerzo vertical   |              158 kg              |              290 kg               |
+| Momento             |            553 kg · m            |            956 kg · m             |
  
  La fijación de las antenas parabólicas puede realizarse bien a paramentos laterales o al suelo.
+ 
+###### c) Previsión para incorporar las señales de satélite.
+
+La normativa como hemos señalado no exige la instalación de los equipos de captación necesarios para incluir este servicio, pero si a que la ICT sea capaz de incorporarlas en cualquier momento.
+
+###### d) Mezcla de las señales de radiodifusión sonora y televisión por satélite con las terrestres.
+
+La función de mezcla se puede realizar de dos formas:
+
+1. Utilizando un dispositivo mezclador que se coloca en cada cable de bajada, al cual se inyecta la señal de F.I.
+2. Utilizando un amplificador de F.I. con función de mezcla, en el cual se inyecta la señal de TV terrestre.
+
+###### e) Cálculo de parámetros básicos de la instalación:
+###### 1) Cálculo de la atenuación desde los amplificadores de cabecera hasta las tomas de usuario, en la banda 950 MHz–2150 MHz. (Suma de las atenuaciones en las redes de distribución, dispersión e interior de usuario).
+
+Al igual que en el caso de TDT se pueden calcular las atenuaciones estimadas desde la salida de los amplificadores hasta las tomas de los diferentes pisos y recogerlas en una tabla (a 950 MHz y 2150 MHz).
+
+En todo caso se indicarán las atenuaciones de la mejor y peor toma respectivamente.
+
+###### 2) Respuesta amplitud frecuencia en la banda 950 MHz–2150 MHz (Variación máxima desde la cabecera hasta la toma de usuario en el mejor y en el peor caso).
+
+Deberán realizarse los cálculos correspondientes a los datos requeridos en este punto. Simplemente indicaremos en este punto los valores obtenidos.
+
+###### 3) Amplificadores necesarios.
+
+Aunque no es necesario instalar los amplificadores si proporcionar sus características.
+
+Calculadas las atenuaciones de la red, se definen los valores máximos y mínimos de salida del amplificador de salida al objeto de garantizar los niveles de señal mejor y peor en toma de usuario.
+
+Deberá verificarse que se cumplen los requisitos técnicos incluidos en los apartados 4.5 del anexo I del Real Decreto.
+
+###### 4) Niveles de señal en toma de usuario en el mejor y peor caso.
+
+Se indicarán los niveles de señales esperadas en la mejor y peor toma del inmueble, teniendo en cuenta los niveles de salida de los amplificadores definidos anteriormente.
+
+###### 5) Relación señal / ruido en la peor toma.
+
+La peor relación señal ruido corresponde, generalmente, a la toma con menor nivel y al canal más elevado.
+
+Deberá verificarse que se cumplen los requisitos técnicos incluidos en los apartados 4.5 del anexo I del Real Decreto.
+
+###### 6) Productos de intermodulación.
+
+Se calculará la relación S/I y se verificará que se cumplen los requisitos del apartado 4.5. del Real Decreto.
+
+###### f) Descripción de los elementos componentes de la instalación (cuando proceda)
+
+1) Sistemas captadores.
+2) Amplificadores.
+3) Materiales complementarios.
+
+Si se instala la red de televisión por satélite, se procederá de la misma manera que la red de TDT.
 
 ### 2. Planos
 
