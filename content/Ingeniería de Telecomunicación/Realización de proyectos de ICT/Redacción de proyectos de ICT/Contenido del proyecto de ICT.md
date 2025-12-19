@@ -496,6 +496,31 @@ Se calculará la relación S/I y se verificará que se cumplen los requisitos de
 
 Si se instala la red de televisión por satélite, se procederá de la misma manera que la red de TDT.
 
+##### 1.2.C Acceso y distribución de los servicios de telecomunicaciones de telefonía disponible al público (STDP) y de banda ancha (TBA).
+
+###### 1.2.C.1) Redes de Distribución y de Dispersión.
+
+En este capítulo se procederá, acorde con la descripción del edificio realizado en el Apartado 1.1, en función del número de plantas, viviendas, locales comerciales y oficinas, a determinar las características de las redes de cables a instalar. También se realizará la asignación de pares, cables coaxiales y fibras ópticas a cada vivienda, como datos para que el instalador proceda a la confección de los paneles de conexión y regleteros correspondientes. Todo ello, se completará con un cuadro resumen en el que, de forma sucinta, se recojan los distintos tipos de cables y elementos de conexión para cada tipo de medio portador a utilizar en la instalación en las redes de distribución y dispersión y en las redes interiores de usuario.
+
+Como ya se ha señalado en el capítulo 4 del curso, el dimensionamiento de las diferentes redes de la ICT vendrá condicionado por la presencia de los operadores de servicio en la localización de la edificación, por la tecnología de acceso que utilicen dichos operadores y por la aplicación de los criterios de previsión de demanda establecidos en el Real Decreto.
+
+Es importante señalar por tanto, que en este punto, el Reglamento otorga al proyectista la responsabilidad de decidir las tecnologías a utilizar en las redes de distribución y dispersión. Esta decisión se debe basar en la información obtenida mediante el procedimiento de consulta e intercambio de información entre proyectista y operadores de telecomunicación en función de lo establecido en el artículo 8 del Real Decreto sobre tecnología empleada en las redes de acceso (cable de pares, cable coaxial o fibra óptica). A continuación el proyectista realizará el dimensionado de cada una de las redes de distribución, dispersión e interior de usuario de acuerdo a los criterios establecidos en este punto del Reglamento.
+
+Cuando no existan operadores que utilicen o tenga previsto utilizar una determinada tecnología se deberán realizar igualmente los cálculos de dimensionado de las redes de distribución y dispersión, de acuerdo con los criterios establecidos en el reglamento, aunque no será necesario instalar dichas redes, sino solamente las canalizaciones necesarias para atender dichas previsiones, dotadas con el correspondiente hilo-guía.
+
+###### a) Redes de Cables de Pares o Pares Trenzados.
+
+El proyecto solo contemplará una red de cables, de pares o trenzados, y la decisión sobre una u otra depende solo y exclusivamente de la distancia ente el Punto de Interconexión y el PAU más alejado. De tal forma, si dicha distancia es menor, si dicha distancia es menor que 100 metros la red será de cables de pares trenzados y si es mayor que 100 metros la red será de cable de pares.
+
+En la mayor parte de los edificios en todo caso la distancia será menor que 100 metros, por lo que será más probable utilizar una red de pares trenzados.
+
+Para el caso de redes de cable de pares se deberá tener en cuenta asimismo que el R.D. 346/2011 establece claramente que la red de distribución se proyectará con cables multipares, si bien permite (“esta podrá realizarse”) que se realice con cable de pares cuando el número de pares en la red de distribución/dispersión sea inferior o igual a 30.
+
+Surgen por tanto dos topologías diferentes:
+
+Edificios con red de distribución inferior o igual a 30 pares. La topología de la red podrá ser en estrella
+Edificios con red de distribución superior a 30 pares. En este caso la topología de la red es obligatoriamente árbol-rama, con cable multipar; debiéndose describir oportunamente el tipo de cable a realizar.
+
 ### 2. Planos
 
 En este capítulo se incluyen los planos y esquemas de principio necesarios para la instalación de la infraestructura objeto del Proyecto Técnico. Constituyen la herramienta para que el constructor pueda ubicar en los lugares adecuados los elementos requeridos en la memoria, de acuerdo con las características de los mismos incluidas en el Pliego de Condiciones. Deben ser, por tanto, claros y precisos. Delineados por medios electrónicos o manuales eliminando dudas en su interpretación. Los reflejados a continuación, considerados como mínimos, podrán ser complementados con otros planos que a juicio del proyectista sean necesarios en cada caso concreto. Es importante señalar que se deben incluir junto a los planos del edificio, que muestren la ubicación de los recintos, las canalizaciones, registros y bases de acceso terminal, los esquemas básicos de las infraestructuras de radiodifusión sonora y televisión y de los servicios de telecomunicaciones de telefonía disponible al público y de banda ancha. El esquema de la infraestructura tiene por objeto mostrar las canalizaciones, recintos, registros y bases de acceso terminal. El esquema de radiodifusión sonora y televisión tiene por objeto mostrar los elementos de esta infraestructura, desde los elementos de captación de las señales hasta las bases de acceso de los terminales. El esquema de telecomunicaciones de telefonía disponible al público y de banda ancha tiene por objeto mostrar la distribución de los cables y demás elementos de la redes de telefonía disponible al público y de banda ancha del edificio o conjunto de edificaciones y su asignación a cada vivienda. Se incluirán, al menos, los siguientes planos:
