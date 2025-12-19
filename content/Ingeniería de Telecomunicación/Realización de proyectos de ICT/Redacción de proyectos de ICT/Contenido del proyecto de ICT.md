@@ -665,6 +665,72 @@ Al final de cada apartado debe aparecer un resumen de los materiales necesarios 
 
 ###### 6.v) Puntos de Acceso al Usuario (PAU).
 
+###### 1.2.C.2) Redes Interiores de Usuario.
+
+###### a) Red de Cables de Pares Trenzados.
+
+###### 1) Cálculo y dimensionamiento de la red interior de usuario de pares trenzados.
+
+Se indicará en una tabla el número de estancias por vivienda y el número de tomas de cada una de ellas; así como el total de tomas.
+
+###### 2) Cálculo de los parámetros básicos de la instalación:
+
+###### 2.i) Cálculo de la atenuación de la red interior de usuario de pares trenzados. 
+
+Se realizará el cálculo de la atenuación de cada una de las ramas que constituyen las redes interiores de usuario de cable de pares trenzados.
+
+###### 2.ii) Otros cálculos.
+
+###### 3) Número y distribución de las Bases de Acceso Terminal.
+
+Se indicarán las tomas en cada vivienda; siendo necesario un mínimo de 1 por cada estancia (exceptuando baños y trasteros).
+
+######4) Tipo de cables.
+
+Se utilizarán cables de pares trenzados de 4 pares de hilos conductores tipo UTP categoría 6, cada uno desde el RTR hasta cada BAT, siguiendo una topología en estrella.
+
+###### 5) Resumen de los materiales necesarios para la red interior de usuario de cables de pares trenzados.
+
+Al final de cada apartado debe aparecer un resumen de los materiales necesarios y sus características básicas
+
+###### 5.i) Cables.
+
+###### 5.ii) Conectores.
+
+###### 5.iii) BATs.
+
+###### b) Red de Cables Coaxiales.
+
+###### 1) Cálculo y dimensionamiento de la red interior de usuario de cables coaxiales.
+
+Se indicará el número de tomas de cada vivienda; así como el total de tomas
+
+###### 2) Cálculo de los parámetros básicos de la instalación:
+
+###### 2.i) Cálculo de la atenuación de la red interior de usuario de cables coaxiales.
+
+Se realizará el cálculo de la atenuación de cada una de las ramas que constituyen las redes interiores de usuario de cable de coaxial
+
+###### 2.ii) Otros cálculos.
+
+###### 3) Número y distribución de las Bases de Acceso Terminal.
+
+Se indicarán las tomas en cada vivienda, con un mínimo de 2 por vivienda
+
+###### 4) Tipo de cables.
+
+ Se indicará el tipo de cable utilizado (cable coaxial de tipo RG59)
+
+###### 5) Resumen de los materiales necesarios para la red interior de usuario de cables coaxiales:
+
+Al final de cada apartado debe aparecer un resumen de los materiales necesarios y sus características básicas.
+
+###### 5.i) Cables.
+
+###### 5.ii) Conectores.
+
+###### 5.iii) BATs.
+
 
 ### 2. Planos
 
