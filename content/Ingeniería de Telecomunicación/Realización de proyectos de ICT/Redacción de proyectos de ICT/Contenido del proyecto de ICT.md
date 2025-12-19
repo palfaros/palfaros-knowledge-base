@@ -385,8 +385,7 @@ Se calculará la relación S/I y se verificará que se cumplen los requisitos de
 
 En el caso de utilización de amplificadores intermedios en la red de distribución, es necesario incluir en este punto de la Memoria la información necesaria respecto a posibles ampliaciones de la infraestructura en cuanto al número máximo de canales de televisión, incluyendo los considerados en el proyecto original, que puede distribuir la instalación, manteniendo sus características dentro de los límites establecidos en el anexo I del Reglamento.
 
-
-h)      Descripción de los elementos componentes de la instalación.
+##### h) Descripción de los elementos componentes de la instalación.
 
 En este apartado se incluirá una descripción básica de los elementos que constituyen la instalación que se ha calculado. Se puede hacer referencia al esquema del apartado planos donde se muestra la configuración general de la red de RTV como explicación complementaria.
 
@@ -401,6 +400,14 @@ Deberá contener los siguientes apartados:
 4) Distribuidores, derivadores, PAUS.
 5) Cables.
 6) Materiales complementarios.
+
+En este apartado, se establecerán las premisas sobre la elección del emplazamiento de las antenas receptoras de señales de radiodifusión sonora y televisión por satélite, las características de las mismas que inciden en los cálculos mecánicos de las bases de las parábolas y el cálculo de la estructura de soporte de las mismas. También se explicará en el mismo, las **previsiones para incorporar las señales de radiodifusión sonora y televisión por satélite** en función de la cabecera para la captación terrestre que se defina, así como la forma en que, en función de dicha cabecera, se pueda producir la mezcla de ambas señales para su posterior distribución. En todo caso, y al objeto de garantizar que la instalación es adecuada para la introducción de los servicios de radiodifusión sonora y televisión por satélite, se establecerán los niveles de señal requeridos a la salida de la cabecera que deberán ser compatibles con los amplificadores disponibles en el mercado. Asimismo, se determinarán los niveles de señal obtenidos en el mejor y peor caso.
+
+Por tanto la Orden ITC/1644/2011 incluye como obligatorio el cálculo de la red de televisión y radiodifusión por satélite como si fuese a instalarse desde el principio.
+
+El objeto de esto es garantizar que la ICT está preparada para la incorporación de los servicios de televisión y radiodifusión por satélite, de forma que cuando el servicio se incorpore, toda la red esté suficientemente operativa, siendo suficiente la instalación de las antenas y de los equipos de cabecera, para que los usuarios puedan recibir la las oportunas señales si disponen del decodificador o receptor adecuado al servicio instalado.
+
+Por tanto se desarrollará el proyecto técnico, atendiendo a lo anterior, lo cual no obliga a colocar las antenas ni el equipo de cabecera, pero calculando las características de las mismas aunque no se instalen, así como los niveles de ajuste de cabecera y los niveles esperados en toma de usuario.
 
 ### 2. Planos
 
