@@ -731,6 +731,53 @@ Al final de cada apartado debe aparecer un resumen de los materiales necesarios 
 
 ###### 5.iii) BATs.
 
+###### 1.2.D Infraestructuras de Hogar Digital.
+
+En este apartado se describirán los servicios, infraestructuras, redes y dispositivos que componen el Hogar Digital, incluidos en el proyecto, siempre que siga los criterios establecidos para alcanzar alguno de los niveles de hogar digital (de acuerdo a la puntuación obtenida) recogidos en el anexo V  R.D  346/2011.
+
+Esa clasificación incluida en el anexo V se aplicará a aquellas edificaciones en las que las viviendas, por decisión de su promotor, incorporen las funcionalidades de “hogar digital”
+
+Por tanto no es obligatorio (ni objeto del presente curso)  incluir las funcionalidades de hogar digital en el proyecto.
+
+###### 1.2.E Canalización e infraestructura de distribución.
+
+En este apartado, se procederá al estudio general del edificio para determinar la ubicación de los diferentes elementos de la infraestructura. En el cálculo de las canalizaciones precisas, en función de las necesidades de la red, se incluirán, al menos, los resultados del mismo. Deberá existir una descripción sobre la realización de las diversas canalizaciones en función de las características estructurales del edificio, con indicación de la ubicación de los registros secundarios, de paso, de terminación de red y de toma, así como las soluciones constructivas que se deban adoptar en cada caso de acuerdo con las Normas de la Edificación que, en cada momento, resulten de aplicación. Se deberán señalar las características y dimensiones de las canalizaciones empleadas en cada caso, cuando exista grado de libertad para ello, así como las características básicas de la red de enlace. En lo referente a los recintos de instalaciones de telecomunicación (RIT), se deberán indicar las características de su equipamiento en función de lo especificado en la Norma de la Edificación. Se finalizará con un cuadro resumen de los materiales necesarios, sus características básicas y sus dimensiones.
+
+###### a) Consideraciones sobre el esquema general del edificio.
+
+###### b) Arqueta de Entrada y Canalización Externa.
+
+###### c) Registros de Enlace inferior y superior.
+
+###### d) Canalizaciones de enlace inferior y superior.
+
+###### e) Recintos de Instalaciones de Telecomunicación:
+1) Recinto Inferior.
+2) Recinto Superior.
+3) Recinto Único.
+4) Equipamiento de los mismos.
+
+###### f) Registros Principales.
+
+###### g) Canalización Principal y Registros Secundarios.
+
+###### h) Canalización Secundaria y Registros de Paso.
+
+###### i) Registros de Terminación de Red.
+
+###### j) Canalización Interior de Usuario.
+
+###### k) Registros de Toma.
+
+###### l) Cuadro resumen de materiales necesarios:
+1) Arquetas.
+2) Tubos de diverso diámetro y canales.
+3) Registros de los diversos tipos.
+4) Material de equipamiento de los recintos.
+
+###### 1.2.F Varios.
+
+Análisis, estudio y soluciones de protección e independencia de la ICT respecto a otras instalaciones previstas en el edificio o conjunto de edificaciones que puedan interferir o ser interferidas en su funcionamiento en/por la ICT (cuando sea necesario).
 
 ### 2. Planos
 
