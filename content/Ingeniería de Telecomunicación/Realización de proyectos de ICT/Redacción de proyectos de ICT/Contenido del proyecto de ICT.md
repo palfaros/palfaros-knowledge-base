@@ -268,7 +268,7 @@ Por todo ello, sobre todo en los casos de edificios que puedan ser susceptibles 
 
 Se incluirán aquí todas las informaciones, cálculos o sus resultados, acordes con las características técnicas de los materiales que intervienen en la instalación y situación de los mismos. Se complementará este apartado con un resumen general en el que se mostrarán las características, cantidades y tipos de materiales que son necesarios para la instalación.
 
-##### a) Consideraciones sobre el diseño.
+###### a) Consideraciones sobre el diseño.
 
 Cada proyectista escribirá su visión de las consideraciones que ha seguido en el diseño. Se entiende que estas consideraciones son específicas para cada proyecto y en ellas el proyectista describe los principios que sigue al establecer el mismo.
 
@@ -276,7 +276,7 @@ Son las conclusiones que surgen del estudio del edificio, la forma en que cada p
 
 Evidentemente los datos que se incluyen en este apartado son la consecuencia de los cálculos realizados más adelante, por lo que este aparatado deberá completarse una vez realizados los cálculos del proyecto.
 
-##### b) Señales de radiodifusión sonora y televisión terrestres que se reciben en el emplazamiento de las antenas receptoras.
+###### b) Señales de radiodifusión sonora y televisión terrestres que se reciben en el emplazamiento de las antenas receptoras.
 
 Se incluirán en un cuadro obligatoriamente las señales que dispongan de título habilitante en el lugar de la edificación objeto del proyecto, siempre que presenten un nivel de intensidad de campo según lo establecido en el punto 4.1.6 del anexo I Reglamento.
 
@@ -286,11 +286,11 @@ www.tdt1.com
 
 En todo caso lo correcto sería realizar “in situ” una comprobación de los valores obtenidos (mediciones de campo eléctrico en el solar o en edificios adyacentes, …)
 
-##### c) Selección de emplazamiento y parámetros de las antenas receptoras.
+###### c) Selección de emplazamiento y parámetros de las antenas receptoras.
 
 Una vez estudiado el emplazamiento del edificio y de las edificaciones circundantes que pueden dar lugar a sombras, se deberá seleccionar el lugar adecuado para la instalación de los elementos captadores (antenas) en la cubierta, que se indicarán exactamente en el plano de cubierta.
 
-##### d) Cálculo de los soportes para la instalación de las antenas receptoras.
+###### d) Cálculo de los soportes para la instalación de las antenas receptoras.
 
 La ubicación de los mástiles o torretas de antena será tal que haya una distancia mínima de 5 metros al obstáculo o mástil más próximo; la distancia mínima a líneas eléctricas será de 1,5 veces la longitud del mástil.
 
@@ -319,7 +319,7 @@ En la memoria deberá especificarse por tanto el soporte de los elementos captad
 - Placa de apoyo de torreta (si es necesaria)
 - Zapata de hormigón
 
-##### e) Plan de frecuencias.
+###### e) Plan de frecuencias.
 
 Como norma general se deberá tener en cuenta lo establecido en los apartados 4.1.3 al 4.1.7. del anexo I del R.D. 346/2011.
 
@@ -329,13 +329,13 @@ Las señales de radiodifusión sonora y de televisión terrestre,  al menos debe
 
 Se deberá tener en cuenta que las bandas de frecuencias 195 MHz a 223 MHz y 470 MHz a 862 MHz se deben destinar, con carácter prioritario, para la distribución de señales de radiodifusión sonora digital terrestre y televisión digital terrestre, respectivamente.
 
-##### f) Número de tomas.
+###### f) Número de tomas.
 
 Se incluirán los resultados obtenidos en relación al número de tomas calculadas (apartados 2.3.5 y 3.5. del anexo I del R.D. 346/2011).
 
 Se recomienda incluir en un cuadro el número de estancias por vivienda, y el número de todas que se van a instalar en cada vivienda (y en los locales comerciales). En viviendas el número de tomas fijadas en el R.D. será de una por cada estancia, excluidos baños y trasteros, con un mínimo de dos. En todo caso puede ocurrir que el promotor quiera dotar el edificio de un mayor nivel de calidad y desee incrementar el mismo.
 
-##### g) Cálculo de parámetros básicos de la instalación:
+###### g) Cálculo de parámetros básicos de la instalación:
 
 Deberán realizarse los cálculos correspondientes a los datos requeridos en este punto. Simplemente indicaremos de todas formas los valores obtenidos.
 
@@ -385,7 +385,7 @@ Se calculará la relación S/I y se verificará que se cumplen los requisitos de
 
 En el caso de utilización de amplificadores intermedios en la red de distribución, es necesario incluir en este punto de la Memoria la información necesaria respecto a posibles ampliaciones de la infraestructura en cuanto al número máximo de canales de televisión, incluyendo los considerados en el proyecto original, que puede distribuir la instalación, manteniendo sus características dentro de los límites establecidos en el anexo I del Reglamento.
 
-##### h) Descripción de los elementos componentes de la instalación.
+###### h) Descripción de los elementos componentes de la instalación.
 
 En este apartado se incluirá una descripción básica de los elementos que constituyen la instalación que se ha calculado. Se puede hacer referencia al esquema del apartado planos donde se muestra la configuración general de la red de RTV como explicación complementaria.
 
@@ -401,6 +401,8 @@ Deberá contener los siguientes apartados:
 5) Cables.
 6) Materiales complementarios.
 
+##### 1.2.B Distribución de radiodifusión sonora y televisión por satélite.
+
 En este apartado, se establecerán las premisas sobre la elección del emplazamiento de las antenas receptoras de señales de radiodifusión sonora y televisión por satélite, las características de las mismas que inciden en los cálculos mecánicos de las bases de las parábolas y el cálculo de la estructura de soporte de las mismas. También se explicará en el mismo, las **previsiones para incorporar las señales de radiodifusión sonora y televisión por satélite** en función de la cabecera para la captación terrestre que se defina, así como la forma en que, en función de dicha cabecera, se pueda producir la mezcla de ambas señales para su posterior distribución. En todo caso, y al objeto de garantizar que la instalación es adecuada para la introducción de los servicios de radiodifusión sonora y televisión por satélite, se establecerán los niveles de señal requeridos a la salida de la cabecera que deberán ser compatibles con los amplificadores disponibles en el mercado. Asimismo, se determinarán los niveles de señal obtenidos en el mejor y peor caso.
 
 Por tanto la Orden ITC/1644/2011 incluye como obligatorio el cálculo de la red de televisión y radiodifusión por satélite como si fuese a instalarse desde el principio.
@@ -408,6 +410,39 @@ Por tanto la Orden ITC/1644/2011 incluye como obligatorio el cálculo de la red 
 El objeto de esto es garantizar que la ICT está preparada para la incorporación de los servicios de televisión y radiodifusión por satélite, de forma que cuando el servicio se incorpore, toda la red esté suficientemente operativa, siendo suficiente la instalación de las antenas y de los equipos de cabecera, para que los usuarios puedan recibir la las oportunas señales si disponen del decodificador o receptor adecuado al servicio instalado.
 
 Por tanto se desarrollará el proyecto técnico, atendiendo a lo anterior, lo cual no obliga a colocar las antenas ni el equipo de cabecera, pero calculando las características de las mismas aunque no se instalen, así como los niveles de ajuste de cabecera y los niveles esperados en toma de usuario.
+
+###### a) Selección del emplazamiento y parámetros de las antenas receptoras de la señal de satélite.
+
+Deberá reservarse espacio físico suficiente libre de obstáculos en la parte superior de la edificación, con accesibilidad garantizada en cualquier situación, para la instalación de los conjuntos de elementos de captación para la recepción de las señales de radiodifusión sonora y televisión por satélite, cuando éstos no formen parte de la instalación inicial. Dicho espacio deberá permitir la realización de los trabajos necesarios para la sujeción de los correspondientes elementos.
+
+La ubicación de las antenas receptoras de satélite deberá realizarse teniendo en cuenta sus dimensiones, las características del edificio y la orientación necesaria.
+
+Hay que tener en cuenta que el R.D. 346/2011 simplemente requiere hacer la previsión de espacio para la instalación de las antenas receptoras de señales del satélite Astra o Hispasat; pero existen otros satélites, que pueden ser de interés en zonas con residentes extranjeros (Eutelsat, Elecom…) Ello dará como consecuencia la necesidad de utilizar diversas parábolas orientadas a los satélites correspondientes. No se puede hacer previsión para todas, a menos que lo requiera el promotor.
+
+###### b) Cálculo de los soportes para la instalación de las antenas receptoras de la señal de satélite.
+
+El conjunto para la captación de servicios por satélite, cuando exista, estará constituido por las antenas con el tamaño adecuado y demás elementos que posibiliten la recepción de señales procedentes de satélite, para garantizar los niveles y calidad de las señales en toma de usuario fijados en el R.D.
+
+Las antenas y elementos del sistema captador soportarán  las siguientes velocidades de viento:
+	i) Para sistemas situados a menos de 20 m del suelo: 130 km/h.
+	ii) Para sistemas situados a más de 20 m del suelo: 150 km/h.
+
+Todas las partes accesibles que deban ser manipuladas o con las que el cuerpo humano pueda establecer contacto deberán estar a potencial de tierra o adecuadamente aisladas.
+
+Con el fin exclusivo de proteger el equipamiento captador y para evitar diferencias de potencial peligrosas entre éste y cualquier otra estructura conductora, el equipamiento captador deberá permitir la conexión de un conductor, de una sección de cobre de, al menos, 25 mm² de sección, con el sistema de protección general del edificio.
+
+Puede entenderse que se satisface este punto calculando los valores de los esfuerzos de las antenas en función de su diámetro y de las velocidades máximas de viento requeridas en el Reglamento y solicitando en el pliego de condiciones que el arquitecto determine las características del paramento o suelo donde se van a ubicar las antenas. Al arquitecto por tanto se le deben facilitar los esfuerzos debidos al viento para que pueda calcular las dimensiones de los elementos de sujeción.
+
+Con carácter general y salvo que los fabricantes en sus catálogos den otros valores, los valores típicos que se suelen obtener de los cálculos para sistemas situados a más de 20 metros del suelo (150 Km/h) son:
+
+|                     |                                  |                                   |
+| ------------------- | -------------------------------- | --------------------------------- |
+|                     | Antenas de 80-120 cm de diámetro | Antenas de 120-150 cm de diámetro |
+| Esfuerzo horizontal | 422 kg                           | 614 kg                            |
+| Esfuerzo vertical   | 158 kg                           | 290 kg                            |
+| Momento             | 553 kg · m                       | 956 kg · m                        |
+ 
+ La fijación de las antenas parabólicas puede realizarse bien a paramentos laterales o al suelo.
 
 ### 2. Planos
 
