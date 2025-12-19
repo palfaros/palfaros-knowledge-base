@@ -262,6 +262,72 @@ Por todo ello, sobre todo en los casos de edificios que puedan ser susceptibles 
 
 ##### 1.1.D Objeto del Proyecto Técnico.
 
+#### 1.2 Elementos que constituyen la infraestructura común de telecomunicación.
+
+##### 1.2.A Captación y distribución de radiodifusión sonora y televisión terrestres.
+
+Se incluirán aquí todas las informaciones, cálculos o sus resultados, acordes con las características técnicas de los materiales que intervienen en la instalación y situación de los mismos. Se complementará este apartado con un resumen general en el que se mostrarán las características, cantidades y tipos de materiales que son necesarios para la instalación.
+
+##### a) Consideraciones sobre el diseño.
+
+Cada proyectista escribirá su visión de las consideraciones que ha seguido en el diseño. Se entiende que estas consideraciones son específicas para cada proyecto y en ellas el proyectista describe los principios que sigue al establecer el mismo.
+
+Son las conclusiones que surgen del estudio del edificio, la forma en que cada proyectista lo aborda así como de los resultados finales que se obtienen de la aplicación de dicho planteamiento.
+
+Evidentemente los datos que se incluyen en este apartado son la consecuencia de los cálculos realizados más adelante, por lo que este aparatado deberá completarse una vez realizados los cálculos del proyecto.
+
+##### b) Señales de radiodifusión sonora y televisión terrestres que se reciben en el emplazamiento de las antenas receptoras.
+
+Se incluirán en un cuadro obligatoriamente las señales que dispongan de título habilitante en el lugar de la edificación objeto del proyecto, siempre que presenten un nivel de intensidad de campo según lo establecido en el punto 4.1.6 del anexo I Reglamento.
+
+Como ayuda señalar que se pueden encontrar datos de diferentes poblaciones en la página web:
+
+www.tdt1.com
+
+En todo caso lo correcto sería realizar “in situ” una comprobación de los valores obtenidos (mediciones de campo eléctrico en el solar o en edificios adyacentes, …)
+
+##### c) Selección de emplazamiento y parámetros de las antenas receptoras.
+
+Una vez estudiado el emplazamiento del edificio y de las edificaciones circundantes que pueden dar lugar a sombras, se deberá seleccionar el lugar adecuado para la instalación de los elementos captadores (antenas) en la cubierta, que se indicarán exactamente en el plano de cubierta.
+
+##### d) Cálculo de los soportes para la instalación de las antenas receptoras.
+
+La ubicación de los mástiles o torretas de antena será tal que haya una distancia mínima de 5 metros al obstáculo o mástil más próximo; la distancia mínima a líneas eléctricas será de 1,5 veces la longitud del mástil.
+
+La altura máxima del mástil será de 6 metros. Para alturas superiores se utilizarán torretas.
+
+Los mástiles de antenas se fijarán a elementos de fábrica resistentes y accesibles y alejados de chimeneas u otros obstáculos.
+
+Las antenas y elementos del sistema captador de señales soportarán las siguientes velocidades de viento:
+	a) Para sistemas situados a menos de 20 m del suelo: 130 km/h.
+	b) Para sistemas situados a más de 20 m del suelo: 150 km/h.
+
+Los cables de conexión serán del tipo intemperie o en su defecto deberán estar protegidos adecuadamente.
+
+La orden ITC/1644/2011 requiere que se determine el cálculo de los soportes de la antena. El posicionamiento de las antenas puede ser por tanto un mástil (de máximo 6 metros) o una torreta (o la combinación de torreta y mástil.
+
+Para el cálculo de los soportes se pueden utilizar diferentes procedimientos:
+- Utilizar lo dispuesto en la norma UNE-EN 50083-1 punto 11 Estabilidad mecánica.
+- Utilizar algún programa de software que realice los cálculos.
+- Emplear documentación técnica de los fabricantes (por ejemplo marca Televés).
+
+En la memoria deberá especificarse por tanto el soporte de los elementos captadores formado por:
+- Torreta y su longitud (si se usa)
+- Mástil y su longitud
+- Materiales complementarios (anclajes de fijación de los diversos elementos)
+- Riostras (si son necesarias)
+- Placa de apoyo de torreta (si es necesaria)
+- Zapata de hormigón
+
+##### e) Plan de frecuencias.
+
+Como norma general se deberá tener en cuenta lo establecido en los apartados 4.1.3 al 4.1.7. del anexo I del R.D. 346/2011.
+
+Tomando como base los resultados de las medidas en el emplazamiento se establecerá un plan de frecuencias.
+
+Las señales de radiodifusión sonora y de televisión terrestre,  al menos deberán ser distribuidas sin manipulación ni conversión de frecuencia, salvo en los casos en los que técnicamente se justifique en el proyecto técnico de la instalación, para garantizar una recepción satisfactoria.
+
+Se deberá tener en cuenta que las bandas de frecuencias 195 MHz a 223 MHz y 470 MHz a 862 MHz se deben destinar, con carácter prioritario, para la distribución de señales de radiodifusión sonora digital terrestre y televisión digital terrestre, respectivamente.
 
 ### 2. Planos
 
