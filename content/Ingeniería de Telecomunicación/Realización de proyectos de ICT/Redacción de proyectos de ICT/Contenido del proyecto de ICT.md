@@ -441,8 +441,8 @@ Con carácter general y salvo que los fabricantes en sus catálogos den otros va
 | Esfuerzo horizontal |              422 kg              |              614 kg               |
 | Esfuerzo vertical   |              158 kg              |              290 kg               |
 | Momento             |            553 kg · m            |            956 kg · m             |
- 
- La fijación de las antenas parabólicas puede realizarse bien a paramentos laterales o al suelo.
+
+La fijación de las antenas parabólicas puede realizarse bien a paramentos laterales o al suelo.
  
 ###### c) Previsión para incorporar las señales de satélite.
 
