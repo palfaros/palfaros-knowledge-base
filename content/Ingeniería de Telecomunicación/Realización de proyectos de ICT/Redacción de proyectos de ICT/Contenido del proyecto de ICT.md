@@ -329,6 +329,79 @@ Las señales de radiodifusión sonora y de televisión terrestre,  al menos debe
 
 Se deberá tener en cuenta que las bandas de frecuencias 195 MHz a 223 MHz y 470 MHz a 862 MHz se deben destinar, con carácter prioritario, para la distribución de señales de radiodifusión sonora digital terrestre y televisión digital terrestre, respectivamente.
 
+##### f) Número de tomas.
+
+Se incluirán los resultados obtenidos en relación al número de tomas calculadas (apartados 2.3.5 y 3.5. del anexo I del R.D. 346/2011).
+
+Se recomienda incluir en un cuadro el número de estancias por vivienda, y el número de todas que se van a instalar en cada vivienda (y en los locales comerciales). En viviendas el número de tomas fijadas en el R.D. será de una por cada estancia, excluidos baños y trasteros, con un mínimo de dos. En todo caso puede ocurrir que el promotor quiera dotar el edificio de un mayor nivel de calidad y desee incrementar el mismo.
+
+##### g) Cálculo de parámetros básicos de la instalación:
+
+Deberán realizarse los cálculos correspondientes a los datos requeridos en este punto. Simplemente indicaremos de todas formas los valores obtenidos.
+
+Los requisitos técnicos reglamentarios vienen incluidos en los apartados 4.4 y 4.5 del R.D. 346/2011.
+
+###### 1) Número de repartidores, derivadores, según su ubicación en la red, PAU y sus características, así como las de los cables utilizados.
+
+En este apartado se debe incluir una descripción básica de los elementos que constituyen la instalación de RTV que se ha calculado.
+
+Se puede hacer referencia al esquema del apartado planos donde se muestra la configuración general de la red de RTV como explicación complementaria.
+
+###### 2) Cálculo de la atenuación desde los amplificadores de cabecera hasta las tomas de usuario, en la banda 15 MHz–862 MHz. (Suma de las atenuaciones en las redes de distribución, dispersión e interior de usuario).
+
+Deberán realizarse los cálculos correspondientes a los datos requeridos en este punto. Simplemente indicaremos de todas formas los valores obtenidos.
+
+Se recomienda incluir una tabla con la atenuación en todas las tomas (a 15MHz y 862 MHz al menos), aunque en todo caso deberá incluirse la atenuación de la mejor y peor toma de las viviendas.
+
+###### 3) Respuesta amplitud frecuencia (Variación máxima de la atenuación a diversas frecuencias en el mejor y en el peor caso).
+
+Deberán realizarse los cálculos correspondientes a los datos requeridos en este punto. Simplemente indicaremos en este punto los valores obtenidos.
+
+Deberá verificarse que se cumplen los requisitos técnicos incluidos en los apartados 4.4. del anexo I del Real Decreto.
+
+###### 4) Amplificadores necesarios (número, situación en la red y tensión máxima de salida).
+
+Calculadas las atenuaciones de la red, se definen los valores máximos y mínimos de salida del conjunto de amplificadores de salida al objeto de garantizar los niveles de señal mejor y peor en toma de usuario.
+
+Partiendo de esos niveles de salida se seleccionarán amplificadores que proporcionen un nivel máximo de salida superior al requerido, para que no trabaje en su posición de mayor amplificación. En caso de amplificadores monocanales se definirá los niveles de salida de forma que a la salida del combinador en Z se obtenga un nivel que garantice que en toma el peor nivel es el definido.
+
+Deberá verificarse que se cumplen los requisitos técnicos incluidos en los apartados 4.5 del anexo I del Real Decreto.
+
+###### 5) Niveles de señal en toma de usuario en el mejor y peor caso.
+
+Se indicarán los niveles de señales esperadas en la mejor y peor toma del inmueble, teniendo en cuenta los niveles de salida de los amplificadores definidos anteriormente.
+
+###### 6) Relación señal / ruido en la peor toma.
+
+La peor relación señal ruido corresponde, generalmente, a la toma con menor nivel y al canal más elevado.
+
+Deberá verificarse que se cumplen los requisitos técnicos incluidos en los apartados 4.5 del anexo I del Real Decreto.
+
+###### 7) Productos de Intermodulación.
+
+Se calculará la relación S/I y se verificará que se cumplen los requisitos del apartado 4.5. del Real Decreto.
+
+###### 8) Número máximo de canales de televisión incluyendo los considerados en el proyecto original, que puede distribuir la instalación
+
+En el caso de utilización de amplificadores intermedios en la red de distribución, es necesario incluir en este punto de la Memoria la información necesaria respecto a posibles ampliaciones de la infraestructura en cuanto al número máximo de canales de televisión, incluyendo los considerados en el proyecto original, que puede distribuir la instalación, manteniendo sus características dentro de los límites establecidos en el anexo I del Reglamento.
+
+
+h)      Descripción de los elementos componentes de la instalación.
+
+En este apartado se incluirá una descripción básica de los elementos que constituyen la instalación que se ha calculado. Se puede hacer referencia al esquema del apartado planos donde se muestra la configuración general de la red de RTV como explicación complementaria.
+
+Se pretende que el instalador tenga de forma resumida la lista de los materiales que componen la instalación.
+
+Se incluirá un cuadro básico que cada proyectista completará en función de las características de cada instalación.
+
+Deberá contener los siguientes apartados:
+1) Sistemas captadores.
+2) Amplificadores.
+3) Mezcladores.
+4) Distribuidores, derivadores, PAUS.
+5) Cables.
+6) Materiales complementarios.
+
 ### 2. Planos
 
 En este capítulo se incluyen los planos y esquemas de principio necesarios para la instalación de la infraestructura objeto del Proyecto Técnico. Constituyen la herramienta para que el constructor pueda ubicar en los lugares adecuados los elementos requeridos en la memoria, de acuerdo con las características de los mismos incluidas en el Pliego de Condiciones. Deben ser, por tanto, claros y precisos. Delineados por medios electrónicos o manuales eliminando dudas en su interpretación. Los reflejados a continuación, considerados como mínimos, podrán ser complementados con otros planos que a juicio del proyectista sean necesarios en cada caso concreto. Es importante señalar que se deben incluir junto a los planos del edificio, que muestren la ubicación de los recintos, las canalizaciones, registros y bases de acceso terminal, los esquemas básicos de las infraestructuras de radiodifusión sonora y televisión y de los servicios de telecomunicaciones de telefonía disponible al público y de banda ancha. El esquema de la infraestructura tiene por objeto mostrar las canalizaciones, recintos, registros y bases de acceso terminal. El esquema de radiodifusión sonora y televisión tiene por objeto mostrar los elementos de esta infraestructura, desde los elementos de captación de las señales hasta las bases de acceso de los terminales. El esquema de telecomunicaciones de telefonía disponible al público y de banda ancha tiene por objeto mostrar la distribución de los cables y demás elementos de la redes de telefonía disponible al público y de banda ancha del edificio o conjunto de edificaciones y su asignación a cada vivienda. Se incluirán, al menos, los siguientes planos:
