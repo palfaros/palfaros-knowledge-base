@@ -999,7 +999,7 @@ Una vez se dispone de la topología completa de la red hacia cada toma y las pé
 |              |            |                | Pérdidas de inserción o paso PAU Televés 5454 (5D)   |                    |  13,00  |  13,00  |
 |              |            |                | Pérdidas 9,03 metros de cable coaxial                |        9,03        |  1,08   |  1,35   |
 |              |            |                | Pérdidas derivación toma Televés 5229                |                    |  4,00   |  4,00   |
-|              |            |                | Atenuación Total                                     |                    |  40,81  |  41,49  |
+|              |            |                | Atenuación Total                                     |                    | 38,31 | 38,99 |
 |              |            | Toma 2, V3, P2 |                                                      |                    |         |         |
 |              |            |                | Pérdidas 3 metros de cable coaxial                   |         3          |  0,36   |  0,45   |
 |              |            |                | Pérdidas de paso derivador Televés 5446 (4D)         |                    |  0,80   |  0,80   |
@@ -1011,7 +1011,7 @@ Una vez se dispone de la topología completa de la red hacia cada toma y las pé
 |              |            |                | Pérdidas de inserción o paso PAU Televés 5454 (5D)   |                    |  13,00  |  13,00  |
 |              |            |                | Pérdidas 4,31 metros de cable coaxial                |        4,31        |  0,52   |  0,65   |
 |              |            |                | Pérdidas derivación toma Televés 5229                |                    |  4,00   |  4,00   |
-|              |            |                | Atenuación Total                                     |                    |  40,24  |  40,78  |
+|              |            |                | Atenuación Total                                     |                    | 37,74 | 38,28 |
 |              |            | Toma 3, V3, P2 |                                                      |                    |         |         |
 |              |            |                | Pérdidas 3 metros de cable coaxial                   |         3          |  0,36   |  0,45   |
 |              |            |                | Pérdidas de paso derivador Televés 5446 (4D)         |                    |  0,80   |  0,80   |
@@ -1023,7 +1023,7 @@ Una vez se dispone de la topología completa de la red hacia cada toma y las pé
 |              |            |                | Pérdidas de inserción o paso PAU Televés 5454 (5D)   |                    |  13,00  |  13,00  |
 |              |            |                | Pérdidas 7,35 metros de cable coaxial                |        7,35        |  0,88   |  1,10   |
 |              |            |                | Pérdidas derivación toma Televés 5229                |                    |  4,00   |  4,00   |
-|              |            |                | Atenuación Total                                     |                    |  40,61  |  41,23  |
+|              |            |                | Atenuación Total                                     |                    | 38,11 | 38,73 |
 |              |            | Toma 4, V3, P2 |                                                      |                    |         |         |
 |              |            |                | Pérdidas 3 metros de cable coaxial                   |         3          |  0,36   |  0,45   |
 |              |            |                | Pérdidas de paso derivador Televés 5446 (4D)         |                    |  0,80   |  0,80   |
@@ -1035,7 +1035,7 @@ Una vez se dispone de la topología completa de la red hacia cada toma y las pé
 |              |            |                | Pérdidas de inserción o paso PAU Televés 5454 (5D)   |                    |  13,00  |  13,00  |
 |              |            |                | Pérdidas 8,51 metros de cable coaxial                |        8,51        |  1,02   |  1,28   |
 |              |            |                | Pérdidas derivación toma Televés 5229                |                    |  4,00   |  4,00   |
-|              |            |                | Atenuación Total                                     |                    |  40,75  |  41,41  |
+|              |            |                | Atenuación Total                                     |                    | 38,25 | 38,91 |
 |              |            | Toma 5, V3, P2 |                                                      |                    |         |         |
 |              |            |                | Pérdidas 3 metros de cable coaxial                   |         3          |  0,36   |  0,45   |
 |              |            |                | Pérdidas de paso derivador Televés 5446 (4D)         |                    |  0,80   |  0,80   |
@@ -1047,7 +1047,7 @@ Una vez se dispone de la topología completa de la red hacia cada toma y las pé
 |              |            |                | Pérdidas de inserción o paso PAU Televés 5454 (5D)   |                    |  13,00  |  13,00  |
 |              |            |                | Pérdidas 10,12 metros de cable coaxial               |       10,12        |  1,21   |  1,52   |
 |              |            |                | Pérdidas derivación toma Televés 5229                |                    |  4,00   |  4,00   |
-|              |            |                | Atenuación Total                                     |                    |  40,94  |  41,65  |
+|              |            |                | Atenuación Total                                     |                    | 38,44 | 39,15 |
 | Planta 1     |            |                |                                                      |                    |         |         |
 |              | Vivienda 1 |                |                                                      |                    |         |         |
 |              |            | Toma 1, V1, P1 |                                                      |                    |         |         |
