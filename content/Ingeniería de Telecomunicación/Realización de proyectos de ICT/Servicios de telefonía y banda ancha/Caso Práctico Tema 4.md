@@ -48,11 +48,37 @@ date: 2025-12-06
 |             | PAU Ático C     | 3.45 + 2.85 + 2.85 + 2.85 + 2.85 + 0.92 = 15.77 |
 |             | Reserva         | 3.45 + 2.85 + 2.85 + 2.85 + 2.85 + 4.29 = 19.14 |
 
-El total de la red de distribución son 225.58 metros. Por tanto, harán falta 3 bobinas de 100 metros.
+El **total de la red de distribución** son **225.58 metros**. 
+
+El siguiente paso es calcular los metros de cable utilizados en la red de interior de usuario de cada vivienda. Para ello, se suman las distancias desde el PAU a cada toma de la vivienda, teniendo en cuenta que en las tomas dobles se utilizarán dos cables trenzados desde el PAU, es decir, de la misma longitud. Las tomas dobles se han situado en el salón y en el dormitorio principal de cada vivienda.
+
+|          |                      |                                                                                                                                                     |
+| -------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+|          |                      | Total metros de cable                                                                                                                               |
+| Planta 1 |                      |                                                                                                                                                     |
+|          | Red interior 1ºA     | 2 · (0.89 + 2.81) + (1.53 + 1.48 + 1.39) + 2 · (1.53 + 4.56 + 1.36 + 3.07) + (1.53 + 4.56 + 1.35 + 1.87 + 1.42) = 43.57                             |
+|          | Red interior 1ºB     | 2 · (1.12 + 2.79 + 4.44) + (1.12 + 1.73 + 0.96) + (1.12 + 1.89 + 3.84) + (1.12 + 1.89 + 1.37+ 3.63) + 2 · (1.12 + 1.89 + 1.37+ 3.00 + 2.24) = 54.61 |
+|          | Red interior 1ºC     | 2 · (2.46 + 6.97 + 3.99) + (2.46 + 1.86 + 3.11) + (2.46 + 0.77 + 2.91 +2.13) + 2 · (2.15 + 1.19 + 0.57 + 3.90) + (1.28 + 4.13 + 0.60) = 64.17       |
+| Planta 2 |                      |                                                                                                                                                     |
+|          | Red interior 2ºA     | 2 · (0.89 + 2.81) + (1.53 + 1.48 + 1.39) + 2 · (1.53 + 4.56 + 1.36 + 3.07) + (1.53 + 4.56 + 1.35 + 1.87 + 1.42) = 43.57                             |
+|          | Red interior 2ºB     | 2 · (1.12 + 2.79 + 4.44) + (1.12 + 1.73 + 0.96) + (1.12 + 1.89 + 3.84) + (1.12 + 1.89 + 1.37+ 3.63) + 2 · (1.12 + 1.89 + 1.37+ 3.00 + 2.24) = 54.61 |
+|          | Red interior 2ºC     | 2 · (2.46 + 6.97 + 3.99) + (2.46 + 1.86 + 3.11) + (2.46 + 0.77 + 2.91 +2.13) + 2 · (2.15 + 1.19 + 0.57 + 3.90) + (1.28 + 4.13 + 0.60) = 64.17       |
+| Planta 3 |                      |                                                                                                                                                     |
+|          | Red interior 3ºA     | 2 · (0.89 + 2.81) + (1.53 + 1.48 + 1.39) + 2 · (1.53 + 4.56 + 1.36 + 3.07) + (1.53 + 4.56 + 1.35 + 1.87 + 1.42) = 43.57                             |
+|          | Red interior 3ºB     | 2 · (1.12 + 2.79 + 4.44) + (1.12 + 1.73 + 0.96) + (1.12 + 1.89 + 3.84) + (1.12 + 1.89 + 1.37+ 3.63) + 2 · (1.12 + 1.89 + 1.37+ 3.00 + 2.24) = 54.61 |
+|          | Red interior 3ºC     | 2 · (2.46 + 6.97 + 3.99) + (2.46 + 1.86 + 3.11) + (2.46 + 0.77 + 2.91 +2.13) + 2 · (2.15 + 1.19 + 0.57 + 3.90) + (1.28 + 4.13 + 0.60) = 64.17       |
+| Ático    |                      |                                                                                                                                                     |
+|          | Red Interior Ático A | 2 · (3.26 + 1.24) + 2 · (4.29 + 3.70) + (4.29 + 1.07 + 2.16) = 32.5                                                                                 |
+|          | Red Interior Ático B | 2 · (1.30 + 5.64) + (0.44 + 2.60 +1.35) + (0.44 + 2.35 +2.26) + 2 · (0.44 + 2.35 +2.99 + 1.43) = 37.74                                              |
+|          | Red Interior Ático C | 2 · (2.06 + 3.27) + (2.06 + 3.63) + 2 · (2.06 + 1.43 + 3.23) + (1.24 + 1.43 + 2.11 + 1.55) = 36.12                                                  |
+
+El **total de la red de distribución** son **593.41 metros**. 
+
+**Los metros totales de cable UTP que harán falta son 818.99 metros. Por tanto, harán falta 9 bobinas de 100 metros**.
 
 ## Apartado B
 
-**Respecto a las tomas de “banda ancha” debemos saber que en la norma antigua sólo se dejaban las canalizaciones esperando que el operador completase la instalación. Casi siempre se utilizaban para instalar cableado coaxial, aunque no es obligatorio. Suponiendo que los operadores locales nos comunican que sólo desean cableado UTP y fibra: **
+**Respecto a las tomas de “banda ancha” debemos saber que en la norma antigua sólo se dejaban las canalizaciones esperando que el operador completase la instalación. Casi siempre se utilizaban para instalar cableado coaxial, aunque no es obligatorio. Suponiendo que los operadores locales nos comunican que sólo desean cableado UTP y fibra:**
 - **¿Podremos aprovechar para algo los planos (la ubicación de tomas y el diseño de canalización)?** E total de PAUs del edificio es 3·3 (Viviendas Plantas) + 3 (Viviendas Ático) + 1 (Local comercial) = 13 PAUs. Si asumimos 2 PAUs adicionales para las estancias comunes, el total de PAUs del edificio es 15. En una red de pares telefónicos, el Reglamento indica 3 líneas por local, 2 por cada estancia común y 2 por vivienda. En el caso de una red de fibra óptica, el Reglamento requiere 1 acometida por local, 2 por cada estancia común y 1 por vivienda. El factor de ocupación utilizado en ambos casos es el mismo: 1.2. Por tanto, el diseño de la canalización ya existente para la red de pares se puede reutilizar perfectamente para la red de fibra óptica.
 - **¿Qué número de fibras habrá en la red de distribución?** El Reglamento requiere 1 acometida por local, 2 por cada estancia común y 1 por vivienda. Por tanto, si asumimos 12 viviendas, 1 local y 2 estancias comunes y aplicamos un factor de ocupación de 1.2, el total de acometidas será 15 para viviendas, 2 para el local comercial y 3 para estancias comunes, es decir, 20 acometidas. Cada acometida consiste en un cable de 2 fibras ópticas. Por tanto, la red de distribución contará con un total de 40 fibras ópticas.
 - **¿Deberemos cablear en estrella (con fibras individuales) o con cables multifibra?** Al tratarse de una red con menos de 20 PAUs (en concreto, 15 PAUs), la topología de la red de distribución será en estrella con fibras individuales.
