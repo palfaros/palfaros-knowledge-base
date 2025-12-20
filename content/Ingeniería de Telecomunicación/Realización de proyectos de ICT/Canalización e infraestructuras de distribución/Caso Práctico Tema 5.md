@@ -171,3 +171,4 @@ La canalización de la red interior de usuario se realizará mediante tubos, uti
 En cuanto a los registros de toma, en viviendas se colocarán, al menos, los siguientes registros de toma:
 - En cada una de las dos estancias principales: 2 registros para tomas de cables de pares trenzados, 1 registro para toma de cables coaxiales para servicios de TBA y 1 registro para toma de cables coaxiales para servicios de RTV. En una de las estancias principales, preferiblemente el salón, 1 registro para toma de cable de fibra óptica.
 - En el resto de las estancias, excluidos baños y trasteros: 1 registro para toma de cables de pares trenzados y 1 registro para toma de cables coaxiales para servicios de RTV.
+- En la cercanía del PAU: 1 registro para toma configurable. Consiste en un tubo adicional de 20 mm más registro con tapa.
