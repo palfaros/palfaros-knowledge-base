@@ -238,7 +238,7 @@ La directiva de Zegona está formada por las siguientes personas:
 - Richard Williams (*Non-Executive Director*)
 - Suzi Williams (*Non-Executive Director*)
 - Rita Estevez (*Non-Executive Director*). [Incorporada el 28 de junio de 2024](https://data.fca.org.uk/artefacts/NSM/RNS/5244950.html).
-- Sofia Arhall (*Non-Executive Director*). [Incorporada el 24 de abril de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1932828&culture=en-GB&val=638813164362745552).
+- Sofia Arhall Bergendorff (*Non-Executive Director*). [Incorporada el 24 de abril de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1932828&culture=en-GB&val=638813164362745552).
 
 En el caso de Vodafone España, su adquisición por parte de Zegona supuso una reestructuración de su directiva, que paso de 11 a 7 personas:
 - José Miguel García (CEO): Antiguo CEO de Jazztel y Euskaltel.
@@ -297,6 +297,9 @@ La directiva de Zegona ha comprado acciones desde el anuncio de la adquisición 
 - El [12 de noviembre de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1884062&culture=en-GB&val=638817229037796996) Richard Williams (*Non-Executive Director*) compró 82.141 acciones de la compañía ($ZEG) a un precio de 3,2 libras esterlinas por acción (174.076,80 libras esterlinas).
 - El [12 de diciembre de 2024](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1893405&culture=en-GB&val=638817229037747012) Ashley Martin (*Non-Executive Director*) compró 13.332 acciones de la compañía ($ZEG) a un precio de 3,3 libras esterlinas por acción (42.075 libras esterlinas).
 - El [13 de enero de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1900344&culture=en-GB&val=638817229037677001) Richard Williams (*Non-Executive Director*) compró 12.363 acciones de la compañía ($ZEG) a un precio de 4,0392 libras esterlinas por acción (49.936.63 libras esterlinas).
+- El [2 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2011926&culture=en-GB&val=639018787844179939) Suzi Williams (*Non-Executive Director*) compró 7.858 acciones de la compañía ($ZEG) a un precio de 13,93 libras esterlinas por acción (109.990,28 libras esterlinas).
+- El [3 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2012423&culture=en-GB&val=639018787844159921) Sofia Arhall Bergendorff (*Non-Executive Director*) compró 5.841 acciones de la compañía ($ZEG) a un precio de 13,85 libras esterlinas por acción (80.897,85 libras esterlinas).
+- El [4 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2012580&culture=en-GB&val=639018787844139852) Rita Estevez (*Non-Executive Director*) compró 6.200 acciones de la compañía ($ZEG) a un precio de 13,87 libras esterlinas por acción (86.021,75 libras esterlinas).
 
 No se han registrado operaciones de venta hasta la fecha. Esto es un indicativo de la confianza de la directiva respecto a su plan estratégico, especialmente en el caso de José Miguel García, con más de 1,5 millones de euros de su patrimonio invertidos.
 
