@@ -237,6 +237,7 @@ La directiva de Zegona está formada por las siguientes personas:
 - Ashley Martin (*Non-Executive Director*)
 - Richard Williams (*Non-Executive Director*)
 - Suzi Williams (*Non-Executive Director*)
+- Rita Estevez (*Non-Executive Director*). [Incorporada el 28 de junio de 2024](https://data.fca.org.uk/artefacts/NSM/RNS/5244950.html).
 - Sofia Arhall (*Non-Executive Director*). [Incorporada el 24 de abril de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1932828&culture=en-GB&val=638813164362745552).
 
 En el caso de Vodafone España, su adquisición por parte de Zegona supuso una reestructuración de su directiva, que paso de 11 a 7 personas:
