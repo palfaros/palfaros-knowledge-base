@@ -985,6 +985,45 @@ En la nota de prensa se pueden encontrar parte de los detalles de la operación,
 - Se espera que la operación finalice en Q1 2026 (año natural, no año fiscal).
 - Eamonn O'Hare, CEO de Zegona señala que los 1.800 millones de euros proporcionan a la compañía flexibilidad financiera y dejan a la compañía **bien posicionada para ejecutar una política de *capital allocation* favorable para el accionista.**
 
+Se desconoce a cuánto ha valorado AXA la *FibreCo* con Telefónica en términos de *Enterprise Value* (EV). El EV es una valoración de mercado y se define como la suma del valor del *equity* y la deuda neta. Tal y como se ha indicado a lo largo de la tesis, las *FibreCo* son negocios con ingresos muy estables, lo que permite un elevado grado de apalancamiento para adelantar flujos futuros de caja.
+
+Sin embargo, este apalancamiento no crea valor por sí mismo. Si el EBITDA (o [[EBITDAaL]]) y el múltiplo de valoración permanecen constantes, cualquier incremento de la deuda neta se traduce necesariamente en una reducción equivalente del valor del *equity*, es decir, del valor de mercado de las participaciones de la compañía.
+
+En este contexto, se distinguen tres escenarios:
+
+- Escenario 1. *FibreCo* no apalancada en el momento de la compra. En este caso, no se ha emitido deuda para adelantar ingresos futuros. Al no existir deuda neta, la totalidad del EV se corresponde con el valor del *equity*.
+- Escenario 2. *FibreCo* apalancada en el momento de la compra, pero sin reparto de dividendo. En este caso, se ha emitido deuda para adelantar ingresos futuros, pero el efectivo obtenido permanece en caja. Como consecuencia, la deuda neta no ha aumentado. Por tanto, el EV continúa traduciéndose íntegramente en *equity*.
+- Escenario 3. *FibreCo* apalancada en el momento de la compra y con dividendo ya repartido. En este escenario, la deuda emitida se ha utilizado para repartir un dividendo extraordinario, incrementando la deuda neta de la compañía. En consecuencia, para obtener el valor del *equity* es necesario descontar dicha deuda neta del EV, dado que el valor ha sido transferido a los accionistas en forma de dividendo.
+
+Si denominamos E al valor total del *equity* de la *FibreCo* y D al importe total de un posible dividendo extraordinario, y considerando que [Zegona y Telefónica reciben 400 millones de euros y 100 millones de euros, respectivamente,](https://www.eleconomista.es/telecomunicaciones/noticias/13660262/11/25/axa-compra-el-40-de-fiberpass-por-600-millones-de-euros.html) de dicha *FibreCo* —ya sea en forma de ingresos por la venta de participaciones o mediante el cobro de un dividendo extraordinario—, es posible plantear un sistema de ecuaciones para cada uno de los escenarios analizados con el fin de determinar los valores implícitos de E y D.
+
+#### Escenarios 1 y 2
+
+*(Transacción sin reparto de dividendo previo; el equity se valora de forma íntegra, ya sea sin apalancamiento o con apalancamiento pero sin distribución de caja)*
+
+En estos escenarios, todo el valor recibido por los accionistas vendedores procede de la venta de *equity*. El sistema de ecuaciones queda definido como:
+
+$$
+\begin{cases}
+0.32 \cdot E = 400 \\
+0.08 \cdot E = 100
+\end{cases}
+$$
+
+#### Escenario 3
+
+*(Apalancamiento con reparto de dividendo extraordinario previo a la venta)*
+
+En este caso, parte del valor recibido por los accionistas corresponde a la venta de *equity* **ex-dividendo**, mientras que el resto procede del dividendo extraordinario repartido con anterioridad a la transacción. Dado que el dividendo se distribuye según la estructura accionarial previa, el sistema de ecuaciones se expresa como:
+
+$$
+\begin{cases}
+0.32 \cdot E + 0.37 \cdot D = 400 \\
+0.08 \cdot E + 0.63 \cdot D = 100
+\end{cases}
+$$
+
+**La solución a ambos sistemas de ecuaciones es la misma: el valor total del *equity* de la *FibreCo* son 1.250 millones de euros (o, al menos, es la valoración a la que la ha comprado AXA). El dividendo es 0. Por tanto, podemos concluir que la venta se ha realizado antes de repartir cualquier dividendo**. No sabemos si la *FibreCo* está apalancada o no, pero sí que los 400 millones de euros que recibirá Zegona proceden exclusivamente de la venta de *equity*. **Por otro lado, el *equity* restante que posee, un 5% de las acciones de la *FibreCo*, tiene un valor de 5% · 1250 = 62.5 millones de euros.**
 
 ## Referencias
 
