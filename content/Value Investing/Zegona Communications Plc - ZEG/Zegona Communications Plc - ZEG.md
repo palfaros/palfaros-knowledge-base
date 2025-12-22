@@ -1023,7 +1023,7 @@ $$
 \end{cases}
 $$
 
-**La solución a ambos sistemas de ecuaciones es la misma: el valor total del *equity* de la *FibreCo* son 1.250 millones de euros (o, al menos, es la valoración a la que la ha comprado AXA). El dividendo es 0. Por tanto, podemos concluir que la venta se ha realizado antes de repartir cualquier dividendo**. No sabemos si la *FibreCo* está apalancada o no, pero sí que los 400 millones de euros que recibirá Zegona proceden exclusivamente de la venta de *equity*. **Por último, la participación remanente de Zegona, equivalente al 5% del capital de la *FibreCo*, tiene un valor implícito de 62,5 millones de euros**.
+**La solución a ambos sistemas de ecuaciones es la misma: el valor total del *equity* de la *FibreCo* es de 1.250 millones de euros (o, al menos, esta es la valoración implícita a la que ha entrado AXA). El dividendo extraordinario es nulo, por lo que se puede concluir que la venta se ha realizado antes de cualquier reparto de dividendos**. Aunque se desonoce si la *FibreCo* está apalancada, sí puede afirmarse que los 400 millones de euros que recibirá Zegona proceden exclusivamente de la venta de *equity*. **Por último, la participación remanente de Zegona, equivalente al 5% del capital de la *FibreCo*, tiene un valor implícito de 62,5 millones de euros**.
 
 ## Referencias
 
