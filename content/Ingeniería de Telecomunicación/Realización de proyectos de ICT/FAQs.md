@@ -34,7 +34,6 @@ Saludos
 *caso1: cuando el nivel inferior esté por debajo*
 *caso 2: cuando el nivel superior esté por encima del permitido*
 
-  
 ¿En una bajante de TV?
 Si la diseñas como se dice en el curso eso no puede pasar.
 Esto es, al calcular el nivel de cabecera:
@@ -50,5 +49,11 @@ En ese caso hay que modificar la instalación... por ejemplo:
 - Dividirla por la mitad colocando un amplificador intermedio (amplificador de línea):  https://www.televes.com/es/distribucion-tv/filtrado-y-amplificacion/complementos/amplificadores-de-linea.html
 
 Saludos
+
+## Pregunta 4
+
+*Me ha surgido una duda más respecto a las redes de fibra óptica. No tengo claro como se estructura una red de distribución con topología en árbol-rama. ¿Se usa un cable multifibra y de él van separándose fibras en cada planta para llegar a cada vivienda? ¿O hay algún elemento pasivo adicional?*
+
+Correcto. Así es, como tu dices. No hay elementos pasivos.
 
 
