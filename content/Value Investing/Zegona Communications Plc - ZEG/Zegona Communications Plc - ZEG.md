@@ -1025,7 +1025,7 @@ La deuda neta se sigue situando en torno a los 3.600 millones de euros. El coste
 
 ![[ZEG_H1_26_Q2_26_Results_Debt_and_interest.png.png]]
 
-También se actualiza el estado de los procesos de monetización de las *FibreCo*. Se indica que *PremiumFiber* (*FibreCo* con MasOrange) ya cuenta con un socio, GIC, y que este proceso proporcionará 1.400 millones a Zegona, como ya se ha explicado en [[#Venta *FibreCo* con MasOrange]]. Por otro lado, no se especifican más detalles sobre la venta de *Fiberpass* (*FibreCo* con Telefónica).
+También se actualiza el estado de los procesos de monetización de las *FibreCo*. Se indica que *PremiumFiber* (*FibreCo* con MasOrange) ya cuenta con un socio, GIC, y que este proceso proporcionará 1.400 millones a Zegona, como ya se ha explicado en [[#Venta *FibreCo* con MasOrange]]. También se indica que *PremiumFiber* comenzará a operar en diciembre de 2025. Por otro lado, no se especifican más detalles sobre la venta de *Fiberpass* (*FibreCo* con Telefónica).
 
 ![[ZEG_H1_26_Q2_26_Results_FibreCos.png.png]]
 
