@@ -990,6 +990,41 @@ Con el objetivo de actualizar la valoración de la forma más conservadora, se t
 ### Junta General de Accionistas 2025
 
 El [29 de agosto de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1981547&culture=en-GB&val=638936441860996313) se anunció la convocatoria de la Junta General de Accionistas de 2025 el día 24 de septiembre de 2025 a las 10:00. Los contenidos que se tratarán en dicha junta se especifican en la [circular enviada a los accionistas](https://data.fca.org.uk/artefacts/NSM/Portal/NI-000127903/NI-000127903.pdf). Los más importantes desde el punto de vista de la tesis son la autorización para recomprar acciones y la cancelación de la prima de emisión (1.229 millones de euros) para crear reservas distribuibles. Esta última es la más importante, ya que es el paso previo para el reparto del dividendo de 1,5 libras esterlinas (+ intereses) a todos los accionistas que permitirá la cancelación de las 523.240.603 acciones preferentes que indirectamente posee Vodafone Group. La [cancelación de la prima de emisión se aprobó](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1990013&culture=en-GB&val=638983849552512974) por, prácticamente, la totalidad del accionariado en dicha junta y [se hizo efectiva el 6 de noviembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2004160&culture=en-GB&val=638983849552383031). Por tanto, los 1.229 millones de euros ya pueden destinarse legalmente al pago de dividendos.
+
+### Resultados H1 26
+
+Zegona presentó los resultados de H1 26 el día [25 de noviembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2009434&culture=en-GB&val=639021033035965874).
+
+En la nota de prensa se indican enlaces a 2 documentos:
+- [Informe de mitad de año - Interim Financial Report for the period ending 30 September 2025 Annual Report](https://data.fca.org.uk/artefacts/NSM/DirectUpload/NI-000134340/NI-000134340.pdf): Es el informe de mitad de año fiscal 2026, que concluyó el 30 de septiembre de 2025. El informe incluye los resultados de los últimos 6 meses de *Zegona Communications Plc* y de Vodafone España.
+- [Presentación de Resultados H1 26 de Vodafone España](https://www.zegona.com/~/media/files/z/zegona/disclaimer-pdf/vodafone-spain-half-year-2025-presentation.pdf): Se indica que es una presentación para inversores profesionales.
+
+En la presentación de resultados de Vodafone España se realizan comparativas entre H1 26 (1 de abril de 2025 a 30 de septiembre de 2025) y H1 25 (1 de abril de 2024 a 30 de septiembre de 20254, así como entre Q2 26 (1 de julio de 2025 a 30 de septiembre de 2025) y Q2 25 (1 de julio de 2024 a 30 de septiembre de 2024). Como recordatorio, la adquisición de Vodafone España por parte de Zegona se completó el 31 de mayo de 2024, por lo que en Q2 25 Vodafone España ya estaba completamente bajo el control de Zegona.
+
+El número de clientes, tanto líneas de banda ancha fija como líneas móviles, ha crecido también en Q2 26. La base de clientes se sigue recuperando con fuerza. Las ventas de ventas de *triple play* y *quadruple play* han aumentado un 14% en Q2 26 a Q2 25, cuando Vodafone España ya estaba bajo el control de Zegona.
+
+![[ZEG_H1_26_Q2_26_Results_Customer_Growth.png.png]]
+
+Las iniciativas de reducción de costes siguen funcionando, aumentando el EBITDA y el [[EBITDAaL]], tanto en cantidad absoluta como relativa, es decir, expandiendo márgenes. El margen [[EBITDAaL]] se se situó en el 35% en Q1 26 y en el 39% en Q2 26. Cabe recordar que la *FibreCo* con Telefónica, *Fiberpass*, comenzó a operar el 1 de marzo de 2025. Se desconoce cuántas líneas se han transferido desde entonces y por las que Vodafone España tendrá que pagar un alquiler a la *FibreCo*, pero es evidente que, de momento, no está impactando en el [[EBITDAaL]]. Si extrapolamos los resultados de H1 26 a FY 26, se obtiene un [[EBITDAaL]] de 1.328 millones de euros, un 6.3% superior al conseguido en FY 25, cuando las *FibreCo* ni siquiera estaban operando.
+
+![[ZEG_H1_26_Q2_26_Results_EBITDAaL.png.png]]
+
+Al igual que en Q1 26, el mayor crecimiento se ha producido en el *cash flow* operacional, aumentando un 20% en Q2 26 respecto a Q2 25 (como hemos recodado anteriormente, ya bajo pleno control de Zegona).
+
+![[ZEG_H1_26_Q2_26_Results_Cash_Flow.png.png]]
+
+Son 2 trimestres consecutivos generando más de 200 millones de euros de *cash flow* operacional. Este crecimiento de *cash flow* operacional, al mismo tiempo que se continúa refinanciando la deuda reduciendo su coste (intereses), permitirá generar *levered FCF*, disponible para devolver a los accionistas. Daniel Tello (Azagala Capital) indica que la compañía se va a convertir en una [máquina de generar dividendo](https://x.com/dantelriv/status/1993289095737688267).
+
+![[ZEG_H1_26_Q2_26_Declining_interest_costs.png.png]]
+
+Los ingresos (*revenues*) se mantienen estables también en Q2 26. No obstante, los márgenes continúan aumentando, por lo que los programas de reducción de costes siguen funcionando.
+
+![[ZEG_H1_26_Q1_26_Results_Operational_and_Financial_Information.png.png]]
+
+La deuda neta se sigue situando en torno a los 3.600 millones de euros. El coste de la deuda también se mantiene respecto a Q1 26. La principal diferencia es la cancelación del *Term Loan A* gracias a un incremento del importe del *EUR Term Loan B* al mismo tiempo que se ha reducido su tipo de interés del 3,00% a 2,75%, como ya se indicó en [[#Refinanciación de deuda III]].
+
+![[ZEG_H1_26_Q2_26_Results_Debt_and_interest.png.png]]
+
 ### Venta *FibreCo* con Telefónica
 
 El [25 de noviembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2009390&culture=en-GB&val=639019311201062702) se anunció la venta del 40% de la *FibreCo* con Telefórnica a AXA IM Alts.
@@ -1097,15 +1132,6 @@ $$
 | **Precio por acción final (GBX)**                    | **1138** | **1597** | **2057** | **2516** |
 | **Precio actual**                                    | **595**  | **595**  | **595**  | **595**  |
 | **Rentabilidad**                                     | **91%**  | **168%** | **246%** | **323%** |
-
-### Resultados HY 26
-
-Zegona presentó los resultados de HY 26 el día [25 de noviembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2009434&culture=en-GB&val=639021033035965874).
-
-En la nota de prensa se indican enlaces a 2 documentos:
-- [Informe de mitad de año - Interim Financial Report for the period ending 30 September 2025 Annual Report](https://data.fca.org.uk/artefacts/NSM/DirectUpload/NI-000134340/NI-000134340.pdf): Es el informe de mitad de año fiscal 2026, que concluyó el 30 de septiembre de 2025. El informe incluye los resultados de los últimos 6 meses de *Zegona Communications Plc* y de Vodafone España.
-- [Presentación de Resultados HY 26 de Vodafone España](https://www.zegona.com/~/media/files/z/zegona/disclaimer-pdf/vodafone-spain-half-year-2025-presentation.pdf): Se indica que es una presentación para inversores profesionales.
-
 
 ## Referencias
 
