@@ -1025,6 +1025,10 @@ La deuda neta se sigue situando en torno a los 3.600 millones de euros. El coste
 
 ![[ZEG_H1_26_Q2_26_Results_Debt_and_interest.png.png]]
 
+También se actualiza el estado de los procesos de monetización de las *FibreCo*. Se indica que *PremiumFiber* (*FibreCo* con MasOrange) ya cuenta con un socio, GIC, y que este proceso proporcionará 1.400 millones a Zegona, como ya se ha explicado en [[#Venta *FibreCo* con MasOrange]]. Por otro lado, no se especifican más detalles sobre la venta de *Fiberpass* (*FibreCo* con Telefónica).
+
+![[ZEG_H1_26_Q2_26_Results_FibreCos.png.png]]
+
 ### Venta *FibreCo* con Telefónica
 
 El [25 de noviembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2009390&culture=en-GB&val=639019311201062702) se anunció la venta del 40% de la *FibreCo* con Telefórnica a AXA IM Alts.
