@@ -917,7 +917,25 @@ Una vez conocida la parte que obtiene Vodafone España por este dividendo, se pu
 Para calcular el *Enterprise Value* (EV) al que GIC valora la totalidad de la *FibreCo*, se debe tener en cuenta que hay 1.350 millones de euros que le corresponderán como dividendo cuando sea propietario del 25% de las acciones de la compañía, de forma que se deben descontar del EV como si fuesen caja que se resta a la deuda bruta. A la deuda total de la compañía se le descuenta el dividendo correspondiente al comprador, dado que este flujo reducirá la deuda neta efectiva que soporta su inversión.
 
 Por tanto, el EV al que GIC valora la *FibreCo* es de 3.640 + 5.400 - 1.350 = 7.690 millones de euros. Esto se corresponde con un múltiplo de 16x EV/EBITDA (se estima que el EBITDA de la *FibreCo* será de 480 millones de euros).
-##### Estimación 3. Filtraciones a medios de comunicación
+
+##### Estimación 3. Cálculo de *equity* en función del dinero ingresado por cada accionista
+
+En esta estimación, parte del valor recibido por los accionistas vendedores procede de la venta de *equity*. mientras que el resto procede del dividendo extraordinario repartido con posterioridad a la transacción. El sistema de ecuaciones queda definido como:
+
+$$
+\begin{cases}
+0.125 \cdot E + 0.175 \cdot D = 1400 \\
+0.125 \cdot E + 0.575 \cdot D = 3200
+\end{cases}
+$$
+
+El resultado del sistema de ecuaciones es el siguiente:
+- E = 4900
+- D = 4500
+
+Por tanto, en esta estimación el valor total del *equity* de la *FibreCo* son 4.900 millones de euros y 4.500 millones de los 5.400 millones de deuda se reparten en forma de dividendo, por lo que el *Enterprise Value* es de 9.400 millones de euros. Esto supone un múltiplo de 19,6x EV/EBITDA. 
+
+##### Estimación 4. Filtraciones a medios de comunicación
 
 El anuncio de esta operación ha sido cubierto por diversos medios. Algunos de ellos indican, de forma estimada, la valoración realizada por GIC:
 - Según [El Economista](https://www.eleconomista.es/capital-riesgo/noticias/13491689/08/25/gic-el-brazo-inversor-de-singapur-compra-el-25-de-la-fibreco-de-masorange-y-vodafone.html?utm_medium=social&utm_source=twitter&utm_campaign=eEnoticias), la valoración fijada finalmente ha sido de aproximadamente 7.000 millones de euros para todo el proyecto.
@@ -997,16 +1015,29 @@ En este contexto, se distinguen tres escenarios:
 
 Si denominamos E al valor total del *equity* de la *FibreCo* y D al importe total de un posible dividendo extraordinario, y considerando que [Zegona y Telefónica reciben 400 millones de euros y 100 millones de euros, respectivamente,](https://www.eleconomista.es/telecomunicaciones/noticias/13660262/11/25/axa-compra-el-40-de-fiberpass-por-600-millones-de-euros.html) de dicha *FibreCo* —ya sea en forma de ingresos por la venta de participaciones o mediante el cobro de un dividendo extraordinario—, es posible plantear un sistema de ecuaciones para cada uno de los escenarios analizados con el fin de determinar los valores implícitos de E y D.
 
-#### Escenarios 1 y 2
+#### Escenario 1
 
-*(Transacción sin reparto de dividendo previo; el equity se valora de forma íntegra, ya sea sin apalancamiento o con apalancamiento pero sin distribución de caja)*
+*(Transacción sin reparto de dividendo previo; el equity se valora de forma íntegra, sin apalancamiento)*
 
-En estos escenarios, todo el valor recibido por los accionistas vendedores procede de la venta de *equity*. El sistema de ecuaciones queda definido como:
+En este escenario, todo el valor recibido por los accionistas vendedores procede de la venta de *equity*. El sistema de ecuaciones queda definido como:
 
 $$
 \begin{cases}
 0.32 \cdot E = 400 \\
 0.08 \cdot E = 100
+\end{cases}
+$$
+
+#### Escenario  2
+
+*(Transacción sin reparto de dividendo previo; el equity se valora con apalancamiento pero sin distribución de caja)*
+
+En este escenario, parte del valor recibido por los accionistas vendedores procede de la venta de *equity*. mientras que el resto procede del dividendo extraordinario repartido con posterioridad a la transacción. El sistema de ecuaciones queda definido como:
+
+$$
+\begin{cases}
+0.32 \cdot E + 0.05 \cdot D = 400 \\
+0.08 \cdot E + 0.55 \cdot D = 100
 \end{cases}
 $$
 
@@ -1024,6 +1055,50 @@ $$
 $$
 
 **La solución a ambos sistemas de ecuaciones es la misma: el valor total del *equity* de la *FibreCo* es de 1.250 millones de euros (o, al menos, esta es la valoración implícita a la que ha entrado AXA). El dividendo extraordinario es nulo, por lo que se puede concluir que la venta se ha realizado antes de cualquier reparto de dividendos**. Aunque se desonoce si la *FibreCo* está apalancada, sí puede afirmarse que los 400 millones de euros que recibirá Zegona proceden exclusivamente de la venta de *equity*. **Por último, la participación remanente de Zegona, equivalente al 5% del capital de la *FibreCo*, tiene un valor implícito de 62,5 millones de euros**.
+
+#### Valoración actualizada
+
+|                                                      |          |          |          |          |
+| ---------------------------------------------------- | -------- | -------- | -------- | -------- |
+| **Negocio principal (core business)**                |          |          |          |          |
+| **EV/EBITDAaL**                                      | **4**    | **5**    | **6**    | **7**    |
+| EBITDAaL 24                                          | 1236     | 1236     | 1236     | 1236     |
+| Mejora EBITDA por reducción de costes                | 230      | 230      | 230      | 230      |
+| Reducción EBITDA por creación FibreCo Telefónica (-) | 47       | 47       | 47       | 47       |
+| Reducción EBITDA por creación FibreCo MásOrange (-)  | 140      | 140      | 140      | 140      |
+| **EBITDAaL 25**                                          | **1279**     | **1279**     | **1279**     | **1279**     |
+| **EV**                                                   | **5116**     | **6395**     | **7674**     | **8953**     |
+| **Covenant financiero (3,1xEBITDAaL)**                   | **3965**     | **3965**     | **3965**     | **3965**     |
+| Deuda                                                | 3617     | 3617     | 3617     | 3617     |
+| Venta FibreCo Telefónica (-)                         | 538      | 538      | 538      | 538      |
+| Venta FibreCo MásOrange (-)                          | 1400     | 1400     | 1400     | 1400     |
+| Pago Dividendo                                       | 1405     | 1405     | 1405     | 1405     |
+| **Deuda neta**                                       | **3084** | **3084** | **3084** | **3084** |
+| **Equity core business**                             | **2032** | **3311** | **4590** | **5869** |
+| **FibreCo Telefónica**                               |          |          |          |          |
+| EV                                                   | 1250     | 1250     | 1250     | 1250     |
+| Deuda (leverage recap)                               | 0        | 0        | 0        | 0        |
+| Equity                                               | 1250     | 1250     | 1250     | 1250     |
+| Participación Vodafone España                        | 5%       | 5%       | 5%       | 5%       |
+| **Equity participación Vodafone España**             | **63**   | **63**   | **63**   | **63**   |
+| **FibreCo MásOrange**                                |          |          |          |          |
+| Equity                                               | 3640     | 3640     | 3640     | 3640     |
+| Participación Vodafone España                        | 18%      | 18%      | 18%      | 18%      |
+| **Equity participación Vodafone España**             | **637**  | **637**  | **637**  | **637**  |
+| **Equity Total (SOTP)**                              | **2732** | **4011** | **5290** | **6569** |
+| Número de acciones inicial                           | 759      | 759      | 759      | 759      |
+| Preferentes canceladas (-)                           | 523      | 523      | 523      | 523      |
+| **Número de acciones final**                         | **236**  | **236**  | **236**  | **236**  |
+| Precio por acción (EUR)                              | 11,58    | 17,00    | 22,42    | 27,84    |
+| **EUR/GBP**                                          | **1,18** | **1,18** | **1,18** | **1,18** |
+| Precio por acción (GBP)                              | 9,81     | 14,40    | 19,00    | 23,59    |
+| Dividendo (GBP)                                      | 1,57     | 1,57     | 1,57     | 1,57     |
+| Precio por acción final (GBP)                        | 11,38    | 15,97    | 20,57    | 25,16    |
+| **Precio por acción final (GBX)**                    | **1138** | **1597** | **2057** | **2516** |
+| **Precio actual**                                    | **595**  | **595**  | **595**  | **595**  |
+| **Rentabilidad**                                     | **91%**  | **168%** | **246%** | **323%** |
+
+
 
 ## Referencias
 
