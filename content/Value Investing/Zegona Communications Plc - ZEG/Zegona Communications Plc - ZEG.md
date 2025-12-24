@@ -1189,6 +1189,50 @@ A continuación, se analizan en detalle cada uno de estos **tres componentes**.
 		7. [23 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2020127&culture=en-GB&val=639021979902898926): 70.000 acciones a un precio medio de 1305.93 peniques (GBX).
 		8. [24 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2020484&culture=en-GB&val=639021979902868981): 40.000 acciones a un precio medio de 1316.65 peniques (GBX).
 
+#### Valoración actualizada
+
+|                                                      |          |          |          |          |
+| ---------------------------------------------------- | -------- | -------- | -------- | -------- |
+| **Negocio principal (core business)**                |          |          |          |          |
+| **EV/EBITDAaL**                                      | **4**    | **5**    | **6**    | **7**    |
+| EBITDAaL 24                                          | 1236     | 1236     | 1236     | 1236     |
+| Mejora EBITDA por reducción de costes                | 230      | 230      | 230      | 230      |
+| Reducción EBITDA por creación FibreCo Telefónica (-) | 47       | 47       | 47       | 47       |
+| Reducción EBITDA por creación FibreCo MásOrange (-)  | 140      | 140      | 140      | 140      |
+| **EBITDAaL 25**                                      | **1279** | **1279** | **1279** | **1279** |
+| **EV**                                               | **5116** | **6395** | **7674** | **8953** |
+| **Covenant financiero (3,1xEBITDAaL)**               | **3965** | **3965** | **3965** | **3965** |
+| Deuda                                                | 3630     | 3630     | 3630     | 3630     |
+| Venta FibreCo Telefónica (-)                         | 400      | 400      | 400      | 400      |
+| Venta FibreCo MásOrange (-)                          | 1400     | 1400     | 1400     | 1400     |
+| Pago Dividendo                                       | 1415     | 1415     | 1415     | 1415     |
+| Recompra de acciones                                 | 200      | 200      | 200      | 200      |
+| **Deuda neta**                                       | **3445** | **3445** | **3445** | **3445** |
+| **Equity *core business****                          | **1671** | **2950** | **4229** | **5508** |
+| ***FibreCo* Telefónica**                             |          |          |          |          |
+| EV                                                   | 1250     | 1250     | 1250     | 1250     |
+| Deuda (leverage recap)                               | 0        | 0        | 0        | 0        |
+| Equity                                               | 1250     | 1250     | 1250     | 1250     |
+| Participación Vodafone España                        | 5%       | 5%       | 5%       | 5%       |
+| **Equity participación Vodafone España**             | **63**   | **63**   | **63**   | **63**   |
+| ***FibreCo* MásOrange**                              |          |          |          |          |
+| Equity                                               | 3640     | 3640     | 3640     | 3640     |
+| Participación Vodafone España                        | 18%      | 18%      | 18%      | 18%      |
+| **Equity participación Vodafone España**             | **637**  | **637**  | **637**  | **637**  |
+| **Equity Total (SOTP)**                              | **2371** | **3650** | **4929** | **6208** |
+| Número de acciones inicial                           | 759      | 759      | 759      | 759      |
+| Preferentes canceladas (-)                           | 523      | 523      | 523      | 523      |
+| Recompra de acciones (-)                             | 13       | 13       | 13       | 13       |
+| **Número de acciones final**                         | **223**  | **223**  | **223**  | **223**  |
+| Precio por acción (EUR)                              | 10,61    | 16,33    | 22,05    | 27,78    |
+| **EUR/GBP**                                          | **1,15** | **1,15** | **1,15** | **1,15** |
+| Precio por acción (GBP)                              | 9,22     | 14,20    | 19,18    | 24,15    |
+| Dividendo (GBP)                                      | 1,57     | 1,57     | 1,57     | 1,57     |
+| Precio por acción final (GBP)                        | 10,79    | 15,77    | 20,75    | 25,72    |
+| **Precio por acción final (GBX)**                        | **1079**     | **1577**     | **2075**     | **2572**     |
+| **Precio actual**                                        | **595**      | **595**      | **595**      | **595**      |
+| **Rentabilidad**                                         | **81%**      | **165%**     | **249%**     | **332%**     |
+
 
 ## Referencias
 
