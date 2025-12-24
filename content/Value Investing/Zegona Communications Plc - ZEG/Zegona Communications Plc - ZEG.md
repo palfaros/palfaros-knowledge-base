@@ -1150,6 +1150,20 @@ El [27 de noviembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rn
 ![[ZEG_FibreCo_Returns_Allocation_2.png]]
 
 ![[ZEG_FibreCo_Returns_Allocation_3.png]]
+
+En la nota de prensa se detalla que los **1.800 millones de euros** obtenidos se destinarán a:
+- **1.400 millones de euros** al pago de un **dividendo extraordinario (*special dividend*)** distribuido entre todos los accionistas:
+	1. En concreto, se trata de un **dividendo extraordinario de 1,62 libras esterlinas por acción**, aplicable a todos los accionistas. Este importe se ha calculado utilizando un **tipo de cambio de 0,88 libras esterlinas por euro**.
+	2. Este dividendo permitirá a **EJLSHM** obtener **975 millones de euros**, que se destinarán a la **amortización íntegra de las acciones preferentes** surgidas como consecuencia de la financiación concedida por **Vodafone Group** a Zegona para la adquisición de Vodafone España.
+	3. De los **975 millones de euros**, **900 millones corresponden al principal** y **75 millones a intereses acumulados (devengados)**. Estas cifras son válidas en el supuesto de que el pago se realice durante el **primer cuatrimestre de 2026**. En caso de producirse con posterioridad, los intereses devengados serían superiores y, en consecuencia, el dividendo necesario también aumentaría.
+	4. La **amortización total de la financiación concedida por Vodafone Group** permitirá la **cancelación de aproximadamente 523 millones de acciones** actualmente en poder de EJLSHM. Como resultado, el número de acciones en circulación se reducirá en torno a un **69%**, pasando de **759 millones a aproximadamente 236 millones de acciones**.
+	5. Adicionalmente, el dividendo generará **440 millones de euros** que se distribuirán proporcionalmente entre el resto de accionistas (*pro rata payment*).
+	6. El **importe total del dividendo** asciende, por tanto, a **1.415 millones de euros**.
+	7. La ejecución de este dividendo está condicionada a la **finalización de las transacciones de ambas _FibreCo_**, así como a su **aprobación en Junta General de Accionistas**.
+	8. En dicha Junta General de Accionistas se propondrá asimismo la **eliminación del requisito de preaviso de seis meses** para la cancelación de la financiación concedida por Vodafone Group, lo que permitirá **reducir el número de acciones en circulación de forma inmediata tras el reparto del dividendo**.
+- **200 millones de euros** a la **reducción de deuda financiera neta**.    
+- **200 millones de euros** a un **programa de recompra de acciones**.
+
 ## Referencias
 
 - [Tesis Raging Bull Investments](https://ragingbullinvestments.substack.com/p/an-old-school-leveraged-buyout)
