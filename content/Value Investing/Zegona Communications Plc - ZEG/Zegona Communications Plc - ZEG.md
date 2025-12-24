@@ -1139,6 +1139,14 @@ $$
 | **Precio actual**                                    | **595**  | **595**  | **595**  | **595**  |
 | **Rentabilidad**                                     | **91%**  | **168%** | **246%** | **323%** |
 
+### Pago completo de dividendo y cancelación de preferentes
+
+La monetización de los activos de fibra (*PremiumFiber* y *Fiberpass*) proporcionará a Zegona un total de 1.800 millones de euros de caja (1.400 millones de *PremiumFiber* + 400 millones de *Fiberpass*). Esta monetización, junto con el *covenant* menos restrictivo, hace que se reúnan las condiciones para el pago completo de un dividendo a todos los accionistas que permita cancelar las preferentes de Vodafone Group.
+
+El [27 de noviembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2010272&culture=en-GB&val=639021361154660313) Zegona anunció sus planes de *capital allocation* o asignación de capital para los 1.800 millones de euros procedentes de la monetización de las dos *FibreCo*.
+
+
+
 ## Referencias
 
 - [Tesis Raging Bull Investments](https://ragingbullinvestments.substack.com/p/an-old-school-leveraged-buyout)
