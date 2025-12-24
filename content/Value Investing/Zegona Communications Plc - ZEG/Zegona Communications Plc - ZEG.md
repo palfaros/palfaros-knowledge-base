@@ -1151,7 +1151,12 @@ El [27 de noviembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rn
 
 ![[ZEG_FibreCo_Returns_Allocation_3.png]]
 
-En la nota de prensa se detalla que los **1.800 millones de euros** obtenidos se destinarán a:
+En la nota de prensa se detalla que los **1.800 millones de euros** obtenidos se destinarán a los siguientes conceptos:
+- **1.400 millones de euros** al pago de un **dividendo extraordinario (*special dividend*)** distribuido entre todos los accionistas.
+- **200 millones de euros** a la **reducción de deuda financiera neta**.    
+- **200 millones de euros** a un **programa de recompra de acciones**.
+
+A continuación, se analizan en detalle cada uno de estos **tres componentes**.
 - **1.400 millones de euros** al pago de un **dividendo extraordinario (*special dividend*)** distribuido entre todos los accionistas:
 	1. En concreto, se trata de un **dividendo extraordinario de 1,62 libras esterlinas por acción**, aplicable a todos los accionistas. Este importe se ha calculado utilizando un **tipo de cambio de 0,88 libras esterlinas por euro**.
 	2. Este dividendo permitirá a **EJLSHM** obtener **975 millones de euros**, que se destinarán a la **amortización íntegra de las acciones preferentes** surgidas como consecuencia de la financiación concedida por **Vodafone Group** a Zegona para la adquisición de Vodafone España.
@@ -1161,8 +1166,29 @@ En la nota de prensa se detalla que los **1.800 millones de euros** obtenidos se
 	6. El **importe total del dividendo** asciende, por tanto, a **1.415 millones de euros**.
 	7. La ejecución de este dividendo está condicionada a la **finalización de las transacciones de ambas _FibreCo_**, así como a su **aprobación en Junta General de Accionistas**.
 	8. En dicha Junta General de Accionistas se propondrá asimismo la **eliminación del requisito de preaviso de seis meses** para la cancelación de la financiación concedida por Vodafone Group, lo que permitirá **reducir el número de acciones en circulación de forma inmediata tras el reparto del dividendo**.
-- **200 millones de euros** a la **reducción de deuda financiera neta**.    
-- **200 millones de euros** a un **programa de recompra de acciones**.
+	9. Esta Junta General de Accionistas se convocó el mismo día, [27 de noviembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2010513&culture=en-GB&val=639021775180595304), para el día **22 de diciembre de 2025**. En dicha Junta General se someterá a aprobación la amortización de las acciones preferentes de Vodafone Group en EJLSHM, así como la eliminación del requisito de preaviso de seis meses para la cancelación de las acciones asociadas.
+	10. La venta de *PremiumFiber*, la *FibreCo* constituida junto a MasOrange, se completó el [4 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2012864&culture=en-GB&val=639021775180535340), lo que permitió asegurar los **1.400 millones de euros** necesarios para el pago del dividendo extraordinario. En consecuencia, el [11 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2014499&culture=en-GB&val=639021775180245131) la compañía anunció un **dividendo extraordinario (*special dividend*) de 1.400 millones de euros** a distribuir entre todos los accionistas, sujeto a la aprobación de la **Junta General de Accionistas prevista para el 22 de diciembre de 2025**. El importe total del dividendo asciende a **1.414.559.895 euros**, lo que equivale a **1,8632 euros por acción**, o **1,62098 libras esterlinas por acción**, calculado sobre la base de un **tipo de cambio de 0,87 libras esterlinas por euro**. La **fecha ex-dividendo** se ha fijado para el **18 de diciembre de 2025**, mientras que la **fecha de pago** será el **7 de enero de 2026**.
+	11. La [Junta General de Accionistas celebrada el 22 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2019802&culture=en-GB&val=639021952371209285) aprobó el **dividendo extraordinario**,  así como la **eliminación del requisito de preaviso de seis meses**. En la nota de prensa se especifica que el dividendo se abonará el **7 de enero de 2026**, y que la **cancelación del 69% de las acciones actualmente en circulación** —equivalente a **523.240.603 acciones de un total de 759.209.905**— se llevará a cabo a las **08:00 horas del 8 de enero de 2026**.
+- **200 millones de euros** a la **reducción de deuda financiera neta**:
+	1. La **deuda bruta** de Zegona a 30 de septiembre de 2025 era de **3.933 millones de euros**, con una **caja de 303 millones**, dejando una **deuda neta** de **3.630 millones de euros**. Con estos **200 millones de euros**, la deuda neta se situaría aproximadamente en **3.430 millones**.
+	2. Esta reducción refuerza el compromiso de Zegona con su objetivo de **endeudamiento de 1,5x-2x deuda neta/EBITDAaL** (**net debt/EBITDAaL**).
+	3. La amortización **acelera la reducción de costes financieros anuales**. Los **intereses anuales** eran de **294 millones de euros** en el momento de la adquisición de Vodafone España y actualmente son de **235 millones**, gracias a refinanciaciones previas. El objetivo de la compañía es reducirlos **por debajo de 200 millones** mediante nuevas refinanciaciones.
+- **200 millones de euros** a un **programa de recompra de acciones**:
+	1. El **programa de recompra de acciones** se **iniciará** una vez completada la **cancelación de las 523 millones de acciones de EJLSHM**.
+	2. Si esta **cancelación ocurre antes** de la finalización de la venta de *FiberPass*, **Zegona** financiará las **etapas iniciales del programa de recompra** con **recursos propios del balance**.
+	3. A cierre del **27 de noviembre de 2025**, fecha de publicación de la nota de prensa, la **acción cotizaba a 13,85 libras esterlinas**. Con una **tasa de cambio de 0,87 GBP/EUR**, esto equivale a **15,92 euros por acción**.
+	4. Con estos 200 millones de euros, el programa permitirá **recomprar aproximadamente 12,5 millones de acciones**, lo que representa un **5% de las acciones en circulación** tras la **cancelación de las acciones preferentes** (actualmente estas representan el **69% de las acciones en circulación**).
+	5. Zegona anunció el [12 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2014969&culture=en-GB&val=639021979903197203) el comienzo inminente de este programa de recompra de acciones.
+	6. El programa de recompra se ha desarrollado en las siguientes fechas:
+		1. [15 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2015353&culture=en-GB&val=639021979903167172): 125.000 acciones a un precio medio de 1434.60 peniques (GBX).
+		2. [16 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2015754&culture=en-GB&val=639021979903147241): 134.000 acciones a un precio medio de 1459.22 peniques (GBX).
+		3. [17 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2018607&culture=en-GB&val=639021979903117201): 146.000 acciones a un precio medio de 1440.83 peniques (GBX).
+		4. [18 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2019000&culture=en-GB&val=639021979903097219): 152.000 acciones a un precio medio de 1419.97 peniques (GBX).
+		5. [19 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2019365&culture=en-GB&val=639021979903067241): 110.000 acciones a un precio medio de 1305.00 peniques (GBX).
+		6. [22 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2019743&culture=en-GB&val=639021979903047170): 70.000 acciones a un precio medio de 1327.93 peniques (GBX).
+		7. [23 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2020127&culture=en-GB&val=639021979902898926): 70.000 acciones a un precio medio de 1305.93 peniques (GBX).
+		8. [24 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2020484&culture=en-GB&val=639021979902868981): 40.000 acciones a un precio medio de 1316.65 peniques (GBX).
+
 
 ## Referencias
 
