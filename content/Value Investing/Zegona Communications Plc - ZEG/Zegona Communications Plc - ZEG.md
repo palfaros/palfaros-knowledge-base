@@ -1145,8 +1145,11 @@ La monetización de los activos de fibra (*PremiumFiber* y *Fiberpass*) proporci
 
 El [27 de noviembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2010272&culture=en-GB&val=639021361154660313) Zegona anunció sus planes de *capital allocation* o asignación de capital para los 1.800 millones de euros procedentes de la monetización de las dos *FibreCo*.
 
+![[ZEG_FibreCo_Returns_Allocation_1.png]]
 
+![[ZEG_FibreCo_Returns_Allocation_2.png]]
 
+![[ZEG_FibreCo_Returns_Allocation_3.png]]
 ## Referencias
 
 - [Tesis Raging Bull Investments](https://ragingbullinvestments.substack.com/p/an-old-school-leveraged-buyout)
