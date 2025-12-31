@@ -1180,15 +1180,17 @@ A continuación, se analizan en detalle cada uno de estos **tres componentes**.
 	4. Con estos 200 millones de euros, el programa permitirá **recomprar aproximadamente 12,5 millones de acciones**, lo que representa un **5% de las acciones en circulación** tras la **cancelación de las acciones preferentes** (actualmente estas representan el **69% de las acciones en circulación**).
 	5. Zegona anunció el [12 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2014969&culture=en-GB&val=639021979903197203) el comienzo inminente de este programa de recompra de acciones.
 	6. El programa de recompra se ha desarrollado en las siguientes fechas:
-		1. [15 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2015353&culture=en-GB&val=639021979903167172): 125.000 acciones a un precio medio de 1434.60 peniques (GBX).
-		2. [16 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2015754&culture=en-GB&val=639021979903147241): 134.000 acciones a un precio medio de 1459.22 peniques (GBX).
-		3. [17 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2018607&culture=en-GB&val=639021979903117201): 146.000 acciones a un precio medio de 1440.83 peniques (GBX).
-		4. [18 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2019000&culture=en-GB&val=639021979903097219): 152.000 acciones a un precio medio de 1419.97 peniques (GBX).
-		5. [19 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2019365&culture=en-GB&val=639021979903067241): 110.000 acciones a un precio medio de 1305.00 peniques (GBX).
-		6. [22 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2019743&culture=en-GB&val=639021979903047170): 70.000 acciones a un precio medio de 1327.93 peniques (GBX).
-		7. [23 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2020127&culture=en-GB&val=639021979902898926): 70.000 acciones a un precio medio de 1305.93 peniques (GBX).
-		8. [24 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2020484&culture=en-GB&val=639021979902868981): 40.000 acciones a un precio medio de 1316.65 peniques (GBX).
-		9. [29 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2020743&culture=en-GB&val=639026232101411562): 10.000 acciones a un precio medio de 1325.00 peniques (GBX).
+		1. [12 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2015353&culture=en-GB&val=639021979903167172): 125.000 acciones a un precio medio de 1434.60 peniques (GBX).
+		2. [15 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2015754&culture=en-GB&val=639021979903147241): 134.000 acciones a un precio medio de 1459.22 peniques (GBX).
+		3. [16 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2018607&culture=en-GB&val=639021979903117201): 146.000 acciones a un precio medio de 1440.83 peniques (GBX).
+		4. [17 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2019000&culture=en-GB&val=639021979903097219): 152.000 acciones a un precio medio de 1419.97 peniques (GBX).
+		5. [18 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2019365&culture=en-GB&val=639021979903067241): 110.000 acciones a un precio medio de 1305.00 peniques (GBX).
+		6. [19 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2019743&culture=en-GB&val=639021979903047170): 70.000 acciones a un precio medio de 1327.93 peniques (GBX).
+		7. [22 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2020127&culture=en-GB&val=639021979902898926): 70.000 acciones a un precio medio de 1305.93 peniques (GBX).
+		8. [23 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2020484&culture=en-GB&val=639021979902868981): 40.000 acciones a un precio medio de 1316.65 peniques (GBX).
+		9. [24 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2020743&culture=en-GB&val=639026232101411562): 10.000 acciones a un precio medio de 1325.00 peniques (GBX).
+		10. [29 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2020981&culture=en-GB&val=639028018630090596): 80.000 acciones a un precio medio de 1336.91 peniques (GBX).
+		11. [30 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2021277&culture=en-GB&val=639028018629950578): 80.000 acciones a un precio medio de 1386.51 peniques (GBX).
 
 #### Valoración actualizada
 
