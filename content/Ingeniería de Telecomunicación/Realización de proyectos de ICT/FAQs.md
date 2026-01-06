@@ -56,4 +56,25 @@ Saludos
 
 Correcto. Así es, como tu dices. No hay elementos pasivos.
 
+## Pregunta 5
+
+*Mi duda es la siguiente, parece que la única opción posible es que exista arqueta de entrada que comunica la red de distribución subterránea con la instalación de enlace del edificio. ¿que ocurre en edificios ubicados en cascos históricos donde la red de distribución se ve que va por las fachadas de los edificios?, ¿sigue siendo obligatoria la arqueta de entrada y canalización externa?
+
+Hola 
+
+Efectivamente como norma general es como dices.
+
+Hay instalar arqueta de entrada, canalización externa, punto de entrada general, canalización de enlace y RITI/RITU
+
+Pero esto es como norma general, en un determinado caso concreto habría que ver la mejor manera de resolverlo aplicando el sentido común. Esto viene avalado en la normativa:
+
+_**RD 346/2011**_
+
+**_Disposición adicional segunda. Soluciones técnicas diferentes._**
+
+_Excepcionalmente, en los casos en los que resulte inviable desde un punto de vista técnico, se podrán admitir soluciones técnicas diferentes de las contempladas en los anexos técnicos del reglamento que se aprueba, siempre y cuando el proyectista lo justifique adecuadamente y en ningún caso disminuya la funcionalidad de la instalación proyectada respecto a la prevista en este reglamento._
+
+Tendrías por tanto que buscar alternativas, de acuerdo con el municipio, que te permitan mantener una funcionalidad similar a la prevista en el Reglamento
+
+Por último ten en cuenta que sería de aplicación el RD 346/2011, a los inmuebles sometidos a propiedad horizontal que se reformen.
 
