@@ -1206,6 +1206,7 @@ A continuación, se analizan en detalle cada uno de estos **tres componentes**.
 		22. [15 de enero de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2025554&culture=en-GB&val=639041937770670497): 80.000 acciones a un precio medio de 1571.25 peniques (GBX).
 		23. [16 de enero de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2025977&culture=en-GB&val=639044332689131007): 180.000 acciones a un precio medio de 1547.75 peniques (GBX).
 		24. [19 de enero de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2026501&culture=en-GB&val=639045295530446402): 100.000 acciones a un precio medio de 1584.57 peniques (GBX).
+		25. [20 de enero de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2026855&culture=en-GB&val=639046156431058161): 108.000 acciones a un precio medio de 1580.83 peniques (GBX).
 
 #### Valoración actualizada
 
