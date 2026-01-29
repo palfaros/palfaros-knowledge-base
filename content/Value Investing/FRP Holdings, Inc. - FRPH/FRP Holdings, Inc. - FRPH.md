@@ -44,6 +44,12 @@ Desde un punto de vista macro, FRPH es una empresa defensiva, pero tiene riesgos
 - **Escenario alcista (*bull case*)**: Si los intereses se estabilizan, resulta mucho más fácil aflorar el valor de los recientes desarrollos inmobiliarios en Washington D.C. y Maryland. Al mismo tiempo, la escasez de suelo industrial incrementa el valor de sus reservas de terreno. Idealmente, el mercado reconoce el descuento por suma de las partes (*sum-of-the-parts*) y el precio de la acción crece hasta alcanzar su *Net Asset Value* (NAV).
 - **Escenario bajista (*bear case*)**: El entorno regulatorio de Washington D.C. es la principal preocupación. Si el control de alquileres se endurece o aumenta la morosidad, los ingresos procedentes de los apartamentos se verán afectados. Respecto al negocio minero, una desaceleración general de la construcción supondría un menor volumen de áridos extraídos, reduciendo los ingresos por *royalties*.
 
+**¿Qué vigilar?**: La política en Washington D.C. es la variable clave. Dada la concentración en el submercado de *Navy Yard*, debemos monitorizar las cifras trimestrales de absorción y los niveles de concesiones o incentivos ofrecidos a inquilinos (por ejemplo, meses gratis por alquileres de larga duración).
+
+**Nota de valoración**: Ignorar los múltiplos P/E (PER). La alta depreciación y las plusvalías irregulares (*lumpy*) derivadas del desarrollo los hacen irrelevantes. El foco debe ponerse en el *Price-to-NAV*.
+
+Además, la ausencia de dividendo es intencionada. La directiva reinvierte el dinero el *pipeline* de proyectos porque las rentabilidades internas superan el valor de un *payout* en forma de dividendo.
+
 ## Referencias
 
 - [Tesis Colubeat Investment Desk](https://colubeatid.substack.com/p/frp-holdings-inc-nasdaq-frph)
