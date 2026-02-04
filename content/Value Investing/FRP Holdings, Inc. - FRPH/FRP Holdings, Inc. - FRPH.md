@@ -53,4 +53,7 @@ Además, la ausencia de dividendo es intencionada. La directiva reinvierte el di
 ## Referencias
 
 - [Tesis Colubeat Investment Desk](https://colubeatid.substack.com/p/frp-holdings-inc-nasdaq-frph)
+- [Tesis Emérito Quintana](https://www.youtube.com/live/YerfBzZWNOs?si=x26dNj5FkVOWLFgi)
+- [Tesis Manuel Fernández Ramírez](https://www.youtube.com/live/-s-1j2rcnIc?si=VOoljMk6tmXMduj1)
+- [Repaso tesis Manuel Fernández Ramírez](https://youtu.be/ANeGTCmVsr4?si=3EVqZuEKZwUx5E4_)
 - [Florida Rock Industries](https://www.referenceforbusiness.com/history2/54/Florida-Rock-Industries-Inc.html)
