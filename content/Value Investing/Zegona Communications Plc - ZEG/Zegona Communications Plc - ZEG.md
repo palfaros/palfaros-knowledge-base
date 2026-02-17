@@ -1044,6 +1044,8 @@ En la nota de prensa se pueden encontrar parte de los detalles de la operación,
 - Se espera que la operación finalice en Q1 2026 (año natural, no año fiscal).
 - Eamonn O'Hare, CEO de Zegona señala que los 1.800 millones de euros proporcionan a la compañía flexibilidad financiera y dejan a la compañía **bien posicionada para ejecutar una política de *capital allocation* favorable para el accionista.**
 
+[La operación fue autorizada por la Comisión Europea el 17 de febrero de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2034253&culture=en-GB&val=639069478993779454). 
+
 Se desconoce a cuánto ha valorado AXA la *FibreCo* con Telefónica en términos de *Enterprise Value* (EV). El EV es una valoración de mercado y se define como la suma del valor del *equity* y la deuda neta. Tal y como se ha indicado a lo largo de la tesis, las *FibreCo* son negocios con ingresos muy estables, lo que permite un elevado grado de apalancamiento para adelantar flujos futuros de caja.
 
 Sin embargo, este apalancamiento no crea valor por sí mismo. Si el EBITDA (o [[EBITDAaL]]) y el múltiplo de valoración permanecen constantes, cualquier incremento de la deuda neta se traduce necesariamente en una reducción equivalente del valor del *equity*, es decir, del valor de mercado de las participaciones de la compañía.
