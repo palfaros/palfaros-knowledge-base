@@ -239,6 +239,7 @@ La directiva de Zegona está formada por las siguientes personas:
 - Suzi Williams (*Non-Executive Director*)
 - Rita Estevez (*Non-Executive Director*). [Incorporada el 28 de junio de 2024](https://data.fca.org.uk/artefacts/NSM/RNS/5244950.html).
 - Sofia Arhall Bergendorff (*Non-Executive Director*). [Incorporada el 24 de abril de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=1932828&culture=en-GB&val=638813164362745552).
+- Tim Pennington (*Non-Executive Director*) [Incorporado el 3 de marzo de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2037666&culture=en-GB&val=639082466226981660).
 
 En el caso de Vodafone España, su adquisición por parte de Zegona supuso una reestructuración de su directiva, que paso de 11 a 7 personas:
 - José Miguel García (CEO): Antiguo CEO de Jazztel y Euskaltel.
@@ -1238,6 +1239,7 @@ A continuación, se analizan en detalle cada uno de estos **tres componentes**.
 		52. [26 de febrero de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2036818&culture=en-GB&val=639080719753512227): 75.000 acciones a un precio medio de 1756.44 peniques (GBX).
 		53. [27 de febrero de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2037219&culture=en-GB&val=639080719753482293): 172.000 acciones a un precio medio de 1682.57 peniques (GBX).
 		54. [2 de marzo de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2037700&culture=en-GB&val=639081600922969434): 200.000 acciones a un precio medio de 1723.49 peniques (GBX).
+		55. [3 de marzo de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2038070&culture=en-GB&val=639082466226621612): **175**.000 acciones a un precio medio de 1694.07 peniques (GBX).
 
 #### Valoración actualizada
 
