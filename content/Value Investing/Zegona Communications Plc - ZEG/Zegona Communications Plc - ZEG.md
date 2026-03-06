@@ -1045,7 +1045,7 @@ En la nota de prensa se pueden encontrar parte de los detalles de la operación,
 - Se espera que la operación finalice en Q1 2026 (año natural, no año fiscal).
 - Eamonn O'Hare, CEO de Zegona señala que los 1.800 millones de euros proporcionan a la compañía flexibilidad financiera y dejan a la compañía **bien posicionada para ejecutar una política de *capital allocation* favorable para el accionista.**
 
-[La operación fue autorizada por la Comisión Europea el 17 de febrero de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2034253&culture=en-GB&val=639069478993779454). 
+La operación [fue autorizada por la Comisión Europea el 17 de febrero de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2034253&culture=en-GB&val=639069478993779454) y [se completó el 5 de marzo de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2038804&culture=en-GB&val=639083964465163734).
 
 Se desconoce a cuánto ha valorado AXA la *FibreCo* con Telefónica en términos de *Enterprise Value* (EV). El EV es una valoración de mercado y se define como la suma del valor del *equity* y la deuda neta. Tal y como se ha indicado a lo largo de la tesis, las *FibreCo* son negocios con ingresos muy estables, lo que permite un elevado grado de apalancamiento para adelantar flujos futuros de caja.
 
@@ -1240,6 +1240,8 @@ A continuación, se analizan en detalle cada uno de estos **tres componentes**.
 		53. [27 de febrero de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2037219&culture=en-GB&val=639080719753482293): 172.000 acciones a un precio medio de 1682.57 peniques (GBX).
 		54. [2 de marzo de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2037700&culture=en-GB&val=639081600922969434): 200.000 acciones a un precio medio de 1723.49 peniques (GBX).
 		55. [3 de marzo de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2038070&culture=en-GB&val=639082466226621612): 175.000 acciones a un precio medio de 1694.07 peniques (GBX).
+		56. [4 de marzo de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2038395&culture=en-GB&val=639083964465183832): 150.000 acciones a un precio medio de 1718.52 peniques (GBX).
+		57. [5 de marzo de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2038803&culture=en-GB&val=639083964465133740): 275.000 acciones a un precio medio de 1742.48 peniques (GBX).
 
 #### Valoración actualizada
 
