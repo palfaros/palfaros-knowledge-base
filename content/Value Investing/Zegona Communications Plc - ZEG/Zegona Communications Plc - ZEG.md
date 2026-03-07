@@ -1291,13 +1291,21 @@ A continuación, se analizan en detalle cada uno de estos **tres componentes**.
 
 Zegona publicó el [26 de febrero de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2036466&culture=en-GB&val=639084425195531279) información sobre la deuda de compañía a 31 de diciembre de 2025 para cumplir con las obligaciones de reporte exigidas por los contratos de financiación externa (bonos).
 
-El documento también incluye los principales indicadores de rendimiento (KPIs) de Vodafone Spain correspondientes al trimestre finalizado el 31 de diciembre de 2025, junto con un comentario operativo en el que se resumen los sólidos resultados del tercer trimestre del ejercicio de Zegona Communications. Según la compañía, estos resultados refuerzan la idea de que 2026 será el segundo año exitoso del proceso de transformación de Vodafone Spain tras su adquisición.
+El documento también incluye los principales indicadores de rendimiento (KPIs) de Vodafone Spain correspondientes al trimestre finalizado el 31 de diciembre de 2025 (Q3 26), junto con un comentario operativo en el que se resumen los sólidos resultados del tercer trimestre del ejercicio de Zegona Communications. Según la compañía, estos resultados refuerzan la idea de que 2026 será el segundo año exitoso del proceso de transformación de Vodafone Spain tras su adquisición.
 
 ![[ZEG_KPIs_Dec_2025.png]]
 
 ![[ZEG_KPIs_Notes_Dec_2025.png]]
 
+Los resultados presentados muestran la estabilización de ingresos, aunque con algún deterioro puntual respecto al trimestre anterior (Q2 26):
+- Líneas de fibra y móvil: Ligero crecimiento. Todavía no se tienen en cuenta las líneas que recibirán de Finetwork, al no haber finalizado el proceso de adquisición.
+- Ventas (*Revenues*): Crecimiento de un 3%, alcanzando los 923 millones de euros.
+- [[EBITDAaL]]: Caída de un 10% (313 millones de euros en Q3 26 frente a 349 millones de euros). Según [Álvaro Gómez de Olea (Meridion)](https://x.com/alvarogomezolea/status/2027677156118024493?s=20), esto obedece a factores estacionales y a costes extraordinarios derivados de la creación y venta de las *FibreCo*. Estos últimos serían costes puntuales (*one-off costs*), reflejados en este trimestre pero que desaparecerán en los trimestres futuros.
+- Deuda neta: Situada en 3.300 millones de euros. La deuda total era de unos 3.900 millones de euros pero, a 31 de diciembre de 2025, Zegona contaba con 647 millones de euros en caja.
 
+Por otro lado, la compañía ofrece un *guidance* de los resultados del año fiscal 2026, FY 26, que se obtendrán al final de Q4 26:
+- *Cash flow*: El *cash flow* total de los tres primeros trimestres (Q1, Q2 y Q3 26) ha sido de 586 millones de euros. La compañía indica que están en una posición adecuada para alcanzar un margen de *cash flow* del 21%, una mejora respecto al 17% obtenido en FY 25 y duplicando el 10% de FY 24, anterior a la adquisición de la operadora por parte de Zegona. Esto implicaría un *cashflow* superior a los 200 millones de euros para Q4 26, como ha ocurrido en Q1 y Q2 26.
+- Deuda neta: El objetivo es reducir la deuda en otros 100 millones de euros antes de final de años, de forma que la deuda neta sería de 3.200 millones de euros a final de Q4 26. El compromiso a corto-medio plazo es situarse en un ratio de endeudamiento de entre 1,5x y 2x. Esto implicaría un [[EBITDAaL]] anual mínimo de 1.600 millones de euros o el uso del *cashflow* generado en los siguientes trimestres para seguir reduciendo la deuda hasta 2.000-2.600 millones de euros. 
 
 ## Referencias
 
