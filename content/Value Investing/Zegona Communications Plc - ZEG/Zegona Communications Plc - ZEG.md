@@ -1289,11 +1289,15 @@ A continuación, se analizan en detalle cada uno de estos **tres componentes**.
 
 ### Resultados Q3 26
 
-Zegona publicó el [26 de febrero de 2026]() información sobre la deuda de compañía a 31 de diciembre de 2025 para cumplir con las obligaciones de reporte exigidas por los contratos de financiación externa (bonos).
+Zegona publicó el [26 de febrero de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2036466&culture=en-GB&val=639084425195531279) información sobre la deuda de compañía a 31 de diciembre de 2025 para cumplir con las obligaciones de reporte exigidas por los contratos de financiación externa (bonos).
+
+El documento también incluye los principales indicadores de rendimiento (KPIs) de Vodafone Spain correspondientes al trimestre finalizado el 31 de diciembre de 2025, junto con un comentario operativo en el que se resumen los sólidos resultados del tercer trimestre del ejercicio de Zegona Communications. Según la compañía, estos resultados refuerzan la idea de que 2026 será el segundo año exitoso del proceso de transformación de Vodafone Spain tras su adquisición.
 
 ![[ZEG_KPIs_Dec_2025.png]]
 
 ![[ZEG_KPIs_Notes_Dec_2025.png]]
+
+
 
 ## Referencias
 
