@@ -1287,6 +1287,13 @@ A continuación, se analizan en detalle cada uno de estos **tres componentes**.
 | **Precio actual**                                        | **595**      | **595**      | **595**      | **595**      |
 | **Rentabilidad**                                         | **81%**      | **165%**     | **249%**     | **332%**     |
 
+### Resultados Q3 26
+
+Zegona publicó el [26 de febrero de 2026]() información sobre la deuda de compañía a 31 de diciembre de 2025 para cumplir con las obligaciones de reporte exigidas por los contratos de financiación externa (bonos).
+
+![[ZEG_KPIs_Dec_2025.png]]
+
+![[ZEG_KPIs_Notes_Dec_2025.png]]
 
 ## Referencias
 
