@@ -301,6 +301,7 @@ La directiva de Zegona ha comprado acciones desde el anuncio de la adquisición 
 - El [2 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2011926&culture=en-GB&val=639018787844179939) Suzi Williams (*Non-Executive Director*) compró 7.858 acciones de la compañía ($ZEG) a un precio de 13,93 libras esterlinas por acción (109.990,28 libras esterlinas).
 - El [3 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2012423&culture=en-GB&val=639018787844159921) Sofia Arhall Bergendorff (*Non-Executive Director*) compró 5.841 acciones de la compañía ($ZEG) a un precio de 13,85 libras esterlinas por acción (80.897,85 libras esterlinas).
 - El [4 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2012580&culture=en-GB&val=639018787844139852) Rita Estevez (*Non-Executive Director*) compró 6.200 acciones de la compañía ($ZEG) a un precio de 13,87 libras esterlinas por acción (86.021,75 libras esterlinas).
+- El [4 de marzo de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2039846&culture=en-GB&val=639088514582876265) Suzi Williams (*Non-Executive Director*) compró 2.500 acciones de la compañía ($ZEG) a un precio de 16.83 libras esterlinas por acción (42.083,45 libras esterlinas).
 
 No se han registrado operaciones de venta hasta la fecha. Esto es un indicativo de la confianza de la directiva respecto a su plan estratégico, especialmente en el caso de José Miguel García, con más de 1,5 millones de euros de su patrimonio invertidos.
 
@@ -1244,6 +1245,7 @@ A continuación, se analizan en detalle cada uno de estos **tres componentes**.
 		57. [5 de marzo de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2038803&culture=en-GB&val=639083964465133740): 275.000 acciones a un precio medio de 1742.48 peniques (GBX).
 		58. [6 de marzo de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2039148&culture=en-GB&val=639086757662592654): 290.000 acciones a un precio medio de 1708.04 peniques (GBX).
 		59. [9 de marzo de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2039501&culture=en-GB&val=639087817039299130): 195.000 acciones a un precio medio de 1728.66 peniques (GBX).
+		60. [10 de marzo de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2039837&culture=en-GB&val=639088514582746270): 125.000 acciones a un precio medio de 1772.77 peniques (GBX).
 
 #### Valoración actualizada
 
