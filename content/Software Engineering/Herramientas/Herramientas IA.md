@@ -57,6 +57,7 @@ Minuto 7:35.
 
 - [Curso IA para programadores (2026 MiduDev)](https://www.youtube.com/watch?v=2aN_-m1uU4k&pp=ygUXaGVycmFtaWVudGFzIGlhIG1pZHVkZXY%3D)
 - [How LLMs Actually Generate Text (Every Dev Should Know This)](https://youtu.be/NKnZYvZA7w4?si=FmSS6Kj0lkUujC0y)
+- [Todo lo que necesitas saber sobre el desarrollo con IA (2026 BettaTech)](https://www.youtube.com/watch?v=MgtM_Ktuc5A)
 - https://youtu.be/XSFxZ5cf5xo?si=tTEHF8j1paMoQiWV
 - https://youtu.be/Ywgn96xVjqc?si=fA5gRm45ZmYLD3U7
 - https://youtu.be/Hk0jHDzkE2U?si=30NHVeHjaJ90hkOS
