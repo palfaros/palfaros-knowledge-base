@@ -21,3 +21,4 @@ date: 2026-03-22
 
 - [Tesis Álvaro Gómez de Olea (Meridion)](https://x.com/alvarogomezolea/status/2034190721956168073?s=20)
 - [Introducing the IP Group - The Oak Bloke](https://theoakbloke.substack.com/p/introducing-the-ip-group)
+- [Tesis Szew Invest](https://x.com/Szew_invest/status/1950959551026508219?s=20)
