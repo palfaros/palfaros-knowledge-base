@@ -51,7 +51,59 @@ El entrenamiento de un LLM suele dividirse en tres grandes etapas:
 2. ***Fine Tuning* o Ajuste Fino**: El modelo pre-entrenado sabe “mucho”, pero no está optimizado para interactuar. Aquí se entrena con *datasets* más específicos: preguntas-respuestas, instrucciones, conversaciones, etc. El objetivo es mejorar la calidad de las respuestas, así como hacerlas más útiles y coherentes.
 3. Alineamiento (*Reinforcement learning from human feedback* (RHLF) y variantes) : Se ajusta el modelo usando: evaluaciones humanas y otros modelos auxiliares ya entrenados para proporcionar esta retroalimentación (AI *feedback*). El objetivo de esta fase es hacer el modelo más útil, seguro y alineado con lo que esperamos, evitar respuestas dañinas o incoherentes y mejorar tono, claridad y comportamiento.
 
-Minuto 7:35.
+### Tamaño del modelo (número de parámetros)
+
+El número de parámetros (normalmente en el orden de *billions*) representa la cantidad de valores ajustables del modelo.
+
+Una forma intuitiva de verlo:
+
+> Son los “grados de libertad” que tiene el modelo para aprender patrones.
+
+Durante el entrenamiento:
+- Estos parámetros se ajustan millones (o billones) de veces.
+- El objetivo es mejorar la predicción del siguiente *token*.
+
+Qué implica tener más parámetros:
+- Mayor capacidad para aprender patrones complejos
+- Mejor rendimiento en tareas generales (en muchos casos)
+- Mayor coste computacional (entrenamiento e inferencia)
+- Más memoria necesaria (clave para ejecución local)
+
+Por otro lado, es importante tener en cuenta que un modelo más grande no siempre implica que sea un modelo mejor. Hoy en día existen modelos pequeños bien optimizados pueden competir muy bien. Para ello, se utilizan técnicas como: mejor entrenamiento, arquitecturas optimizadas o *distillation*. 
+
+> La destilación (*distillation*) es una técnica de compresión de modelos que consiste en transferir los aprendizajes de un gran modelo preentrenado, el "modelo docente", a un "modelo de estudiante" más pequeño. 
+
+Estas técnicas permiten conseguir modelos más eficientes (mejor relación calidad/coste), algo especialmente importante si se desea ejecutar modelos localmente.
+
+### Ventana de contexto (*context window*)
+
+El contexto tiene un limite. Es algo presente en cualquier modelo. La ventana de contexto define **cuánta información puede manejar el modelo en una sola interacción**. Se mide en *tokens* e incluye:
+- El *prompt* que se introduzca en esa interacción
+- El historial de conversación
+- La respuesta generada
+
+Si mantenemos la analogía de entender un LLM como una función, y suponemos que su entrada fuese un *array*, la ventana de contexto sería el número de posiciones de dicho *array*.
+
+Una manera de entenderlo sería la siguiente:
+
+> Es como la “memoria a corto plazo” del modelo.
+
+Por ejemplo, si un modelo tiene una ventana de 128k tokens, todo lo que exceda ese límite se pierde o se recorta. El modelo **no puede “verlo”**.
+
+La ventana de contexto, lógicamente, cambia según el modelo. Actualmente, ya se han alcanzado ventanas de contexto del orden del millón de *tokens* en los modelos más punteros.
+
+Es importante tener claro que, cuanto mayor sea esta ventana, mejor será el modelo para documentos largos, código, logs, etc. Sin embargo, esto aumenta el coste y puede degradar el rendimiento si no se usa bien.
+
+### Limitaciones de los LLMs
+
+Los modelos tienen limitaciones y entenderlas es clave para poder usarlos correctamente y de manera eficiente:
+1. No “piensan”, predicen: Un LLM no razona como un humano ni entiende realmente el mundo. Simplemente genera la continuación (texto) más probable dado un contexto.
+2. Alucinaciones (*hallucinations*): El modelo puede inventarse datos o generar respuestas plausibles pero falsas. Esto ocurre porque **está optimizado para “sonar correcto”, no para “ser correcto”**.
+3. Dependencia total del contexto: La calidad de la salida depende directamente de la entrada (*Garbage in → garbage out*). Un mal *prompt* supone una mala respuesta, ya que la falta de contexto da lugar a respuestas incompletas o erróneas
+4. Razonamiento limitado: Aunque pueden parecer muy buenos razonando, no existe un razonamiento “real”, sino que es un patrón aprendido. Los modelos fallan en problemas complejos nuevos, lógica estricta y no tienen consistencia a largo plazo.
+
+
+Minuto 11:21.
 
 ## Referencias
 
