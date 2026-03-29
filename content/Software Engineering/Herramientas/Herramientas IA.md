@@ -111,9 +111,31 @@ El *prompt* es todo lo que el modelo recibe como entrada en una llamada. El mode
 
 ### *Tokens*
 
+Los modelos, los LLMs, no procesan texto directamente (aunque lo parezca), sino que trabajan con ***tokens***.
 
+> Un *token* es una unidad básica de texto en la que el modelo divide la entrada.
 
+Un *token* es un fragmento de texto, que puede ser una palabra, una parte de una palabra, un signo de puntuación o espacios y caracteres especiales. Por ejemplo, la palabra *hola* puede ser 1 o varios *tokens*. 
 
+¿Por qué existen los *tokens*? Los modelos necesitan convertir el texto en números. El flujo de datos, de forma simplificada, es el siguiente:
+1. El texto se divide en *tokens*.
+2. Los *tokens* se mapean en números (*embeddings*).
+3. El modelo procesa esos números o *embeddings*.
+
+La tokenización no es algo universal sino que depende del modelo, del LLM, ya que cada uno usa su propio *tokenizer*. Los modelos no son comparables por número de *tokens*, ya que el mismo texto se procesa en un número de *tokens* diferente según el modelo.
+
+Existen herramientas que permiten verificar cuántos *tokens* forman una palabra o una oración. Por ejemplo, [Tokenizer](https://platform.openai.com/tokenizer) de OpenAI o [Claude Tokenizer](https://claude-tokenizer.vercel.app/).
+
+![[OpenAI_Tokenizer_GPT-5.png]]
+
+![[OpenAI_Tokenizer_GPT-4.png]]
+
+Los *tokens* son importantes por varias razones:
+1. Coste: El uso de modelos (API) se factura en función de *tokens* de entrada (*input*) y *tokens* de salida (*output*). A mayor número de *tokens*, más coste.
+2. Ventana de contexto: Los *tokens* determinan el límite de contexto. La ventana de contexto (*context window*) se mide en *tokens*. Como ya se ha indicado, dicha ventana incluye: *system prompt*, historial, *prompt* actual y respuesta.
+3. Rendimiento: Un mayor número de *tokens* implica más latencia y más uso de memoria.
+
+El número de *tokens* también tiene una fuerte dependencia con el idioma. Un mismo *prompt* puede ser más eficiente en inglés o en español que en alemán. El inglés suele ser eficiente porque los *tokenizers* están optimizados para él y porque muchas palabras comunes están bien representadas. Los idiomas con palabras largas, como el alemán, pueden generar un número de *tokens* mayor.
 
 Minuto 17:20.
 
