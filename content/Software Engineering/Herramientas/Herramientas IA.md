@@ -102,8 +102,20 @@ Los modelos tienen limitaciones y entenderlas es clave para poder usarlos correc
 3. Dependencia total del contexto: La calidad de la salida depende directamente de la entrada (*Garbage in → garbage out*). Un mal *prompt* supone una mala respuesta, ya que la falta de contexto da lugar a respuestas incompletas o erróneas
 4. Razonamiento limitado: Aunque pueden parecer muy buenos razonando, no existe un razonamiento “real”, sino que es un patrón aprendido. Los modelos fallan en problemas complejos nuevos, lógica estricta y no tienen consistencia a largo plazo.
 
+### *Prompt*
 
-Minuto 11:21.
+El *prompt* es todo lo que el modelo recibe como entrada en una llamada. El modelo no tiene memoria real, sino que todo lo que "recuerda" debe estar incluido en el *prompt*. Esto incluye:
+- *System message*: Son las reglas globales que definen el comportamiento del modelo. Se trata de una especie de configuración del modelo que permite establecer reglas, definir el estilo o añadir restricciones. Por ejemplo, "responde únicamente a preguntas sobre España". No es una configuración rígida, sino que es texto que el modelo tiene en cuenta pero que puede ser ignorado o sobrescrito en algunos casos. Es algo fundamental para añadir cierta seguridad al modelo, aunque no elimina el riesgo de *prompt injections*.
+- *Assistant message*: Es el historial de salidas del modelo, es decir, las respuestas previas. Se incluyen para mantener el contexto de la conversación.
+- *User message*: Es la entrada del usuario, tanto en la llamada actual como en todas las anteriores, es decir, el mensaje actual y el historial de mensajes anteriores.
+
+### *Tokens*
+
+
+
+
+
+Minuto 17:20.
 
 ## Referencias
 
