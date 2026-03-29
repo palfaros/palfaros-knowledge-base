@@ -137,7 +137,7 @@ Los *tokens* son importantes por varias razones:
 
 El número de *tokens* también tiene una fuerte dependencia con el idioma. Un mismo *prompt* puede ser más eficiente en inglés o en español que en alemán. El inglés suele ser eficiente porque los *tokenizers* están optimizados para él y porque muchas palabras comunes están bien representadas. Los idiomas con palabras largas, como el alemán, pueden generar un número de *tokens* mayor.
 
-Minuto 17:20.
+Minuto 24:30.
 
 ## Referencias
 
