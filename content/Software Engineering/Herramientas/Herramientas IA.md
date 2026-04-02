@@ -211,7 +211,7 @@ Otro aspecto importante es la gestión del contexto. El modelo no ve todo el pro
 
 ![[VS_Code_AI_add_files_as_context.png]]
 
-Dentro del chat se puede monitorizar en tiempo real el uso de la ventana de contexto que llevamos. Cuanta más información queramos enviar, más ventana de contexto vamos a utilizar. No solo es que haya un límite, es que nos va a salir mucho más caro. Importante recordar que la ventana de contexto crece con la conversación ya que, con cada interacción, se mandan también todas las interacciones previas.
+Dentro del chat, tenemos la opción de monitorizar cómo vamos consumiendo la ventana de contexto (*context window*). Cuantos más datos queramos incluir, mayor será el tamaño del contexto y más caro nos saldrá. Además, es importante no olvidar que la ventana se expande a medida que avanzamos en la charla, porque con cada mensaje estamos reenviando todas nuestras interacciones anteriores.
 
 ![[VS_Code_AI_Context_Window_Status.png]]
 
