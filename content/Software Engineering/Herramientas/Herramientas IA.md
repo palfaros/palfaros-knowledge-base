@@ -137,7 +137,44 @@ Los *tokens* son importantes por varias razones:
 
 El número de *tokens* también tiene una fuerte dependencia con el idioma. Un mismo *prompt* puede ser más eficiente en inglés o en español que en alemán. El inglés suele ser eficiente porque los *tokenizers* están optimizados para él y porque muchas palabras comunes están bien representadas. Los idiomas con palabras largas, como el alemán, pueden generar un número de *tokens* mayor.
 
-Minuto 24:30.
+## Programación
+
+Los LLMs tienen aplicaciones en múltiples ámbitos más allá del *chatbot* genérico. En el campo de la programación, han dado lugar a un ecosistema de herramientas que abarca desde el autocompletado inteligente hasta sistemas más avanzados como asistentes de código y agentes capaces de ejecutar tareas complejas. Además, surgen nuevas formas de integración con el entorno de desarrollo, como el uso de herramientas externas o protocolos como MCP.
+### Autocompletado (con IA)
+
+Es la capacidad de un modelo para predecir y sugerir código mientras escribes, basándose en el contexto actual. Puede ir desde completar una línea, completar una función hasta generar bloques de código a partir de un comentario.
+
+Es diferente al autocompletado clásico, basado en reglas, sintaxis y que no entendía código, simplemente realizaba sugerencias de código.
+
+![[Github_Copilot_Completions.gif]]
+
+Este es, a día de hoy, el nivel más básico de uso de IA en programación. La mayoría de editores modernos ya lo tienen integrado:
+- Visual Studio Code (con GitHub Copilot)
+- Cursor (autocompletado con *Tab*)
+- Windsurf Editor (autocompletado con *Tab*)
+
+Normalmente, este tipo de autocompletado:
+- Tiene en cuenta principalmente el contexto del archivo actual
+- Puede usar información adicional (otros archivos abiertos, imports, etc.)
+- Se activa de forma interactiva (por ejemplo, al pulsar *Tab*)
+
+### Asistentes conversacionales
+
+Los asistentes conversacionales son los ya clásicos chat web con los que se interactúa mediante pregunta-respuesta pero utilizados para generar código, explicar funciones, ayudar en *debugging* o proponer soluciones. Ejemplos claros son ChatGPT o Claude.
+
+A la hora de trabajar, son útiles como apoyo, pero tienen limitaciones importantes en entornos reales de desarrollo. No están integrados directamente en el IDE, obligan muchas veces a copiar y pegar código, y no tienen acceso completo al contexto del proyecto. Por eso, aunque son potentes, suelen ser menos prácticos que herramientas integradas.
+
+En los últimos años han evolucionado incorporando funcionalidades más avanzadas que van más allá del chat tradicional. Algunas interfaces permiten editar código directamente, seleccionar fragmentos concretos y hacer preguntas sobre ellos, o trabajar en un entorno más estructurado parecido a un editor dentro del navegador.
+
+Dentro de esta evolución aparece el concepto de “canvas” o vista interactiva, donde se puede editar código y ver resultados en tiempo real. Esto es especialmente útil en aplicaciones con componente visual, como desarrollo web o interfaces gráficas, donde puedes ver inmediatamente el efecto de los cambios.
+
+![[Gemini_Canvas.png]]
+
+Sin embargo, en otros contextos como desarrollo en C, sistemas embebidos o software complejo, este tipo de funcionalidad aporta menos valor. En estos casos no existe una vista previa directa, necesitas compilar, enlazar librerías y trabajar con un entorno específico, por lo que el modelo actúa más como asistente de apoyo que como herramienta interactiva en tiempo real.
+
+En resumen, los asistentes conversacionales son muy potentes para generar, entender y discutir código, pero su falta de integración con el entorno de desarrollo limita su eficiencia en proyectos grandes o complejos.
+
+Minuto 28:09.
 
 ## Referencias
 
