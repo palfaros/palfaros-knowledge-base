@@ -214,7 +214,26 @@ Ejemplos de editores de código con IA (son todos *forks* de VS Code):
 
 El chat integrado en el editor supone un gran salto como herramienta de consulta con acceso al contexto del proyecto, pero los agentes van un paso más allá. Mientras que el chat espera a que el usuario implemente sus sugerencias, el agente tiene la capacidad de abrir archivos, crear nuevas estructuras y aplicar cambios coordinados en todo el proyecto.
 
-Estos agentes también están integrados en los editores de código. Aunque pueden variar ligeramente de un editor a otro, por lo general presentan 4 tipos de agente básicos:
+Un LLM por sí solo es reactivo: recibe un input y genera una respuesta. No puede ejecutar acciones ni interactuar con el entorno.
+
+>Un agente es un sistema que utiliza un LLM como núcleo de decisión, pero le añade herramientas y un bucle de ejecución que le permite actuar de forma iterativa hasta completar una tarea.
+
+El LLM decide qué hacer en cada paso (por ejemplo, leer un archivo, modificar código o ejecutar un comando), pero no ejecuta esas acciones directamente. Existe un sistema externo que interpreta esas decisiones y las ejecuta mediante código tradicional (lectura/escritura de ficheros, ejecución de comandos, llamadas a APIs, etc.).
+
+El funcionamiento sigue un ciclo: el LLM analiza la tarea, decide una acción, el sistema la ejecuta, y el resultado se devuelve al modelo como nuevo contexto. Este proceso se repite hasta que la tarea se considera completada.
+
+En este sentido, el agente no es el modelo en sí, sino la combinación de un LLM con herramientas y un mecanismo de control que permite iterar y operar sobre el entorno. El LLM aporta la “inteligencia” (decisión paso a paso) y el agente aporta la capacidad de actuar.
+
+Un agente no es un modelo, sino un programa tradicional que utiliza un LLM como núcleo de decisión.
+
+Internamente, consiste en un bucle que:
+- Consulta al LLM qué hacer.
+- Ejecuta acciones mediante código normal (leer archivos, ejecutar comandos, etc.).
+- Devuelve los resultados al modelo.
+
+Este proceso se repite hasta completar la tarea.
+
+Estos agentes también están integrados en los editores de código. Aunque pueden variar ligeramente de un editor a otro, por lo general todos ellos ofrecen 4 tipos de agente:
 - *Agent*: Capaz de editar ficheros, ejecutar comandos, etc. Todo lo que necesite para cumplir la tarea pedida. Es el que está activado por defecto
 - *Plan*: Realiza una investigación del proyecto y lo que se quiere conseguir y elabora un plan con múltiples pasos que será necesario completar para cumplir la tarea. Este modo es interesante porque muchas veces lo que interesa es utilizar un modelo muy caro para planear lo que hay que hacer y luego un modo muy barato (o rápido) para ejecutar ese plan.
 - *Ask*: Solo preguntas sobre el proyecto. Sin edición ni ejecución. 
@@ -229,8 +248,11 @@ El modo *Agent* es el que viene por defecto. Tiene 3 tipos de ejecución:
 
 ![[VS_Code_Agent_Types.png]]
 
-Los agentes son autónomos pero es importante destacar que, por defecto, estos sistemas suelen requerir confirmación del usuario antes de aplicar cambios, especialmente cuando afectan a archivos o al sistema. En el caso de VS Code se puede desactivar a nivel de sesión, a nivel de *workspace* o de forma completa (no recomendable).
+Un agente puede implementarse desde cero como un programa tradicional que contiene un bucle. De hecho, existen *frameworks* como LangGraph que permiten construir agentes fácilmente debido a su capacidad para manejar flujos no lineales y a su persistencia de estado. 
 
+También se pueden crear agentes personalizados o propios desde el propio editor de código (por ejemplo, VS Code). La diferencia principal radica en el nivel de abstracción y control. Mientras que programar con LangGraph es como construir el motor de un coche pieza por pieza, usar las opciones de VS Code o Antigravity es como configurar el GPS y el modo de conducción de un coche que ya viene fabricado. Simplemente se personaliza un agente previamente implementado mediante *prompts* específicos para tareas dentro del editor, pero el motor que hay por debajo no se modifica.
+
+Los agentes son autónomos pero es importante destacar que, por defecto, estos sistemas suelen requerir confirmación del usuario antes de aplicar cambios, especialmente cuando afectan a archivos o al sistema. En el caso de VS Code se puede desactivar a nivel de sesión, a nivel de *workspace* o de forma completa (no recomendable).
 
 Por último, estas herramientas incorporan mecanismos de seguridad y control como historial de cambios o puntos de restauración, que permiten deshacer fácilmente modificaciones realizadas por la IA. Esto es especialmente útil cuando se trabaja con agentes que pueden realizar cambios amplios en el código. En el caso de VS Code, se guardan en forma de *checkpoints*.
 
