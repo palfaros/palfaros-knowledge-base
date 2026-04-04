@@ -260,6 +260,7 @@ Por último, estas herramientas incorporan mecanismos de seguridad y control com
 
 ### *Command Line Interface* (CLI)
 
+### MCPs
 ### *Agent Skills*
 
 ## Referencias
