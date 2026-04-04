@@ -248,11 +248,13 @@ El modo *Agent* es el que viene por defecto. Tiene 3 tipos de ejecución:
 
 ![[VS_Code_Agent_Types.png]]
 
+Los agentes son autónomos pero es importante destacar que, por defecto, estos sistemas suelen requerir confirmación del usuario antes de aplicar cambios, especialmente cuando afectan a archivos o al sistema. En el caso de VS Code se puede desactivar a nivel de sesión, a nivel de *workspace* o de forma completa (no recomendable).
+
 Un agente puede implementarse desde cero como un programa tradicional que contiene un bucle. De hecho, existen *frameworks* como LangGraph que permiten construir agentes fácilmente debido a su capacidad para manejar flujos no lineales y a su persistencia de estado. 
 
-También se pueden crear agentes personalizados o propios desde el propio editor de código (por ejemplo, VS Code). La diferencia principal radica en el nivel de abstracción y control. Mientras que programar con LangGraph es como construir el motor de un coche pieza por pieza, usar las opciones de VS Code o Antigravity es como configurar el GPS y el modo de conducción de un coche que ya viene fabricado. Simplemente se personaliza un agente previamente implementado mediante *prompts* específicos para tareas dentro del editor, pero el motor que hay por debajo no se modifica.
+También se pueden crear agentes personalizados desde el propio editor de código. Por ejemplo, VS Code tiene una [guía](https://code.visualstudio.com/docs/copilot/customization/custom-agents) para ello. La diferencia principal radica en el nivel de abstracción y control. Mientras que programar con LangGraph es como construir el motor de un coche pieza por pieza, usar las opciones de VS Code o Antigravity es como configurar el GPS y el modo de conducción de un coche que ya viene fabricado. Simplemente se personaliza un agente previamente implementado mediante *prompts* específicos para tareas dentro del editor, pero el motor que hay por debajo no se modifica.
 
-Los agentes son autónomos pero es importante destacar que, por defecto, estos sistemas suelen requerir confirmación del usuario antes de aplicar cambios, especialmente cuando afectan a archivos o al sistema. En el caso de VS Code se puede desactivar a nivel de sesión, a nivel de *workspace* o de forma completa (no recomendable).
+![[VS_Code_custom_agent.png]]
 
 Por último, estas herramientas incorporan mecanismos de seguridad y control como historial de cambios o puntos de restauración, que permiten deshacer fácilmente modificaciones realizadas por la IA. Esto es especialmente útil cuando se trabaja con agentes que pueden realizar cambios amplios en el código. En el caso de VS Code, se guardan en forma de *checkpoints*.
 
