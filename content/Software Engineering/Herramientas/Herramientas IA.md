@@ -258,6 +258,10 @@ También se pueden crear agentes personalizados desde el propio editor de códig
 
 Por último, estas herramientas incorporan mecanismos de seguridad y control como historial de cambios o puntos de restauración, que permiten deshacer fácilmente modificaciones realizadas por la IA. Esto es especialmente útil cuando se trabaja con agentes que pueden realizar cambios amplios en el código. En el caso de VS Code, se guardan en forma de *checkpoints*.
 
+### *Command Line Interface* (CLI)
+
+### *Agent Skills*
+
 ## Referencias
 
 - [Curso IA para programadores (2026 MiduDev)](https://www.youtube.com/watch?v=2aN_-m1uU4k&pp=ygUXaGVycmFtaWVudGFzIGlhIG1pZHVkZXY%3D)
