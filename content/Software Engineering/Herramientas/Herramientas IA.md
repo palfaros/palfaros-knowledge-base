@@ -186,36 +186,19 @@ De forma general, un editor de código es más ligero, rápido y flexible, y per
 
 El salto importante con estos editores no es solo el autocompletado, sino la integración de un chat conversacional directamente sobre el código. Esto permite interactuar con el proyecto sin salir del editor: hacer preguntas, generar código o incluso aplicar cambios directamente sin necesidad de copiar y pegar. Herramientas como GitHub Copilot permiten este tipo de interacción y añaden una capa de inteligencia sobre el propio entorno de desarrollo.
 
-Este tipo de chat no funciona como un chat genérico, sino que tiene acceso al contexto del proyecto. Puede leer archivos, entender la estructura del repositorio y aplicar modificaciones. En muchos casos, se ofrecen distintos modos de interacción. En el caso de VS Code hay 4 modos:
-- *Agent*: Capaz de editar ficheros, ejecutar comandos, etc. Todo lo que necesite para cumplir la tarea pedida. Es el que está activado por defecto
-- *Plan*: Realiza una investigación del proyecto y lo que se quiere conseguir y elabora un plan con múltiples pasos que será necesario completar para cumplir la tarea. Este modo es interesante porque muchas veces lo que interesa es utilizar un modelo muy caro para planear lo que hay que hacer y luego un modo muy barato (o rápido) para ejecutar ese plan.
-- *Ask*: Solo preguntas sobre el proyecto. Sin edición ni ejecución. 
-- *Edit*: Solo edición de ficheros. Sin ejecución de código.
+A diferencia de un chat web, este chat tiene acceso al contexto del proyecto, lo que le permite leer archivos y entender la estructura del repositorio para dar respuestas precisas, aunque no puede aplicar modificaciones de forma autónoma; solo sugiere el código para que el desarrollador lo implemente.
 
-![[VS_Code_chat_modes.png]]
-
-El modo agente es el que viene por defecto. Tiene 3 tipos de agente de GitHub Copilot: 
-- *Local*: Ejecuta la tarea directamente sobre el chat y aplica los cambios en local, en nuestra propia máquina. Es el que está activado por defecto.
-- *Background*: Delega la tarea en un agente en segundo plano, que funciona en local en nuestra máquina e implementa los cambios de manera independiente. En concreto, crea un *worktree* de Git.
-- *Cloud*: Delega la tarea en un agente en la nube, es decir, nuestro ordenador puede estar apagado, e implementará los cambios en una *pull request*.
-
-![[VS_Code_Agent_Types.png]]
-
-Los agentes son autónomos pero es importante destacar que, por defecto, estos sistemas suelen requerir confirmación del usuario antes de aplicar cambios, especialmente cuando afectan a archivos o al sistema. En el caso de VS Code se puede desactivar a nivel de sesión, a nivel de *workspace* o de forma completa (no recomendable).
-
-Por otro lado tenemos el menú desde el que seleccionar el modelo que queremos utilizar (GPT, Claude Opus, Gemini, etc.).
+El editor tiene acceso a la mayoría de los modelos más conocidos, por lo que podemos seleccionar el que queremos utilizar (GPT, Claude Opus, Gemini, etc.).
 
 ![[VS_Code_Models.png]]
 
-Otro aspecto importante es la gestión del contexto. El modelo no ve todo el proyecto automáticamente, sino que se le proporciona contexto de forma explícita o implícita. Por ejemplo, se pueden mencionar archivos (mediante *hashtag* en el caso de VS Code), seleccionar fragmentos de código o trabajar sobre partes concretas. Esto es clave, ya que la calidad de las respuestas depende directamente de la información que se le proporcione.
+Un aspecto muy importante es la gestión del contexto. El modelo no ve todo el proyecto automáticamente, sino que se le proporciona contexto de forma explícita o implícita. Por ejemplo, se pueden mencionar archivos (mediante *hashtag* en el caso de VS Code), seleccionar fragmentos de código o trabajar sobre partes concretas. Esto es clave, ya que la calidad de las respuestas depende directamente de la información que se le proporcione.
 
 ![[VS_Code_AI_add_files_as_context.png]]
 
 Dentro del chat, tenemos la opción de monitorizar cómo vamos consumiendo la ventana de contexto (*context window*). Cuantos más datos queramos incluir, mayor será el tamaño del contexto y más caro nos saldrá. Además, es importante no olvidar que la ventana se expande a medida que avanzamos en la charla, porque con cada mensaje estamos reenviando todas nuestras interacciones anteriores.
 
 ![[VS_Code_AI_Context_Window_Status.png]]
-
-Por último, estas herramientas incorporan mecanismos de seguridad y control como historial de cambios o puntos de restauración, que permiten deshacer fácilmente modificaciones realizadas por la IA. Esto es especialmente útil cuando se trabaja con agentes que pueden realizar cambios amplios en el código. En el caso de VS Code, se guardan en forma de *checkpoints*.
 
 En cuanto al coste, aunque los modelos subyacentes funcionan con *tokens*, las herramientas comerciales suelen abstraer esto mediante sistemas de créditos o suscripciones. Dependiendo del modelo utilizado (más potente o más rápido), el consumo puede variar. Además, cuanto mayor sea el contexto enviado al modelo, mayor será el coste y la latencia.
 
@@ -226,6 +209,30 @@ Ejemplos de editores de código con IA (son todos *forks* de VS Code):
 - [Antigravity](https://antigravity.google/) (Google)
 - [Kiro](https://kiro.dev/) (AWS)
 - [TRAE](https://www.trae.ai/) (ByteDance)
+
+### Agentes
+
+El chat integrado en el editor supone un gran salto como herramienta de consulta con acceso al contexto del proyecto, pero los agentes van un paso más allá. Mientras que el chat espera a que el usuario implemente sus sugerencias, el agente tiene la capacidad de abrir archivos, crear nuevas estructuras y aplicar cambios coordinados en todo el proyecto.
+
+Estos agentes también están integrados en los editores de código. Aunque pueden variar ligeramente de un editor a otro, por lo general presentan 4 tipos de agente básicos:
+- *Agent*: Capaz de editar ficheros, ejecutar comandos, etc. Todo lo que necesite para cumplir la tarea pedida. Es el que está activado por defecto
+- *Plan*: Realiza una investigación del proyecto y lo que se quiere conseguir y elabora un plan con múltiples pasos que será necesario completar para cumplir la tarea. Este modo es interesante porque muchas veces lo que interesa es utilizar un modelo muy caro para planear lo que hay que hacer y luego un modo muy barato (o rápido) para ejecutar ese plan.
+- *Ask*: Solo preguntas sobre el proyecto. Sin edición ni ejecución. 
+- *Edit*: Solo edición de ficheros. Sin ejecución de código.
+
+![[VS_Code_chat_modes.png]]
+
+El modo *Agent* es el que viene por defecto. Tiene 3 tipos de ejecución: 
+- *Local*: Ejecuta la tarea directamente sobre el chat y aplica los cambios en local, en nuestra propia máquina. Es el que está activado por defecto.
+- *Background*: Delega la tarea en un agente en segundo plano, que funciona en local en nuestra máquina e implementa los cambios de manera independiente. En concreto, crea un *worktree* de Git.
+- *Cloud*: Delega la tarea en un agente en la nube, es decir, nuestro ordenador puede estar apagado, e implementará los cambios en una *pull request*.
+
+![[VS_Code_Agent_Types.png]]
+
+Los agentes son autónomos pero es importante destacar que, por defecto, estos sistemas suelen requerir confirmación del usuario antes de aplicar cambios, especialmente cuando afectan a archivos o al sistema. En el caso de VS Code se puede desactivar a nivel de sesión, a nivel de *workspace* o de forma completa (no recomendable).
+
+
+Por último, estas herramientas incorporan mecanismos de seguridad y control como historial de cambios o puntos de restauración, que permiten deshacer fácilmente modificaciones realizadas por la IA. Esto es especialmente útil cuando se trabaja con agentes que pueden realizar cambios amplios en el código. En el caso de VS Code, se guardan en forma de *checkpoints*.
 
 Minuto 43:33.
 
