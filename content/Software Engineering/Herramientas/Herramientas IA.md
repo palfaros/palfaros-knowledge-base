@@ -295,6 +295,7 @@ Dentro de Claude Code existen varios comandos que permiten interactuar con el ag
 - *context*: Permite visualizar el uso de la ventana de contexto (*context usage*), algo clave para 
 - *compact*: Sirve para resumir la conversación previa y reducir el consumo de contexto. Es importante tener en cuenta que esto también consume recursos, ya que utiliza el propio modelo.
 - *mcp*: Muestra los servidores MCPs (Model Context Protocols) conectados, que son básicamente integraciones externas que amplían las capacidades del agente (por ejemplo, acceso a herramientas, APIs o fuentes de datos adicionales).
+- *skills*: Muestra las *agent skills* instaladas y disponibles, tanto a nivel de proyecto como a nivel global.
 
 ![[Claude_Code_context.png]]
 
@@ -322,6 +323,71 @@ Otra forma de verlo, más técnica, es como una API estandarizada de herramienta
 En el caso de Claude Code, existen servidores MCP disponibles de forma nativa, pero también [se pueden añadir otros externos](https://code.claude.com/docs/en/mcp). Esto permite extender las capacidades del agente sin modificar su implementación, simplemente conectándolo a nuevos servidores MCP.
 
 ### *Agent Skills*
+
+Los servidores MCP permiten conectar el agente (o cualquier sistema basado en LLMs) con herramientas externas, APIs o fuentes de datos. En ese sentido, aportan nuevas capacidades “hacia fuera”, es decir, permiten que el sistema haga cosas que antes no podía hacer.
+
+Las *agent skills*, en cambio, operan en otra dimensión: no añaden capacidades externas, sino que estructuran y reutilizan conocimiento. Son módulos reutilizables que encapsulan instrucciones, contexto, reglas, metadatos y, en algunos casos, recursos adicionales que el modelo puede utilizar cuando lo considere necesario.
+
+La idea clave es evitar repetir continuamente las mismas instrucciones en cada interacción. En lugar de copiar y pegar *prompts*, defines una *skill* que contiene ese conocimiento y la haces disponible para el modelo. A partir de ahí, es el propio sistema el que decide cuándo cargarla y utilizarla en función del contexto.
+
+La mejor analogía es una librería en programación, salvo que una *skill* es más parecida a una librería de conocimiento que a una librería de código. No define funciones ejecutables, sino guías, criterios y contexto que influyen en cómo el modelo razona y genera respuestas.
+
+En muchos sistemas actuales, las *skills* se implementan como ficheros *markdown* que contienen texto estructurado (a veces con metadatos en cabecera). Ese contenido se inyecta en el contexto del modelo cuando se activa la *skill*. Por ejemplo, a continuación se muestra el contenido del *markdown* de *frontend-design*, una de las más conocidas para crear webs con agentes.
+
+```
+---
+name: frontend-design
+description: Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.
+license: Complete terms in LICENSE.txt
+---
+
+This skill guides creation of distinctive, production-grade frontend interfaces that avoid generic "AI slop" aesthetics. Implement real working code with exceptional attention to aesthetic details and creative choices.
+
+The user provides frontend requirements: a component, page, application, or interface to build. They may include context about the purpose, audience, or technical constraints.
+
+## Design Thinking
+
+Before coding, understand the context and commit to a BOLD aesthetic direction:
+- **Purpose**: What problem does this interface solve? Who uses it?
+- **Tone**: Pick an extreme: brutally minimal, maximalist chaos, retro-futuristic, organic/natural, luxury/refined, playful/toy-like, editorial/magazine, brutalist/raw, art deco/geometric, soft/pastel, industrial/utilitarian, etc. There are so many flavors to choose from. Use these for inspiration but design one that is true to the aesthetic direction.
+- **Constraints**: Technical requirements (framework, performance, accessibility).
+- **Differentiation**: What makes this UNFORGETTABLE? What's the one thing someone will remember?
+
+**CRITICAL**: Choose a clear conceptual direction and execute it with precision. Bold maximalism and refined minimalism both work - the key is intentionality, not intensity.
+
+Then implement working code (HTML/CSS/JS, React, Vue, etc.) that is:
+- Production-grade and functional
+- Visually striking and memorable
+- Cohesive with a clear aesthetic point-of-view
+- Meticulously refined in every detail
+
+## Frontend Aesthetics Guidelines
+
+Focus on:
+- **Typography**: Choose fonts that are beautiful, unique, and interesting. Avoid generic fonts like Arial and Inter; opt instead for distinctive choices that elevate the frontend's aesthetics; unexpected, characterful font choices. Pair a distinctive display font with a refined body font.
+- **Color & Theme**: Commit to a cohesive aesthetic. Use CSS variables for consistency. Dominant colors with sharp accents outperform timid, evenly-distributed palettes.
+- **Motion**: Use animations for effects and micro-interactions. Prioritize CSS-only solutions for HTML. Use Motion library for React when available. Focus on high-impact moments: one well-orchestrated page load with staggered reveals (animation-delay) creates more delight than scattered micro-interactions. Use scroll-triggering and hover states that surprise.
+- **Spatial Composition**: Unexpected layouts. Asymmetry. Overlap. Diagonal flow. Grid-breaking elements. Generous negative space OR controlled density.
+- **Backgrounds & Visual Details**: Create atmosphere and depth rather than defaulting to solid colors. Add contextual effects and textures that match the overall aesthetic. Apply creative forms like gradient meshes, noise textures, geometric patterns, layered transparencies, dramatic shadows, decorative borders, custom cursors, and grain overlays.
+
+NEVER use generic AI-generated aesthetics like overused font families (Inter, Roboto, Arial, system fonts), cliched color schemes (particularly purple gradients on white backgrounds), predictable layouts and component patterns, and cookie-cutter design that lacks context-specific character.
+
+Interpret creatively and make unexpected choices that feel genuinely designed for the context. No design should be the same. Vary between light and dark themes, different fonts, different aesthetics. NEVER converge on common choices (Space Grotesk, for example) across generations.
+
+**IMPORTANT**: Match implementation complexity to the aesthetic vision. Maximalist designs need elaborate code with extensive animations and effects. Minimalist or refined designs need restraint, precision, and careful attention to spacing, typography, and subtle details. Elegance comes from executing the vision well.
+
+Remember: Claude is capable of extraordinary creative work. Don't hold back, show what can truly be created when thinking outside the box and committing fully to a distinctive vision.
+```
+
+No añade ninguna herramienta nueva, pero cambia radicalmente el tipo de output que genera el modelo, guiándolo hacia un diseño más elaborado y menos genérico.
+
+Desde un punto de vista práctico, esto supone un salto respecto al uso manual de *prompts* en archivos sueltos. En lugar de gestionar texto de forma externa y pegarlo en cada conversación, las *skills* permiten integrar ese conocimiento de forma estructurada y reutilizable dentro del propio sistema. En ese sentido, es una evolución natural y mucho más escalable.
+
+Las *skills* pueden definirse a nivel global o a nivel de proyecto, lo que permite reutilizarlas entre distintos contextos o especializarlas para un repositorio concreto. Actualmente, no existe un estándar universal: cada herramienta (Claude Code, Cursor, VS Code, etc.) define su propio formato o ubicación, aunque la idea subyacente es la misma.
+
+Una diferencia importante respecto a los *prompts* tradicionales es que las *skills* no se aplican necesariamente en cada interacción. A diferencia del *system prompt* o de instrucciones que siempre están presentes, las *skills* suelen activarse de forma dinámica en función del contexto y de lo que el modelo considera relevante. Esto permite mantener el contexto más limpio y eficiente, evitando sobrecargarlo con información innecesaria en cada petición.
+
+El directorio o catálogo de *agent skills* más conocido es [skills.sh](https://skills.sh/), creado por Vercel. A día de hoy, dispone de más de 91.000 skills.
 
 ## Otras herramientas
 
