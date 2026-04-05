@@ -9,8 +9,8 @@ date: 2026-03-15
 - ¿Qué herramientas están cambiando la forma de programar?
 - ¿Cómo sacarle el máximo rendimiento a tu editor de código, ya sea VS Code o Cursor?
 - ¿Cómo utilizar agentes y Claude Code?
-- ¿Qué es un MCP?
-- ¿Qué son los agents skills?
+- ¿Qué es un servidor MCP?
+- ¿Qué son las *agents skills*?
 - ¿Qué es OpenCode?
 - ¿Cómo ejecutar modelos localmente?
 
