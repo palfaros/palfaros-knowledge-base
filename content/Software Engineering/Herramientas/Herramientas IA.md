@@ -260,8 +260,50 @@ Por último, estas herramientas incorporan mecanismos de seguridad y control com
 
 ### *Command Line Interface* (CLI)
 
+El siguiente nivel en herramientas de IA aplicadas a programación consiste en pasar del editor de código a la interacción directa a través de la línea de comandos (CLI). En lugar de trabajar sobre una interfaz gráfica, se utiliza la terminal como punto de entrada, desde la que se envían instrucciones a un agente.
+
+En este contexto, lo que hay por debajo sigue siendo uno o varios agentes. Normalmente se interactúa con un único agente principal, pero ese agente puede orquestar múltiples subagentes o herramientas internamente según la tarea. Es decir, el usuario no gestiona varios agentes directamente, pero el sistema sí puede hacerlo por debajo.
+
+El ejemplo más representativo a día de hoy es [Claude Code](https://code.claude.com/docs/en/quickstart).  Aunque puede integrarse en VS Code, Slack o la web, su uso principal es desde la terminal. Hay otros, como Codex o Github Copilot que también tienen el suyo, pero Claude Code es el más famoso.
+
+#### Claude Code
+
+Se trata de un agente de terminal, es decir, un agente autónomo diseñado para operar directamente sobre tu entorno de desarrollo. No se limita a sugerir código: si se le da una tarea compleja (por ejemplo, migrar una base de datos), es capaz de generar un plan, ejecutar comandos de terminal, analizar errores, modificar el código y repetir el proceso hasta completar la tarea o alcanzar un punto razonable.
+
+Este tipo de herramientas operan directamente sobre tu repositorio y entorno local, sin necesidad de una interfaz gráfica. Es decir, vive en tu terminal. Esto no significa que no tengan interfaz, sino que la interfaz es la propia terminal.
+
+Claude Code (y herramientas similares) se instala como un programa más del sistema. Normalmente:
+- se instala mediante un script (por ejemplo, con *curl*)
+- se añade al PATH del sistema
+- se invoca como un comando cualquiera (`claude`, `cc`, etc.)
+
+Cuando se ejecuta, el agente toma como contexto el directorio actual desde el que se haya lanzado el comando. Es decir, trabaja sobre ese repositorio porque es el que ve.
+
+Respecto a la seguridad, por defecto este tipo de agentes:
+- operan dentro del directorio actual.
+- piden confirmación para acciones sensibles (modificar archivos, ejecutar comandos, etc.).
+- pueden estar limitados por configuración o sandboxing.
+
+Aun así, no hay aislamiento total garantizado a menos que se imponga (por ejemplo, usando contenedores Docker o entornos aislados). Es decir, pueden modificar cualquier cosa a la que el proceso tenga permisos si no se restringe explícitamente.
+
+Dentro de Claude Code existen varios comandos que permiten interactuar con el agente y controlar su comportamiento. Estos son los más destacados:
+- *init*: Analiza el contenido de un repositorio y genera un archivo (normalmente CLAUDE.md) donde describe la estructura del proyecto, los componentes principales y cómo trabajar con él. Este archivo actúa como una especie de memoria o guía para el agente, y puede ser editado manualmente para añadir contexto adicional, reglas o convenciones del proyecto..
+- *agent*: Permite crear agentes o subagentes personalizados. Estos pueden definirse a nivel global o por proyecto. También pueden generarse automáticamente describiendo en lenguaje natural qué se quiere que hagan, delegando en el propio LLM la creación de su configuración.
+- *model*: Permite seleccionar el modelo que se va a utilizar, lo cual es relevante tanto por coste como por capacidades.
+- *context*: Permite visualizar el uso de la ventana de contexto (*context usage*), algo clave para 
+- *compact*: Sirve para resumir la conversación previa y reducir el consumo de contexto. Es importante tener en cuenta que esto también consume recursos, ya que utiliza el propio modelo.
+- *mcp*: Muestra los MCPs (Model Context Protocols) conectados, que son básicamente integraciones externas que amplían las capacidades del agente (por ejemplo, acceso a herramientas, APIs o fuentes de datos adicionales).
+
+Claude Code no depende estrictamente de una suscripción concreta, sino del acceso a modelos. Lo que se paga realmente es el uso del modelo (tokens), no el agente en sí. La herramienta permite usar modelos locales mediante soluciones como [Ollama](https://ollama.com/). 
+
+También existen alternativas totalmente *open source* como [OpenCode](https://opencode.ai/) que siguen un enfoque similar, conectándose a distintos modelos, incluidos algunos gratuitos con límites.
+
 ### MCPs
 ### *Agent Skills*
+
+## Otras herramientas
+
+### NotebookLM
 
 ## Referencias
 
