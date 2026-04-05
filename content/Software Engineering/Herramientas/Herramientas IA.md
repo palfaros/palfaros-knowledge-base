@@ -401,3 +401,4 @@ El directorio o catálogo de *agent skills* más conocido es [skills.sh](https:/
 - [La Nueva Forma de Programar (sin VibeCoding) (2026 BettaTech)](https://youtu.be/XSFxZ5cf5xo?si=tTEHF8j1paMoQiWV)
 - [Esto es lo que Deberías Estar Aprendiendo Ahora Mismo (2026 BettaTech)](https://youtu.be/Ywgn96xVjqc?si=fA5gRm45ZmYLD3U7)
 - [El Roadmap Definitivo Para Convertirte en Programador Senior en 2026 (BettaTech)](https://youtu.be/Hk0jHDzkE2U?si=30NHVeHjaJ90hkOS)
+- [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
