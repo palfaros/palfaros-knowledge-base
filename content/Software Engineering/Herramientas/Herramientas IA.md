@@ -332,7 +332,7 @@ La idea clave es evitar repetir continuamente las mismas instrucciones en cada i
 
 La mejor analogía es una librería en programación, salvo que una *skill* es más parecida a una librería de conocimiento que a una librería de código. No define funciones ejecutables, sino guías, criterios y contexto que influyen en cómo el modelo razona y genera respuestas.
 
-En muchos sistemas actuales, las *skills* se implementan como ficheros *markdown* que contienen texto estructurado (a veces con metadatos en cabecera). Ese contenido se inyecta en el contexto del modelo cuando se activa la *skill*. Por ejemplo, a continuación se muestra el contenido del *markdown* de *frontend-design*, una de las más conocidas para crear webs con agentes.
+En muchos sistemas actuales, las *skills* se implementan como ficheros *markdown* que contienen texto estructurado (a veces con metadatos en cabecera). Ese contenido se inyecta en el contexto del modelo cuando se activa la *skill*. Por ejemplo, a continuación se muestra el contenido del *markdown* de *frontend-design* para Claude, una de las más conocidas para crear webs con agentes.
 
 ```
 ---
