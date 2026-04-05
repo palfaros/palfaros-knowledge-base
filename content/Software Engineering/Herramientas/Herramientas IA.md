@@ -294,7 +294,7 @@ Dentro de Claude Code existen varios comandos que permiten interactuar con el ag
 - *model*: Permite seleccionar el modelo que se va a utilizar, lo cual es relevante tanto por coste como por capacidades.
 - *context*: Permite visualizar el uso de la ventana de contexto (*context usage*), algo clave para 
 - *compact*: Sirve para resumir la conversación previa y reducir el consumo de contexto. Es importante tener en cuenta que esto también consume recursos, ya que utiliza el propio modelo.
-- *mcp*: Muestra los MCPs (Model Context Protocols) conectados, que son básicamente integraciones externas que amplían las capacidades del agente (por ejemplo, acceso a herramientas, APIs o fuentes de datos adicionales).
+- *mcp*: Muestra los servidores MCPs (Model Context Protocols) conectados, que son básicamente integraciones externas que amplían las capacidades del agente (por ejemplo, acceso a herramientas, APIs o fuentes de datos adicionales).
 
 ![[Claude_Code_context.png]]
 
@@ -302,7 +302,25 @@ Claude Code no depende estrictamente de una suscripción concreta, sino del acce
 
 También existen alternativas totalmente *open source* como [OpenCode](https://opencode.ai/) que siguen un enfoque similar, conectándose a distintos modelos, incluidos algunos gratuitos con límites.
 
-### MCPs
+### MCP
+
+MCP son las siglas de *Model Context Protocol*. Cuando se habla de MCPs, en la práctica se está haciendo referencia a servidores MCP. MCP es un protocolo abierto, originalmente impulsado por Anthropic, que define una forma estándar de conectar modelos o agentes con herramientas externas.
+
+No se conectan solo los agentes, sino cualquier sistema basado en LLMs (incluyendo asistentes o editores con IA). Aun así, donde más sentido tiene es en agentes, porque son los que necesitan interactuar con el entorno de forma activa.
+
+El objetivo de MCP es permitir que estos sistemas accedan a capacidades externas como APIs de terceros, bases de datos, sistemas locales o servicios adicionales. De esta forma, se amplían las herramientas disponibles más allá de lo que el modelo puede hacer por sí mismo. Así, se le dan más herramientas a nuestros agentes que de otra manera que no podrían tener. Sin MCP, el agente está limitado a lo que el *runtime* le haya implementado; con MCP, puede acceder a herramientas desarrolladas por terceros de forma estandarizada.
+
+Un ejemplo sería un servidor MCP para Chrome. Aquí la clave es que alguien ha desarrollado un sistema capaz de controlar el navegador (abrir pestañas, hacer clic, leer contenido, etc.). El agente no sabe hacer eso directamente. Lo único que hace es enviar una petición estructurada al servidor MCP, y este se encarga de traducir esa petición en acciones reales sobre Chrome.
+
+Un MCP es un adaptador entre el mundo del LLM y el mundo real. Es decir, convierte intenciones (lo que el modelo quiere hacer) en operaciones concretas (lo que el sistema ejecuta), y devuelve el resultado de vuelta al modelo.
+
+Otra forma de verlo, más técnica, es como una API estandarizada de herramientas:
+- El agente decide qué quiere hacer.
+- El MCP expone cómo hacerlo.
+- El sistema ejecuta la acción y devuelve el resultado.
+
+En el caso de Claude Code, existen servidores MCP disponibles de forma nativa, pero también [se pueden añadir otros externos](https://code.claude.com/docs/en/mcp). Esto permite extender las capacidades del agente sin modificar su implementación, simplemente conectándolo a nuevos servidores MCP.
+
 ### *Agent Skills*
 
 ## Otras herramientas
