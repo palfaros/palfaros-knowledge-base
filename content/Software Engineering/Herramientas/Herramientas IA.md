@@ -272,6 +272,8 @@ Se trata de un agente de terminal, es decir, un agente autónomo diseñado para 
 
 Este tipo de herramientas operan directamente sobre tu repositorio y entorno local, sin necesidad de una interfaz gráfica. Es decir, vive en tu terminal. Esto no significa que no tengan interfaz, sino que la interfaz es la propia terminal.
 
+![[Claude_Code.png]]
+
 Claude Code (y herramientas similares) se instala como un programa más del sistema. Normalmente:
 - se instala mediante un script (por ejemplo, con *curl*)
 - se añade al PATH del sistema
@@ -293,6 +295,8 @@ Dentro de Claude Code existen varios comandos que permiten interactuar con el ag
 - *context*: Permite visualizar el uso de la ventana de contexto (*context usage*), algo clave para 
 - *compact*: Sirve para resumir la conversación previa y reducir el consumo de contexto. Es importante tener en cuenta que esto también consume recursos, ya que utiliza el propio modelo.
 - *mcp*: Muestra los MCPs (Model Context Protocols) conectados, que son básicamente integraciones externas que amplían las capacidades del agente (por ejemplo, acceso a herramientas, APIs o fuentes de datos adicionales).
+
+![[Claude_Code_context.png]]
 
 Claude Code no depende estrictamente de una suscripción concreta, sino del acceso a modelos. Lo que se paga realmente es el uso del modelo (tokens), no el agente en sí. La herramienta permite usar modelos locales mediante soluciones como [Ollama](https://ollama.com/). 
 
