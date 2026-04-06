@@ -389,6 +389,25 @@ Una diferencia importante respecto a los *prompts* tradicionales es que las *ski
 
 El directorio o catálogo de *agent skills* más conocido es [skills.sh](https://skills.sh/), creado por Vercel. A día de hoy, dispone de más de 91.000 skills.
 
+## *Spec-Driven Development*
+
+
+El *Spec-Driven Development* (SDD) propone invertir el flujo clásico de desarrollo: en lugar de escribir código y luego documentarlo, se comienza escribiendo una especificación (*spec*) que describe el comportamiento deseado, y es la IA la que genera el código a partir de esa descripción. La especificación se convierte así en la fuente de verdad compartida entre humanos y agentes de IA.
+
+### ¿Qué es una *spec*?
+
+En la práctica, se parece a un documento de requisitos, pero con ciertas particularidades:
+- Está escrita en lenguaje natural, pero de forma estructurada
+- Describe comportamiento, no implementación
+- Está pensada para ser consumida por agentes de IA
+- Puede incluir distintos artefactos (modelos de datos, planes, interfaces…)
+
+### Niveles de SDD
+
+- ***Spec-first***: Se escribe una especificación antes de generar código, pero luego se descarta o pierde relevancia. Ejemplo: [Kiro](https://kiro.dev/).
+- ***Spec-anchored***: La especificación se mantiene y evoluciona junto al código. Ejemplo: [spec-kit]([GitHub - github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development · GitHub](https://github.com/github/spec-kit))
+- ***Spec-as-source***:  La especificación es el artefacto principal. El código es derivado y no se edita manualmente. Ejemplo: [Tessl](https://tessl.io/)
+
 ## Otras herramientas
 
 ### NotebookLM
