@@ -408,6 +408,8 @@ En la práctica, se parece a un documento de requisitos, pero con ciertas partic
 - ***Spec-anchored***: La especificación se mantiene y evoluciona junto al código. Ejemplo: [spec-kit]([GitHub - github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development · GitHub](https://github.com/github/spec-kit))
 - ***Spec-as-source***:  La especificación es el artefacto principal. El código es derivado y no se edita manualmente. Ejemplo: [Tessl](https://tessl.io/)
 
+![[Levels_of_spec_driven.png]]
+
 ## Otras herramientas
 
 ### NotebookLM
