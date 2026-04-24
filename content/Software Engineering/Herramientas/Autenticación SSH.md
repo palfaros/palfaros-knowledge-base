@@ -27,7 +27,7 @@ Este es el flujo profesional: generas las llaves en tu computadora, guardas la p
 Abre la terminal de tu computadora (PowerShell en Windows, o Terminal en Mac/Linux) y ejecuta:
 
 ```bash
-ssh-keygen -t ed25519 -C "tu_email@ejemplo.com"
+ssh-keygen -t ed25519 -C "<COMENTARIO>"
 ```
 
 1. **Ruta:** Presiona `Enter` para usar la carpeta por defecto (`~/.ssh/id_ed25519`).
