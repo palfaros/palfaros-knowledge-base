@@ -18,3 +18,9 @@ date: 2026-05-23
 </table>
 
 ## Resumen
+
+
+## Referencias
+
+- [Tesis Buffetts Disciple (My best investment idea)](https://buffettsdisciple.substack.com/p/tasmea-limited-teaax)
+- 
