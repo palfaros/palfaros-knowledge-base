@@ -23,4 +23,6 @@ date: 2026-05-23
 ## Referencias
 
 - [Tesis Buffetts Disciple (My best investment idea)](https://buffettsdisciple.substack.com/p/tasmea-limited-teaax)
-- 
+- [Tesis 10 Bagger Portfolio](https://10baggerportfolio.substack.com/p/la-oportunidad-mas-clara-en-mis-5?utm_source=publication-search)
+- [Tesis Hermit Investor](https://gmproyect2020.substack.com/p/tasmea-limitad-tea)
+- [Tesis Kairos Research](https://gmproyect2020.substack.com/p/tasmea-limitad-tea)
