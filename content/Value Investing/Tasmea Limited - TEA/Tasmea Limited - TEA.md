@@ -20,6 +20,10 @@ date: 2026-05-23
 ## Resumen
 
 
+## Historia
+
+Tasmea fue fundada en el año 1999 como un negocio de *private equity* por Stephen Young y Mark Vartuli. Los primeros años fueron buenos para el negocio.
+
 ## Referencias
 
 - [Tesis Buffetts Disciple (My best investment idea)](https://buffettsdisciple.substack.com/p/tasmea-limited-teaax)
