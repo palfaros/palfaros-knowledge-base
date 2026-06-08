@@ -1300,6 +1300,11 @@ A continuación, se analizan en detalle cada uno de estos **tres componentes**.
 		112. [27 de mayo de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2061335&culture=en-GB&val=639159366449944265): 25.000 acciones a un precio medio de 1801.60 peniques (GBX).
 		113. [28 de mayo de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2061335&culture=en-GB&val=639159366449944265): 25.000 acciones a un precio medio de 1821.20 peniques (GBX).
 		114. [29 de mayo de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2061335&culture=en-GB&val=639159366449944265): 25.000 acciones a un precio medio de 1843.20 peniques (GBX).
+		115. [1 de junio de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2063435&culture=en-GB&val=639165363800866218): 25.000 acciones a un precio medio de 1825.42 peniques (GBX).
+		116. [2 de junio de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2063435&culture=en-GB&val=639165363800866218): 25.000 acciones a un precio medio de 1778.01 peniques (GBX).
+		117. [3 de junio de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2063435&culture=en-GB&val=639165363800866218): 25.000 acciones a un precio medio de 1785.61 peniques (GBX).
+		118. [4 de junio de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2063435&culture=en-GB&val=639165363800866218): 25.000 acciones a un precio medio de 1809.69 peniques (GBX).
+		119. [5 de junio de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2063435&culture=en-GB&val=639165363800866218): 25.000 acciones a un precio medio de 1806.80 peniques (GBX).
 
 #### Valoración actualizada
 
