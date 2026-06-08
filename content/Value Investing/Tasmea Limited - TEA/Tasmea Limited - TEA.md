@@ -22,7 +22,11 @@ date: 2026-05-23
 
 ## Historia
 
-Tasmea fue fundada en el año 1999 como un negocio de *private equity* por Stephen Young y Mark Vartuli. Los primeros años fueron buenos para el negocio. Durante los primeros 10 años, adquirieron varias compañías *trade-based*. En Australia, el término *trade-based company* (o *trade business*) adquiere un significado muy específico y cotidiano debido a la cultura laboral del país. En territorio australiano, una *trade-based company* es una **empresa de oficios técnicos o manuales**, comúnmente conocidos allí como *trades*. Esta estrategia de adquisiciones permitió a Tasmea expandir significativamente su actividad, elevando sus ingresos anuales (*annual revenue*) hasta aproximadamente 90 millones de dólares australianos (A$90M) y posibilitando su incorporación al mercado bursátil australiano (ASX) en 2007.
+Tasmea fue fundada en el año 1999 como un negocio de *private equity* por Stephen Young y Mark Vartuli. Los primeros años fueron buenos para el negocio. Durante los primeros 10 años, adquirieron varias compañías *trade-based*. En Australia, el término *trade-based company* (o *trade business*) adquiere un significado muy específico y cotidiano debido a la cultura laboral del país. En territorio australiano, una *trade-based company* es una **empresa de oficios técnicos o manuales**, comúnmente conocidos allí como *trades*. Esta estrategia de adquisiciones permitió a Tasmea expandir significativamente su actividad, elevando sus ingresos anuales (*annual revenue*) hasta aproximadamente 90 millones de dólares australianos (A$90M) y posibilitando su incorporación al mercado bursátil australiano (ASX) en 2007. 
+
+A comienzos de la década de 2010, tras la Gran Recesión (crisis de 2008), Tasmea consiguió varios proyectos de construcción de gran envergadura. Aunque inicialmente estos proyectos fueron exitosos, la empresa sufrió pérdidas significativas tras el colapso de los sectores de minería y construcción en 2014.  
+
+Poco después, la dirección consideró que el precio de cotización de la compañía no reflejaba el valor real del negocio y tomó la difícil decisión de excluirla de cotización (*delist*) mientras llevaba a cabo un proceso de reestructuración empresarial (*business restructuring*).
 
 ## Referencias
 
