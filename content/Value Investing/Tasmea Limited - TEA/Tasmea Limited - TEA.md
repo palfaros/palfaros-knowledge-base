@@ -22,7 +22,7 @@ date: 2026-05-23
 
 ## Historia
 
-Tasmea fue fundada en el año 1999 como un negocio de *private equity* por Stephen Young y Mark Vartuli. Los primeros años fueron buenos para el negocio. Durante los primeros 10 años, adquirieron varias compañías *trade-based*, es decir, compañías cuyo negocio estaba especializado en comprar y vender productos a nivel internacional sin fabricarlos ellos mismos (intermediario), que hicieron crecer sus ingresos anuales (*annual revenue*) hasta los 90 millones de dólares australianos (A$90M).  En el año 2007 realizaron su salida a bolsa.
+Tasmea fue fundada en el año 1999 como un negocio de *private equity* por Stephen Young y Mark Vartuli. Los primeros años fueron buenos para el negocio. Durante los primeros 10 años, adquirieron varias compañías *trade-based*. En Australia, el término *trade-based company* (o *trade business*) adquiere un significado muy específico y cotidiano debido a la cultura laboral del país. En territorio australiano, una *trade-based company* es una **empresa de oficios técnicos o manuales**, comúnmente conocidos allí como *trades*. Esta estrategia de adquisiciones permitió a Tasmea expandir significativamente su actividad, elevando sus ingresos anuales (*annual revenue*) hasta aproximadamente 90 millones de dólares australianos (A$90M) y posibilitando su incorporación al mercado bursátil australiano (ASX) en 2007.
 
 ## Referencias
 
