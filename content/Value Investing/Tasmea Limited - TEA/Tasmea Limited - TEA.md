@@ -28,6 +28,12 @@ A comienzos de la década de 2010, tras la Gran Recesión (crisis de 2008), Tasm
 
 Poco después, la dirección consideró que el precio de cotización de la compañía no reflejaba el valor real del negocio y tomó la difícil decisión de excluirla de cotización (*delist*) mientras llevaba a cabo un proceso de reestructuración empresarial (*business restructuring*).
 
+A pesar de este fracaso, hubo un aspecto positivo (*silver lining*). Tasmea expandió sus operaciones hacia Australia Occidental (*Western Australia*), lo que condujo a su primera adquisición en esta región: Tasman Power. Aunque la economía de los proyectos de construcción no resultaba atractiva, la compañía encontró un negocio o sector insuficientemente atendido (*underserved*), con escasa competencia y márgenes considerables: **la industria especializada en el mantenimiento**.
+
+A partir de 2017, Tasmea llevó a cabo un **pivot** estratégico, alejándose del negocio de la construcción para centrarse en este nuevo nicho de mercado. Desde entonces, la compañía ha crecido a una tasa anual del 23,6%, pasando de unos ingresos anuales (*revenue*) de 99 millones de dólares australianos (A$99M) hasta los 435 millones de dólares australianos (A$435M) en el año 2024. En los últimos años, el crecimiento se ha acelerado hasta superar un CAGR (*Compound Annual Growth Rate*) del 40%, impulsado por vientos de cola estructurales (*secular tailwinds*), oportunidades de *cross-selling* (aprovechar la relación comercial con un cliente para ofrecerle otros servicios de las distintas empresas del grupo) y la sólida posición de Tasmea en el negocio de servicios especializados. 
+
+Todo ello sitúa a Tasmea en una posición privilegiada para continuar expandiéndose en los próximos años y explica los sólidos cimientos sobre los que se sustenta la compañía en la actualidad.
+
 ## Referencias
 
 - [Tesis Buffetts Disciple (My best investment idea)](https://buffettsdisciple.substack.com/p/tasmea-limited-teaax)
