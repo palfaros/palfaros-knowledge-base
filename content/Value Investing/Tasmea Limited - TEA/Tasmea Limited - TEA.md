@@ -40,3 +40,4 @@ Todo ello sitúa a Tasmea en una posición privilegiada para continuar expandié
 - [Tesis 10 Bagger Portfolio](https://10baggerportfolio.substack.com/p/la-oportunidad-mas-clara-en-mis-5?utm_source=publication-search)
 - [Tesis Hermit Investor](https://gmproyect2020.substack.com/p/tasmea-limitad-tea)
 - [Tesis Kairos Research](https://gmproyect2020.substack.com/p/tasmea-limitad-tea)
+- [Tesis Quality Stocks](https://qualitystocks.substack.com/p/tasmea-a-serial-acquirer-in-maintenance-493)
