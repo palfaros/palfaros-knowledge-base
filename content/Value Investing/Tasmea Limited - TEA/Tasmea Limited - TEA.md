@@ -51,8 +51,6 @@ La estrategia de Tasmea consiste en adquirir y operar negocios altamente rentabl
 
 Tasmea busca construir relaciones comerciales de largo plazo con sus clientes mediante contratos marco (_Master Service Agreements_ o MSAs), que le permiten asegurar un flujo recurrente de trabajo y una elevada visibilidad sobre sus ingresos futuros, es decir, asegurar un *backlog*. Además, se centran en áreas remotas y de difícil acceso, donde la competencia es limitada.
 
-Su enfoque en productos  impulsa los ingresos recurrentes y mitiga la ciclicidad que a menudo acompaña al negocio de las materias primas (*commodities*).
-
 Otro aspecto importante es que Tasmea se centra en prestar servicios a productores activos, es decir, ya operativos. Esto genera ingresos recurrentes y reduce la ciclicidad que a menudo acompaña al negocio de las materias primas (*commodities*). Las plantas operativas requieren mantenimiento obligatorio y constante para no detener su producción, lo que garantiza contratos estables independientemente de si el precio del mineral sube o baja.
 
 Para entender mejor el negocio, es útil analizar cómo consigue crecer la compañía.
