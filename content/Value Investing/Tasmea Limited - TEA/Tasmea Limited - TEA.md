@@ -36,7 +36,7 @@ Todo ello sitúa a Tasmea en una posición privilegiada para continuar expandié
 
 ## Actualidad
 
-En la actualidad, Tasmea posee 26 empresas de servicios especializados distribuidos en 5 áreas clave:
+En la actualidad y de acuerdo a su [Informe Anual de 2025](https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03011723-6A1291953&v=undefined), Tasmea posee 26 empresas de servicios especializados distribuidos en 5 áreas clave:
 - Electricidad
 - Mecánica
 - Obra civil
@@ -47,6 +47,15 @@ Esto negocios especializados están enfocados en parada o apagado de servicios e
 
 ![[TEA_Tasmea_Group_Bussinesses.png]]
 
+La estrategia de Tasmea consiste en adquirir y operar negocios altamente rentables que prestan servicios a grandes compañías de primer nivel (*blue-chip companies*). Estos clientes dependen enormemente de oficios técnicos especializados (*trades*) , ya que suelen operar instalaciones donde las restricciones presupuestarias son secundarias frente a la necesidad de mantener las operaciones en funcionamiento. En estos entornos, el coste de una parada de producción suele ser mucho mayor que el coste del mantenimiento. Esto permite a Tasmea cobrar márgenes superiores a la media del sector (*industry-leading margins*) por sus servicios especializados.
+
+Tasmea busca construir relaciones comerciales de largo plazo con sus clientes mediante contratos marco (_Master Service Agreements_ o MSAs), que le permiten asegurar un flujo recurrente de trabajo y una elevada visibilidad sobre sus ingresos futuros, es decir, asegurar un *backlog*. Además, se centran en áreas remotas y de difícil acceso, donde la competencia es limitada.
+
+Su enfoque en productos  impulsa los ingresos recurrentes y mitiga la ciclicidad que a menudo acompaña al negocio de las materias primas (*commodities*).
+
+Otro aspecto importante es que Tasmea se centra en prestar servicios a productores activos, es decir, ya operativos. Esto genera ingresos recurrentes y reduce la ciclicidad que a menudo acompaña al negocio de las materias primas (*commodities*). Las plantas operativas requieren mantenimiento obligatorio y constante para no detener su producción, lo que garantiza contratos estables independientemente de si el precio del mineral sube o baja.
+
+Para entender mejor el negocio, es útil analizar cómo consigue crecer la compañía.
 
 ## Referencias
 
