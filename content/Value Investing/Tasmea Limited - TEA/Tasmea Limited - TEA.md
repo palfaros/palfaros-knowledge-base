@@ -39,13 +39,14 @@ Todo ello sitúa a Tasmea en una posición privilegiada para continuar expandié
 En la actualidad, Tasmea posee 26 empresas de servicios especializados distribuidos en 5 áreas clave:
 - Electricidad
 - Mecánica
-- Obra de Civil
+- Obra civil
 - Agua
 - Reclutamiento de personal
 
 Esto negocios especializados están enfocados en parada o apagado de servicios esenciales (*shutdown*), mantenimiento programado, respuesta ante averías de emergencia, ampliación de activos (*sustaining capital*) y reclutamiento de trabajadores especializados.
 
 ![[TEA_Tasmea_Group_Bussinesses.png]]
+
 
 ## Referencias
 
