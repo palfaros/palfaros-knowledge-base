@@ -34,6 +34,19 @@ A partir de 2017, Tasmea llevó a cabo un **pivot** estratégico, alejándose de
 
 Todo ello sitúa a Tasmea en una posición privilegiada para continuar expandiéndose en los próximos años y explica los sólidos cimientos sobre los que se sustenta la compañía en la actualidad.
 
+## Actualidad
+
+En la actualidad, Tasmea posee 26 empresas de servicios especializados distribuidos en 5 áreas clave:
+- Electricidad
+- Mecánica
+- Obra de Civil
+- Agua
+- Reclutamiento de personal
+
+Esto negocios especializados están enfocados en parada o apagado de servicios esenciales (*shutdown*), mantenimiento programado, respuesta ante averías de emergencia, ampliación de activos (*sustaining capital*) y reclutamiento de trabajadores especializados.
+
+![[TEA_Tasmea_Group_Bussinesses.png]]
+
 ## Referencias
 
 - [Tesis Buffetts Disciple (My best investment idea)](https://buffettsdisciple.substack.com/p/tasmea-limited-teaax)
@@ -41,3 +54,4 @@ Todo ello sitúa a Tasmea en una posición privilegiada para continuar expandié
 - [Tesis Hermit Investor](https://gmproyect2020.substack.com/p/tasmea-limitad-tea)
 - [Tesis Kairos Research](https://gmproyect2020.substack.com/p/tasmea-limitad-tea)
 - [Tesis Quality Stocks](https://qualitystocks.substack.com/p/tasmea-a-serial-acquirer-in-maintenance-493)
+- [ASX Market Announcements Platform](https://www.asx.com.au/markets/trade-our-cash-market/announcements)
