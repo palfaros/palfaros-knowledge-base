@@ -68,6 +68,14 @@ Normalmente, la estrategia funciona de la siguiente manera: identifican una empr
 Tasmea es disciplinada en sus adquisiciones y aplica los siguientes criterios: un mercado potencial amplio (*large addressable market*), una fuerte compatibilidad cultural, empresas gestionadas por sus propietarios en ubicaciones remotas y con potencial de venta cruzada a clientes ya existentes. La empresa promedio que adquieren es demasiado grande para una empresas familiares (*mom-and-pop*) pero demasiado pequeña para el *private equity*). Tasmea se mueve entre ambos segmentos, creando (*carving out*) su propio nicho de éxito.
 
 Esta estrategia ha construido ahora un ciclo autosostenido (*self-perpetuating*) que se parece al siguiente:
+1. Cada adquisición amplia su oferta de servicios.
+2. Se fortalece su propuesta de valor.
+3. Mejoran las oportunidades de *cross-selling* o venta cruzada.
+4. Se incrementa el crecimiento orgánico.
+5. Aumentan los flujos de caja, facilitando nuevas adquisiciones.
+6. El ciclo vuelve a empezar o continúa (vuelve al punto 1).
+
+Tasmea dedicó varios años a reposicionar el negocio, alejándolo de la construcción, sentando las bases y poniendo el tren en la dirección correcta, por así decirlo. Ahora que ha ganado impulso (*momentum*), la trayectoria futura es clara y el crecimiento de Tasmea se ha acelerado a medida que las inversiones realizadas durante este período fundacional comienzan a traducirse en beneficios. Este crecimiento se está viendo además acelerado por los vientos de cola estructurales favorables (*secular tailwinds*) que existen actualmente en Australia.
 
 ## Referencias
 
