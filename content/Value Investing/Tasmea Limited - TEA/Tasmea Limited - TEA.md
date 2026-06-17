@@ -65,6 +65,10 @@ Tasmea no es una *roll-up* clásica o tradicional. Una *roll-up* simplemente bas
 
 Normalmente, la estrategia funciona de la siguiente manera: identifican una empresa que cotiza con descuento respecto a lo que está generando actualmente y que resulta atractiva incluso en el peor escenario: sin crecimiento, reducción de costes o sinergias. Tras adquirir la empresa, aprovechan su escala para reducir los costes corporativos (*corporate overhead*) y aumentar los ingresos mediante inversiones y *cross-selling* (venta cruzada de productos o servicios a clientes existentes).
 
+Tasmea es disciplinada en sus adquisiciones y aplica los siguientes criterios: un mercado potencial amplio (*large addressable market*), una fuerte compatibilidad cultural, empresas gestionadas por sus propietarios en ubicaciones remotas y con potencial de venta cruzada a clientes ya existentes. La empresa promedio que adquieren es demasiado grande para una empresas familiares (*mom-and-pop*) pero demasiado pequeña para el *private equity*). Tasmea se mueve entre ambos segmentos, creando (*carving out*) su propio nicho de éxito.
+
+Esta estrategia ha construido ahora un ciclo autosostenido (*self-perpetuating*) que se parece al siguiente:
+
 ## Referencias
 
 - [Tesis Buffetts Disciple (My best investment idea)](https://buffettsdisciple.substack.com/p/tasmea-limited-teaax)
