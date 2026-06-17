@@ -55,6 +55,14 @@ Otro aspecto importante es que Tasmea se centra en prestar servicios a productor
 
 Para entender mejor el negocio, es útil analizar cómo consigue crecer la compañía.
 
+## Estrategia de crecimiento
+
+La estrategia de crecimiento se basa en 2 pilares: crecimiento orgánico y mediante adquisiciones, es decir, no crece exclusivamente de forma inorgánica.
+
+![[TEA_Two_Pillar_Growth.png]]
+
+Tasmea no es una *roll-up* clásica o tradicional. Una *roll-up* simplemente basa su crecimiento en la adquisición de empresas pequeñas dentro del mismo sector o mercado para fusionarlas dando lugar a una empresa más grande y eficiente, reduciendo costes por economía de escala (por ejemplo, centralizando operaciones), por lo que la empresa resultante es más valiosa que la suma de las partes. Tasmea no funciona así. La compañía realiza adquisiciones selectivas de negocios con el objetivo de hacerlos crecer. Esta filosofía es la base de su estrategia de crecimiento de dos pilares, que combina crecimiento orgánico y crecimiento mediante adquisiciones.
+
 ## Referencias
 
 - [Tesis Buffetts Disciple (My best investment idea)](https://buffettsdisciple.substack.com/p/tasmea-limited-teaax)
