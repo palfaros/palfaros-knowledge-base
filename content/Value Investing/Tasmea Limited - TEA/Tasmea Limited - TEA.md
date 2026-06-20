@@ -75,7 +75,11 @@ Esta estrategia ha construido ahora un ciclo autosostenido (*self-perpetuating*)
 5. Aumentan los flujos de caja, facilitando nuevas adquisiciones.
 6. El ciclo vuelve a empezar o continúa (vuelve al punto 1).
 
-Tasmea dedicó varios años a reposicionar el negocio, alejándolo de la construcción, sentando las bases y poniendo el tren en la dirección correcta, por así decirlo. Ahora que ha ganado impulso (*momentum*), la trayectoria futura es clara y el crecimiento de Tasmea se ha acelerado a medida que las inversiones realizadas durante este período fundacional comienzan a traducirse en beneficios. Este crecimiento se está viendo además acelerado por los vientos de cola estructurales favorables (*secular tailwinds*) que existen actualmente en Australia.
+Tasmea dedicó varios años a reposicionar el negocio, alejándolo de la construcción, sentando las bases y poniendo el tren en la dirección correcta, por así decirlo. Ahora que ha ganado impulso (*momentum*), la trayectoria futura es clara y el crecimiento de Tasmea se ha acelerado a medida que las inversiones realizadas durante este período fundacional comienzan a traducirse en beneficios. 
+
+![[TEA_Revenue_and_Earnings_growth.png]]
+
+Este crecimiento se está viendo además acelerado por los vientos de cola estructurales favorables (*secular tailwinds*) que existen actualmente en Australia.
 
 ## Referencias
 
