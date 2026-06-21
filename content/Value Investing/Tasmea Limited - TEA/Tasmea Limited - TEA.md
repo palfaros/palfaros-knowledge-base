@@ -13,7 +13,7 @@ date: 2026-05-23
   </tr>
   <tr>
     <th>Web</th>
-    <td><a href="https://shareholders.tasmea.com.au/Investor-Centre" target="_blank">Tasmea Limited - Investor Centre</a></td>
+    <td><a href="https://shareholders.tasmea.com.au/Investor-Centre" target="_blank">Tasmea Limited - Investor Centre</a><br><a href="https://shareholders.tasmea.com.au/investor-centre/?page=financial-reports" target="_blank">Tasmea Limited - Investor Centre (Financial Reports)</a></td>
   </tr>
 </table>
 
@@ -86,11 +86,53 @@ Este crecimiento se está viendo además acelerado por los vientos de cola estru
 - **Mineral de hierro**: Australia se sitúa en la parte baja (*lower end*) de la curva de costes de producción de mineral de hierro: grandes yacimientos (*massive deposits*) de extracción  sencilla. Además, este minas suelen tener una vida útil extremadamente larga, normalmente entre 30 y 50 años. Estas minas, por el hecho de estar en Australia, se encuentran estratégicamente ubicada cerca de varias economías en desarrollo, especialmente China e India, que necesitan mineral de hierro para la producción de acero. Muchas de estas plantas e instalaciones son antiguas y están envejeciendo. Sin embargo, al mismo tiempo sigue existiendo una demanda sólida y sostenida de mineral de hierro y de su producción. Tasmea se beneficia de las necesidades continuas de mantenimiento (*ongoing maintenance*) y de la demanda estructural de la industria. Se espera que tanto la demanda como la producción de mineral de hierro continúen creciendo de forma constante en el futuro (*foreseeable*).
 - **Oro, cobre y otras tierras raras**: En términos generales, Australia es una economía fuertemente vinculada a la minería: [representa un 10% del PIB nacional y más de un 60% de las exportaciones](https://minerals.org.au/wp-content/uploads/2025/08/Australian-Mining_Mapped-2025.pdf) . El país cuenta con numerosos yacimientos de gran tamaño que son relativamente fáciles de explotar y que ocupan posiciones favorables dentro de la curva de costes. A medida que estas instalaciones envejecen, aumentan las necesidades de mantenimiento. El elevado volumen de procesamiento de estos minerales suele someter a las plantas a un gran desgaste (*strain*), y muchas compañías mineras operan con volúmenes superiores a aquellos para los que las instalaciones fueron diseñadas originalmente. Tasmea se beneficia directamente del envejecimiento de estas infraestructuras.
 
+## Distribución Geográfica
+
+En la [presentación de resultados 2025](https://shareholders.tasmea.com.au/FormBuilder/_Resource/_module/Yumi61sILUSMwv0qVqZ_QA/file/Tasmea%20Limited%20-%20FY25%20Results%20Presentation.pdf) se puede encontrar la siguiente imagen que muestra distribución de las filiales (*subsidiary branches*) de Tasmea a lo largo de todo el territorio australiano.
+
+![[TEA_Geographic_footprint.png]]
+
+El 70% de la población de Australia vive en las zonas marcadas en círculos rojo (Perth, Adelaida, Melbourne, Sidney y Brisbane), principalmente en la costa este. Como se puede comprobar, la mayor parte de las filiales están dispersas por toda Australia, en ubicaciones remotas y de difícil acceso (*hard-to-reach*). Estas localizaciones requieren un mayor esfuerzo para contratar personal y gestionar las operaciones, lo que incrementa las barreras de entrada para posibles competidores. Parte de la razón por la que Tasmea tuvo dificultades durante su etapa iniciial vinculada a la construcción fue el gran número de competidores con balances financieros más sólidos. En esta nueva etapa, Tasmea se ha posicionado de tal forma que, incluso si un competidor intentara lanzar un negocio en estas zonas, tendrían que competir por la limitada mano de obra disponible, que probablemente ya esté empleada por Tasmea.
+
+## Deuda
+
+En el informe [Informe Anual de 2025](https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03011723-6A1291953&v=undefined), a fecha de 30 de junio de 2025 (FY25; en Australia el año fiscal va de 1 de julio hasta 30 de junio del año siguiente), se indica que la deuda a largo plazo asciende a A\$105M millones de dólares australianos y que los préstamos están sujetos a un *leverage ratio* o ratio de apalancamiento (deuda neta a EBITDA) inferior a 2.25 veces.
+
+![[TEA_2025_Anual_Report_Borrowings.png]]
+
+Si sumamos los pasivos a corto plazo, la deuda total asciende a A\$131M. Sin embargo, la compañía cuenta con  A\$20M en *cash*, por lo que la deuda neta es de  A\$111M.
+
+![[TEA_2025_Anual_Report_Cash.png]]
+
+En la [presentación de resultados 2025](https://shareholders.tasmea.com.au/FormBuilder/_Resource/_module/Yumi61sILUSMwv0qVqZ_QA/file/Tasmea%20Limited%20-%20FY25%20Results%20Presentation.pdf) (30 de junio de 2025) se indica que esta deuda neta da lugar a un *leverage ratio* de 1.0x. Aunque en ningún momento se muestra la cifra de EBITDA, sí que se muestra la cifra de pro-forma EBIT de A\$93M y en el  [Informe Anual de 2025](https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03011723-6A1291953&v=undefined) se especifica que la depreciación y amortización FY2025 fue A\$15M, constituyendo un EBITDA de A\$108M.
+
+![[TEA_2025_Results_Leverage_Ratio.png]]
+
+En la [presentación de resultados HY 26](https://shareholders.tasmea.com.au/FormBuilder/_Resource/_module/Yumi61sILUSMwv0qVqZ_QA/file/5.%20Tasmea%20-%20HY26%20Results%20Presentation%20-%2024Feb26.pdf) (31 de diciembre de 2025) se indica que el *leverage ratio* se ha reducido hasta 0.45x. 
+
+![[TEA_HY26_Results_Leverage_Ratio.png]]
+
+## ¿Por qué se habla de métricas pro-forma? 
+
+En el análisis de Tasmea, el uso de métricas pro-forma no es un mero tecnicismo contable, sino una necesidad analítica fundamental debido a su modelo de negocio altamente enfocado en el crecimiento inorgánico mediante adquisiciones (*roll-up strategy*). 
+
+Cuando Tasmea adquiere múltiples empresas de servicios industriales a lo largo del año, la contabilidad estatutaria u oficial distorsiona la realidad financiera, ya que solo incluye los resultados de las empresas compradas desde la fecha exacta del cierre de la transacción hasta el fin del ejercicio. Si, por ejemplo, Tasmea adquiere una compañía que genera un EBITDA anualizado de 12 millones de dólares a falta de tres meses para el cierre fiscal, los estados financieros oficiales reflejarán únicamente 3 millones de dólares de esa contribución. 
+
+Al hablar de métricas pro-forma, Tasmea reconstruye el escenario hipotético de que todas las adquisiciones del periodo formaron parte del grupo desde el primer día del año fiscal; esto normaliza las cifras, elimina el "efecto calendario" y permite al analista evaluar la verdadera escala, la velocidad de crucero real (*run-rate*) y la capacidad futura de generación de caja del negocio combinado, evitando así ratios de valoración erróneos o un falso apalancamiento en el cálculo de la ratio Deuda Neta/EBITDA.
+
+---
+
+
+
+
+
 ## Referencias
 
 - [Tesis Buffetts Disciple (My best investment idea)](https://buffettsdisciple.substack.com/p/tasmea-limited-teaax)
 - [Tesis 10 Bagger Portfolio](https://10baggerportfolio.substack.com/p/la-oportunidad-mas-clara-en-mis-5?utm_source=publication-search)
+- [Tasmea Replacement Prospectus (March 2024)](https://tasmea.com.au/wp-content/uploads/2024/04/Tasmea-Limited-Replacement-Prospectus-28-March-2024.pdf)
 - [Tesis Hermit Investor](https://gmproyect2020.substack.com/p/tasmea-limitad-tea)
 - [Tesis Kairos Research](https://gmproyect2020.substack.com/p/tasmea-limitad-tea)
 - [Tesis Quality Stocks](https://qualitystocks.substack.com/p/tasmea-a-serial-acquirer-in-maintenance-493)
 - [ASX Market Announcements Platform](https://www.asx.com.au/markets/trade-our-cash-market/announcements)
+- [Tasmea Limited Annual General Meeting 2024](https://www.youtube.com/watch?v=U3cNfwOXLZE)
