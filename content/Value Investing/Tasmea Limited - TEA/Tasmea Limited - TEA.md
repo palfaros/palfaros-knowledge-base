@@ -81,7 +81,10 @@ Tasmea dedicó varios años a reposicionar el negocio, alejándolo de la constru
 
 ![[TEA_Revenue_and_Earnings_growth.png]]
 
-Este crecimiento se está viendo además acelerado por los vientos de cola estructurales favorables (*secular tailwinds*) que existen actualmente en Australia.
+Este crecimiento se está viendo además acelerado por los vientos de cola estructurales favorables (*secular tailwinds*) que existen actualmente en Australia:
+- **Electrificación**: Los australianos han aprobado una ley que exige alcanzar emisiones netas cero para 2050, con varios objetivos intermedios (*hurdles*) en el camino. Todas las empresas de Australia están obligadas a cumplir estos objetivos, y parte de ello implica actualizar gran parte de la red eléctrica (*electrical grid*) para que sea compatible con las energías renovables. Tasmea señala en prácticamente todas sus presentaciones de resultados (*earnings call*) que existe más demanda de trabajo de la que actualmente pueden atender. Transformar toda la red eléctrica para adaptarla a las energías renovables parece un proyecto de varias décadas. Por tanto, este viento de cola todavía tiene un largo recorrido por delante.
+- Mineral de hierro:
+- Oro, cobre y otras tierras raras:
 
 ## Referencias
 
