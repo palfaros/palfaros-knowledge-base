@@ -112,7 +112,7 @@ En la [presentación de resultados HY 26](https://shareholders.tasmea.com.au/For
 
 ![[TEA_HY26_Results_Leverage_Ratio.png]]
 
-## ¿Por qué se habla de métricas pro-forma? 
+### ¿Por qué se habla de métricas pro-forma? 
 
 En el análisis de Tasmea, el uso de métricas pro-forma no es un mero tecnicismo contable, sino una necesidad analítica fundamental debido a su modelo de negocio altamente enfocado en el crecimiento inorgánico mediante adquisiciones (*roll-up strategy*). 
 
