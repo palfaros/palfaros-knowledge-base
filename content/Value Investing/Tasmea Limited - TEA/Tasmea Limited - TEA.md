@@ -135,13 +135,6 @@ En el informe [Informe Anual de 2025](https://cdn-api.markitdigital.com/apiman-g
 Además, es importante destacar que **todos** los miembros de la directiva continúan reinvirtiendo en la empresa, aumentando progresivamente su participación accionarial. Todos ellos utilizan los dividendos que paga Tasmea para volver a invertirlos en el negocio.
 
 
-
----
-
-
-
-
-
 ## Referencias
 
 - [Tesis Buffetts Disciple (My best investment idea)](https://buffettsdisciple.substack.com/p/tasmea-limited-teaax)
