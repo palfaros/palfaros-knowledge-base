@@ -120,6 +120,22 @@ Cuando Tasmea adquiere múltiples empresas de servicios industriales a lo largo 
 
 Al hablar de métricas pro-forma, Tasmea reconstruye el escenario hipotético de que todas las adquisiciones del periodo formaron parte del grupo desde el primer día del año fiscal; esto normaliza las cifras, elimina el "efecto calendario" y permite al analista evaluar la verdadera escala, la velocidad de crucero real (*run-rate*) y la capacidad futura de generación de caja del negocio combinado, evitando así ratios de valoración erróneos o un falso apalancamiento en el cálculo de la ratio Deuda Neta/EBITDA.
 
+## Directiva
+
+La dirección está fuerte alineada con la generación de resultados que creen valor tanto para la compañía como para los accionistas. Según algunas tesis, parece que la mayor parte del patrimonio neto individual de cada una de las personas que forman parte de la directiva está invertido en el negocio. Esto lleva a la directiva a actuar de forma conservadora, ya que están invirtiendo su propio patrimonio mientras posicionan la empresa para crecer a largo plazo.
+
+En el [Annual General Meeting de 2024](https://www.youtube.com/watch?v=U3cNfwOXLZE), Stephen Young, uno de los fundadores, indicaba:
+
+> “Mark, Jason y yo poseemos conjuntamente más del 60% de Tasmea. Tenemos muchísimo en juego.” — **Stephen Young**, Junta General Anual de Tasmea Limited 2024.
+
+En el informe [Informe Anual de 2025](https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03011723-6A1291953&v=undefined), es decir, a fecha de 30 de junio de 2025 (FY25; en Australia el año fiscal va de 1 de julio hasta 30 de junio del año siguiente), se indica que la directiva posee un total de 149.411.469 acciones. El total de acciones en circulación en ese momento era de 231.521.552 acciones, por lo que la directiva posee, a cierre del año fiscal 2025, el 64,5% de las acciones, reforzando el alineamiento con el devenir futuro de la cotización.
+
+![[TEA_Management_Ordinary_Shares.png]]
+
+Además, es importante destacar que **todos** los miembros de la directiva continúan reinvirtiendo en la empresa, aumentando progresivamente su participación accionarial. Todos ellos utilizan los dividendos que paga Tasmea para volver a invertirlos en el negocio.
+
+
+
 ---
 
 
