@@ -152,6 +152,14 @@ Los incentivos basados en opciones de Jason Pryde también permiten entrever las
 
 Si la relación actual entre el EBIT y el beneficio neto de Tasmea se mantiene, un EBIT de 160 millones de dólares australianos se traduciría en unos beneficio (*earnings*) de aproximadamente 110 millones, lo que supondría un incremento del 100% respecto a los beneficios actuales en un plazo de tres años. La empresa está dejando entrever de forma sutil su aspiración de duplicar sus beneficios durante este período. Su ritmo de crecimiento (*growth*) actual y el impulso (*momentum*) que mantiene hacen pensar que estos objetivos son alcanzables.
 
+## Riesgos
+
+- ¿Qué ocurre durante un ciclo bajista de las materias primas?
+- Base de clientes de Tasmea
+- Oportunidades en ciclos bajistas
+- China invade Taiwan
+- Competencia
+
 ## Referencias
 
 - [Tesis Buffetts Disciple (My best investment idea)](https://buffettsdisciple.substack.com/p/tasmea-limited-teaax)
