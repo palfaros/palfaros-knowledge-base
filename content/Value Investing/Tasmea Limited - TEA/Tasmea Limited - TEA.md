@@ -140,6 +140,17 @@ La remuneración consiste en una combinación de un salario fijo y un bonus a co
 
 ![[TEA_Management_Compensation.png]]
 
+Los cofundadores, Stephen Young y Mark Vartuli, tienen un sueldo bastante razonable desde el punto de vista del accionista (820.000 dólares australianos de salario fijo). Esto es un aspecto positivo a destacar si, además, tenemos en cuenta que son poseedores del 60% de las acciones de la compañía. Podrían exigir una mayor compensación y seguiría siendo muy baja en comparación a su patrimonio en acciones.
+
+La compañía estableció un *Option Incentive Plan* (OIP), es decir, un plan de remuneración basado en opciones. El único directivo que dispone de dicho plan es Jason Pryde, actual COO de la compañía.
+
+![[TEA_Option_Incentive_Plan.png]]
+
+En el ejercicio FY25 se le concedieron 3 millones de opciones, divididas en tres tramos de 1 millón cada uno, con un precio de ejercicio de 1,56 dólares australianos por acción. Cada tramo consolida (*vests*) únicamente si Tasmea alcanza objetivos de EBIT de 110 millones, 135 millones y 160 millones de dólares australianos, respectivamente, además de cumplir determinados objetivos de EBIT en su filial Tasman Power WA Pty Ltd y de que Pryde permanezca en la compañía durante el período de consolidación. Una vez consolidadas, las opciones le otorgan el derecho a adquirir acciones ordinarias de Tasmea pagando el precio de ejercicio de 1.56 dólares australianos por acción.
+
+Los incentivos basados en opciones de Jason Pryde también permiten entrever las aspiraciones u objetivos de la directiva a largo plazo. Jason Pryde puede recibir un millón de acciones si la empresa alcanza un EBIT de 160 millones de dólares australianos antes de finales de 2029. Dicho esto, Tasmea va aproximadamente un año por delante de estos objetivos, por lo que probablemente alcances esa cifra antes, hacia finales de 2028.
+
+Si la relación actual entre el EBIT y el beneficio neto de Tasmea se mantiene, un EBIT de 160 millones de dólares australianos se traduciría en unos beneficio (*earnings*) de aproximadamente 110 millones, lo que supondría un incremento del 100% respecto a los beneficios actuales en un plazo de tres años. La empresa está dejando entrever de forma sutil su aspiración de duplicar sus beneficios durante este período. Su ritmo de crecimiento (*growth*) actual y el impulso (*momentum*) que mantiene hacen pensar que estos objetivos son alcanzables.
 
 ## Referencias
 
