@@ -128,11 +128,17 @@ En el [Annual General Meeting de 2024](https://www.youtube.com/watch?v=U3cNfwOXL
 
 > “Mark, Jason y yo poseemos conjuntamente más del 60% de Tasmea. Tenemos muchísimo en juego.” — **Stephen Young**, Junta General Anual de Tasmea Limited 2024.
 
-En el informe [Informe Anual de 2025](https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03011723-6A1291953&v=undefined) (página 39), es decir, a fecha de 30 de junio de 2025 (FY25; en Australia el año fiscal va de 1 de julio hasta 30 de junio del año siguiente), se indica que la directiva posee un total de 149.411.469 acciones. El total de acciones en circulación en ese momento era de 231.521.552 acciones, por lo que la directiva posee, a cierre del año fiscal 2025, el 64,5% de las acciones, reforzando el alineamiento con el devenir futuro de la cotización.
+En el [Informe Anual de 2025](https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03011723-6A1291953&v=undefined) (página 39), es decir, a fecha de 30 de junio de 2025 (FY25; en Australia el año fiscal va de 1 de julio hasta 30 de junio del año siguiente), se indica que la directiva posee un total de 149.411.469 acciones. El total de acciones en circulación en ese momento era de 231.521.552 acciones, por lo que la directiva posee, a cierre del año fiscal 2025, el 64,5% de las acciones, reforzando el alineamiento con el devenir futuro de la cotización.
 
 ![[TEA_Management_Ordinary_Shares.png]]
 
 Además, es importante destacar que **todos** los miembros de la directiva continúan reinvirtiendo en la empresa, aumentando progresivamente su participación accionarial. Todos ellos utilizan los dividendos que paga Tasmea para volver a invertirlos en el negocio.
+
+### Remuneración
+
+La remuneración consiste en una combinación de un salario fijo y un bonus a corto plazo (de hasta 300.000 dólares australianos en el caso de los directivos con mayor sueldo). El esquema de remuneración se encuentra detallado en las páginas 28-42 del [Informe Anual de 2025](https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03011723-6A1291953&v=undefined).
+
+![[TEA_Management_Compensation.png]]
 
 
 ## Referencias
