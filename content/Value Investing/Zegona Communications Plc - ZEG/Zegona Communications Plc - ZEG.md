@@ -1315,6 +1315,11 @@ A continuación, se analizan en detalle cada uno de estos **tres componentes**.
 		127. [17 de junio de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2068477&culture=en-GB&val=639178352064059884): 25.000 acciones a un precio medio de 1694.00 peniques (GBX).
 		128. [18 de junio de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2068477&culture=en-GB&val=639178352064059884): 25.000 acciones a un precio medio de 1675.80 peniques (GBX).
 		129. [19 de junio de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2068477&culture=en-GB&val=639178352064059884): 25.000 acciones a un precio medio de 1684.80 peniques (GBX).
+		130. [22 de junio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/1182cadd-40a0-4fc4-8345-3ec4c2832b22.html): 25.000 acciones a un precio medio de 1674.76 peniques (GBX).
+		131. [23 de junio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/1182cadd-40a0-4fc4-8345-3ec4c2832b22.html): 25.000 acciones a un precio medio de 1626.96 peniques (GBX).
+		132. [24 de junio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/1182cadd-40a0-4fc4-8345-3ec4c2832b22.html): 25.000 acciones a un precio medio de 1660.00 peniques (GBX).
+		133. [25 de junio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/1182cadd-40a0-4fc4-8345-3ec4c2832b22.html): 25.000 acciones a un precio medio de 1706.22 peniques (GBX).
+		134. [26 de junio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/1182cadd-40a0-4fc4-8345-3ec4c2832b22.html): 25.000 acciones a un precio medio de 1715.40 peniques (GBX).
 
 #### Valoración actualizada
 
