@@ -155,7 +155,10 @@ Si la relación actual entre el EBIT y el beneficio neto de Tasmea se mantiene, 
 ## Riesgos
 
 - ¿Qué ocurre durante un ciclo bajista de las materias primas?
-- Base de clientes de Tasmea
+- **Base de clientes de Tasmea**: La compañía se asegura de no estar concentrada en un único cliente, es decir, garantizar que no existe una dependencia excesiva de un cliente. En la actualidad, trabaja con más de 30 empresas altamente rentables y con elevados márgenes de beneficio. La pérdida (*sutdown*) de uno de sus cliente no tendría un impacto significativo en el negocio. La directiva ha indicado que están diversificando deliberadamente tanto su base de clientes como los sectores en los que opera con el objetivo de estar bien posicionados y preparados para todos los escenarios económicos y de mercado.
+
+	![[TEA_Customer_Base_Prospectus.png]]
+
 - Oportunidades en ciclos bajistas
 - **China invade Taiwán**: Tasmea exporta una cantidad significativa de materias primas (*raw materials*) a China. La invasión de Taiwán por parte de China es un riesgo potencial para el negocio, ya que, en ese escenario, es probable que Australia deje de hacer negocios con China.
 - Competencia
