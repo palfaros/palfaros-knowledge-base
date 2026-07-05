@@ -34,6 +34,8 @@ A partir de 2017, Tasmea llevó a cabo un **pivot** estratégico, alejándose de
 
 Todo ello sitúa a Tasmea en una posición privilegiada para continuar expandiéndose en los próximos años y explica los sólidos cimientos sobre los que se sustenta la compañía en la actualidad.
 
+La historia detallada de la compañía se puede encontrar en las páginas 48 y 49 del [*prospectus* presentado para la salida a bolsa en 2024](https://tasmea.com.au/wp-content/uploads/2024/04/Tasmea-Limited-Replacement-Prospectus-28-March-2024.pdf) 
+
 ## Actualidad
 
 En la actualidad y de acuerdo a su [Informe Anual de 2025](https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03011723-6A1291953&v=undefined), Tasmea posee 26 empresas de servicios especializados distribuidos en 5 áreas clave:
