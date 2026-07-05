@@ -157,7 +157,7 @@ Si la relación actual entre el EBIT y el beneficio neto de Tasmea se mantiene, 
 - ¿Qué ocurre durante un ciclo bajista de las materias primas?
 - Base de clientes de Tasmea
 - Oportunidades en ciclos bajistas
-- China invade Taiwan
+- **China invade Taiwán**: Tasmea exporta una cantidad significativa de materias primas (*raw materials*) a China. La invasión de Taiwán por parte de China es un riesgo potencial para el negocio, ya que, en ese escenario, es probable que Australia deje de hacer negocios con China.
 - Competencia
 
 ## Referencias
