@@ -88,6 +88,23 @@ Este crecimiento se está viendo además acelerado por los vientos de cola estru
 - **Mineral de hierro**: Australia se sitúa en la parte baja (*lower end*) de la curva de costes de producción de mineral de hierro: grandes yacimientos (*massive deposits*) de extracción  sencilla. Además, este minas suelen tener una vida útil extremadamente larga, normalmente entre 30 y 50 años. Estas minas, por el hecho de estar en Australia, se encuentran estratégicamente ubicada cerca de varias economías en desarrollo, especialmente China e India, que necesitan mineral de hierro para la producción de acero. Muchas de estas plantas e instalaciones son antiguas y están envejeciendo. Sin embargo, al mismo tiempo sigue existiendo una demanda sólida y sostenida de mineral de hierro y de su producción. Tasmea se beneficia de las necesidades continuas de mantenimiento (*ongoing maintenance*) y de la demanda estructural de la industria. Se espera que tanto la demanda como la producción de mineral de hierro continúen creciendo de forma constante en el futuro (*foreseeable*).
 - **Oro, cobre y otras tierras raras**: En términos generales, Australia es una economía fuertemente vinculada a la minería: [representa un 10% del PIB nacional y más de un 60% de las exportaciones](https://minerals.org.au/wp-content/uploads/2025/08/Australian-Mining_Mapped-2025.pdf) . El país cuenta con numerosos yacimientos de gran tamaño que son relativamente fáciles de explotar y que ocupan posiciones favorables dentro de la curva de costes. A medida que estas instalaciones envejecen, aumentan las necesidades de mantenimiento. El elevado volumen de procesamiento de estos minerales suele someter a las plantas a un gran desgaste (*strain*), y muchas compañías mineras operan con volúmenes superiores a aquellos para los que las instalaciones fueron diseñadas originalmente. Tasmea se beneficia directamente del envejecimiento de estas infraestructuras.
 
+## Adquisiciones
+
+ En el [*prospectus* presentado en 2024](https://tasmea.com.au/wp-content/uploads/2024/04/Tasmea-Limited-Replacement-Prospectus-28-March-2024.pdf) se indicaba que el grupo estaba formado por 18 empresas en el momento de su salida a bolsa.
+### 2024
+
+- Dingo De Construction
+- West Coast Lining Systems
+- Future Engineering Group (Future Engineering & Communication y Future Power)
+
+### 2025
+
+- Flanco Group
+- Vertex Group (Vertex Power & Process Pty Ltd y VTX Group Services Pty Ltd)
+- WorkPac Group
+
+### 2026
+
 ## Distribución Geográfica
 
 En la [presentación de resultados 2025](https://shareholders.tasmea.com.au/FormBuilder/_Resource/_module/Yumi61sILUSMwv0qVqZ_QA/file/Tasmea%20Limited%20-%20FY25%20Results%20Presentation.pdf) se puede encontrar la siguiente imagen que muestra distribución de las filiales (*subsidiary branches*) de Tasmea a lo largo de todo el territorio australiano.
