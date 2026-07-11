@@ -1435,6 +1435,17 @@ Por otro lado, la compañía ofrece un *guidance* de los resultados del año fis
 - *Cash flow*: El *cash flow* total de los tres primeros trimestres (Q1, Q2 y Q3 26) ha sido de 586 millones de euros. La compañía indica que están en una posición adecuada para alcanzar un margen de *cash flow* del 21%, una mejora respecto al 17% obtenido en FY 25 y duplicando el 10% de FY 24, anterior a la adquisición de la operadora por parte de Zegona. Esto implicaría un *cashflow* superior a los 200 millones de euros para Q4 26, como ha ocurrido en Q1 y Q2 26.
 - Deuda neta: El objetivo es reducir la deuda en otros 100 millones de euros antes de final de años, de forma que la deuda neta sería de 3.200 millones de euros a final de Q4 26. El compromiso a corto-medio plazo es situarse en un ratio de endeudamiento de entre 1,5x y 2x. Esto implicaría un [[EBITDAaL]] anual mínimo de 1.600 millones de euros o el uso del *cashflow* generado en los siguientes trimestres para seguir reduciendo la deuda hasta 2.000-2.600 millones de euros. 
 
+### Resultados FY26
+
+Zegona presentó los [resultados de FY26](https://data.fca.org.uk/artefacts/NSM/RNS/d6b27ff1-353d-4ea1-ad4b-67db1f23ca6a.html) el día 16 de junio de 2026.
+
+En primer lugar, es necesario aclarar que FY26 se refiere al año fiscal 2026, que comprende los 12 meses transcurridos entre el 1 de abril de 2025 y el 31 de marzo de 2026.
+
+En la nota de prensa se indican enlaces a 2 documentos:
+- [Informe Anual 2026 - 2026 Annual Report](https://data.fca.org.uk/artefacts/NSM/DirectUpload/NI-000146813/NI-000146813.pdf): Es el informe del año fiscal 2026, que concluyó el 31 de marzo de 2026.
+- [Presentación de Resultados FY26 de Vodafone España](https://zegona.com/wp-content/uploads/2026/06/IR_Q4_26_results_presentation_vf.pdf): Se indica que es una presentación para inversores profesionales.
+
+
 ## Referencias
 
 - [Tesis Raging Bull Investments](https://ragingbullinvestments.substack.com/p/an-old-school-leveraged-buyout)
