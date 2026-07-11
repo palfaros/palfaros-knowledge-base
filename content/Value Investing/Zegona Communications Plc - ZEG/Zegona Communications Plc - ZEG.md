@@ -229,6 +229,33 @@ La deuda queda reestructurada de la siguiente forma:
 La cantidad total adeudada se mantiene en unos 3.900 millones de euros.
 
 **El objetivo de esta refinanciación es cancelar el préstamo *Term Loan A* mediante la extensión del *Term Loan B*, con un margen de intereses más favorable (125 puntos básicos inferior). También se sustituye parte de los bonos emitidos hace 1 año por bonos idénticos colocados a  un precio superior a su valor nominal, reduciendo así su *yield* efectivo. Además, se consigue suavizar el *covenant* financiero existente, incrementando el apalancamiento permitido.**
+
+### Refinanciación de deuda V
+
+El [26 de junio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/9bb83407-a9b1-4d55-8c67-0394681f670e.html) Zegona refinanció por quinta vez su deuda. En este caso, se trata de una refinanciación de prácticamente toda su estructura de deuda. En concreto, se refinancian la totalidad de los bonos emitidos en julio de 2024, el préstamo *Term Loan B* y la línea de crédito *Revolving Credit Facility*, sustituyéndolos por una nueva estructura de financiación con vencimientos entre 2031 y 2032.
+
+![[ZEG_Debt_Refinancing_V.png]]
+
+Esta refinanciación tiene 4 partes:
+1. Se emiten nuevos *4,25% Senior Secured Notes* por valor de 1.100 millones de euros con vencimiento en 2032. Estos nuevos bonos sustituyen completamente a los bonos emitidos en julio de 2024. La mejora es muy significativa, ya que el cupón pasa del 6,75% al 4,25%, reduciendo el coste de financiación en 250 puntos básicos y ampliando el vencimiento desde 2029 hasta 2032.
+2. Se crea un nuevo *Term Loan A* por importe de 1.350 millones de euros, con un margen de intereses de EURIBOR + 1,75% y vencimiento en 2031. Este préstamo sustituye parte del anterior *Term Loan B* y supone una reducción de 50 puntos básicos respecto al margen existente tras la refinanciación anterior (EURIBOR + 2,25%).
+3. El *Term Loan B* existente se modifica y amplía su vencimiento hasta 2032. Su importe pasa a ser de 1.283 millones de euros y su margen de intereses se reduce desde EURIBOR + 2,25% hasta EURIBOR + 2,00%, es decir, otros 25 puntos básicos menos.
+4. La línea de crédito *Revolving Credit Facility* se sustituye por una nueva facilidad de crédito no dispuesta (*undrawn*) por 500 millones de euros, con vencimiento en 2031 y un margen de intereses de EURIBOR + 1,75%. Esta línea permanece completamente disponible para futuras necesidades de liquidez o financiación.
+
+La deuda queda reestructurada de la siguiente forma:
+- *4,25% Senior Secured Notes*: Son bonos denominados en euros por 1.100 millones de euros (1.300-130+150). Vencen en 2032.
+- *Term Loan A*: Préstamo por 1.350 millones de euros a un interés anual de EURIBOR+1,75% y vencimiento en 2031
+- *Term Loan B*: Préstamo por 1.283 millones de euros a un interés anual de EURIBOR+2% y vencimiento en 2032.
+- *Revolving Credit Facility*: Línea de crédito no utilizada (*undrawn*, por eso no cuenta para la deuda financiera total) por 500 millones de euros con un margen de intereses de EURIBOR + 1,75% y vencimiento en 2031.
+
+La cantidad total adeudada se reduce hasta aproximadamente **3.733 millones de euros**, frente a los aproximadamente **3.900 millones de euros** existentes tras la refinanciación anterior. Esta reducción se explica principalmente por la amortización de deuda realizada durante los últimos meses gracias a la generación de caja de la compañía ([[#Pago completo de dividendo y cancelación de preferentes]]).
+
+**El objetivo de esta refinanciación es reducir de forma muy significativa el coste financiero de la empresa y extender los vencimientos de toda su estructura de deuda. El coste anualizado de la deuda pasa de aproximadamente 230 millones de euros a 170 millones de euros, lo que supone un ahorro cercano a 60 millones de euros anuales. Dos años antes, inmediatamente después de la adquisición de Vodafone España, el coste anual de la deuda ascendía a 294 millones de euros, por lo que el ahorro acumulado respecto a la financiación inicial supera ya los 120 millones de euros anuales.**
+
+Como contrapartida, Zegona estima que esta refinanciación tendrá un coste extraordinario cercano a 100 millones de euros, que incluye las comisiones de la operación y las primas pagadas por la amortización anticipada de los bonos existentes (*call premium*). La compañía considera que este desembolso queda ampliamente compensado por el importante ahorro financiero que obtendrá durante los próximos años.
+
+**Esta refinanciación supone el último paso en la transformación de la estructura financiera diseñada para adquirir Vodafone España. En apenas dos años, Zegona ha pasado de una financiación de adquisición con elevados tipos de interés y vencimientos relativamente próximos a una estructura de deuda más sencilla, con menores costes financieros y vencimientos extendidos hasta 2031-2032. Esto incrementa la capacidad de generación de flujo de caja para los accionistas y reduce de forma significativa el riesgo financiero de la compañía.**
+
 ## Directiva
 
 La directiva de Zegona está formada por las siguientes personas:
