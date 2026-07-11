@@ -891,8 +891,8 @@ En primer lugar, es necesario aclarar que FY25 se refiere al año fiscal 2025, q
 
 En la nota de prensa se indican enlaces a 3 documentos:
 - [Informe Anual 2025 - 2025 Annual Report](https://data.fca.org.uk/artefacts/NSM/Portal/NI-000125272/NI-000125272_213800ASI1VZL2ED4S65-2025-03-31.xhtml): Es el informe del año fiscal 2025, que concluyó el 31 de marzo de 2025. El informe incluye 15 meses de resultados de *Zegona Communications Plc* y 10 meses de resultados de Vodafone España.
-- [Resultados Q1 26 de Vodafone España](https://www.zegona.com/~/media/Files/Z/Zegona/investors/zegona-holdco-limited-debt-reporting.pdf): Es el documento con información trimestral sobre el estado de la deuda Vodafone España, requisito resultado de la emisión de bonos en el año 2024.
-- [Presentación de Resultados FY25 y Q1-26 de Vodafone España](https://www.zegona.com/~/media/Files/Z/Zegona/disclaimer-document/ir-q1-26-results-presentation-v1.pdf): Se indica que es una presentación para inversores profesionales.
+- [Resultados Q1 26 de Vodafone España](https://zegona.com/wp-content/uploads/2025/11/zegona-holdco-limited-debt-reporting.pdf): Es el documento con información trimestral sobre el estado de la deuda Vodafone España, requisito resultado de la emisión de bonos en el año 2024.
+- [Presentación de Resultados FY25 y Q1-26 de Vodafone España](https://zegona.com/wp-content/uploads/2026/03/ir-q1-26-results-presentation-v2.pdf): Se indica que es una presentación para inversores profesionales.
 
 El número de clientes, tanto líneas de banda ancha fija como líneas móviles, ha crecido tras años en descenso. También han aumentado un 30% (desde Q1 25 a Q1 26) las ventas de *triple play* y *quadruple play*. La adquisición de Vodafone España por parte de Zegona se completó el 31 de mayo de 2024 y se puede comprobar que la reversión de la tendencia comienza Q2 25 (abril a junio 2024), es decir, a partir de la entrada de Zegona. Recuperar la base de clientes es fundamental para garantizar la sostenibilidad del negocio.
 
