@@ -230,6 +230,23 @@ La cantidad total adeudada se mantiene en unos 3.900 millones de euros.
 
 **El objetivo de esta refinanciación es cancelar el préstamo *Term Loan A* mediante la extensión del *Term Loan B*, con un margen de intereses más favorable (125 puntos básicos inferior). También se sustituye parte de los bonos emitidos hace 1 año por bonos idénticos colocados a  un precio superior a su valor nominal, reduciendo así su *yield* efectivo. Además, se consigue suavizar el *covenant* financiero existente, incrementando el apalancamiento permitido.**
 
+### Refinanciación de deuda IV
+
+EL [9 de enero de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2023418&culture=en-GB&val=639035888276971506) Zegona refinanció por cuarta vez parte de su deuda. En concreto, el préstamo *Term Loan B*, que asciende a 1.665 millones de euros tras la amortización de 200 millones de euros procedentes de la monetización de las *FibreCo*.
+
+![[ZEG_Debt_Refinancing_IV.png]]
+
+Esta refinanciación tiene 1 parte:
+1. El margen de intereses del *Term Loan B* se reduce desde EURIBOR + 2,75% hasta EURIBOR + 2,25%, es decir, una reducción de 50 puntos básicos. Tomando como referencia un EURIBOR a seis meses del 2,10%, el tipo de interés total del préstamo pasa a ser aproximadamente del 4,35% anual. El resto de las condiciones del préstamo permanecen prácticamente inalteradas. Como suele ser habitual en este tipo de operaciones (*repricing transactions*), el periodo de *soft non-call* se reinicia durante otros seis meses, impidiendo volver a refinanciar el préstamo en ese plazo, aunque no se modifican las condiciones de amortización anticipada.
+La deuda queda reestructurada de la siguiente forma:
+- *6,75% Senior Secured Notes*: Son bonos denominados en euros por 1.320 millones de euros (1.300-130+150). Vencen en 2029.
+- *8,625% Senior Secured Notes*: Son bonos denominados en dólares por 810 millones de dólares, que equivale a 697 millones de euros (cambio de 0,86 EUR/USD a 1 de agosto de 2025). Vencen en 2029.
+- *Term Loan B*: Préstamo a 5 años por 1.665 millones de euros a un interés anual de EURIBOR+3%.
+
+La cantidad total adeudada se mantiene en unos 3.700 millones de euros.
+
+**El objetivo de esta refinanciación es reducir su margen de intereses en 50 puntos básicos para los préstamos por valor de 1.665 millones de euros, reduciendo el coste financiero de la compañía aprovechando la mejora de su perfil crediticio. Según Zegona, esta operación reduce el coste medio de su deuda desde aproximadamente el 5,8% hasta el 5,5%, lo que supone un ahorro anual acumulado cercano a 80 millones de euros respecto a la financiación inicial utilizada para adquirir Vodafone España. Además, la compañía destaca que este *Term Loan B* pasa a ser el préstamo de este tipo con el menor margen de intereses entre las compañías europeas del sector de las telecomunicaciones con emisiones superiores a 250 millones de euros.
+
 ### Refinanciación de deuda V
 
 El [26 de junio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/9bb83407-a9b1-4d55-8c67-0394681f670e.html) Zegona refinanció por quinta vez su deuda. En este caso, se trata de una refinanciación de prácticamente toda su estructura de deuda. En concreto, se refinancian la totalidad de los bonos emitidos en julio de 2024, el préstamo *Term Loan B* y la línea de crédito *Revolving Credit Facility*, sustituyéndolos por una nueva estructura de financiación con vencimientos entre 2031 y 2032.
