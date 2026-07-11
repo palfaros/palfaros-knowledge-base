@@ -245,7 +245,7 @@ La deuda queda reestructurada de la siguiente forma:
 
 La cantidad total adeudada se mantiene en unos 3.700 millones de euros.
 
-**El objetivo de esta refinanciación es reducir su margen de intereses en 50 puntos básicos para los préstamos por valor de 1.665 millones de euros, reduciendo el coste financiero de la compañía aprovechando la mejora de su perfil crediticio. Según Zegona, esta operación reduce el coste medio de su deuda desde aproximadamente el 5,8% hasta el 5,5%, lo que supone un ahorro anual acumulado cercano a 80 millones de euros respecto a la financiación inicial utilizada para adquirir Vodafone España. Además, la compañía destaca que este *Term Loan B* pasa a ser el préstamo de este tipo con el menor margen de intereses entre las compañías europeas del sector de las telecomunicaciones con emisiones superiores a 250 millones de euros.
+**El objetivo de esta refinanciación es reducir su margen de intereses en 50 puntos básicos para los préstamos por valor de 1.665 millones de euros, reduciendo el coste financiero de la compañía aprovechando la mejora de su perfil crediticio. Según Zegona, esta operación reduce el coste medio de su deuda desde aproximadamente el 5,8% hasta el 5,5%, lo que supone un ahorro anual acumulado cercano a 80 millones de euros respecto a la financiación inicial utilizada para adquirir Vodafone España. Además, la compañía destaca que este *Term Loan B* pasa a ser el préstamo de este tipo con el menor margen de intereses entre las compañías europeas del sector de las telecomunicaciones con emisiones superiores a 250 millones de euros.**
 
 ### Refinanciación de deuda V
 
