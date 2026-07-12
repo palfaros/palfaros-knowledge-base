@@ -1481,6 +1481,70 @@ La deuda neta se sitúa en 3.214 millones de euros a 31 de marzo de 2026, gracia
 
 ![[ZEG_FY_26_Results_Debt_and_interest.png]]
 
+#### Valoración actualizada
+
+#####  EV/EBITDAaL
+
+|                                          |       |       |       |       |
+| ---------------------------------------- | ----- | ----- | ----- | ----- |
+| **Negocio principal (core business)**    |       |       |       |       |
+| **EV/EBITDAaL**                          | 4     | 5     | 6     | 7     |
+| **EBITDAaL 26**                          | 1341  | 1341  | 1341  | 1341  |
+| **EV**                                   | 5364  | 6705  | 8046  | 9387  |
+| **Covenant financiero (3,1xEBITDAaL)**   | 4157  | 4157  | 4157  | 4157  |
+| Deuda                                    | 3733  | 3733  | 3733  | 3733  |
+| Caja (-)                                 | 519   | 519   | 519   | 519   |
+| **Deuda neta**                           | 3214  | 3214  | 3214  | 3214  |
+| **Equity core business**                 | 2150  | 3491  | 4832  | 6173  |
+| **FibreCo Telefónica**                   |       |       |       |       |
+| EV                                       | 1250  | 0     | 0     | 0     |
+| Deuda (leverage recap)                   | 0     | 0     | 0     | 0     |
+| Equity                                   | 1250  | 0     | 0     | 0     |
+| Participación Vodafone España            | 5%    | 5%    | 5%    | 5%    |
+| **Equity participación Vodafone España** | 63    | 0     | 0     | 0     |
+| **FibreCo MásOrange**                    |       |       |       |       |
+| Equity                                   | 3640  | 3640  | 3640  | 3640  |
+| Participación Vodafone España            | 18%   | 18%   | 18%   | 18%   |
+| **Equity participación Vodafone España** | 637   | 637   | 637   | 637   |
+| **Equity Total (SOTP)**                  | 2850  | 4128  | 5469  | 6810  |
+| **Número de acciones**                   | 226   | 226   | 226   | 226   |
+| Precio por acción (EUR)                  | 12,62 | 18,29 | 24,23 | 30,17 |
+| **EUR/GBP**                              | 1,17  | 1,17  | 1,17  | 1,17  |
+| Precio por acción (GBP)                  | 10,79 | 15,63 | 20,71 | 25,79 |
+| **Precio por acción (GBX)**              | 1079  | 1563  | 2071  | 2579  |
+| **Precio actual**                        | 595   | 595   | 595   | 595   |
+| **Rentabilidad**                         | 81%   | 163%  | 248%  | 333%  |
+
+##### EV/OpCF
+
+|                                          |       |       |       |       |         |
+| ---------------------------------------- | ----- | ----- | ----- | ----- | ------- |
+| **Negocio principal (core business)**    |       |       |       |       |         |
+| **EV/OpCF**                              | 10    | 11    | 12    | 13    | 14      |
+| **OpCF 26**                              | 763   | 763   | 763   | 763   | 763     |
+| **EV**                                   | 7630  | 8393  | 9156  | 9919  | 10682   |
+| Deuda                                    | 3733  | 3733  | 3733  | 3733  | 3733    |
+| Caja (-)                                 | 519   | 519   | 519   | 519   | 519     |
+| **Deuda neta**                           | 3214  | 3214  | 3214  | 3214  | 3214    |
+| **Equity core business**                 | 4416  | 5179  | 5942  | 6705  | 7468    |
+| **FibreCo Telefónica**                   |       |       |       |       |         |
+| EV                                       | 1250  | 1250  | 1250  | 1250  | 1250    |
+| Deuda (leverage recap)                   | 0     | 0     | 0     | 0     | 0       |
+| Equity                                   | 1250  | 1250  | 1250  | 1250  | 1250    |
+| Participación Vodafone España            | 5%    | 5%    | 5%    | 5%    | 5%      |
+| **Equity participación Vodafone España** | 63    | 63    | 63    | 63    | 63      |
+| **FibreCo MásOrange**                    |       |       |       |       |         |
+| Equity                                   | 3640  | 3640  | 3640  | 3640  | 3641    |
+| Participación Vodafone España            | 18%   | 18%   | 18%   | 18%   | 18%     |
+| **Equity participación Vodafone España** | 637   | 637   | 637   | 637   | 637,175 |
+| **Equity Total (SOTP)**                  | 5116  | 5879  | 6642  | 7405  | 8168    |
+| **Número de acciones**                   | 226   | 226   | 226   | 226   | 226     |
+| Precio por acción (EUR)                  | 22,66 | 26,04 | 29,42 | 32,80 | 36,19   |
+| **EUR/GBP**                              | 1,17  | 1,17  | 1,17  | 1,17  | 1,17    |
+| Precio por acción (GBP)                  | 19,37 | 22,26 | 25,15 | 28,04 | 30,93   |
+| **Precio por acción (GBX)**                  | 1937  | 2226  | 2515  | 2804  | 3093    |
+| **Precio actual**                            | 595   | 595   | 595   | 595   | 595     |
+| **Rentabilidad**                             | 226%  | 274%  | 323%  | 371%  | 420%    |
 
 ## Referencias
 
