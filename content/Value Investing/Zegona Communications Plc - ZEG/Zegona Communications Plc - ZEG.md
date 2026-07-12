@@ -1445,15 +1445,19 @@ En la nota de prensa se indican enlaces a 2 documentos:
 - [Informe Anual 2026 - 2026 Annual Report](https://data.fca.org.uk/artefacts/NSM/DirectUpload/NI-000146813/NI-000146813.pdf): Es el informe del año fiscal 2026, que concluyó el 31 de marzo de 2026.
 - [Presentación de Resultados FY26 de Vodafone España](https://zegona.com/wp-content/uploads/2026/06/IR_Q4_26_results_presentation_vf.pdf): Se indica que es una presentación para inversores profesionales.
 
+La base de clientes de Vodafone España, tanto en banda ancha fija como en líneas móviles, ha crecido cada trimestre desde la entrada de Zegona en el Q2 25. En concreto, desde la adquisición, las líneas de banda ancha fija aumentaron en 58.000 y las móviles en 154.000.
 
 ![[ZEG_FY_26_Results_Customer_Growth.png]]
 
+Respecto a FY25, los ingresos (*revenues*) anuales permanecieron planos (*flat*), aunque si han aumentado durante el segundo semestre (H2 26) y el último trimestre (Q4 26).
 
 ![[ZEG_FY_26_Revenues_Growth.png]]
 
+Las iniciativas de reducción de costes siguen funcionando, aumentando el EBITDA y el [[EBITDAaL]] a pesar de que los *revenues* hayan permanecido planos, tanto en cantidad absoluta como relativa, es decir, expandiendo márgenes. El [[EBITDAaL]] FY26 ha sido de 1.341 millones frente a los 1.249 millones de FY25, es decir, un crecimiento del 7%. El margen [[EBITDAaL]] se se situó en el 37% en FY26 frente al 34% de FY25, es decir, un crecimiento del 16%. Cabe recordar que la *FibreCo* con Telefónica, *Fiberpass*, comenzó a operar en marzo de 2025, mientras que la *FibreCo* con MasOrange, *PremiumFiber*, lo hizo en diciembre de 2025. Se desconoce cuántas líneas se han transferido desde entonces y por las que Vodafone España tendrá que pagar un alquiler a las *FibreCo*, pero es evidente que, de momento, no está impactando en el [[EBITDAaL]].
 
 ![[ZEG_FY_26_Results_EBITDAaL.png]]
 
+De igual forma que en FY25, el mayor crecimiento se ha producido en el _cash flow_ operacional. Ha aumentado un 22% en FY26 respecto a FY25 y un 31% en Q4 26 respecto a Q4 25. Por tanto, continúa la mejora en el flujo de caja, con el objetivo de alcanzar los 1.000 millones de euros.
 
 ![[ZEG_FY_26_Results_Cash_Flow.png]]
 
