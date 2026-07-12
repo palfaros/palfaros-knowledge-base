@@ -1367,9 +1367,9 @@ A continuación, se analizan en detalle cada uno de estos **tres componentes**.
 		134. [26 de junio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/1182cadd-40a0-4fc4-8345-3ec4c2832b22.html): 25.000 acciones a un precio medio de 1715.40 peniques (GBX).
 		135. [29 de junio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/0f473491-febc-4b39-8e9c-3cae20dcc4d3.html): 25.000 acciones a un precio medio de 1684.04 peniques (GBX).
 		136. [30 de junio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/0f473491-febc-4b39-8e9c-3cae20dcc4d3.html): 25.000 acciones a un precio medio de 1644.50 peniques (GBX).
-		137. [1 de julio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/0f473491-febc-4b39-8e9c-3cae20dcc4d3.html): 55.000 acciones a un precio medio de 1517.00 peniques (GBX).
-		138. [2 de julio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/0f473491-febc-4b39-8e9c-3cae20dcc4d3.html): 55.000 acciones a un precio medio de 1550.00 peniques (GBX).
-		139. [3 de julio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/0f473491-febc-4b39-8e9c-3cae20dcc4d3.html): 55.000 acciones a un precio medio de 1570.00 peniques (GBX).
+		137. [1 de julio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/0f473491-febc-4b39-8e9c-3cae20dcc4d3.html): 5.000 acciones a un precio medio de 1517.00 peniques (GBX).
+		138. [2 de julio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/0f473491-febc-4b39-8e9c-3cae20dcc4d3.html): 5.000 acciones a un precio medio de 1550.00 peniques (GBX).
+		139. [3 de julio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/0f473491-febc-4b39-8e9c-3cae20dcc4d3.html): 5.000 acciones a un precio medio de 1570.00 peniques (GBX).
 
 #### Valoración actualizada
 
@@ -1444,6 +1444,32 @@ En primer lugar, es necesario aclarar que FY26 se refiere al año fiscal 2026, q
 En la nota de prensa se indican enlaces a 2 documentos:
 - [Informe Anual 2026 - 2026 Annual Report](https://data.fca.org.uk/artefacts/NSM/DirectUpload/NI-000146813/NI-000146813.pdf): Es el informe del año fiscal 2026, que concluyó el 31 de marzo de 2026.
 - [Presentación de Resultados FY26 de Vodafone España](https://zegona.com/wp-content/uploads/2026/06/IR_Q4_26_results_presentation_vf.pdf): Se indica que es una presentación para inversores profesionales.
+
+
+![[ZEG_FY_26_Results_Customer_Growth.png]]
+
+
+![[ZEG_FY_26_Revenues_Growth.png]]
+
+
+![[ZEG_FY_26_Results_EBITDAaL.png]]
+
+
+![[ZEG_FY_26_Results_Cash_Flow.png]]
+
+
+![[ZEG_FY_26_Declining_interest_costs.png]]
+
+
+![[ZEG_FY_26_Results_FibreCos.png.png]]
+
+![[ZEG_FY_26_Company_Undervalued.png]]
+
+
+
+![[ZEG_FY_26_Results_Operational_and_Financial_Information.png]]
+
+![[ZEG_FY_26_Results_Debt_and_interest.png]]
 
 
 ## Referencias
