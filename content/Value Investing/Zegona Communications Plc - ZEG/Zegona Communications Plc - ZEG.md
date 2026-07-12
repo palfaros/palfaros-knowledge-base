@@ -1461,7 +1461,7 @@ De igual forma que en FY25, el mayor crecimiento se ha producido en el *cash fl
 
 ![[ZEG_FY_26_Results_Cash_Flow.png]]
 
-Como ya indicaba la compañía en sus resultados H1 26, Este crecimiento de *cash flow* operacional, al mismo tiempo que se continúa refinanciando la deuda reduciendo su coste (intereses), permitirá generar *levered FCF*, disponible para devolver a los accionistas en forma de dividendos o recompras.
+Como ya indicaba la compañía en sus resultados H1 26, este crecimiento de *cash flow* operacional, al mismo tiempo que se continúa refinanciando la deuda reduciendo su coste (intereses), permitirá generar *levered FCF*, disponible para devolver a los accionistas en forma de dividendos o recompras.
 
 ![[ZEG_FY_26_Declining_interest_costs.png]]
 
