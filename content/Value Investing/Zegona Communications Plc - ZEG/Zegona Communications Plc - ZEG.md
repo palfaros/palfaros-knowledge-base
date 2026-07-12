@@ -1457,21 +1457,27 @@ Las iniciativas de reducción de costes siguen funcionando, aumentando el EBITDA
 
 ![[ZEG_FY_26_Results_EBITDAaL.png]]
 
-De igual forma que en FY25, el mayor crecimiento se ha producido en el _cash flow_ operacional. Ha aumentado un 22% en FY26 respecto a FY25 y un 31% en Q4 26 respecto a Q4 25. Por tanto, continúa la mejora en el flujo de caja, con el objetivo de alcanzar los 1.000 millones de euros.
+De igual forma que en FY25, el mayor crecimiento se ha producido en el *cash flow* operacional. Ha aumentado un 22% en FY26 respecto a FY25 y un 31% en Q4 26 respecto a Q4 25. Por tanto, continúa la mejora en el flujo de caja, con el objetivo de alcanzar los 1.000 millones de euros.
 
 ![[ZEG_FY_26_Results_Cash_Flow.png]]
 
+Como ya indicaba la compañía en sus resultados H1 26, Este crecimiento de *cash flow* operacional, al mismo tiempo que se continúa refinanciando la deuda reduciendo su coste (intereses), permitirá generar *levered FCF*, disponible para devolver a los accionistas en forma de dividendos o recompras.
 
 ![[ZEG_FY_26_Declining_interest_costs.png]]
 
+Zegona indica que anunciará sus planes de *capital allocation* y *shareholder remuneration* más adelante en  este año 2026. Es evidente que no se puede esperar un dividendo extraordinario como el concedido en enero de 2026, procedente de la monetización de las *FibreCo*.
 
 ![[ZEG_FY_26_Results_FibreCos.png.png]]
 
+Desde la adquisición de Vodafone España, Zegona ha incrementado significativamente el valor para el accionista. El valor implícito de la empresa (*Enterprise Value*) ha aumentado de 5.000 millones de euros a 7.800 millones (+56%), impulsado por la cancelación de las acciones preferentes de Vodafone Group, la reducción de la deuda neta de 3.800 a 3.200 millones de euros (-15%) y el fuerte crecimiento del valor del capital (*equity*), que ha pasado de aproximadamente 300 millones a 4.600 millones de euros. A pesar de esta creación de valor, la compañía continúa cotizando con un descuento relevante frente a sus comparables: aproximadamente 10,2x EV/OpCF (*EV/Operating Cash Flow*), frente a 13,1x de Telefónica España, 13,9x de MasOrange y 14,1x del promedio del sector. Según la compañía, este descuento resulta difícil de justificar, ya que Zegona no espera pagar impuestos en el corto plazo (*net losses*) y se espera que el coste de la deuda (intereses) siga reduciéndose.
+
 ![[ZEG_FY_26_Company_Undervalued.png]]
 
-
+Todas las métricas, a excepción de los ingresos (*revenues*), han mejorado durante FY26: EBITDA, [[EBITDAaL]], Capex y *Operating Cash Flow*.
 
 ![[ZEG_FY_26_Results_Operational_and_Financial_Information.png]]
+
+La deuda neta se sitúa en 3.214 millones de euros a 31 de marzo de 2026, gracias a la amortización de 200 millones de euros y el incremento de caja de 303 millones a 519 millones en H2 26. Las sucesivas refinanciaciones llevadas a cabo han permitido ir reduciendo el coste de dicha deuda. La mayor parte de la deuda no se ha empezado a amortizar, ya que se planea continuar con la refinanciación de la misma gracias a la continua mejora de la salud financiera de la compañía.
 
 ![[ZEG_FY_26_Results_Debt_and_interest.png]]
 
