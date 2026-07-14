@@ -1370,6 +1370,11 @@ A continuación, se analizan en detalle cada uno de estos **tres componentes**.
 		137. [1 de julio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/0f473491-febc-4b39-8e9c-3cae20dcc4d3.html): 5.000 acciones a un precio medio de 1517.00 peniques (GBX).
 		138. [2 de julio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/0f473491-febc-4b39-8e9c-3cae20dcc4d3.html): 5.000 acciones a un precio medio de 1550.00 peniques (GBX).
 		139. [3 de julio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/0f473491-febc-4b39-8e9c-3cae20dcc4d3.html): 5.000 acciones a un precio medio de 1570.00 peniques (GBX).
+		140. [6 de julio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/8c78e469-16fe-4fd7-8bae-57cd72b929f3.html): 5.000 acciones a un precio medio de 1538.00 peniques (GBX).
+		141. [7 de julio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/8c78e469-16fe-4fd7-8bae-57cd72b929f3.html): 5.000 acciones a un precio medio de 1492.00 peniques (GBX).
+		142. [8 de julio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/8c78e469-16fe-4fd7-8bae-57cd72b929f3.html): 5.000 acciones a un precio medio de 1425.00 peniques (GBX).
+		143. [9 de julio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/8c78e469-16fe-4fd7-8bae-57cd72b929f3.html): 5.000 acciones a un precio medio de 1446.00 peniques (GBX).
+		144. [10 de julio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/8c78e469-16fe-4fd7-8bae-57cd72b929f3.html): 5.000 acciones a un precio medio de 1446.80 peniques (GBX).
 
 #### Valoración actualizada
 
