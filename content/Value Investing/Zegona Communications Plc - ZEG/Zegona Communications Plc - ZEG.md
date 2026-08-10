@@ -347,6 +347,7 @@ La directiva de Zegona ha comprado acciones desde el anuncio de la adquisición 
 - El [4 de diciembre de 2025](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2012580&culture=en-GB&val=639018787844139852) Rita Estevez (*Non-Executive Director*) compró 6.200 acciones de la compañía ($ZEG) a un precio de 13,87 libras esterlinas por acción (86.021,75 libras esterlinas).
 - El [4 de marzo de 2026](https://otp.tools.investis.com/clients/uk/zegona/rns/regulatory-story.aspx?cid=1048&newsid=2039846&culture=en-GB&val=639088514582876265) Suzi Williams (*Non-Executive Director*) compró 2.500 acciones de la compañía ($ZEG) a un precio de 16,83 libras esterlinas por acción (42.083,45 libras esterlinas).
 - El [29 de junio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/62aff1fa-8d19-487b-ba7f-81008e6b3009.html) Suzi Williams (_Non-Executive Director_) compró 2.797 acciones de la compañía ($ZEG) a un precio de 17,157 libras esterlinas por acción (47.988,88 libras esterlinas).
+- El [5 de agosto de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/79f5354f-7a0d-4437-aab5-cfb2de1868fa.html) Tim Pennington (*Non-Executive Director*) compró 6.588 acciones de la compañía ($ZEG) a un precio de 15,20 libras esterlinas por acción (100.137,60 libras esterlinas).
 
 No se han registrado operaciones de venta hasta la fecha. Esto es un indicativo de la confianza de la directiva respecto a su plan estratégico, especialmente en el caso de José Miguel García, con más de 1,5 millones de euros de su patrimonio invertidos.
 
