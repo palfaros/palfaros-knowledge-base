@@ -19,19 +19,29 @@ El núcleo tecnológico de OCUDU se basa en el código de **srsRAN** (congelado 
 
 La ambición global de OCUDU es transformarse en **el kernel Linux de la RAN**. Su objetivo es consolidarse como el núcleo (*core*) estandarizado sobre el cual se construyan y diversifiquen los múltiples casos de uso de las telecomunicaciones del futuro.
 
-### *Governance*
+### Modelo de Gobierno
 
 El proyecto está alojado por la **Linux Foundation**. En concreto, se han constituido 2 órganos de gobierno:
+
 - ***OCUDU Ecosystem Foundation***: Encargado de las decisiones estratégicas y *roadmap*. Está abierto a la participación de la industria y la investigación (potenciales miembros).
 - ***Technical Steering Committee*** (TSC): Centrado en las decisiones técnicas mediante procedimientos abiertos a través del repositorio del proyecto. La forma de participar es contribuyendo con código, documentación u otros recursos-
 
+### Licenciamiento
+
 El software se distribuye bajo una licencia completamente permisiva: **BSD 3-Clause Open MPI**. Por tanto, no existen restricciones ni obligaciones de tipo *copyleft*.
 
-### *Target audience*
+### Público objetivo
+
+El público objetivo del proyecto incluye:
+
+- **Desarrolladores:** Profesionales que crean soluciones o integran sistemas basados en **Open RAN**.
+- **Investigadores:** Académicos y científicos corporativos que buscan una plataforma de nivel de producción (*production-quality*) para experimentar con **5G y 6G**.
+- **Operadores y desplegadores de red:** Empresas que diseñan soluciones de **RAN desagregada** o despliegan redes móviles (tanto redes privadas 5G como operadores públicos).
+- **Integradores de sistemas:** Especialistas que combinan el núcleo de software RAN con elementos **5GC y RUs**
 
 ## Objetivos
 
-Cuál es el propósito del proyecto, target audience y qué problema quiere resolver
+qué problema quiere resolver
 
 Ecosistema de OCUDU, su relación con O-RAN, con building blocks.
 
