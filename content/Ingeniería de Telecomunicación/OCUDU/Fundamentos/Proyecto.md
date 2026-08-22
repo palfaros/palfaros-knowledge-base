@@ -1,0 +1,36 @@
+---
+title: Proyecto
+date: 2026-08-22
+---
+## ¿Qué es OCUDU?
+
+Las siglas **OCUDU** se refieren a *Open Centralized Unit / Distributed Unit*. Este término está inspirado en la arquitectura 3GPP para redes 5G, específicamente en la desagregación (*disaggregation*) de los gNBs en elementos lógicos.
+
+El propósito de OCUDU es desarrollar una pila (*stack*) de software CU/DU 5G que sea escalable, de código abierto (*open-source*) y con calidad de operador comercial (*carrier-grade*). El proyecto persigue dos metas principales:
+
+- **Despliegue operativo:** Ofrecer un *stack* de software completamente funcional para que cualquier entidad pueda implementar un CU/DU 5G en entornos reales.
+- **Plataforma de innovación:** Servir como base de desarrollo para las futuras redes móviles (6G y posteriores).
+
+Este _stack_ cumple estrictamente con los estándares del **3GPP**, las APIs del **Small Cell Forum (SCF)** y las especificaciones de la **O-RAN Alliance**.
+
+El núcleo tecnológico de OCUDU se basa en el código de **srsRAN** (congelado a finales de 2025). A partir de esta base, ha evolucionado hacia un proyecto comunitario e independiente de fabricantes (*vendor-neutral*).
+
+La ambición global de OCUDU es transformarse en **el kernel Linux de la RAN**. Su objetivo es consolidarse como el núcleo (*core*) estandarizado sobre el cual se construyan y diversifiquen los múltiples casos de uso de las telecomunicaciones del futuro.
+
+
+## Objetivos
+
+Cuál es el propósito del proyecto, target audience y qué problema quiere resolver
+
+Ecosistema de OCUDU, su relación con O-RAN, con building blocks.
+
+Un poco más profundo en sus componentes, como se organiza y como construir un despliegue O-RAN.
+
+Roadmap de 2-3 años
+
+## Repositorio
+
+Los repositorios de OCUDU se encuentran en su organización correspondiente de GitLab: https://gitlab.com/ocudu.
+
+
+
