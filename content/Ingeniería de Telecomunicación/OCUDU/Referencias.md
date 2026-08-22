@@ -8,5 +8,5 @@ date: 2026-08-22
 
 ## Personas
 
-- [Andre Puschmann (SRS)](https://www.puschmann.net/ "Andre Puschmann")
+- [Andre Puschmann (SRS)](https://www.puschmann.net/ "Andre Puschmann"): Miembro del TSC.
 
