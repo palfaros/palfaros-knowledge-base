@@ -15,7 +15,7 @@ El propósito de OCUDU es desarrollar una pila (*stack*) de software CU/DU 5G qu
 
 Este _stack_ cumple estrictamente con los estándares del **3GPP**, las APIs del ***Small Cell Forum (SCF)*** y las especificaciones de la ***O-RAN Alliance***.
 
-El núcleo tecnológico de OCUDU se basa en el código de **srsRAN** (congelado a finales de 2025). A partir de esta base, ha evolucionado hacia un proyecto comunitario e independiente de fabricantes (*vendor-neutral*).
+El núcleo tecnológico de OCUDU se basa en el código de **srsRAN** (congelado a finales de 2025). A partir de esta base, ha evolucionado hacia un proyecto comunitario e independiente de fabricantes (*vendor-neutral*). Se da continuidad al código, la arquitectura y la comunidad, y se modifican su gobernanza, licenciamiento y contribución al proyecto.
 
 La ambición global de OCUDU es transformarse en **el kernel Linux de la RAN**. Su objetivo es consolidarse como el núcleo (*core*) estandarizado sobre el cual se construyan y diversifiquen los múltiples casos de uso de las telecomunicaciones del futuro.
 
@@ -47,14 +47,9 @@ Aunque Open RAN (O-RAN) ha transformado la arquitectura y las interfaces al defi
 
 **OCUDU** nace para convertirse en la implementación O-RAN de referencia: una solución 100 % abierta que ofrece total libertad para ser utilizada, inspeccionada y modificada. El objetivo es construir unos cimientos y un ecosistema comunes sobre los cuales cualquiera pueda desarrollar sus propias soluciones, replicando el modelo que **Linux** supuso para los sistemas operativos.
 
-## Relación con otros proyectos
+## Relación con O-RAN
 
-### Open RAN
-
-### Disaggregated RAN
-
-### srsRAN
-
+El proyecto OCUDU
 
 ## Objetivos
 
