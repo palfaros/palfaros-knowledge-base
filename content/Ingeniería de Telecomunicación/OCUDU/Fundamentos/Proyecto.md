@@ -67,9 +67,11 @@ Para su despliegue operativo, OCUDU se ejecuta como una **función de red virtua
 - **CaaS (Container as a Service):** La plataforma de gestión de contenedores.
 - **Sistema Operativo:** La base de software del servidor.
 
+### ¿Qué implementa?
 
+**OCUDU implementa por completo las capas L1, L2 y L3 de la pila de protocolos de la red de acceso radio (RAN) 5G de forma nativa en software.**
 
-
+La gran innovación de esta arquitectura radica en la **capa física (L1)**. Tradicionalmente, solo las capas superiores (L2 y L3) se ejecutaban mediante software, mientras que la L1 se delegaba a hardware dedicado debido a su alta exigencia de cómputo. OCUDU rompe este esquema al trasladar también la L1 al software, asumiendo el procesamiento de señales (DSP) y las tareas de computación intensiva (*compute-heavy*) directamente en procesadores de propósito general.
 
 Ecosistema de OCUDU, su relación con O-RAN, con building blocks.
 
