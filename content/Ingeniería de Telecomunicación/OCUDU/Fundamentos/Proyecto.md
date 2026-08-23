@@ -37,7 +37,24 @@ El público objetivo del proyecto incluye:
 - **Desarrolladores:** Profesionales que crean soluciones o integran sistemas basados en **Open RAN**.
 - **Investigadores:** Académicos y científicos corporativos que buscan una plataforma de nivel de producción (*production-quality*) para experimentar con **5G y 6G**.
 - **Operadores y desplegadores de red:** Empresas que diseñan soluciones de **RAN desagregada** o despliegan redes móviles (tanto redes privadas 5G como operadores públicos).
-- **Integradores de sistemas:** Especialistas que combinan el núcleo de software RAN con elementos **5GC y RUs**
+- **Integradores de sistemas:** Especialistas que combinan el núcleo de software RAN con elementos **5GC y RUs**.
+
+### Problema a resolver
+
+Tradicionalmente, la RAN ha sido un entorno de extrema complejidad, propietario, cerrado (*black box*) y hecho a medida (*bespoke*), donde cualquier modificación resultaba muy costosa.
+
+Aunque Open RAN (O-RAN) ha transformado la arquitectura y las interfaces al definir un estándar abierto, la mayoría de las implementaciones actuales siguen siendo propietarias, tanto en software como en hardware. Por lo tanto, el ecosistema no es completamente abierto.
+
+**OCUDU** nace para convertirse en la implementación O-RAN de referencia: una solución 100 % abierta que ofrece total libertad para ser utilizada, inspeccionada y modificada. El objetivo es construir unos cimientos y un ecosistema comunes sobre los cuales cualquiera pueda desarrollar sus propias soluciones, replicando el modelo que **Linux** supuso para los sistemas operativos.
+
+## Relación con otros proyectos
+
+### Open RAN
+
+### Disaggregated RAN
+
+### srsRAN
+
 
 ## Objetivos
 
