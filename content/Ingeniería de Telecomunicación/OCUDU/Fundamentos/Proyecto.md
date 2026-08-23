@@ -47,13 +47,29 @@ Aunque Open RAN (O-RAN) ha transformado la arquitectura y las interfaces al defi
 
 **OCUDU** nace para convertirse en la implementación O-RAN de referencia: una solución 100 % abierta que ofrece total libertad para ser utilizada, inspeccionada y modificada. El objetivo es construir unos cimientos y un ecosistema comunes sobre los cuales cualquiera pueda desarrollar sus propias soluciones, replicando el modelo que **Linux** supuso para los sistemas operativos.
 
-## Relación con O-RAN
+## Descripción de alto nivel
 
-El proyecto OCUDU
+**OCUDU es el núcleo del ecosistema O-RAN.** Funciona como una función de red integrada que combina las tareas de la *Central Unit* (**CU**) y la *Distributed Unit* (**DU**). Su papel principal es actuar como la **capa de interconexión clave** entre el núcleo de la red (5GC), los sistemas de gestión (SMO/RIC) y las unidades de radio (O-RUs).
 
-## Objetivos
+![[OCUDU_ORAN_gNB_Arch.svg]]
 
-qué problema quiere resolver
+Como se puede observar en el diagrama, OCUDU gestiona de forma nativa las siguientes conexiones:
+
+- **Con el Núcleo 5G (5GC):** Se comunica mediante las interfaces **N2** (plano de control) y **N3** (plano de usuario).
+- **Con la Gestión y Orquestación (SMO / RIC):** Utiliza la interfaz **O1** para la operación y mantenimiento con el SMO, y la interfaz **E2** para el control inteligente con el RIC.
+- **Con las Unidades de Radio (O-RUs):** Se conecta a través de la interfaz de transporte frontal (***Fronthaul***). Es compatible principalmente con la división funcional **Split 7.2**, aunque también soporta **Split 8**.
+
+En su interior, OCUDU respeta la **arquitectura abierta y las interfaces estándar** definidas por la alianza O-RAN para la separación de funciones CU/DU.
+
+Para su despliegue operativo, OCUDU se ejecuta como una **función de red virtualizada o contenedorizada** sobre un servidor físico. Su funcionamiento óptimo depende de una infraestructura tecnológica organizada en capas:
+
+- **O-Cloud:** La nube de infraestructura para telecomunicaciones.
+- **CaaS (Container as a Service):** La plataforma de gestión de contenedores.
+- **Sistema Operativo:** La base de software del servidor.
+
+
+
+
 
 Ecosistema de OCUDU, su relación con O-RAN, con building blocks.
 
