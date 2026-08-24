@@ -1551,9 +1551,13 @@ La deuda neta se sitúa en 3.214 millones de euros a 31 de marzo de 2026, gracia
 | Precio por acción (EUR)                  | 22,66 | 26,04 | 29,42 | 32,80 | 36,19   |
 | **EUR/GBP**                              | 1,17  | 1,17  | 1,17  | 1,17  | 1,17    |
 | Precio por acción (GBP)                  | 19,37 | 22,26 | 25,15 | 28,04 | 30,93   |
-| **Precio por acción (GBX)**                  | 1937  | 2226  | 2515  | 2804  | 3093    |
-| **Precio actual**                            | 595   | 595   | 595   | 595   | 595     |
-| **Rentabilidad**                             | 226%  | 274%  | 323%  | 371%  | 420%    |
+| **Precio por acción (GBX)**              | 1937  | 2226  | 2515  | 2804  | 3093    |
+| **Precio actual**                        | 595   | 595   | 595   | 595   | 595     |
+| **Rentabilidad**                         | 226%  | 274%  | 323%  | 371%  | 420%    |
+
+### Junta General de Accionistas 2026
+
+El [16 de junio de 2026](https://rns-pdf.ir-alerter.com/files/86591.html) se anunció la convocatoria de la Junta General de Accionistas de 2026 el día 30 de julio de 2026 a las 9:00. Los contenidos que se tratarán en dicha junta se especifican en la [circular enviada a los accionistas](https://data.fca.org.uk/artefacts/NSM/DirectUpload/NI-000146812/NI-000146812.pdf). la autorización para la recompra de hasta 33.894.569 acciones ordinarias, representando un 14,99% del capital emitido. Esta medida, vigente hasta la próxima junta o un plazo de 18 meses, establece precios mínimos y máximos ligados a la cotización media en la Bolsa de Londres. La autorización de nuevas recompras de acciones se aprobó por, prácticamente, la totalidad del accionariado [en dicha junta](https://rns-pdf.ir-alerter.com/files/87536.html).
 
 ## Referencias
 
