@@ -44,7 +44,14 @@ date: 2026-09-05
 Fuente: https://www.madring.com/horarios
 
 ## Alojamiento
+
 ### Ubicación
+
+**Calle de Villanueva, 2, Salamanca, 28001 Madrid**
+
+Reserva:  
+https://www.booking.com/hotel/es/renovated-apartment-in-madrid-center.es.html
+
 ### Trayecto al circuito
 
 ## Transporte
