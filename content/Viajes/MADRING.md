@@ -3,11 +3,17 @@ title: F1 Gran Premio de España 2026 (MADRING)
 date: 2026-09-05
 ---
 > Fechas: 11–13 septiembre 2026
+> 
 > Circuito: MADRING
+> 
 > Zona: MADRING Norte
+> 
 > Gradas: GE20-GE22
+> 
 > Alojamiento: Calle de Villanueva, 2, Salamanca
+> 
 > Acceso: E
+> 
 > Estación: Valdebebas
 
 ## Horarios
