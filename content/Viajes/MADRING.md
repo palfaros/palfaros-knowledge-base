@@ -45,6 +45,20 @@ date: 2026-09-05
 
 Fuente: https://www.madring.com/horarios
 
+## Spotter's Guides
+
+### Fórmula 1
+
+
+### Fórmula 2
+
+
+### Fórmula 3
+
+![[Formula_3_Spotter_Guide.png]]
+
+Fuente: https://x.com/alexstanger1993/status/2095788703960428671?s=20
+
 ## Alojamiento
 
 ### Ubicación
