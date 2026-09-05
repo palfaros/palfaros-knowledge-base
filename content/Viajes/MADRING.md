@@ -49,9 +49,15 @@ Fuente: https://www.madring.com/horarios
 
 ### Fórmula 1
 
+![[Formula_1_Spotter_Guide.png]]
+
+Fuente: https://x.com/alexstanger1993/status/2036187548729397364?s=20
 
 ### Fórmula 2
 
+![[Formula_2_Spotter_Guide.png]]
+
+Fuente: https://x.com/alexstanger1993/status/2095788590852604352?s=20
 
 ### Fórmula 3
 
