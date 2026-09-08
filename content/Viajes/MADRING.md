@@ -149,6 +149,14 @@ Objetivo: estimar cuánto añadir a los 39 minutos teóricos.
 
 ### Acceso
 
+MADRING ha ofrecido en X una [guía para localizar los accesos según la grada](https://x.com/madring_oficial/status/2097265043016482868?s=20):
+
+![[MADRING_Guia_Acceso_1.png]]
+
+![[MADRING_Guia_Acceso_2.png]]
+
+![[MADRING_Guia_Acceso_3.png]]
+
 **MADRING Norte — Acceso E**
 
 | Grada | Puerta |
@@ -352,7 +360,7 @@ Pendiente:
 - Crema solar
 - Chubasquero
 - Cojín de asiento
-- Botella de plástico de máximo 500 ml
+- Botella de plástico de máximo 500 ml ([vacía](https://x.com/MigueluVe/status/2097031037398253589?s=20))
 
 #### Prohibido
 
