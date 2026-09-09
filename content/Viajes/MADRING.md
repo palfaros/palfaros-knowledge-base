@@ -7,7 +7,7 @@ date: 2026-09-05
 - Fechas: 11–13 septiembre 2026
 - Circuito: MADRING
 - Zona: MADRING Norte
-- Gradas: GE20-GE22
+- Gradas: GE18
 - Acceso: E7-E10
 - Alojamiento: Recoletos
 - Estación referencia: Valdebebas (Cercanías)
@@ -82,7 +82,7 @@ https://www.booking.com/hotel/es/renovated-apartment-in-madrid-center.es.html
 4. C1 Valdebebas
 5. MADRING Norte
 6. Acceso E4-11
-7. GE20-GE22
+7. GE18
 
 Tiempo actual según Google Maps: **39 min**
 
@@ -161,73 +161,71 @@ MADRING ha ofrecido en X una [guía para localizar los accesos según la grada](
 
 | Grada | Puerta |
 | ----- | ------ |
-| GE20  | E7-E8  |
-| GE21  | E9-E10 |
-| GE22  | E9-E10 |
+| GE18  | E7-E8  |
 
 El detalle de acceso a todas las gradas se especifica en la web oficial de MADRING.
 
-| Sección                   | Grada    | Acceso | Puerta     | Feria de Madrid | Valdebebas | Mar de Cristal | San Lorenzo |
-| ------------------------- | -------- | ------ | ---------- | --------------- | ---------- | -------------- | ----------- |
-| Sección 1                 | GA1      | A      | A3 - A4    | ✅               | ❌          | ❌              | ❌           |
-| Sección 1A                | GA2      | A      | A3 - A4    | ✅               | ❌          | ❌              | ❌           |
-| Sección 1- Primeras Filas | GA3      | A      | A3 - A4    | ✅               | ❌          | ❌              | ❌           |
-| Sección 2                 | GA4      | A      | A3 - A4    | ✅               | ❌          | ❌              | ❌           |
-| Sección 2- Primeras Filas | GA5      | A      | A3 - A4    | ✅               | ❌          | ❌              | ❌           |
-| Sección 2                 | PA1      | A      | A3 - A4    | ✅               | ❌          | ❌              | ❌           |
-| Sección 2A                | GB1      | B      | B3 - B4    | ✅               | ❌          | ❌              | ❌           |
-| Sección 2A                | GB2      | B      | B3 - B4    | ✅               | ❌          | ❌              | ❌           |
-| Sección 2A                | PB1      | B      | B3 - B4    | ✅               | ❌          | ❌              | ❌           |
-| Plataforma                | PC1      | C1     | C1         | ✅               | ❌          | ❌              | ❌           |
-| Plataforma                | PC2      | C1     | C1         | ✅               | ❌          | ❌              | ❌           |
-| Plataforma                | PC3      | C1     | C1         | ✅               | ❌          | ❌              | ❌           |
-| Plataforma                | PC4      | C1     | C1         | ✅               | ❌          | ❌              | ❌           |
-| Sección 3                 | GC1      | C1     | C1         | ❌               | ❌          | ✅              | ❌           |
-| Sección 3                 | PC5      | C1     | C1         | ✅               | ❌          | ❌              | ❌           |
-| Sección 3                 | GC2      | C2     | C2         | ❌               | ❌          | ✅              | ❌           |
-| Sección 4                 | GC3      | C2     | C2         | ❌               | ❌          | ✅              | ❌           |
-| Sección 4                 | GC4      | C2     | C2         | ❌               | ❌          | ✅              | ❌           |
-| Sección 5                 | GC5      | C2     | C2         | ❌               | ❌          | ✅              | ❌           |
-| Sección 6A                | GK1      | D      | D1         | ❌               | ✅          | ❌              | ✅           |
-| Sección 6A                | GK2      | D      | D1         | ❌               | ✅          | ❌              | ✅           |
-| Sección 6A                | PK1      | D      | D1         | ❌               | ✅          | ❌              | ✅           |
-| Sección 6                 | GE1      | D      | D3         | ❌               | ✅          | ❌              | ✅           |
-| Sección 6                 | GE2      | D      | D3         | ❌               | ✅          | ❌              | ✅           |
-| Sección 7                 | GE3      | D      | D3         | ❌               | ✅          | ❌              | ✅           |
-| Sección 7                 | PE1      | D      | D3         | ❌               | ✅          | ❌              | ✅           |
-| Sección 7                 | GE4      | D      | D3         | ❌               | ✅          | ❌              | ✅           |
-| Sección 7                 | GE5      | D      | D3         | ❌               | ✅          | ❌              | ✅           |
-| Sección 8                 | GD12     | D      | D1         | ❌               | ✅          | ❌              | ✅           |
-| Sección 8                 | PD2      | D      | D1         | ❌               | ✅          | ❌              | ✅           |
-| Sección 8A                | GD13     | D      | D1         | ❌               | ✅          | ❌              | ✅           |
-| Sección 9                 | GD1      | D      | D2         | ❌               | ✅          | ❌              | ✅           |
-| Sección 9                 | GD2      | D      | D2         | ❌               | ✅          | ❌              | ✅           |
-| Sección 9                 | GD3      | D      | D2         | ❌               | ✅          | ❌              | ✅           |
-| Sección 9A                | GD4      | D      | D2         | ❌               | ✅          | ❌              | ✅           |
-| Sección 9A                | GD5      | D      | D2         | ❌               | ✅          | ❌              | ✅           |
-| Sección 9A                | GD6      | D      | D2         | ❌               | ✅          | ❌              | ✅           |
-| Sección 9A                | GD7      | D      | D1         | ❌               | ✅          | ❌              | ✅           |
-| Sección 10A               | GE6      | D      | D3         | ❌               | ✅          | ❌              | ✅           |
-| Sección 10                | GE7      | E      | E4         | ❌               | ✅          | ❌              | ❌           |
-| Sección 10                | GE7      | E      | E4         | ❌               | ✅          | ❌              | ❌           |
-| Sección 10                | GE8      | E      | E4         | ❌               | ✅          | ❌              | ❌           |
-| Sección 10                | GE9      | E      | E4         | ❌               | ✅          | ❌              | ❌           |
-| Sección 10                | G10      | E      | E4         | ❌               | ✅          | ❌              | ❌           |
-| Sección 10                | G11      | E      | E4         | ❌               | ✅          | ❌              | ❌           |
-| Sección 11                | G12      | E      | E4         | ❌               | ✅          | ❌              | ❌           |
-| Sección 11                | G13      | E      | E5-E6      | ❌               | ✅          | ❌              | ❌           |
-| Sección 12                | G14      | E      | E5-E6      | ❌               | ✅          | ❌              | ❌           |
-| Sección 13                | G16      | E      | E5-E6      | ❌               | ✅          | ❌              | ❌           |
-| Sección 14                | G17      | E      | E7-E8      | ❌               | ✅          | ❌              | ❌           |
-| Sección 15                | G18      | E      | E7-E8      | ❌               | ✅          | ❌              | ❌           |
-| Sección 15                | G19      | E      | E7-E8      | ❌               | ✅          | ❌              | ❌           |
-| **Sección 15**            | **GE20** | **E**  | **E7-E8**  | **❌**           | **✅**      | **❌**          | **❌**       |
-| **Sección 15**            | **GE21** | **E**  | **E9-E10** | **❌**           | **✅**      | **❌**          | **❌**       |
-| Sección 15                | PE4      | E      | E9-E10     | ❌               | ✅          | ❌              | ❌           |
-| Sección 15A               | GE24     | E      | E9-E10     | ❌               | ✅          | ❌              | ❌           |
-| Sección 15A               | PE2      | E      | E9-E10     | ❌               | ✅          | ❌              | ❌           |
-| **Sección 16**            | **GE22** | **E**  | **E9-E10** | **❌**           | **✅**      | **❌**          | **❌**       |
-| Sección 17                | Pelouse  | E      | E11        | ❌               | ✅          | ❌              | ❌           |
+| Sección                   | Grada   | Acceso | Puerta  | Feria de Madrid | Valdebebas | Mar de Cristal | San Lorenzo |
+| ------------------------- | ------- | ------ | ------- | --------------- | ---------- | -------------- | ----------- |
+| Sección 1                 | GA1     | A      | A3 - A4 | ✅               | ❌          | ❌              | ❌           |
+| Sección 1A                | GA2     | A      | A3 - A4 | ✅               | ❌          | ❌              | ❌           |
+| Sección 1- Primeras Filas | GA3     | A      | A3 - A4 | ✅               | ❌          | ❌              | ❌           |
+| Sección 2                 | GA4     | A      | A3 - A4 | ✅               | ❌          | ❌              | ❌           |
+| Sección 2- Primeras Filas | GA5     | A      | A3 - A4 | ✅               | ❌          | ❌              | ❌           |
+| Sección 2                 | PA1     | A      | A3 - A4 | ✅               | ❌          | ❌              | ❌           |
+| Sección 2A                | GB1     | B      | B3 - B4 | ✅               | ❌          | ❌              | ❌           |
+| Sección 2A                | GB2     | B      | B3 - B4 | ✅               | ❌          | ❌              | ❌           |
+| Sección 2A                | PB1     | B      | B3 - B4 | ✅               | ❌          | ❌              | ❌           |
+| Plataforma                | PC1     | C1     | C1      | ✅               | ❌          | ❌              | ❌           |
+| Plataforma                | PC2     | C1     | C1      | ✅               | ❌          | ❌              | ❌           |
+| Plataforma                | PC3     | C1     | C1      | ✅               | ❌          | ❌              | ❌           |
+| Plataforma                | PC4     | C1     | C1      | ✅               | ❌          | ❌              | ❌           |
+| Sección 3                 | GC1     | C1     | C1      | ❌               | ❌          | ✅              | ❌           |
+| Sección 3                 | PC5     | C1     | C1      | ✅               | ❌          | ❌              | ❌           |
+| Sección 3                 | GC2     | C2     | C2      | ❌               | ❌          | ✅              | ❌           |
+| Sección 4                 | GC3     | C2     | C2      | ❌               | ❌          | ✅              | ❌           |
+| Sección 4                 | GC4     | C2     | C2      | ❌               | ❌          | ✅              | ❌           |
+| Sección 5                 | GC5     | C2     | C2      | ❌               | ❌          | ✅              | ❌           |
+| Sección 6A                | GK1     | D      | D1      | ❌               | ✅          | ❌              | ✅           |
+| Sección 6A                | GK2     | D      | D1      | ❌               | ✅          | ❌              | ✅           |
+| Sección 6A                | PK1     | D      | D1      | ❌               | ✅          | ❌              | ✅           |
+| Sección 6                 | GE1     | D      | D3      | ❌               | ✅          | ❌              | ✅           |
+| Sección 6                 | GE2     | D      | D3      | ❌               | ✅          | ❌              | ✅           |
+| Sección 7                 | GE3     | D      | D3      | ❌               | ✅          | ❌              | ✅           |
+| Sección 7                 | PE1     | D      | D3      | ❌               | ✅          | ❌              | ✅           |
+| Sección 7                 | GE4     | D      | D3      | ❌               | ✅          | ❌              | ✅           |
+| Sección 7                 | GE5     | D      | D3      | ❌               | ✅          | ❌              | ✅           |
+| Sección 8                 | GD12    | D      | D1      | ❌               | ✅          | ❌              | ✅           |
+| Sección 8                 | PD2     | D      | D1      | ❌               | ✅          | ❌              | ✅           |
+| Sección 8A                | GD13    | D      | D1      | ❌               | ✅          | ❌              | ✅           |
+| Sección 9                 | GD1     | D      | D2      | ❌               | ✅          | ❌              | ✅           |
+| Sección 9                 | GD2     | D      | D2      | ❌               | ✅          | ❌              | ✅           |
+| Sección 9                 | GD3     | D      | D2      | ❌               | ✅          | ❌              | ✅           |
+| Sección 9A                | GD4     | D      | D2      | ❌               | ✅          | ❌              | ✅           |
+| Sección 9A                | GD5     | D      | D2      | ❌               | ✅          | ❌              | ✅           |
+| Sección 9A                | GD6     | D      | D2      | ❌               | ✅          | ❌              | ✅           |
+| Sección 9A                | GD7     | D      | D1      | ❌               | ✅          | ❌              | ✅           |
+| Sección 10A               | GE6     | D      | D3      | ❌               | ✅          | ❌              | ✅           |
+| Sección 10                | GE7     | E      | E4      | ❌               | ✅          | ❌              | ❌           |
+| Sección 10                | GE7     | E      | E4      | ❌               | ✅          | ❌              | ❌           |
+| Sección 10                | GE8     | E      | E4      | ❌               | ✅          | ❌              | ❌           |
+| Sección 10                | GE9     | E      | E4      | ❌               | ✅          | ❌              | ❌           |
+| Sección 10                | G10     | E      | E4      | ❌               | ✅          | ❌              | ❌           |
+| Sección 10                | G11     | E      | E4      | ❌               | ✅          | ❌              | ❌           |
+| Sección 11                | G12     | E      | E4      | ❌               | ✅          | ❌              | ❌           |
+| Sección 11                | G13     | E      | E5-E6   | ❌               | ✅          | ❌              | ❌           |
+| Sección 12                | G14     | E      | E5-E6   | ❌               | ✅          | ❌              | ❌           |
+| Sección 13                | G16     | E      | E5-E6   | ❌               | ✅          | ❌              | ❌           |
+| Sección 14                | G17     | E      | E7-E8   | ❌               | ✅          | ❌              | ❌           |
+| **Sección 15**                | **G18**     | **E**      | **E7-E8**   | **❌**               | **✅**          | **❌**              | **❌**           |
+| Sección 15                | G19     | E      | E7-E8   | ❌               | ✅          | ❌              | ❌           |
+| Sección 15                | GE20    | E      | E7-E8   | ❌               | ✅          | ❌              | ❌           |
+| Sección 15                | GE21    | E      | E9-E10  | ❌               | ✅          | ❌              | ❌           |
+| Sección 15                | PE4     | E      | E9-E10  | ❌               | ✅          | ❌              | ❌           |
+| Sección 15A               | GE24    | E      | E9-E10  | ❌               | ✅          | ❌              | ❌           |
+| Sección 15A               | PE2     | E      | E9-E10  | ❌               | ✅          | ❌              | ❌           |
+| Sección 16                | GE22    | E      | E9-E10  | ❌               | ✅          | ❌              | ❌           |
+| Sección 17                | Pelouse | E      | E11     | ❌               | ✅          | ❌              | ❌           |
 
 Fuente: https://www.madring.com/como-llegar
 
@@ -260,7 +258,7 @@ Localizar en el mapa:
 
 Pendiente de confirmar:
 
-- Hasta dónde podemos movernos con GE20-GE22
+- Hasta dónde podemos movernos con GE18
 - Qué gradas podemos visitar
 - Qué zonas están restringidas
 - Si existen controles entre zonas
@@ -275,9 +273,9 @@ Confirmar las restricciones de movimiento entre MADRING Norte y MADRING Sur.
 ### Entrada
 
 - Zona: MADRING Norte
-- Gradas: GE20-GE22
+- Gradas: GE18
 - Acceso: E
-- Puertas: E7-E8 / E9-E10
+- Puertas: E7-E8
 
 ### Pulsera
 
@@ -477,7 +475,7 @@ Salida del circuito después de F1: **17:00**
 
 - [ ]  Horario de apertura y cierre
 - [ ]  Mapa detallado de servicios
-- [ ]  Ubicación de servicios respecto a GE20-GE22
+- [ ]  Ubicación de servicios respecto a GE18
 - [ ]  Conciertos
 - [ ]  Movimiento dentro de MADRING Norte
 
