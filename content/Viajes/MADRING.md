@@ -45,6 +45,20 @@ date: 2026-09-05
 
 Fuente: https://www.madring.com/horarios
 
+
+## Live timing
+
+- https://f1-dash.vercel.app/
+- https://f1.tfeed.net/
+- https://formula-timer.com/livetiming
+- https://f1-dash.com/dashboard
+- https://www.formula1.com/en/timing/f1-live
+- https://f1.tdjs.tech/
+
+## Circuito
+
+![[MADRING_Track_Layout.avif]]
+
 ## Spotter's Guides
 
 ### Fórmula 1
@@ -397,6 +411,263 @@ Pendiente:
 - Frisbis
 
 Fuente: https://www.madring.com/condiciones-acceso
+
+
+## Planes F1 en Madrid
+
+### Williams Fan Zone — Callao
+
+- **Fechas:** 7–13 septiembre
+- **Lugar:** Plaza de Callao + Cines Callao
+- **Entrada:** Gratis, con la app de Williams
+
+Actividades:
+
+- FW48 a tamaño real
+- Coches históricos
+- Trofeos
+- Cascos
+- Simuladores
+- Juegos y actividades
+
+Invitados:
+
+- **Carlos Sainz:** 8 septiembre, 19:00
+- **Luke Browning:** 9 septiembre, 19:00
+- **James Vowles:** 10 septiembre, 18:00
+
+### Aston Martin x Glenfiddich — The Racer's Lounge
+
+- **Fechas:** 10–12 septiembre
+- **Horario:** Desde las 19:00
+- **Lugar:** BLESS Madrid, Velázquez 62
+- **Entrada:** Abierto al público
+
+Experiencia inspirada en la preparación de los pilotos con pruebas de reflejos y reacción. Algunas actividades requieren consumición.
+
+### Aston Martin Pit Stop
+
+- **Fechas:** 9–10 septiembre
+- **Horario:** 11:00–20:00
+- **Lugar:** Conde de Aranda, 24
+- **Entrada:** Gratis y por orden de llegada
+
+Actividades:
+
+- Realidad virtual
+- Retos de reflejos
+- Precisión
+- Estrategia
+- Sorteo de relojes Aston Martin
+
+El registro previo solo da acceso prioritario.
+
+### F1 Arcade Madrid
+
+- **Fechas:** Programación especial 8–14 septiembre
+- **Lugar:** Paseo de la Castellana, 103
+
+**Sábado:**
+- FP3
+- Clasificación
+- Sesión de DJ
+- Acceso libre
+
+**Domingo:**
+- Watch Party oficial del GP
+- Entrada
+
+Más de 60 simuladores y programación especial durante toda la Race Week.
+
+### Alpine F1 — Gran Vía
+
+- **Fechas:** 7–13 septiembre
+- **Lugar:** Alcalá con Gran Vía, frente al Edificio Metrópolis
+- **Entrada:** Acceso libre
+
+Exposición al aire libre con:
+
+- Alpine A290
+- Alpine A390
+- Réplica 1:1 del monoplaza de F1
+
+### McLaren x Mastercard
+
+- **Fechas:** 3–12 septiembre
+- **Lugar:** Centro Comercial La Vaguada
+- **Entrada:** Gratis y sin reserva
+
+Pop-up de McLaren con:
+
+- Merchandising exclusivo
+- Fotomatón con IA que te convierte en piloto del equipo
+
+### Audi Motorsport — Plaza de Colón
+
+- **Fechas:** 9–12 septiembre
+- **Horario:** 11:00–21:00
+- **Lugar:** Plaza de Colón
+- **Entrada:** Gratis
+- **Reserva:** Recomendada por aforo
+
+Exposición sobre la historia de Audi en competición con:
+
+- Audi R26
+- Coches de Auto Union
+- Rally
+- Le Mans
+- Dakar
+
+### TAG Heuer F1 — Serrano
+
+- **Fechas:** 9–13 septiembre
+- **Lugar:** Calle Serrano, junto a la boutique TAG Heuer
+- **Entrada:** Acceso libre
+
+Exposición sobre la historia del Jarama con:
+
+- 10 paneles
+- Monoplaza oficial de F1 expuesto en plena calle
+
+### Videomapping de F1 — Puerta del Sol
+
+- **Fechas:** 10–12 septiembre
+- **Horario:** 21:30–00:00
+- **Lugar:** Real Casa de Correos
+- **Entrada:** Gratis
+
+La fachada y el reloj de Sol se transformarán con una proyección dedicada a Madrid, la F1 y la cuenta atrás del GP.
+
+### ElevenLabs F1 Pop-Up
+
+- **Fechas:** 9–13 septiembre
+- **Lugar:** Calle Belén, 4
+- **Entrada:** Gratis
+
+Experiencias de IA y voz, entre ellas:
+
+- Entrevistar virtualmente a un piloto de F1
+- Escuchar retransmisiones en distintos idiomas
+
+### Madrift — Monster Energy
+
+- **Fecha:** 9 septiembre
+- **Horario:** 18:00–21:00
+- **Lugar:** Kinépolis Ciudad de la Imagen
+- **Entrada:** Gratis
+
+Exhibición de drift en directo con:
+
+- Luke Woodham
+- Alexandre Claudin
+
+Además:
+
+- Exposición de coches
+- Invitados especiales
+
+### Williams x Commando Social Run
+
+- **Fecha:** 9 septiembre
+- **Ruta:** Velázquez → Fan Zone de Callao
+- **Precio:** 15 €
+- **Plazas:** Limitado a 100 personas
+
+Carrera social que termina en la Fan Zone coincidiendo con la aparición de Luke Browning.
+
+### MADRING Pop-Up
+
+- **Fechas:** 1–20 septiembre
+- **Entrada:** Acceso libre
+
+Pop-ups oficiales del GP con merchandising de MADRING en varios El Corte Inglés:
+
+- Castellana
+- Preciados-Callao
+- Goya
+- Princesa
+- Campo de las Naciones
+- Sanchinarro
+- Pozuelo
+
+### Red Bull — Hard Rock Hotel Madrid
+
+- **Fecha:** Desde el 7 de septiembre
+- **Lugar:** Ronda de Atocha, 17
+- **Entrada:** Abierto a visitantes
+
+Incluye:
+
+- Memorabilia de Red Bull Racing
+- Casco
+- Mono
+- Merchandising
+- Photocall
+- Scalextric
+
+El domingo habrá además una experiencia para ver la carrera con menú de pago.
+
+### Mercedes W17 en Zuma
+
+- **Fechas:** 11–13 septiembre
+- **Lugar:** Paseo de la Castellana, 2
+- **Acceso:** Restaurante abierto al público / reserva
+
+El Mercedes-AMG PETRONAS F1 W17 estará expuesto durante todo el fin de semana.
+
+### ISA Racing — Four Seasons
+
+- **Fechas:** 10–12 septiembre
+- **Lugar:** Four Seasons Madrid
+- **Acceso:** Abierto al público con reserva
+
+Experiencia gastronómica con simulador de competición de última generación.
+
+### Balmoral's Grid
+
+- **Fechas:** 10–13 septiembre
+- **Lugar:** Plaza Margaret Thatcher / Hotel Fénix Gran Meliá
+- **Acceso:** Espacio abierto al público
+
+Recreación de las carreras de los años 60 con:
+
+- Surtidores vintage
+- Photocall
+- Experiencia de coctelería
+
+### Cash & Rocket — Exposición de 25 coches
+
+- **Fecha:** 13 septiembre
+- **Lugar:** Puente del Rey
+- **Entrada:** Gratis
+
+Exposición pública de 25 vehículos de alta gama al finalizar el Cash & Rocket Spain Tour.
+
+### Vive la F1 — Arroyomolinos
+
+- **Fechas:** 11–13 septiembre
+- **Lugar:** Plaza Mayor
+- **Acceso:** Público
+
+Incluye:
+
+- Dos simuladores F1 Cockpit
+- Un simulador 1:1
+- Un Formula Nissan de 1998
+- Otros vehículos de competición
+
+### F1 en Paracuellos de Jarama
+
+- **Fechas:** 11–13 septiembre
+- **Lugar:** Centro Joven La Terminal
+- **Entrada:** Gratis
+
+Incluye:
+
+- Exposición de un Fórmula 1430 histórico
+- Simulador gratuito
+
+Referencia: https://x.com/Nachez98/status/2097018575244476810
 
 ## Meteorología
 
