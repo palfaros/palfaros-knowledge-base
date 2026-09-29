@@ -1559,6 +1559,10 @@ La deuda neta se sitúa en 3.214 millones de euros a 31 de marzo de 2026, gracia
 
 El [16 de junio de 2026](https://rns-pdf.ir-alerter.com/files/86591.html) se anunció la convocatoria de la Junta General de Accionistas de 2026 el día 30 de julio de 2026 a las 9:00. Los contenidos que se tratarán en dicha junta se especifican en la [circular enviada a los accionistas](https://data.fca.org.uk/artefacts/NSM/DirectUpload/NI-000146812/NI-000146812.pdf). la autorización para la recompra de hasta 33.894.569 acciones ordinarias, representando un 14,99% del capital emitido. Esta medida, vigente hasta la próxima junta o un plazo de 18 meses, establece precios mínimos y máximos ligados a la cotización media en la Bolsa de Londres. La autorización de nuevas recompras de acciones se aprobó por, prácticamente, la totalidad del accionariado [en dicha junta](https://rns-pdf.ir-alerter.com/files/87536.html).
 
+### Resultados Q1 27
+
+Zegona presentó los resultados de Q1 27 el día [15 de julio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/c7cf1e0b-7a89-441b-b53b-72d20a66a324.html).
+
 ## Referencias
 
 - [Tesis Raging Bull Investments](https://ragingbullinvestments.substack.com/p/an-old-school-leveraged-buyout)
