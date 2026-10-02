@@ -1563,6 +1563,8 @@ El [16 de junio de 2026](https://rns-pdf.ir-alerter.com/files/86591.html) se anu
 
 Zegona presentó los resultados de Q1 27 el día [15 de julio de 2026](https://data.fca.org.uk/artefacts/NSM/RNS/c7cf1e0b-7a89-441b-b53b-72d20a66a324.html).
 
+![[ZEG_Q1_27_Results.png]]
+
 ## Referencias
 
 - [Tesis Raging Bull Investments](https://ragingbullinvestments.substack.com/p/an-old-school-leveraged-buyout)
