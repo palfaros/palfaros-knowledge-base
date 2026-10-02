@@ -1506,23 +1506,23 @@ La deuda neta se sitúa en 3.214 millones de euros a 31 de marzo de 2026, gracia
 | **Deuda neta**                           | 3214  | 3214  | 3214  | 3214  |
 | **Equity core business**                 | 2150  | 3491  | 4832  | 6173  |
 | **FibreCo Telefónica**                   |       |       |       |       |
-| EV                                       | 1250  | 0     | 0     | 0     |
+| EV                                       | 1250  | 1250  | 1250  | 1250  |
 | Deuda (leverage recap)                   | 0     | 0     | 0     | 0     |
-| Equity                                   | 1250  | 0     | 0     | 0     |
+| Equity                                   | 1250  | 1250  | 1250  | 1250  |
 | Participación Vodafone España            | 5%    | 5%    | 5%    | 5%    |
-| **Equity participación Vodafone España** | 63    | 0     | 0     | 0     |
+| **Equity participación Vodafone España** | 63    | 63    | 63    | 63    |
 | **FibreCo MásOrange**                    |       |       |       |       |
 | Equity                                   | 3640  | 3640  | 3640  | 3640  |
 | Participación Vodafone España            | 18%   | 18%   | 18%   | 18%   |
 | **Equity participación Vodafone España** | 637   | 637   | 637   | 637   |
-| **Equity Total (SOTP)**                  | 2850  | 4128  | 5469  | 6810  |
+| **Equity Total (SOTP)**                  | 2850  | 4191  | 5532  | 6873  |
 | **Número de acciones**                   | 226   | 226   | 226   | 226   |
-| Precio por acción (EUR)                  | 12,62 | 18,29 | 24,23 | 30,17 |
+| Precio por acción (EUR)                  | 12,62 | 18,57 | 24,51 | 30,45 |
 | **EUR/GBP**                              | 1,17  | 1,17  | 1,17  | 1,17  |
-| Precio por acción (GBP)                  | 10,79 | 15,63 | 20,71 | 25,79 |
-| **Precio por acción (GBX)**              | 1079  | 1563  | 2071  | 2579  |
+| Precio por acción (GBP)                  | 10,79 | 15,87 | 20,95 | 26,02 |
+| **Precio por acción (GBX)**              | 1079  | 1587  | 2095  | 2602  |
 | **Precio actual**                        | 595   | 595   | 595   | 595   |
-| **Rentabilidad**                         | 81%   | 163%  | 248%  | 333%  |
+| **Rentabilidad**                         | 81%   | 167%  | 252%  | 337%  |
 
 ##### EV/OpCF
 
