@@ -1565,6 +1565,14 @@ Zegona presentó los resultados de Q1 27 el día [15 de julio de 2026](https://d
 
 ![[ZEG_Q1_27_Results.png]]
 
+Los resultados presentados muestran que se mantiene la estabilización de ingresos, con ligero crecimiento respecto a Q1 27:
+
+- Líneas de fibra y móvil: Ligero crecimiento (1k líneas fijas, 93k líneas móviles). 
+- Ventas (_Revenues_): Se mantienen en 916 millones de euros.
+- [EBITDAaL](https://palfaros.github.io/palfaros-knowledge-base/Value-Investing/EBITDAaL): Caída del 11%, hasta 324 millones de euros frente a los 363 millones de euros de Q4 FY26. Esta evolución debe interpretarse teniendo en cuenta la estacionalidad del negocio: históricamente, Q1 presenta un [[EBITDAaL]] inferior a los trimestres posteriores (299 millones de euros en Q1 25 y 316 millones de euros en Q1 26).
+- Deuda neta: Se mantiene en 3.200 millones de euros.
+- Caja (*cash*): Crecimiento del 3% (534 millones de euros en Q1 27 frente a 519 millones de euros en Q4 26).
+
 ## Referencias
 
 - [Tesis Raging Bull Investments](https://ragingbullinvestments.substack.com/p/an-old-school-leveraged-buyout)
